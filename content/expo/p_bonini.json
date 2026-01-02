@@ -1,0 +1,76 @@
+{
+  "id": "p_bonini",
+  "narrative": {
+    "story": "Bonini's Paradox illustrates that as models of complex systems become more detailed, they paradoxically become harder to comprehend. This occurs because the intricacies of the model mirror the complexities of the real-world systems they aim to represent. Consequently, while striving for accuracy, the model's usability diminishes, leading to confusion rather than clarity.",
+    "wrong_reasoning": "One might assume that a more detailed model will always provide better insights. However, this belief overlooks the cognitive limits of users who may struggle to interpret excessive complexity, resulting in misinterpretations and ineffective decision-making.",
+    "paradox": "The paradox lies in the fact that increasing the completeness of a model, which is intended to enhance understanding, actually leads to greater confusion and less clarity."
+  },
+  "mechanism": {
+    "assumptions": "Users can process complex information effectively.",
+    "steps": "1. Develop a comprehensive model of a complex system. 2. Introduce more variables and details to enhance accuracy. 3. Observe the model's usability and clarity. 4. Realize that increased complexity leads to decreased understanding.",
+    "math": "N/A",
+    "truth": "Complexity can obscure clarity."
+  },
+  "solutions": {
+    "paths": [
+      "Simplify models by focusing on key variables.",
+      "Use visual aids to represent complex information.",
+      "Iterate models based on user feedback.",
+      "Educate users on navigating complex models."
+    ],
+    "tradeoffs": [
+      "Accuracy vs. understandability",
+      "Detail vs. usability",
+      "Comprehensiveness vs. clarity",
+      "Time spent on model development vs. user training",
+      "Flexibility vs. precision",
+      "Complexity vs. accessibility",
+      "Depth vs. breadth of information",
+      "User engagement vs. cognitive load"
+    ],
+    "status": "Ongoing research into effective modeling techniques."
+  },
+  "practice": {
+    "patterns": [
+      "Iterative model refinement",
+      "User-centered design",
+      "Visual representation of data",
+      "Scenario-based modeling",
+      "Feedback loops",
+      "Collaborative modeling",
+      "Layered information presentation",
+      "Progressive disclosure",
+      "Use of analogies",
+      "Gamification of complex concepts"
+    ],
+    "prompts": [
+      "What are the key variables?",
+      "How can we simplify this model?",
+      "What assumptions are we making?",
+      "Who is the end user?",
+      "What feedback have we received?",
+      "How can we visualize this data?",
+      "What tradeoffs are we facing?",
+      "What is the main goal of this model?",
+      "How can we enhance user understanding?",
+      "What are the potential misinterpretations?",
+      "How can we iterate on this model?",
+      "What resources are available for training?"
+    ],
+    "warnings": [
+      "Avoid overcomplicating models.",
+      "Be cautious of cognitive overload.",
+      "Ensure clarity in communication.",
+      "Regularly assess user understanding.",
+      "Don't ignore feedback."
+    ]
+  },
+  "context": {
+    "history": "Bonini's Paradox has been discussed in the context of decision theory and modeling since the late 20th century.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

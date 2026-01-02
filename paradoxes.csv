@@ -1,0 +1,270 @@
+id,name,aliases,domain,tags,type,summary,logic,physics,decision_theory
+p_painters,Painter’s Paradox,,mathematics,"measure;infinity",intuition,"Painting infinitely many stripes or regions in finite area challenges intuition about measure.",0,0,0
+p_berry,Berry’s Paradox,,logic,"self-reference;semantics",antinomy,"The phrase ‘the smallest natural number not nameable in under eleven words’ refers to a number it claims cannot be named.",1,0,0
+p_meno,Meno’s Paradox,,philosophy,"epistemology;knowledge",antinomy,"If one knows what one is looking for inquiry is unnecessary, but without any knowledge inquiry seems impossible.",0,0,0
+p_socratic,Socratic Paradox,,philosophy,"epistemology;ethics",veridical,"Claims like ‘I know that I know nothing’ appear self-undermining yet express a coherent stance on knowledge limits.",0,0,0
+p_nonvoting,Non-Voting Paradox,,social choice,"voting;aggregation",veridical,"Abstentions or turnout changes can flip collective outcomes in counterintuitive ways.",0,0,1
+p_bertrand_chord,"Bertrand’s Paradox (Chord)","Bertrand’s Paradox",probability,"geometric probability;infinity",antinomy,"Different ‘natural’ procedures for choosing a random chord in a circle yield different probabilities.",0,0,0
+p_boxes,Boxes Paradox,"Bertrand’s Box Paradox;Three-Box Paradox",probability,"conditional probability",veridical,"Box and urn setups where conditioning on information reverses naive probability judgments.",0,0,0
+p_moore,Moore’s Paradox,,philosophy,"epistemology;language",antinomy,"Statements like ‘It is raining, but I don’t believe it is’ appear absurd though not logically contradictory.",1,0,0
+p_npv_irr,"NPV vs. IRR Paradox",,finance,"investment;ranking",veridical,"Projects can have conflicting rankings under net present value and internal rate of return criteria.",0,0,1
+p_dividend,Dividend Paradox,,finance,"corporate finance",veridical,"Dividend policy appears to affect firm value despite theoretical results suggesting irrelevance under ideal conditions.",0,0,1
+p_thomson_lamp,Thomson’s Lamp,,philosophy,"supertask;infinity",antinomy,"A lamp toggled infinitely many times in finite time raises the question of its final state.",0,0,0
+p_double_neg,Double Negatives Paradox,,linguistics,"semantics;pragmatics",intuition,"Phrases with double negatives can express affirmation or nuanced attitudes, defying simple logical mapping.",0,0,0
+p_zeno,Zeno’s Paradoxes,,philosophy,"motion;infinity",antinomy,"Arguments like Achilles and the tortoise claim motion is impossible due to infinitely many required steps.",0,0,0
+p_jevons,Jevons Paradox,,economics,"efficiency;rebound",veridical,"Efficiency improvements can increase total resource use when they lower effective cost and spur demand.",0,0,1
+p_tea_leaves,Tea Leaves Paradox,,physics,"fluid dynamics",intuition,"Tea leaves collect in the center of a stirred cup despite naive centrifugal expectations.",0,1,0
+p_fitch,"Fitch’s Knowability Paradox",,logic,"epistemic logic;knowability",antinomy,"If all truths are knowable, it appears to follow that all truths are in fact known.",1,0,0
+p_drinker,Drinker Paradox,,logic,"classical logic;existential",veridical,"In any non-empty bar there is a person such that if that person is drinking, everyone is drinking.",1,0,0
+p_paper_balloon,Paper Balloon Paradox,,physics,"buoyancy;thermodynamics",intuition,"Light paper balloons can rise in air in ways that seem to contradict simple weight-based expectations.",0,1,0
+p_elevator,Elevator Weight Paradox,,physics,"acceleration;forces",intuition,"Apparent weight changes in an accelerating elevator can feel paradoxical without Newtonian analysis.",0,1,0
+p_thrift,"Paradox of Thrift",,economics,"macro;aggregate demand",veridical,"Individual attempts to save more can reduce aggregate income and total saving in the economy.",0,0,1
+p_aristotle_wheel,"Aristotle’s Wheel Paradox",,mathematics,"geometry;motion",antinomy,"Two concentric wheels seem to trace equal path lengths despite having different circumferences.",0,0,0
+p_false_friends,False Friends Paradox,,linguistics,"translation;semantics",intuition,"Similar-looking words across languages can mislead speakers into incorrect interpretations.",0,0,0
+p_hedonist,"Paradox of Hedonism","Hedonist Paradox",philosophy,"ethics;psychology",veridical,"Directly pursuing pleasure can undermine its attainment, whereas indirect pursuit can be more effective.",0,0,0
+p_immovable,"Irresistible Force / Immovable Object","Omnipotence Paradox",philosophy,"theology;power",antinomy,"The coexistence of an irresistible force and an immovable object appears logically impossible.",0,0,0
+p_liberal,Liberal Paradox,"Sen’s Liberal Paradox",social choice,"rights;efficiency",antinomy,"Minimal individual rights can conflict with Pareto efficiency in social choice frameworks.",0,0,1
+p_ultimatum,Ultimatum Game Paradox,,game theory,"fairness;equilibrium",veridical,"Subgame-perfect equilibrium predicts acceptance of any positive offer, yet low offers are routinely rejected.",0,0,1
+p_liar,Liar Paradox,"Epimenides Paradox",logic,"self-reference;truth",antinomy,"The sentence ‘This sentence is false’ is true if and only if it is false.",1,0,0
+p_russell,Russell’s Paradox,,logic,"set theory;self-reference",antinomy,"The set of all sets that do not contain themselves leads to contradiction in naive set theory.",1,0,0
+p_grelling,Grelling–Nelson Paradox,,logic,"self-reference;predication",antinomy,"The predicate ‘heterological’ seems to be heterological if and only if it is not.",1,0,0
+p_curry,Curry’s Paradox,,logic,"implication;self-reference",antinomy,"Self-referential conditionals can trivialize certain logical systems, deriving any statement.",1,0,0
+p_hilbert_hotel,Hilbert’s Hotel,,mathematics,"actual infinity",veridical,"An infinite hotel can accommodate additional guests even when fully occupied by rearranging rooms.",0,0,0
+p_banach_tarski,"Banach–Tarski Paradox",,mathematics,"set theory;measure",veridical,"A solid ball can be partitioned into finitely many pieces and reassembled into two balls of the original size.",0,0,0
+p_gabriel_horn,Gabriel’s Horn,"Torricelli’s Trumpet",mathematics,"calculus;infinite surface",veridical,"A surface of revolution can have finite volume but infinite surface area.",0,0,0
+p_st_petersburg,"St. Petersburg Paradox",,probability,"expected value;utility",antinomy,"A game with infinite expected value elicits only modest real-world willingness to pay.",0,0,1
+p_monty_hall,Monty Hall Problem,,probability,"conditional probability;intuition",veridical,"Switching doors in a game show setup doubles the chance of winning, contrary to many intuitions.",0,0,1
+p_simpson,"Simpson’s Paradox","Yule–Simpson Effect",statistics,"aggregation;confounding",veridical,"A trend present in multiple groups can reverse when the groups are combined.",0,0,1
+p_berkson,"Berkson’s Paradox",,statistics,"selection bias",veridical,"Conditioning on a common effect can induce spurious negative correlations between independent variables.",0,0,1
+p_prosecutor,"Prosecutor’s Fallacy",,law,"probability;conditional",falsidical,"Confusing the probability of evidence given innocence with the probability of innocence given evidence.",0,0,1
+p_birthday,Birthday Paradox,,probability,"collision;combinatorics",intuition,"In a group of only 23 people there is about a 50% chance that two share a birthday.",0,0,0
+p_two_envelope,"Two-Envelope Paradox","Exchange Paradox",decision theory,"expected value;information",antinomy,"Naive expected-value reasoning suggests always switching envelopes, leading to apparent inconsistency.",0,0,1
+p_parrondo,"Parrondo’s Paradox",,game theory,"randomness;nonlinearity",veridical,"Two losing games can be alternated or mixed to produce a winning outcome.",0,0,1
+p_ellsberg,"Ellsberg Paradox",,decision theory,"ambiguity aversion",veridical,"Preferences over ambiguous urns violate expected-utility axioms but match common attitudes to ambiguity.",0,0,1
+p_allais,"Allais Paradox",,decision theory,"risk;expected utility",veridical,"Choice patterns over lotteries violate the independence axiom of expected utility theory.",0,0,1
+p_insurance_gambling,"Insurance–Gambling Paradox",,decision theory,"risk aversion;risk seeking",intuition,"People buy insurance and gamble simultaneously, showing risk-averse and risk-seeking behavior in different domains.",0,0,1
+p_arrow,"Arrow’s Impossibility Theorem",,social choice,"voting;aggregation",veridical,"No rank-order voting system can satisfy a small set of fairness criteria when there are three or more options.",0,0,1
+p_condorcet,"Condorcet Paradox","Voting Cycle Paradox",social choice,"voting;cycles",veridical,"Collective majority preferences can be cyclic even when individual preferences are transitive.",0,0,1
+p_dalembert,"D’Alembert’s Paradox",,physics,"fluid dynamics;drag",antinomy,"Ideal-fluid theory predicts zero drag on certain bodies, contradicting everyday experience of resistance.",0,1,0
+p_gibbs,Gibbs Paradox,,physics,"entropy;mixing",antinomy,"Entropy of mixing seems discontinuous between identical and slightly different gases.",0,1,0
+p_loschmidt,"Loschmidt’s Paradox",,physics,"time reversal;entropy",antinomy,"Microscopic reversibility appears to conflict with macroscopic irreversibility.",0,1,0
+p_maxwell_demon,"Maxwell’s Demon",,physics,"thermodynamics;information",antinomy,"A hypothetical demon seems able to violate the second law of thermodynamics by sorting molecules.",0,1,0
+p_twin,Twin Paradox,,physics,"relativity;time dilation",veridical,"A traveling twin ages less than a stay-at-home twin in special relativity.",0,1,0
+p_epr,"EPR Paradox",,physics,"quantum;nonlocality",antinomy,"Entangled particles exhibit correlations that challenge classical locality and realism.",0,1,0
+p_olbers,"Olbers’ Paradox",,cosmology,"night sky;infinity",antinomy,"An infinite static universe of stars should produce a bright night sky, not darkness.",0,1,0
+p_bh_info,"Black Hole Information Paradox",,physics,"quantum gravity;unitarity",antinomy,"Black hole evaporation seems to destroy information, conflicting with quantum unitarity.",0,1,0
+p_mpemba,"Mpemba Effect",,physics,"thermodynamics;cooling",intuition,"Under some conditions hot water appears to freeze faster than cold water.",0,1,0
+p_sorites,"Sorites Paradox","Heap Paradox",philosophy,"vagueness;gradual change",antinomy,"Small changes seem unable to transform a heap into a non-heap, yet repeated small changes do so.",0,0,0
+p_theseus,"Ship of Theseus",,philosophy,"identity;change",intuition,"A ship gradually replaced plank by plank raises questions about numerical identity over time.",0,0,0
+p_newcomb,"Newcomb’s Problem",,decision theory,"prediction;free will",antinomy,"One-boxing and two-boxing choices both appear rational under different principles of decision.",0,0,1
+p_prisoner,"Prisoner’s Dilemma",,game theory,"cooperation;equilibrium",veridical,"Mutual defection is a dominant-strategy equilibrium but yields worse payoffs than mutual cooperation.",0,0,1
+p_sleeping_beauty,"Sleeping Beauty Problem",,philosophy,"self-locating belief;probability",antinomy,"Different updating rules yield conflicting credences for a repeated-awakening experiment.",0,0,1
+p_trolley,"Trolley Problem",,ethics,"killing vs letting die;numbers",intuition,"Trading one life for many yields conflicting judgments across different intervention variants.",0,0,0
+p_analysis,"Paradox of Analysis",,philosophy,"concepts;definitions",antinomy,"Analyses must be both correct and informative, yet correctness seems to require synonymy, which seems uninformative.",0,0,0
+p_ravens,"Paradox of the Ravens","Hempel’s Paradox","philosophy of science","confirmation;induction",antinomy,"Observing a non-black non-raven appears to confirm ‘All ravens are black.’",0,0,0
+p_gettier,"Gettier Paradoxes","Gettier Cases",epistemology,"knowledge;justified true belief",veridical,"Agents can have justified true belief without knowledge in cleverly constructed cases.",0,0,0
+p_voting_general,"General Voting Paradoxes",,social choice,"voting;aggregation",veridical,"Reasonable voting rules can exhibit spoilers, non-monotonicity, and other counterintuitive behaviors.",0,0,1
+p_alabama,"Alabama Paradox",,apportionment,"representation;rounding",veridical,"Increasing the total number of seats can cause a state to lose a seat under some apportionment rules.",0,0,1
+p_population,"Population Paradox",,apportionment,"representation;growth",veridical,"A faster-growing state can lose a seat to a slower-growing state under certain apportionment methods.",0,0,1
+p_equity_premium,"Equity Premium Puzzle",,finance,"asset pricing;risk aversion",intuition,"Observed equity returns appear too high relative to standard risk-aversion calibrations.",0,0,1
+p_giffen,"Giffen Paradox",,economics,"demand;income effect",veridical,"For some inferior goods, demand can rise when price rises because income effects dominate substitution effects.",0,0,1
+p_braess,"Braess’s Paradox",,network theory,"traffic;equilibrium",veridical,"Adding a new route to a traffic network can worsen travel times at equilibrium.",0,0,1
+p_free_choice,Paradox of Free Choice,,logic,"modal logic;disjunction",antinomy,"In modal logic, disjunction introduction allows deriving contradictions from assumptions about free choice.",1,0,0
+p_entailment,Paradox of Entailment,"Explosion Principle",logic,"relevance logic;inconsistency",veridical,"From a contradiction, classical logic derives every statement, making inconsistent theories trivial.",1,0,0
+p_lottery,Lottery Paradox,,epistemology,"belief;probability",antinomy,"Rationality requires believing each ticket loses but the conjunction that all lose is improbable.",1,0,0
+p_yablo,Yablo's Paradox,,logic,"self-reference;infinite",antinomy,"An infinite sequence of sentences where each says all later ones are false leads to liar-like contradiction without self-reference.",1,0,0
+p_skolem,Skolem's Paradox,,logic,"model theory;set theory",veridical,"Uncountable sets have countable models, challenging the absoluteness of countability.",1,0,0
+p_richard,Richard's Paradox,,logic,"definability;diagonalization",antinomy,"A real number defined in finite English words is claimed undefinable, contradicting arithmetic.",1,0,0
+p_burali_forti,Burali–Forti Paradox,,logic,"ordinals;set theory",antinomy,"The set of all ordinals is an ordinal that does not contain itself.",1,0,0
+p_cantor,Cantor's Paradox,,logic,"cardinality;power set",antinomy,"The set of all sets has no cardinality because its power set is strictly larger.",1,0,0
+p_wang,Wang's Paradox,,logic,"vagueness;Sorites",antinomy,"Vague predicates like 'heap' lead to contradictions when considering boundary cases.",1,0,0
+p_strengthened_liar,Strengthened Liar Paradox,,logic,"truth;self-reference",antinomy,"'This sentence is not true' resists Tarski-style solutions by avoiding simple truth/falsity dichotomy.",1,0,0
+p_revenge_liar,Revenge Liar Paradox,,logic,"truth hierarchies",antinomy,"Even after assigning truth predicates to levels, a new liar sentence at the next level arises.",1,0,0
+p_no_no,No-No Paradox,,logic,"propositional attitudes",antinomy,"'No one believes no one is infallible' creates scope ambiguities leading to contradiction.",1,0,0
+p_horses,All Horses are the Same Color,,logic,"induction;fallacy",falsidical,"Flawed induction 'proves' all horses share one color by overlapping sets.",1,0,0
+p_knower,Knower Paradox,,logic,"epistemic logic;necessity",antinomy,"'This sentence is unknown' combined with factive knowledge operator leads to inconsistency.",1,0,0
+p_hungarian,Unexpected Hanging Paradox,"Surprise Exam Paradox",logic,"self-reference;prediction",antinomy,"A predicted surprise event cannot occur on any day, yet it does if unexpected.",1,0,0
+p_preface,Preface Paradox,,epistemology,"belief inconsistency",veridical,"Author rationally believes each claim but also that the book contains errors.",1,0,0
+p_satisfaction,Satisfaction Paradox,,logic,"heterological;predication",antinomy,"Variant of Grelling-Nelson where predicates create self-referential definability issues.",1,0,0
+p_self_absorption,Self-Absorption Paradox,,decision theory,"self-reference;utility",antinomy,"Expected utility calculations become circular when agent models their own deliberation.",1,0,1
+p_rule_following,Rule-Following Paradox,"Kripke's Paradox",philosophy,"meaning;Wittgenstein",antinomy,"No fact about past behavior determines uniquely how to follow a rule like 'plus'.",1,0,0
+p_heterological,Heterological Paradox,,logic,"predication;self-reference",antinomy,"Is 'heterological' (true of words not describing themselves) heterological?",1,0,0
+p_kr_puzzle,KR Paradox,,logic,"knowability;modal",antinomy,"Knowledge requires justified true belief, but justification loops create regress.",1,0,0
+p_two_envelope_variant,Variant Two-Envelope Paradoxes,,logic,"self-reference;probability",antinomy,"Infinite descent arguments in envelope switching using self-referential amounts.",1,0,1
+p_omniscience,Omniscience Paradox,,philosophy,"theology;knowledge",antinomy,"Can an omniscient being know contingent future choices without determining them?",1,0,0
+p_validity,Validity Paradox,,logic,"meta-logic",veridical,"Valid arguments preserve truth, but soundness requires checking premises.",1,0,0
+p_boy_girl,Boy or Girl Paradox,"Mr. Smith Paradox",probability,"conditional;family",veridical,"Probability of boy given at least one boy changes based on sampling assumptions.",0,0,1
+p_borel_kolmogorov,Borel–Kolmogorov Paradox,,probability,"conditional;measure zero",antinomy,"Conditional probabilities on sets of measure zero depend on the conditioning method.",0,0,0
+p_borel,Borel's Paradox,,probability,"coordinate dependence",veridical,"Conditional densities on the circle depend on coordinate choice despite rotational invariance.",0,0,0
+p_false_positive,False Positive Paradox,"Base Rate Fallacy",statistics,"Bayes;diagnostics",veridical,"Low-prevalence conditions make positive tests mostly false positives even with good accuracy.",0,0,1
+p_proebsting,Proebsting's Paradox,,decision theory,"options;expected value",antinomy,"Hedging with options can reverse risk attitudes compared to underlying bets.",0,0,1
+p_will_rogers,Will Rogers Phenomenon,,statistics,"averages;transfer",veridical,"Moving an element from one group to another can increase both group averages.",0,0,0
+p_ant_rope,Ant on a Rubber Rope,,mathematics,"infinity;convergence",veridical,"Ant reaches end of stretching rope despite constant speed ratio less than 1.",0,0,0
+p_hausdorff,Hausdorff Paradox,,mathematics,"sphere;equidecomposability",veridical,"Sphere can be partitioned into non-measurable sets with paradoxical properties.",0,0,0
+p_hooper,Hooper's Paradox,,mathematics,"area preservation;dissection",veridical,"Rearranging pieces preserves area but creates visual volume illusion.",0,0,0
+p_nikodym,Nikodym Set,,mathematics,"measure paradox",veridical,"Set simultaneously measure-zero and measure-positive in different senses.",0,0,0
+p_galileo,Galileo's Paradox,,mathematics,"infinity;perfect numbers",veridical,"Infinitely many squares but more non-squares challenges intuitive counting.",0,0,0
+p_accuracy,Accuracy Paradox,,statistics,"classification;imbalance",veridical,"High accuracy classifier performs poorly on imbalanced data.",0,0,0
+p_buffon,Buffon's Needle Paradox,,probability,"geometric probability",veridical,"Needle crossings estimate pi but counterintuitive for small angles.",0,0,0
+p_sleeping_beauty_third,Thirders in Sleeping Beauty,,probability,"self-locating;anthropic",antinomy,"Debate between halfers and thirders on credence upon awakening.",0,0,1
+p_doomsday,Doomsday Argument,,probability,"self-sampling;anthropic",antinomy,"Our birth rank suggests humanity nears end given uniform birth distribution.",0,0,1
+p_ross_littlewood,Ross-Littlewood Paradox,"Vasco Ronchi Paradox",mathematics,"supertask;infinity",antinomy,"Infinite ball-adding/removal leaves empty vase despite net addition.",0,0,0
+p_galton_board,Galton Board Paradox,"Bean Machine Paradox",probability,"binomial;emergence",intuition,"Local randomness produces global bell curve pattern.",0,0,0
+p_friendship,Friendship Paradox,,statistics,"networks;averages",veridical,"Average person's friends have more friends than average.",0,0,0
+p_inspection,Inspection Paradox,"Waiting Time Paradox",statistics,"renewal;length bias",veridical,"Randomly arriving observers see longer intervals than average interval length.",0,0,0
+p_google,Google Interviews Paradox,,probability,"sleep deprivation",veridical,"Probability of being most awake in room of sleep-deprived equals 1/n.",0,0,0
+p_100_prisoners,100 Prisoners Problem,,probability,"information;strategy",veridical,"Optimal hat-guessing strategy saves most prisoners with high probability.",0,0,1
+p_three_prisoners,Three Prisoners Problem,,probability,"conditional;information",veridical,"Warden's statement changes survival probabilities counterintuitively.",0,0,1
+p_sleeping_beauty_quarterer,Quarterer Position,,probability,"self-locating;anthropics",antinomy,"Extreme position claiming 1/4 credence in Sleeping Beauty experiment.",0,0,1
+p_sleeper,Sleeper Paradox,,probability,"repeated sampling",veridical,"Optimal betting strategy differs from credence due to repeated awakenings.",0,0,1
+p_bertrand_ray,Bertrand's Ray Paradox,,probability,"geometric;rays",antinomy,"Different ray selection methods from sphere center yield different probabilities.",0,0,0
+p_margolus,Margolus-Levitin Theorem Paradox,,physics,"quantum computation;energy",veridical,"Quantum state change bounded by average energy, counterintuitive for computation.",0,1,0
+p_earman_baron,Earman-Baron Supertask,,mathematics,"infinity;limits",antinomy,"Infinite process converges differently depending on time parameterization.",0,0,0
+p_pisa,Leaning Tower of Pisa Paradox,,physics,"falling bodies;Galileo",falsidical,"Heavier objects fall faster myth debunked by simultaneous drop experiment.",0,1,0
+p_achilles_arrow,Achilles and Arrow Paradox,,philosophy,"Zeno;motion",antinomy,"Arrow at rest at every instant appears unable to move.",0,0,0
+p_stadium,Stadium Paradox,,philosophy,"Zeno;relativity",antinomy,"Zeno's argument about bodies passing each other in stadium.",0,0,0
+p_traveler,Traveler's Dilemma,,game theory,"Nash equilibrium;cooperation",veridical,"Rational play predicts lowest payoffs despite mutual benefit from higher choices.",0,0,1
+p_centipede,Centipede Game,,game theory,"backward induction;cooperation",veridical,"Backward induction predicts early termination despite long-term mutual gain.",0,0,1
+p_dollar_auction,Dollar Auction,,game theory,"sunk cost;escalation",veridical,"Bidders escalate beyond rational limits due to sunk costs.",0,0,1
+p_free_riding,Free Rider Paradox,,economics,"public goods;collective action",veridical,"Individuals benefit from collective goods without contributing, underproviding the good.",0,0,1
+p_secretary,Secretary Problem Paradox,"Optimal Stopping Paradox",decision theory,"search;timing",veridical,"Optimal strategy rejects first 37% then takes first better candidate, counterintuitive.",0,0,1
+p_pascal_wager,Pascal's Wager,,decision theory,"expected utility;infinite reward",antinomy,"Infinite reward for belief makes wagering on God rational regardless of probability.",0,0,1
+p_buridan,Buridan's Ass,"Buridan's Bridge",decision theory,"indifference;inaction",antinomy,"Perfectly equal options paralyze rational choice despite clear preferences.",0,0,1
+p_spoiler,Spoiler Effect,,social choice,"voting;third candidates",veridical,"Third candidate splits vote causing preferred candidate to lose.",0,0,1
+p_borda,Borda Count Paradox,,social choice,"voting;strategic",veridical,"Rank-order voting vulnerable to strategic misrepresentation of preferences.",0,0,1
+p_monotonicity,Monotonicity Criterion Failure,,social choice,"voting;non-monotonicity",veridical,"Increasing support for candidate can cause them to lose under some systems.",0,0,1
+p_bellman_ford,Bellman-Ford Paradox,,game theory,"dynamic programming;risk",veridical,"Optimal policy differs from myopic expected value maximization.",0,0,1
+p_rabin,Rabin Paradox,,decision theory,"risk aversion;small stakes",veridical,"Observed risk aversion for small stakes implies absurd behavior for large stakes.",0,0,1
+p_st_petersburg_resolved,St. Petersburg Paradox Resolutions,,decision theory,"utility;bounded",veridical,"Logarithmic utility or probability adjustments resolve infinite expectation.",0,0,1
+p_elliptic,Elliptic Envelope Paradox,,decision theory,"ambiguity;multiple priors",veridical,"Maxmin expected utility handles ambiguity but leads to over-cautiousness.",0,0,1
+p_savage,Savage's Paradox,,decision theory,"subjective probability",antinomy,"Dutch book arguments force subjective probabilities matching objective frequencies.",0,0,1
+p_kyburg,Kyburg's Lottery Paradox Variant,,decision theory,"belief;acceptance",veridical,"High probability beliefs cannot be conjoined for acceptance.",0,0,1
+p_hindsight,Hindsight Bias Paradox,,decision theory,"updating;overconfidence",veridical,"Post-event probabilities exceed pre-event despite Bayesian updating.",0,0,1
+p_availability_cascade,Availability Cascade Paradox,,decision theory,"heuristics;social amplification",veridical,"Repeated low-probability warnings create false consensus.",0,0,1
+p_groupthink,Groupthink Paradox,,social choice,"deliberation;polarization",veridical,"Group discussion shifts toward extreme rather than moderate positions.",0,0,1
+p_abilene,Abilene Paradox,,social choice,"coordination;preference falsification",veridical,"Group pursues unwanted outcome because all assume others want it.",0,0,1
+p_social_loafing,Social Loafing Paradox,,social choice,"effort;group size",veridical,"Individuals exert less effort in groups despite shared responsibility.",0,0,1
+p_tragedy_commons,Tragedy of the Commons,,economics,"externalities;overuse",veridical,"Individually rational resource use leads to collective ruin.",0,0,1
+p_envelope_game,Envelope Game Paradox,,game theory,"information asymmetry",veridical,"Sealed bid auction where higher bid wins but pays own bid creates no-trade theorem.",0,0,1
+p_matching_pennies,Matching Pennies Paradox,,game theory,"zero-sum;mixed strategy",veridical,"Pure strategies fail; requires randomization for equilibrium.",0,0,1
+p_rock_paper,Rock-Paper-Scissors Paradox,,game theory,"cyclic preferences;Nash",veridical,"Cyclic dominance requires mixed strategy equilibrium.",0,0,1
+p_chainstore,Chainstore Paradox,,game theory,"reputation;repeated games",antinomy,"Backward induction unravels cooperation despite reputation concerns.",0,0,1
+p_finite_repeated_pd,Finite Repeated Prisoner's Dilemma,,game theory,"backward induction;cooperation",veridical,"Known finite horizon unravels cooperation backward from last round.",0,0,1
+p_infinitely_repeated,Infinitely Repeated Games Paradox,,game theory,"folk theorem;cooperation",veridical,"Discounted infinite horizon sustains cooperation as equilibria.",0,0,1
+p_paradoxical_bargaining,Paradoxical Bargaining,,game theory,"ultimatum;fairness",veridical,"Equal split emerges despite strategic incentives for unequal offers.",0,0,1
+p_volunteer's_dilemma,Volunteer's Dilemma,,game theory,"threshold public goods",veridical,"Someone must act for group benefit but all prefer inaction.",0,0,1
+p_minority_game,Minority Game Paradox,,game theory,"complexity;emergence",veridical,"Simple coordination game produces complex market-like dynamics.",0,0,1
+p_el_farquhar,El Farol Bar Paradox,,game theory,"bounded rationality;prediction",veridical,"Predicting others' attendance creates self-defeating prophecies.",0,0,1
+p_keynesian_beauty,Keynesian Beauty Contest,,game theory,"higher-order beliefs",veridical,"Success requires predicting others' predictions iteratively.",0,0,1
+p_moral_maze,Moral Maze Paradox,,ethics,"trolley variants;framing",antinomy,"Same action judged differently based on causal description.",0,0,1
+p_omission_bias,Omission Bias Paradox,,decision theory,"action vs inaction",veridical,"Inaction preferred despite worse expected outcomes compared to action.",0,0,1
+p_ehrenfest,Ehrenfest Paradox,,physics,"relativity;rotation",antinomy,"Rotating disk in special relativity has circumference contraction but radius dilation.",0,1,0
+p_ladder,Ladder Paradox,"Barn-Pole Paradox",physics,"relativity;simultaneity",veridical,"Ladder fits in shorter barn due to relativity of simultaneity.",0,1,0
+p_bell_spaceship,Bell's Spaceship Paradox,,physics,"relativity;acceleration",antinomy,"Uniformly accelerating spaceships create string-breaking tension.",0,1,0
+p_trouton_noble,Trouton–Noble Paradox,,physics,"relativity;torque",veridical,"Charged capacitor should experience torque when moving but doesn't.",0,1,0
+p_pole_barn,Pole-Barn Paradox,,physics,"relativity;length contraction",veridical,"Fast pole fits in slow barn but doors can't close simultaneously.",0,1,0
+p_einstein_box,Einstein's Box Paradox,,physics,"relativity;energy-momentum",antinomy,"Relativistic energy transfer appears to violate conservation locally.",0,1,0
+p_stapp,Stapp's Paradox,,physics,"quantum;consciousness",antinomy,"Quantum measurement requires conscious observer creating observer-dependence.",0,1,0
+p_schrödinger_cat,Schrödinger's Cat,,physics,"quantum superposition;macroscopic",antinomy,"Cat in superposition of alive/dead challenges quantum-classical boundary.",0,1,0
+p_wigner_friend,Wigner's Friend Paradox,,physics,"quantum;relativity",antinomy,"Friend measures outcome while Wigner sees superposition of friend+system.",0,1,0
+p_hardest_problem,Quantum Hardest Problem,,physics,"many-worlds;probability",antinomy,"Born rule probabilities unexplained in Everettian quantum mechanics.",0,1,0
+p_black_hole_firewall,Black Hole Firewall Paradox,,physics,"quantum gravity;information",antinomy,"Horizon either destroys information (firewall) or violates equivalence principle.",0,1,0
+p_AMPS,AMPS Paradox,,physics,"black hole;entanglement",antinomy,"Firewall argument from monogamy of entanglement at black hole horizons.",0,1,0
+p_pool_table,Pool Table Paradox,,physics,"classical mechanics;friction",intuition,"Ball stops due to friction despite Newton's first law intuition.",0,1,0
+p_feather_hammer,Feather-Hammer Paradox,,physics,"vacuum;equivalence principle",veridical,"Feather and hammer fall together in vacuum, contradicting air intuition.",0,1,0
+p_rocket,Relativistic Rocket Paradox,,physics,"proper acceleration;time dilation",veridical,"Constant proper acceleration yields hyperbolic motion trajectory.",0,1,0
+p_tachyonic,Tachyonic Antitelephone,,physics,"causality;faster-than-light",antinomy,"Faster-than-light signaling enables sending messages to past.",0,1,0
+p_superdeterminism,Superdeterminism Paradox,,physics,"Bell;hidden variables",veridical,"Correlations explained by predetermined measurement choices.",0,1,0
+p_boiling_freezing,Boiling-Freezing Paradox,,physics,"thermodynamics;triple point",intuition,"Water can boil and freeze simultaneously at triple point.",0,1,0
+p_diamond_battery,Diamond Battery Paradox,,physics,"radioactivity;longevity",intuition,"Carbon-14 diamonds generate electricity for 5700+ years.",0,1,0
+p_levitating_water,Levitating Water Paradox,,physics,"fluid dynamics;sound",intuition,"Acoustic levitation suspends water droplets defying gravity.",0,1,0
+p_bernoulli,Bernoulli's Paradox,,physics,"fluid dynamics;paradoxical flow",veridical,"Faster flow implies lower pressure counterintuitive for lift.",0,1,0
+p_coanda,Coandă Effect Paradox,,physics,"fluid adhesion;surface",intuition,"Fluid streams follow curved surfaces defying straight-line expectation.",0,1,0
+p_magnus,Magnus Effect Paradox,,physics,"spin;lift",intuition,"Spinning sphere curves trajectory due to pressure differences.",0,1,0
+p_gyroscope,Gyroscope Paradox,,physics,"angular momentum;precession",intuition,"Spinning wheel resists tilt and precesses unexpectedly.",0,1,0
+p_tensegrity,Tensegrity Paradox,,physics,"structural stability;compression",intuition,"Floating compression members appear structurally impossible.",0,1,0
+p_superfluid,Superfluid Paradox,,physics,"quantum fluid;zero viscosity",veridical,"Liquid helium flows without viscosity defying classical friction.",0,1,0
+p_bec,Bose-Einstein Condensate Paradox,,physics,"quantum degeneracy;macroscopic",veridical,"Macroscopic quantum wavefunction at near-absolute zero.",0,1,0
+p_casimir,Casimir Effect Paradox,,physics,"quantum vacuum;force",veridical,"Vacuum fluctuations create measurable attractive force between plates.",0,1,0
+p_aharonov_bohm,Aharonov-Bohm Effect,,physics,"quantum phase;vector potential",veridical,"Electrons affected by magnetic field where field is zero.",0,1,0
+p_hawking_radiation,Hawking Radiation Paradox,,physics,"black hole evaporation;quantum",antinomy,"Virtual particles become real near horizon, causing black hole mass loss.",0,1,0
+p_time_crystal,Time Crystal Paradox,,physics,"periodic motion;no energy",veridical,"Spontaneous time-translation symmetry breaking without energy input.",0,1,0
+p_hydraulic_jump,Hydraulic Jump Paradox,,physics,"fluid dynamics;shock wave",intuition,"Slow shallow flow jumps to fast deep flow counterintuitively.",0,1,0
+p_venturi,Venturi Paradox,,physics,"fluid dynamics;pressure",intuition,"Narrowing pipe increases speed, decreases pressure unexpectedly.",0,1,0
+p_standing_wave,Standing Wave Paradox,,physics,"wave interference;energy",intuition,"Stationary pattern emerges from moving wave superposition.",0,1,0
+p_grim_reaper,Grim Reaper Paradox,,philosophy,"supertasks;probability",antinomy,"Infinite grim reapers prevent death yet person survives, challenging supertask convergence.",1,0,0
+p_theseus,Ship of Theseus,,philosophy,"identity;gradual replacement",intuition,"Ship fully replaced plank-by-plank: is it the same ship?",0,0,0
+p_teletransporter,Teletransporter Paradox,,philosophy,"personal identity;duplication",antinomy,"Body destroyed and rebuilt elsewhere: is it you or copy?",1,0,0
+p_spectrum,Spectrum Argument,,philosophy,"Sorites;vagueness",antinomy,"Continuous color change creates Sorites paradox for boundaries.",1,0,0
+p_tomorrow,Paradox of Tomorrow,,philosophy,"future contingents",antinomy,"Future events neither true nor false yet appear determinable.",1,0,0
+p_fib,Fibonacci Heap Paradox,,computer science,"amortized analysis",veridical,"Worst-case operations amortized to logarithmic despite pathological cases.",0,0,0
+p_zombie,Philosophical Zombie Paradox,,philosophy,"consciousness;qualia",antinomy,"Conceivable beings physically identical but unconscious challenge physicalism.",1,0,0
+p_mary_room,Mary's Room Paradox,"Knowledge Argument",philosophy,"qualia;physicalism",antinomy,"Neuroscientist knowing all physics of color learns new upon seeing red.",1,0,0
+p_chinese_room,Chinese Room Paradox,,philosophy,"AI;understanding",antinomy,"Person following Chinese rules lacks understanding despite perfect output.",1,0,0
+p_swampman,Swampman Paradox,,philosophy,"intentionality;teleology",antinomy,"Lightning-created duplicate lacks intentional states despite identical behavior.",1,0,0
+p_boltzmann_brain,Boltzmann Brain Paradox,,cosmology,"thermodynamics;probability",antinomy,"Fluctuation brains more likely than ordered observers in thermal equilibrium.",0,1,0
+p_simpson_decision,Simpson's Paradox in Decisions,,decision theory,"aggregation;choice",veridical,"Optimal subgroup choices aggregate to suboptimal overall.",0,0,1
+p_utility_monster,Utility Monster Paradox,,ethics,"utilitarianism;distribution",antinomy,"Being gaining extreme utility from resources justifies taking all.",0,0,1
+p_repugnant_conclusion,Repugnant Conclusion Paradox,,ethics,"population ethics",antinomy,"Total utilitarianism implies barely worth living lives preferable to quality.",0,0,1
+p_wirehead,Wirehead Paradox,,ethics,"reward hacking;AI alignment",antinomy,"Direct reward stimulation preferred over goal achievement.",0,0,1
+p_pygmalion,Pygmalion Paradox,,psychology,"expectation;performance",veridical,"Higher expectations create better performance, self-fulfilling.",0,0,1
+p_placebo,Placebo Paradox,,medicine,"expectation;biology",veridical,"Inactive treatment works through belief despite no mechanism.",0,0,0
+p_no_miracles,No Miracles Argument Paradox,,philosophy of science,"scientific realism",antinomy,"Success of science inexplicable without approximate truth.",1,0,0
+p_pessimistic_induction,Pessimistic Meta-Induction,,philosophy of science,"theory change",veridical,"Past successful theories false implies current theories approximate.",1,0,0
+p_simulacra,Simulacra and Simulation Paradox,,philosophy,"hyperreality;representation",antinomy,"Representations replace reality until no distinction remains.",1,0,0
+p_uncertainty_principle,Uncertainty Principle Paradox,,physics,"quantum;measurement",veridical,"Precision in position destroys momentum knowledge.",0,1,0
+p_observer_effect,Observer Effect Paradox,,physics,"quantum;measurement",veridical,"Observation alters quantum system state fundamentally.",0,1,0
+p_double_slit,Double Slit Paradox,,physics,"wave-particle duality",veridical,"Particles create interference alone, behave as particles when observed.",0,1,0
+p_delayed_choice,Delayed Choice Paradox,,physics,"quantum;retrocausality",antinomy,"Future measurement choice affects past particle behavior.",0,1,0
+p_which_way,Which-Way Paradox,,physics,"quantum;complementarity",veridical,"Path information destroys interference pattern.",0,1,0
+p_epistemic,Epistemic Paradoxes General,,epistemology,"justification;regress",antinomy,"Infinite regress, circularity, or foundationalism all problematic for knowledge.",1,0,0
+p_münchhausen,Münchhausen Trilemma,,epistemology,"justification;circularity",veridical,"All justification faces regress, circularity, or axiomatic stopping.",1,0,0
+p_pyrrhonian,Pyrrhonian Skepticism Paradox,,philosophy,"agrippan;modes",antinomy,"Suspension of belief justified by reasons undercuts justification.",1,0,0
+p_self_defeating,Self-Defeating Belief Paradox,,epistemology,"Moore;practical",antinomy,"Beliefs whose content contradicts their rational holding.",1,0,0
+p_access,Access Paradox,,epistemology,"justification;consciousness",antinomy,"Unconscious justification incompatible with conscious access.",1,0,0
+p_new_evil_demon,New Evil Demon Paradox,,epistemology,"reliabilism;internalism",antinomy,"Demon-induced true beliefs lack justification despite reliability.",1,0,0
+p_lotus_eater,Lotus Eater Paradox,,ethics,"experience machine;wellbeing",antinomy,"Pleasure without reality preferred? Challenges hedonism.",0,0,1
+p_sisyphus,Sisyphus Happiness Paradox,,philosophy,"absurdity;meaning",veridical,"Happiness possible despite eternal futile labor.",0,0,0
+p_existential,Existential Paradox,,philosophy,"freedom;responsibility",antinomy,"Radical freedom creates burden of absolute responsibility.",1,0,1
+p_nihilism,Nihilism Paradox,,philosophy,"meaning;absurdity",antinomy,"No meaning implies search for meaning is absurd.",1,0,0
+p_painters,Painter's Paradox,,mathematics,"measure;infinity",intuition,"Painting infinitely many stripes or regions in finite area challenges intuition about measure.",0,0,0
+p_crocodile,Crocodile Dilemma,,logic,"promise;prediction",antinomy,"Crocodile steals child, promises return if father guesses correctly what crocodile will do.",1,0,1
+p_catch22_logic,Catch-22 Logic Paradox,,logic,"self-reference;need",veridical,"Need something only obtainable by not needing it.",1,0,0
+p_ross,Ross Paradox,,logic,"imperatives;disjunction",antinomy,"Disjunction introduction permits arbitrary imperatives from conditionals.",1,0,0
+p_temperature,Temperature Paradox,,logic,"predication;change",antinomy,"'Temperature is 90 and rising' seems to imply 90 is rising.",1,0,0
+p_bhartrhari,Bhartrhari Paradox,,logic,"nameability",antinomy,"Things unnameable are named by calling them unnameable.",1,0,0
+p_hilbert_bernays,Hilbert-Bernays Paradox,,logic,"successor;natural numbers",antinomy,"Name equaling successor of number it names.",1,0,0
+p_bonini,Bonini's Paradox,,decision theory,"modeling;complexity",veridical,"More complete models of complex systems become less understandable.",0,0,1
+p_code_talker,Code-Talker Paradox,,linguistics,"communication;secrecy",antinomy,"Language both enables and blocks communication.",1,0,0
+p_necktie,Necktie Paradox,,probability,"wagering;exchange",antinomy,"Wager between two seems to favor both parties.",0,0,1
+p_three_cards,Three Cards Problem,,probability,"conditional;color",veridical,"Determining card underside color from random draw.",0,0,0
+p_pigeonhole,Pigeonhole Principle Paradox,,mathematics,"combinatorics;collision",veridical,"Finite pigeons guarantee collision in fewer holes.",0,0,0
+p_coin_rotation,Coin Rotation Paradox,,geometry,"rotation;circumference",veridical,"Coin rotating around identical coin makes full revolution after half circumference.",0,0,0
+p_missing_square,Missing Square Puzzle,,geometry,"dissection;area",falsidical,"Figures same pieces but different areas due to visual trick.",0,0,0
+p_smale,Smale's Paradox,,topology,"sphere eversion",veridical,"Sphere turned inside out topologically without tearing.",0,0,0
+p_abelson,Abelson's Paradox,,statistics,"effect size;practicality",veridical,"Effect size may not indicate practical meaning.",0,0,0
+p_grice,Grice's Paradox,,probability,"conditionals;implicature",veridical,"Conditionals and probabilities more complex than casual reading.",1,0,0
+p_grandi,Grandi's Series,,mathematics,"infinite series;convergence",antinomy,"Sum 1-1+1-1+... equals 1, 0, or 1/2.",0,0,0
+p_benardete,Benardete's Paradox,,philosophy,"supertasks;gods",antinomy,"Infinite gods with barriers: no god stops man.",1,0,0
+p_albert,Albert's Paradox,,physics,"supertasks;limits",antinomy,"Supertask convergence depends on time parameterization.",0,1,0
+p_antitrust,Antitrust Paradox,,economics,"competition;regulation",veridical,"Antitrust enforcement protects inefficient competitors.",0,0,1
+p_deaton,Deaton Paradox,,economics,"consumption;income",veridical,"Consumption smooth despite sharp income variations.",0,0,1
+p_fredkin,Fredkin's Paradox,,decision theory,"similarity;deliberation",veridical,"More similar choices take more decision time.",0,0,1
+p_hedgehog,Hedgehog's Dilemma,,social choice,"intimacy;harm",veridical,"Intimacy requires mutual harm despite goodwill.",0,0,1
+p_no_show,No-Show Paradox,,social choice,"voting;strategy",veridical,"Voting for candidate can cause loss vs abstaining.",0,0,1
+p_preparedness	Preparedness Paradox,,decision theory,"risk perception",veridical,"Preparation reduces perceived catastrophe seriousness.",0,0,1
+p_relevance,Relevance Paradox,,decision theory,"information seeking",veridical,"Relevant info not sought until relevance clear.",0,0,1
+p_willpower,Willpower Paradox,,decision theory,"open mindedness;motivation",veridical,"Open minds more goal-directed than self-declared objectives.",0,0,1
+p_moving_rows,Moving Rows Paradox,,physics,"relativity of motion",antinomy,"Moving rows pass stationary differently than each other.",0,1,0
+p_paradox_place,Paradox of Place,,physics,"location;regression",antinomy,"Everything existing has place, which has place ad infinitum.",0,1,0
+p_millet,Paradox of Millet Grain,,physics,"sound;aggregation",antinomy,"Single grain silent, thousand make sound.",0,1,0
+p_algol,Algol Paradox,,astrophysics,"binary stars;age",veridical,"Binary partners different ages despite same formation.",0,1,0
+p_gzk,GZK Paradox,,astrophysics,"cosmic rays;relativity",veridical,"High-energy rays violate Greisen-Zatsepin-Kuzmin limit.",0,1,0
+p_paradox_youth,Paradox of Youth,,astrophysics,"black hole;stars",veridical,"Overabundance young stars near galactic center black hole.",0,1,0
+p_archer,Archer's Paradox,,physics,"arrow trajectory",veridical,"Archer aims off-target to hit due to arrow flex.",0,1,0
+p_archimedes,Archimedes Paradox,,physics,"buoyancy;displacement",veridical,"Battleship floats in few liters water via displacement.",0,1,0
+p_feynman_sprinkler,Feynman Sprinkler,,physics,"fluid dynamics;rotation",veridical,"Submerged sprinkler sucking fluid rotation direction.",0,1,0
+p_painleve,Painlevé Paradox,,physics,"rigid body;friction",veridical,"Rigid dynamics with friction inconsistent.",0,1,0
+p_boyles_flask,Boyle's Self-Flowing Flask,,physics,"perpetual motion;fluid",falsidical,"Flask fills itself but violates perpetual motion ban.",0,1,0
+p_cool_tropics,Cool Tropics Paradox,,paleoclimatology,"temperature;proxies",veridical,"Tropics cooler than models during warm periods.",0,1,0
+p_holographic,Holographic Principle Paradox,,physics,"information;volume",veridical,"Info proportional to surface area not volume.",0,1,0

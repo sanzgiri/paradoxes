@@ -1,0 +1,76 @@
+{
+  "id": "p_doomsday",
+  "narrative": {
+    "story": "The Doomsday Argument posits that if we assume a uniform distribution of births throughout human history, our current existence as a member of the human race suggests we are near the end of humanity's timeline. This conclusion arises from the statistical reasoning that if we are one of many, the likelihood of being born at a time close to the end is higher than being born at a time far from it.",
+    "wrong_reasoning": "Critics argue that the Doomsday Argument relies on flawed assumptions about the uniformity of birth distributions and ignores factors like technological advancement and societal changes. They suggest that the argument fails to account for the possibility of future generations and the non-linear progression of human history.",
+    "paradox": "The paradox lies in the counterintuitive conclusion that our existence implies an imminent end, challenging our intuitive understanding of time and probability."
+  },
+  "mechanism": {
+    "assumptions": "Uniform distribution of births, finite human history.",
+    "steps": "1. Assume a total number of humans born. 2. Calculate the probability of being born at any point in time. 3. Conclude that being born now suggests proximity to the end.",
+    "math": "P(end | now) = (current rank)/(total births).",
+    "truth": "Our birth rank influences our perception of time."
+  },
+  "solutions": {
+    "paths": [
+      "Reevaluate assumptions",
+      "Consider alternative models",
+      "Incorporate technological factors",
+      "Focus on long-term survival strategies"
+    ],
+    "tradeoffs": [
+      "Short-term vs long-term thinking",
+      "Statistical vs anecdotal evidence",
+      "Optimism vs pessimism",
+      "Individual vs collective perspective",
+      "Certainty vs uncertainty",
+      "Risk assessment vs risk aversion",
+      "Historical context vs future predictions",
+      "Philosophical implications vs practical outcomes"
+    ],
+    "status": "Ongoing debate in philosophical and scientific communities."
+  },
+  "practice": {
+    "patterns": [
+      "Critical thinking",
+      "Statistical reasoning",
+      "Philosophical inquiry",
+      "Scenario analysis",
+      "Long-term planning",
+      "Risk assessment",
+      "Anthropic reasoning",
+      "Decision-making under uncertainty",
+      "Model evaluation",
+      "Historical analysis"
+    ],
+    "prompts": [
+      "What if humanity lasts another thousand years?",
+      "How does our perspective change with time?",
+      "Can we predict future events based on past data?",
+      "What assumptions are we making?",
+      "How does technology influence our survival?",
+      "What are the implications of the Doomsday Argument?",
+      "How do we evaluate our current existence?",
+      "What role does probability play in our lives?",
+      "How can we prepare for the future?",
+      "What are the limits of statistical reasoning?",
+      "How do we balance optimism and realism?",
+      "What lessons can we learn from history?"
+    ],
+    "warnings": [
+      "Avoid confirmation bias",
+      "Don't overlook alternative explanations",
+      "Be cautious of overgeneralization",
+      "Recognize the limits of statistical models",
+      "Beware of existential dread"
+    ]
+  },
+  "context": {
+    "history": "The Doomsday Argument has roots in philosophical discussions about probability and existence, gaining attention in the late 20th century.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

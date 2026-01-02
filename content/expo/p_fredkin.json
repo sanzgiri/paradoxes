@@ -1,0 +1,72 @@
+{
+  "id": "p_fredkin",
+  "narrative": {
+    "story": "Fredkin's Paradox suggests that when faced with two similar choices, individuals tend to take longer to decide than when the choices are more distinct. This counterintuitive phenomenon highlights how similarity can lead to increased deliberation and indecision.",
+    "wrong_reasoning": "Many assume that more options lead to better decisions. However, Fredkin's Paradox shows that similarity can create confusion, making it harder to choose, contrary to the belief that more choices simplify the decision process.",
+    "paradox": "The paradox lies in the idea that increased similarity among options, rather than enhancing clarity, can lead to greater cognitive overload and longer decision times."
+  },
+  "mechanism": {
+    "assumptions": "People prefer distinct choices for clarity.",
+    "steps": "1. Identify choices. 2. Evaluate similarities. 3. Experience cognitive overload. 4. Delay decision.",
+    "math": "Decision time increases as similarity approaches a threshold.",
+    "truth": "Similarity complicates choices."
+  },
+  "solutions": {
+    "paths": [
+      "Limit options",
+      "Increase distinctiveness",
+      "Use decision aids",
+      "Set time limits"
+    ],
+    "tradeoffs": [
+      "Less choice may reduce satisfaction",
+      "Time limits may rush decisions",
+      "Distinct options may overlook nuances",
+      "Decision aids may oversimplify"
+    ],
+    "status": "Research ongoing"
+  },
+  "practice": {
+    "patterns": [
+      "Choice architecture",
+      "Decision trees",
+      "Time management",
+      "Prioritization techniques",
+      "Feedback loops",
+      "Visual aids",
+      "Simplification strategies",
+      "Scenario analysis",
+      "Group discussions",
+      "Mind mapping"
+    ],
+    "prompts": [
+      "What are the key differences?",
+      "How does each option align with goals?",
+      "What are the potential outcomes?",
+      "What criteria are most important?",
+      "How will I feel about this choice later?",
+      "What would I advise a friend?",
+      "What are the risks?",
+      "What is the worst-case scenario?",
+      "How much time do I have?",
+      "What have I learned from past decisions?",
+      "What biases might affect my choice?",
+      "What additional information do I need?"
+    ],
+    "warnings": [
+      "Avoid analysis paralysis",
+      "Beware of overthinking",
+      "Don't ignore gut feelings",
+      "Limit excessive options",
+      "Recognize cognitive biases"
+    ]
+  },
+  "context": {
+    "history": "Fredkin's Paradox emerged from studies in decision theory, illustrating the complexities of human choice behavior.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

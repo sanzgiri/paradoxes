@@ -1,0 +1,17 @@
+{
+  "id": "p_self_absorption",
+  "title": "Self-Absorption Paradox",
+  "hook": "Expected utility calculations become circular when agent models their own deliberation.",
+  "domains": [
+    "decision_theory",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Self-awareness can lead to conflicting outcomes in decision-making.",
+  "tags": [
+    "selfreference",
+    "utility"
+  ],
+  "related": []
+}

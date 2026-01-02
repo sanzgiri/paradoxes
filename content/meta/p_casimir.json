@@ -1,0 +1,16 @@
+{
+  "id": "p_casimir",
+  "title": "Casimir Effect Paradox",
+  "hook": "Vacuum fluctuations create measurable attractive force between plates.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Quantum fluctuations can have real physical effects.",
+  "tags": [
+    "quantum_vacuum",
+    "force"
+  ],
+  "related": []
+}

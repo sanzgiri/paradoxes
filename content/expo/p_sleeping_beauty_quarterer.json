@@ -1,0 +1,76 @@
+{
+  "id": "p_sleeping_beauty_quarterer",
+  "narrative": {
+    "story": "In the Sleeping Beauty experiment, Beauty is put to sleep on Sunday and awakened on Monday or Tuesday, depending on a coin flip. If heads, she is awakened once; if tails, twice. The Quarterer Position argues that upon awakening, Beauty should assign a 1/4 credence to heads and 3/4 to tails, claiming that her self-locating belief leads to this counterintuitive conclusion.",
+    "wrong_reasoning": "Critics argue that the Quarterer Position misinterprets the nature of the experiment. They assert that Beauty's situation does not warrant a 1/4 credence since she should consider the symmetry of the coin flip and the equal likelihood of the outcomes, leading to a 1/2 credence for heads and tails.",
+    "paradox": "The paradox arises from the conflict between intuitive reasoning and formal probability. While many believe Beauty should assign equal credence to heads and tails, the Quarterer Position challenges this by introducing self-locating beliefs, creating a tension between subjective and objective interpretations of probability."
+  },
+  "mechanism": {
+    "assumptions": "Beauty's self-locating belief influences her credence assignment.",
+    "steps": "1. Understand the experiment setup. 2. Analyze the outcomes based on the coin flip. 3. Apply self-locating reasoning to assign credence. 4. Compare with traditional probability assignments.",
+    "math": "If heads, Beauty wakes once; if tails, she wakes twice. Thus, the total awakenings are 3, leading to the 1/4 credence for heads.",
+    "truth": "Credence assignments can vary based on perspective."
+  },
+  "solutions": {
+    "paths": [
+      "Adopt standard 1/2 credence",
+      "Explore alternative interpretations",
+      "Engage in discussions",
+      "Review literature on self-locating beliefs"
+    ],
+    "tradeoffs": [
+      "Intuitive appeal vs. formalism",
+      "Simplicity vs. complexity",
+      "Subjective vs. objective probability",
+      "Consensus vs. dissent",
+      "Clarity vs. confusion",
+      "Rigidity vs. flexibility",
+      "Pragmatism vs. idealism",
+      "Theoretical vs. practical implications"
+    ],
+    "status": "Ongoing debate in philosophical circles."
+  },
+  "practice": {
+    "patterns": [
+      "Self-locating reasoning",
+      "Credence assignment",
+      "Probability interpretation",
+      "Philosophical debate",
+      "Decision-making under uncertainty",
+      "Awareness of biases",
+      "Critical thinking",
+      "Analytical reasoning",
+      "Engagement with paradoxes",
+      "Exploration of anthropics"
+    ],
+    "prompts": [
+      "What is your initial credence?",
+      "How does self-location affect your belief?",
+      "Can you identify biases in your reasoning?",
+      "What alternative views exist?",
+      "How would you explain this to a novice?",
+      "What implications does this have for decision theory?",
+      "How does this relate to real-world scenarios?",
+      "What are the limits of your reasoning?",
+      "How can you test your beliefs?",
+      "What literature supports your view?",
+      "What counterarguments can you anticipate?",
+      "How does this challenge your understanding of probability?"
+    ],
+    "warnings": [
+      "Avoid confirmation bias",
+      "Be cautious of overcomplicating",
+      "Recognize the limits of intuition",
+      "Stay open to alternative perspectives",
+      "Don't dismiss opposing views too quickly"
+    ]
+  },
+  "context": {
+    "history": "The Sleeping Beauty problem has been a topic of philosophical debate since its introduction, with various interpretations and positions emerging over time.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

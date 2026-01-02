@@ -1,0 +1,16 @@
+{
+  "id": "p_galton_board",
+  "title": "Galton Board Paradox",
+  "hook": "Local randomness produces global bell curve pattern.",
+  "domains": [
+    "probability"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Random processes can lead to predictable outcomes.",
+  "tags": [
+    "binomial",
+    "emergence"
+  ],
+  "related": []
+}

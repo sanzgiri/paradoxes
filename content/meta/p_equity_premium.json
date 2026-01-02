@@ -1,0 +1,17 @@
+{
+  "id": "p_equity_premium",
+  "title": "Equity Premium Puzzle",
+  "hook": "Observed equity returns appear too high relative to standard risk-aversion calibrations.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "High equity returns challenge traditional risk models.",
+  "tags": [
+    "asset_pricing",
+    "risk_aversion"
+  ],
+  "related": []
+}

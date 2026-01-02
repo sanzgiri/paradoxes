@@ -1,0 +1,76 @@
+{
+  "id": "p_self_defeating",
+  "narrative": {
+    "story": "Imagine someone who believes that all beliefs are irrational. This belief, if taken seriously, undermines itself because it is a belief that must be rationally held. Thus, the act of believing in the irrationality of all beliefs contradicts the very nature of rational belief.",
+    "wrong_reasoning": "One might argue that believing in the irrationality of beliefs is itself a rational belief. However, this reasoning fails because it creates a self-referential loop that invalidates the belief's own claim.",
+    "paradox": "The paradox arises when a belief negates its own validity. If one holds a belief that all beliefs are irrational, they must also question the rationality of that belief, leading to a contradiction."
+  },
+  "mechanism": {
+    "assumptions": "Beliefs can be rationally held; self-reference is valid.",
+    "steps": "1. Identify a belief. 2. Analyze its implications. 3. Determine if it contradicts itself. 4. Conclude its validity.",
+    "math": "N/A",
+    "truth": "Self-defeating beliefs cannot be true."
+  },
+  "solutions": {
+    "paths": [
+      "Reframe the belief",
+      "Accept the paradox",
+      "Explore alternative beliefs",
+      "Seek external validation"
+    ],
+    "tradeoffs": [
+      "Cognitive dissonance",
+      "Loss of certainty",
+      "Increased skepticism",
+      "Potential for growth",
+      "Emotional discomfort",
+      "Intellectual humility",
+      "Broader perspectives",
+      "Enhanced critical thinking"
+    ],
+    "status": "Ongoing exploration"
+  },
+  "practice": {
+    "patterns": [
+      "Identify self-referential beliefs",
+      "Challenge assumptions",
+      "Engage in critical thinking",
+      "Discuss with peers",
+      "Reflect on personal beliefs",
+      "Write about paradoxes",
+      "Explore philosophical texts",
+      "Use thought experiments",
+      "Create belief maps",
+      "Practice humility"
+    ],
+    "prompts": [
+      "What beliefs do I hold?",
+      "Are any of my beliefs self-defeating?",
+      "How can I challenge my beliefs?",
+      "What assumptions underlie my beliefs?",
+      "What would I tell a friend in my position?",
+      "How do I feel about uncertainty?",
+      "What alternatives exist?",
+      "What evidence supports my beliefs?",
+      "How do I define rationality?",
+      "What is the impact of my beliefs?",
+      "How do I reconcile contradictions?",
+      "What can I learn from this paradox?"
+    ],
+    "warnings": [
+      "Avoid confirmation bias",
+      "Don't dismiss conflicting evidence",
+      "Be cautious of overgeneralization",
+      "Recognize emotional responses",
+      "Stay open to change"
+    ]
+  },
+  "context": {
+    "history": "The concept of self-defeating beliefs has been discussed in philosophy and logic for centuries, with notable contributions from thinkers like G.E. Moore.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

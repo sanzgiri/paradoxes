@@ -1,0 +1,16 @@
+{
+  "id": "p_time_crystal",
+  "title": "Time Crystal Paradox",
+  "hook": "Spontaneous time-translation symmetry breaking without energy input.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Time crystals challenge our understanding of energy and motion.",
+  "tags": [
+    "periodic_motion",
+    "no_energy"
+  ],
+  "related": []
+}

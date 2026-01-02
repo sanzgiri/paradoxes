@@ -1,0 +1,77 @@
+{
+  "id": "p_hilbert_hotel",
+  "narrative": {
+    "story": "Hilbert\u2019s Hotel is a thought experiment that illustrates the peculiar properties of infinity. Imagine a hotel with infinitely many rooms, all occupied. When a new guest arrives, the hotel can still accommodate them by moving each current guest from room n to room n+1. This means room 1 becomes vacant, allowing the new guest to stay. This scenario challenges our understanding of size and capacity.",
+    "wrong_reasoning": "One might think that a fully occupied hotel cannot accommodate more guests. However, the concept of infinity allows for this seemingly impossible situation. The misunderstanding arises from applying finite logic to infinite sets.",
+    "paradox": "The paradox lies in the fact that an infinite set can still have room for more elements, defying our usual intuitions about space and occupancy."
+  },
+  "mechanism": {
+    "assumptions": "The concept of infinity and the nature of infinite sets.",
+    "steps": "1. Identify the current occupancy of the hotel. 2. Shift each guest from room n to room n+1. 3. Open room 1 for the new guest. 4. Repeat for any number of new guests.",
+    "math": "The hotel can be represented as a set of natural numbers, where each room corresponds to a number. The operation of moving guests can be described using functions that map each number to its successor.",
+    "truth": "Infinity allows for paradoxical situations."
+  },
+  "solutions": {
+    "paths": [
+      "Understanding infinite sets",
+      "Revising notions of occupancy",
+      "Exploring other paradoxes",
+      "Applying concepts in mathematics"
+    ],
+    "tradeoffs": [
+      "Intuitive understanding vs. mathematical rigor",
+      "Finite vs. infinite reasoning",
+      "Practical implications vs. theoretical constructs",
+      "Simplicity vs. complexity in explanations",
+      "Real-world applications vs. abstract concepts",
+      "Cognitive dissonance vs. acceptance of infinity",
+      "Educational clarity vs. philosophical depth",
+      "Engagement vs. confusion"
+    ],
+    "status": "The paradox remains a popular topic in discussions about infinity."
+  },
+  "practice": {
+    "patterns": [
+      "Rearranging sets",
+      "Exploring other infinite scenarios",
+      "Comparing finite and infinite",
+      "Using visual aids",
+      "Engaging in thought experiments",
+      "Discussing implications",
+      "Applying to real-world examples",
+      "Challenging assumptions",
+      "Collaborative problem-solving",
+      "Reflecting on personal understanding"
+    ],
+    "prompts": [
+      "What happens if we add more guests?",
+      "How does this relate to real life?",
+      "Can you think of other infinite scenarios?",
+      "What assumptions are challenged?",
+      "How would you explain this to a child?",
+      "What are the implications for mathematics?",
+      "How does this affect our understanding of size?",
+      "What other paradoxes can you find?",
+      "How can we visualize infinity?",
+      "What questions does this raise?",
+      "How does this relate to set theory?",
+      "What is your personal reaction to this paradox?"
+    ],
+    "warnings": [
+      "Avoid conflating finite and infinite",
+      "Be cautious of intuitive misconceptions",
+      "Recognize the limits of finite reasoning",
+      "Clarify definitions of infinity",
+      "Prepare for cognitive dissonance"
+    ]
+  },
+  "context": {
+    "history": "Hilbert\u2019s Hotel was introduced by mathematician David Hilbert in the early 20th century as a way to illustrate the counterintuitive properties of infinite sets.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel"
+    }
+  }
+}

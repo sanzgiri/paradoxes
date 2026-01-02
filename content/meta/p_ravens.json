@@ -1,0 +1,16 @@
+{
+  "id": "p_ravens",
+  "title": "Paradox of the Ravens",
+  "hook": "Observing a non-black non-raven appears to confirm \u2018All ravens are black.\u2019",
+  "domains": [
+    "other"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Evidence can mislead our understanding of generalizations.",
+  "tags": [
+    "confirmation",
+    "induction"
+  ],
+  "related": []
+}

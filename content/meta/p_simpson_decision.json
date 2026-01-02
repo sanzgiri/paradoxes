@@ -1,0 +1,16 @@
+{
+  "id": "p_simpson_decision",
+  "title": "Simpson's Paradox in Decisions",
+  "hook": "Optimal subgroup choices aggregate to suboptimal overall.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Aggregate data can mislead decision-making.",
+  "tags": [
+    "aggregation",
+    "choice"
+  ],
+  "related": []
+}

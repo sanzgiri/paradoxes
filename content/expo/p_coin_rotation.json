@@ -1,0 +1,76 @@
+{
+  "id": "p_coin_rotation",
+  "narrative": {
+    "story": "Imagine a coin rolling around the edge of another identical stationary coin. As the rolling coin travels along the circumference of the stationary coin, it appears to make a full rotation after covering only half of the stationary coin's circumference. This seemingly paradoxical situation challenges our intuition about motion and rotation.",
+    "wrong_reasoning": "One might assume that since the rolling coin is only covering half the distance of the stationary coin's circumference, it should only complete half a rotation. However, the rolling motion involves both translational and rotational movement, leading to a full rotation despite the distance traveled.",
+    "paradox": "The paradox lies in the fact that the rolling coin completes a full revolution while only traversing half the circumference of the stationary coin, defying our initial expectations about distance and rotation."
+  },
+  "mechanism": {
+    "assumptions": "The rolling coin maintains contact with the stationary coin and rolls without slipping.",
+    "steps": "1. The rolling coin starts at a point on the stationary coin. 2. As it rolls, it rotates around its own center. 3. After traveling half the circumference of the stationary coin, it has rotated fully once.",
+    "math": "If the radius of the coins is r, the circumference is 2\u03c0r. The rolling coin travels \u03c0r, completing one full rotation.",
+    "truth": "The motion is consistent with the principles of rotational dynamics."
+  },
+  "solutions": {
+    "paths": [
+      "Visualize the motion",
+      "Use physical models",
+      "Simulate with software",
+      "Analyze mathematically"
+    ],
+    "tradeoffs": [
+      "Simplification of models",
+      "Assumptions of ideal conditions",
+      "Neglecting friction",
+      "Ignoring real-world imperfections",
+      "Complexity of explanations",
+      "Potential for confusion",
+      "Need for visual aids",
+      "Time investment in understanding"
+    ],
+    "status": "Understanding the paradox enhances comprehension of rotational dynamics."
+  },
+  "practice": {
+    "patterns": [
+      "Coin rolling experiments",
+      "Simulation of circular motion",
+      "Comparative analysis of different shapes",
+      "Exploration of related paradoxes",
+      "Graphical representation of motion",
+      "Discussion of assumptions",
+      "Real-world applications",
+      "Mathematical modeling",
+      "Peer teaching",
+      "Interactive demonstrations"
+    ],
+    "prompts": [
+      "What happens if the coins are different sizes?",
+      "How does friction affect the motion?",
+      "Can this paradox be observed in real life?",
+      "What other paradoxes relate to motion?",
+      "How would this change in three dimensions?",
+      "Can you create a visual model?",
+      "What assumptions are critical?",
+      "How does this apply to other rolling objects?",
+      "What if the coins were not identical?",
+      "How can we explain this to a child?",
+      "What are the implications in physics?",
+      "How does this relate to angular momentum?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying the explanation",
+      "Be cautious of misinterpretations",
+      "Ensure clarity in visual aids",
+      "Watch for confusion with similar concepts",
+      "Do not neglect real-world factors"
+    ]
+  },
+  "context": {
+    "history": "The coin rotation paradox has been discussed in mathematical and physical contexts, illustrating the complexities of motion.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

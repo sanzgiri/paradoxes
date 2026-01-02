@@ -1,0 +1,76 @@
+{
+  "id": "p_pascal_wager",
+  "narrative": {
+    "story": "Blaise Pascal proposed that believing in God is a rational bet. If God exists, the believer gains infinite happiness; if not, the loss is finite. Thus, the expected utility of belief outweighs disbelief, making it a logical choice.",
+    "wrong_reasoning": "Critics argue that belief cannot be a mere wager, as genuine faith requires sincerity. Additionally, the wager assumes a binary choice between belief and disbelief, ignoring other possibilities like different gods or religions.",
+    "paradox": "The paradox arises when considering the nature of belief. Can one truly believe in something solely based on a wager? If belief is merely a strategy, does it hold any real value?"
+  },
+  "mechanism": {
+    "assumptions": "The existence of God, the infinite nature of reward, and the finite nature of loss.",
+    "steps": "1. Identify the potential outcomes of belief vs. disbelief. 2. Evaluate the utilities of each outcome. 3. Compare the expected utilities to determine the rational choice.",
+    "math": "Expected utility = (Probability of God existing * Infinite reward) + (Probability of God not existing * Finite loss).",
+    "truth": "The wager assumes rationality in belief."
+  },
+  "solutions": {
+    "paths": [
+      "Embrace belief as a rational choice.",
+      "Explore other philosophical arguments for belief.",
+      "Consider the implications of multiple deities.",
+      "Reject the wager as overly simplistic."
+    ],
+    "tradeoffs": [
+      "Genuine faith vs. strategic belief.",
+      "Risk of false belief vs. potential infinite reward.",
+      "Sincerity in belief vs. rational calculation.",
+      "Exploration of other religions vs. Pascal's framework.",
+      "Finite loss vs. infinite gain.",
+      "Social implications of belief vs. personal conviction.",
+      "Intellectual honesty vs. pragmatic belief.",
+      "Emotional fulfillment vs. logical reasoning."
+    ],
+    "status": "The wager remains a topic of debate in philosophy and theology."
+  },
+  "practice": {
+    "patterns": [
+      "Evaluate decisions based on potential outcomes.",
+      "Consider the implications of belief systems.",
+      "Analyze the rationality of choices in uncertain situations.",
+      "Discuss the nature of faith and belief.",
+      "Explore the consequences of different philosophical stances.",
+      "Debate the merits of Pascal's Wager.",
+      "Reflect on personal beliefs and their foundations.",
+      "Investigate the role of risk in decision-making.",
+      "Challenge assumptions about belief.",
+      "Engage with counterarguments to the wager."
+    ],
+    "prompts": [
+      "What would you wager on?",
+      "How do you define belief?",
+      "Is belief a choice or a conviction?",
+      "What are the consequences of disbelief?",
+      "Can you think of other scenarios similar to Pascal's Wager?",
+      "How does this apply to everyday decisions?",
+      "What role does faith play in your life?",
+      "How do you assess risk in your beliefs?",
+      "What are the limits of rationality in belief?",
+      "How do different cultures view belief?",
+      "What would change your mind about a belief?",
+      "How do you reconcile conflicting beliefs?"
+    ],
+    "warnings": [
+      "Beware of oversimplifying complex beliefs.",
+      "Avoid using the wager to manipulate others' beliefs.",
+      "Recognize the emotional aspects of faith.",
+      "Be cautious of conflating belief with strategy.",
+      "Understand the historical context of Pascal's arguments."
+    ]
+  },
+  "context": {
+    "history": "Pascal's Wager was formulated in the 17th century as part of his broader work on philosophy and theology.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

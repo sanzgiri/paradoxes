@@ -1,0 +1,76 @@
+{
+  "id": "p_two_envelope_variant",
+  "narrative": {
+    "story": "Imagine you have two envelopes, each containing a sum of money. One envelope has twice the amount of the other. After choosing one, you consider switching, believing you might gain more. This leads to an infinite loop of switching, as each time you think you might have less, you switch again, creating a paradox of decision-making.",
+    "wrong_reasoning": "The flawed reasoning lies in assuming that switching envelopes will always yield a higher expected value. This ignores the fact that the initial choice was arbitrary and does not account for the actual amounts in the envelopes, leading to a misleading conclusion.",
+    "paradox": "The paradox arises from the assumption that one can always gain by switching envelopes, leading to an infinite regress of decisions without a clear resolution."
+  },
+  "mechanism": {
+    "assumptions": "Each envelope contains a random amount, and one is always twice the other.",
+    "steps": "1. Choose an envelope. 2. Calculate the expected value of switching. 3. If the expected value is higher, switch. 4. Repeat the process indefinitely.",
+    "math": "Expected value calculations suggest that switching yields a higher average amount, but this is misleading due to the nature of the amounts involved.",
+    "truth": "The truth is that the expected value does not guarantee a better outcome."
+  },
+  "solutions": {
+    "paths": [
+      "Accept the initial choice without switching.",
+      "Re-evaluate the assumptions about the amounts.",
+      "Introduce a stopping rule for switching.",
+      "Analyze the problem from a different perspective."
+    ],
+    "tradeoffs": [
+      "Risk of losing the initial amount.",
+      "Potential for infinite switching.",
+      "Cognitive overload from decision-making.",
+      "Loss of trust in probabilistic reasoning.",
+      "Time wasted in endless calculations.",
+      "Confusion over expected values.",
+      "Difficulty in applying real-world scenarios.",
+      "Misinterpretation of randomness."
+    ],
+    "status": "Ongoing debate in decision theory."
+  },
+  "practice": {
+    "patterns": [
+      "Identify self-referential scenarios.",
+      "Evaluate decision-making processes.",
+      "Analyze expected values critically.",
+      "Consider stopping rules in choices.",
+      "Reflect on past decision outcomes.",
+      "Discuss paradoxes in groups.",
+      "Apply concepts to real-life situations.",
+      "Challenge assumptions in reasoning.",
+      "Explore alternative decision frameworks.",
+      "Document decision-making experiences."
+    ],
+    "prompts": [
+      "What assumptions are you making?",
+      "How does switching affect your outcome?",
+      "Can you find a stopping point?",
+      "What real-life decisions mirror this paradox?",
+      "How would you explain this to a friend?",
+      "What are the implications of your choice?",
+      "How does probability influence your thinking?",
+      "What if the amounts were known?",
+      "How do you feel about your decision?",
+      "What patterns do you see in your choices?",
+      "How can you apply this lesson elsewhere?",
+      "What would you change in your approach?"
+    ],
+    "warnings": [
+      "Avoid making decisions based solely on expected value.",
+      "Be cautious of infinite regress in reasoning.",
+      "Recognize the limits of probabilistic thinking.",
+      "Don't overlook the importance of context.",
+      "Beware of overcomplicating simple choices."
+    ]
+  },
+  "context": {
+    "history": "The two-envelope paradox has been discussed in philosophical and mathematical contexts for decades, highlighting the complexities of decision-making under uncertainty.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "p_nikodym",
+  "title": "Nikodym Set",
+  "hook": "Set simultaneously measure-zero and measure-positive in different senses.",
+  "domains": [
+    "mathematics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Measure can be counterintuitive in certain sets.",
+  "tags": [
+    "measure_paradox"
+  ],
+  "related": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p_painleve",
+  "title": "Painlev\u00e9 Paradox",
+  "hook": "Rigid dynamics with friction inconsistent.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Friction complicates rigid-body dynamics.",
+  "tags": [
+    "rigid_body",
+    "friction"
+  ],
+  "related": []
+}

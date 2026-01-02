@@ -1,0 +1,76 @@
+{
+  "id": "p_tea_leaves",
+  "narrative": {
+    "story": "When a cup of tea is stirred, one might expect the tea leaves to be pushed outward due to centrifugal force. However, they often gather in the center instead. This counterintuitive result can be observed in various fluid dynamics experiments.",
+    "wrong_reasoning": "Many believe that centrifugal force will push objects outward in a rotating system. This reasoning overlooks the complex interactions of fluid motion and particle behavior in a stirred liquid.",
+    "paradox": "The Tea Leaves Paradox illustrates how our intuitive understanding of forces can lead to incorrect predictions in fluid dynamics."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that centrifugal force is the primary influence on the tea leaves' movement.",
+    "steps": "1. Stir the tea in a circular motion. 2. Observe the movement of the tea leaves. 3. Analyze the fluid dynamics involved. 4. Conclude the unexpected gathering of leaves.",
+    "math": "The behavior of the tea leaves can be modeled using fluid dynamics equations, considering factors like viscosity and flow patterns.",
+    "truth": "Fluid dynamics often defies simple intuition."
+  },
+  "solutions": {
+    "paths": [
+      "Conduct controlled experiments to observe fluid behavior.",
+      "Use computational fluid dynamics simulations.",
+      "Educate on the principles of fluid motion.",
+      "Explore related paradoxes for deeper understanding."
+    ],
+    "tradeoffs": [
+      "Simplistic models may mislead understanding.",
+      "Complexity can hinder intuitive grasp.",
+      "Experimental setups may be resource-intensive.",
+      "Simulations require computational resources.",
+      "Educational time may be limited.",
+      "Misinterpretation can lead to confusion.",
+      "Over-reliance on intuition can be detrimental.",
+      "Neglecting empirical evidence can skew results."
+    ],
+    "status": "Research ongoing in fluid dynamics."
+  },
+  "practice": {
+    "patterns": [
+      "Identify common misconceptions in physics.",
+      "Explore real-world applications of fluid dynamics.",
+      "Engage in hands-on experiments.",
+      "Discuss paradoxes in group settings.",
+      "Utilize visual aids to demonstrate concepts.",
+      "Encourage critical thinking about intuitive beliefs.",
+      "Relate paradoxes to everyday experiences.",
+      "Incorporate technology in experiments.",
+      "Analyze historical perspectives on fluid dynamics.",
+      "Connect with current research in physics."
+    ],
+    "prompts": [
+      "What do you expect to happen when stirring?",
+      "How can we test our assumptions?",
+      "What other paradoxes relate to this one?",
+      "How does viscosity affect fluid behavior?",
+      "Can you think of a real-life example?",
+      "What role does gravity play in this scenario?",
+      "How would you explain this to a child?",
+      "What experiments could clarify this paradox?",
+      "How do different fluids behave when stirred?",
+      "What are the implications for engineering?",
+      "How can we visualize fluid motion effectively?",
+      "What questions remain unanswered?"
+    ],
+    "warnings": [
+      "Avoid over-simplifying fluid dynamics.",
+      "Be cautious of intuitive misconceptions.",
+      "Ensure experimental setups are safe.",
+      "Validate results with empirical data.",
+      "Do not ignore the role of external forces."
+    ]
+  },
+  "context": {
+    "history": "The Tea Leaves Paradox has been discussed in fluid dynamics literature, highlighting the complexities of motion in fluids.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

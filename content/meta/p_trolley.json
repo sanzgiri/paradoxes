@@ -1,0 +1,16 @@
+{
+  "id": "p_trolley",
+  "title": "Trolley Problem",
+  "hook": "Trading one life for many yields conflicting judgments across different intervention variants.",
+  "domains": [
+    "other"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "antinomy",
+  "key_lesson": "Moral dilemmas reveal deep ethical conflicts.",
+  "tags": [
+    "killing_vs_letting_die",
+    "numbers"
+  ],
+  "related": []
+}

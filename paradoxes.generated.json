@@ -1,0 +1,818 @@
+[
+  {
+    "id": "p_painters",
+    "name": "Painter\u2019s Paradox",
+    "aliases": [],
+    "one_line": "Painting infinitely many stripes or regions in finite area challenges intuition about measure.",
+    "domain_primary": "mathematics",
+    "domain_secondary": [],
+    "quine_type": "veridical",
+    "structure_tags": [
+      "measure",
+      "infinity"
+    ],
+    "difficulty": "intermediate",
+    "story_opening": "Imagine a painter who claims to create an infinite number of stripes on a canvas, yet insists that the total area covered is finite. This seemingly impossible feat raises questions about how we understand measure and infinity in mathematics. As the painter continues to add stripes, the paradox deepens, challenging our intuitive grasp of space and quantity.",
+    "intuitive_question": "How can an infinite number of stripes fit into a finite area?",
+    "naive_answer": "It seems impossible; infinite things cannot occupy a finite space.",
+    "paradoxical_result": "The painter's method shows that it is possible to cover a finite area with an infinite number of regions, defying conventional intuition.",
+    "assumptions": "Assumes that measure can be applied to infinite sets in a consistent manner.",
+    "informal_setup": "Consider a painter who divides a canvas into infinitely many stripes, each getting thinner but never reaching zero width.",
+    "formal_setup": "Let the width of each stripe decrease geometrically while the number of stripes increases without bound.",
+    "core_mechanism": "The use of limits and measure theory to reconcile infinite processes with finite outcomes.",
+    "canonical_resolutions": [
+      "Understanding measure theory and the concept of Lebesgue measure.",
+      "Recognizing the distinction between countable and uncountable infinities.",
+      "Applying the concept of convergence in mathematical analysis."
+    ],
+    "disagreement_status": "settled",
+    "what_to_give_up": "The intuitive notion that infinity cannot coexist with finiteness in measure.",
+    "lessons": "Infinity can behave counterintuitively, and careful mathematical definitions are crucial for understanding complex concepts.",
+    "originator": "Unknown",
+    "year_first": "Unknown",
+    "historical_notes": "Unknown",
+    "real_world_examples": [],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [],
+    "notes_author": "",
+    "practice_prompts": []
+  },
+  {
+    "id": "p_berry",
+    "name": "Berry\u2019s Paradox",
+    "aliases": [],
+    "one_line": "The phrase \u2018the smallest natural number not nameable in under eleven words\u2019 refers to a number it claims cannot be named.",
+    "domain_primary": "logic",
+    "domain_secondary": [],
+    "quine_type": "antinomy",
+    "structure_tags": [
+      "self_reference",
+      "semantics"
+    ],
+    "difficulty": "intermediate",
+    "story_opening": "In a world where numbers can be named, a peculiar phrase emerges: 'the smallest natural number not nameable in under eleven words.' This phrase creates a paradox, as it seems to refer to a number that cannot exist, yet it is constructed to do just that.",
+    "intuitive_question": "Can a number be defined in such a way that it cannot be named?",
+    "naive_answer": "Yes, because the phrase itself names the number.",
+    "paradoxical_result": "The phrase both names and does not name a number, leading to a contradiction.",
+    "assumptions": [
+      "Numbers can be named.",
+      "Language has limits in describing concepts."
+    ],
+    "informal_setup": "Imagine trying to describe a number that cannot be described. What happens when the description itself becomes part of the problem?",
+    "formal_setup": "Let N be the smallest natural number that cannot be named in fewer than eleven words. By definition, N must exist, yet it cannot be named.",
+    "core_mechanism": "Self-reference leads to a contradiction in the naming of numbers.",
+    "canonical_resolutions": [
+      "Revising the criteria for naming numbers.",
+      "Exploring the limits of language and definitions."
+    ],
+    "disagreement_status": "settled",
+    "what_to_give_up": "The assumption that all numbers can be named.",
+    "lessons": [
+      "Language can create paradoxes.",
+      "Definitions can have inherent limitations."
+    ],
+    "originator": "Unknown",
+    "year_first": "Unknown",
+    "historical_notes": "Unknown",
+    "real_world_examples": [],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [],
+    "notes_author": "",
+    "practice_prompts": []
+  },
+  {
+    "id": "p_meno",
+    "name": "Meno\u2019s Paradox",
+    "aliases": [],
+    "one_line": "If one knows what one is looking for inquiry is unnecessary, but without any knowledge inquiry seems impossible.",
+    "domain_primary": "philosophy",
+    "domain_secondary": [],
+    "quine_type": "antinomy",
+    "structure_tags": [
+      "epistemology",
+      "knowledge"
+    ],
+    "difficulty": "intermediate",
+    "story_opening": "Meno, a young aristocrat, engages Socrates in a conversation about the nature of knowledge. He poses a perplexing question: how can one search for knowledge of something one does not know? This leads to a deep exploration of the relationship between knowledge and inquiry.",
+    "intuitive_question": "How can we seek knowledge if we don't know what we're looking for?",
+    "naive_answer": "We can just start searching for it, and we'll recognize it when we find it.",
+    "paradoxical_result": "If we know what we are looking for, we don't need to search; if we don't know, we cannot search effectively.",
+    "assumptions": [
+      "Knowledge is necessary for effective inquiry.",
+      "Inquiry is a process of searching for knowledge."
+    ],
+    "informal_setup": "Imagine trying to find a lost item without knowing what it looks like. How can you search for something you can't identify?",
+    "formal_setup": "Meno's Paradox presents a dilemma regarding the nature of knowledge and the process of inquiry.",
+    "core_mechanism": "The paradox highlights the conflict between the necessity of knowledge for inquiry and the impossibility of acquiring knowledge without inquiry.",
+    "canonical_resolutions": [
+      "The theory of recollection",
+      "The distinction between knowing and believing",
+      "The role of intuition in knowledge acquisition"
+    ],
+    "disagreement_status": "settled",
+    "what_to_give_up": "The assumption that inquiry is always possible without prior knowledge.",
+    "lessons": [
+      "Knowledge can be implicit and not always conscious.",
+      "Inquiry can lead to unexpected insights."
+    ],
+    "originator": "Unknown",
+    "year_first": "Unknown",
+    "historical_notes": "Meno's Paradox is a significant philosophical problem discussed in Plato's dialogues.",
+    "real_world_examples": [],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [],
+    "notes_author": "",
+    "practice_prompts": []
+  },
+  {
+    "id": "p_socratic",
+    "name": "Socratic Paradox",
+    "aliases": [],
+    "one_line": "Claims like \u2018I know that I know nothing\u2019 appear self-undermining yet express a coherent stance on knowledge limits.",
+    "domain_primary": "philosophy",
+    "domain_secondary": [],
+    "quine_type": "veridical",
+    "structure_tags": [
+      "epistemology",
+      "ethics"
+    ],
+    "difficulty": "intermediate",
+    "story_opening": "In ancient Athens, Socrates famously claimed that true wisdom comes from recognizing one's own ignorance. This assertion challenges the very nature of knowledge and invites deep reflection on what it means to know anything at all.",
+    "intuitive_question": "Can one truly know anything if they acknowledge their own ignorance?",
+    "naive_answer": "Yes, because knowing that you know nothing is still a form of knowledge.",
+    "paradoxical_result": "Acknowledging ignorance can lead to greater wisdom, yet it seems contradictory to claim knowledge of one's ignorance.",
+    "assumptions": [
+      "Knowledge can be absolute.",
+      "Ignorance is a lack of knowledge."
+    ],
+    "informal_setup": "Consider a person who believes they know many things. If they then admit they know nothing, does that mean they have lost all knowledge?",
+    "formal_setup": "If knowledge is defined as justified true belief, then claiming to know nothing challenges the very foundation of what knowledge entails.",
+    "core_mechanism": "The paradox arises from the tension between self-awareness and the definition of knowledge.",
+    "canonical_resolutions": [
+      "Embrace the limits of knowledge as a pathway to deeper understanding.",
+      "Redefine knowledge to include awareness of one's ignorance."
+    ],
+    "disagreement_status": "settled",
+    "what_to_give_up": "The notion that knowledge must be absolute.",
+    "lessons": "Recognizing the limits of one's knowledge can lead to greater insight and understanding.",
+    "originator": "Socrates",
+    "year_first": "Unknown",
+    "historical_notes": "The Socratic Paradox has been a foundational concept in Western philosophy, influencing countless thinkers and debates about knowledge.",
+    "real_world_examples": [
+      "Socratic method in education",
+      "Critical thinking practices"
+    ],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [],
+    "notes_author": "",
+    "practice_prompts": []
+  },
+  {
+    "id": "p_nonvoting",
+    "name": "Non-Voting Paradox",
+    "aliases": [],
+    "one_line": "Abstentions or turnout changes can flip collective outcomes in counterintuitive ways.",
+    "domain_primary": "social_choice",
+    "domain_secondary": [
+      "decision_theory"
+    ],
+    "quine_type": "veridical",
+    "structure_tags": [
+      "voting",
+      "aggregation"
+    ],
+    "difficulty": "intermediate",
+    "story_opening": "Imagine a crucial election where a small number of votes can determine the outcome. Suddenly, a significant number of voters decide not to participate, leading to an unexpected result that defies intuition. This paradox reveals how abstentions can dramatically alter collective decisions.",
+    "intuitive_question": "How can not voting change the outcome of an election?",
+    "naive_answer": "If people don't vote, their preferences don't matter.",
+    "paradoxical_result": "A higher number of abstentions can lead to a less representative outcome.",
+    "assumptions": [
+      "Voter preferences are stable.",
+      "Voting is a reflection of true preferences."
+    ],
+    "informal_setup": "In a close election, every vote counts. However, if many voters choose not to vote, the final tally can yield surprising results that contradict expectations.",
+    "formal_setup": "Consider a voting scenario where the outcome hinges on a small margin. Changes in turnout can lead to unexpected shifts in the winning candidate.",
+    "core_mechanism": "The aggregation of individual preferences can lead to non-intuitive collective outcomes based on turnout.",
+    "canonical_resolutions": [
+      "Increased voter education.",
+      "Reforming voting systems to account for abstentions.",
+      "Encouraging higher turnout."
+    ],
+    "disagreement_status": "settled",
+    "what_to_give_up": "The assumption that all voters will participate.",
+    "lessons": "Collective decisions can be sensitive to individual participation rates.",
+    "originator": "Unknown",
+    "year_first": "Unknown",
+    "historical_notes": "",
+    "real_world_examples": [
+      "2016 U.S. Presidential Election",
+      "Brexit Referendum"
+    ],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [],
+    "notes_author": "",
+    "practice_prompts": []
+  },
+  {
+    "id": "p_bertrand_chord",
+    "name": "Bertrand\u2019s Paradox (Chord)",
+    "aliases": [
+      "Bertrand\u2019s Paradox"
+    ],
+    "one_line": "Different \u2018natural\u2019 procedures for choosing a random chord in a circle yield different probabilities.",
+    "domain_primary": "probability",
+    "domain_secondary": [],
+    "quine_type": "antinomy",
+    "structure_tags": [
+      "geometric_probability",
+      "infinity"
+    ],
+    "difficulty": "intermediate",
+    "story_opening": "Imagine a circle drawn on a flat surface. You want to randomly select a chord within this circle, but how you define 'random' can lead to different results, creating a perplexing situation.",
+    "intuitive_question": "How can different methods of choosing a random chord lead to different probabilities?",
+    "naive_answer": "All methods should yield the same probability since they are all random.",
+    "paradoxical_result": "The probability of a chord being longer than the side of the inscribed equilateral triangle varies based on the method of selection.",
+    "assumptions": "Assumes that randomness can be uniformly defined across different methods.",
+    "informal_setup": "Consider three different methods to select a chord: randomly choosing two endpoints on the circumference, randomly selecting an angle and a distance from the center, and randomly choosing a midpoint of the chord.",
+    "formal_setup": "Let the circle have a radius of 1. Each method leads to a different probability for the length of the chord.",
+    "core_mechanism": "The ambiguity in defining 'random' leads to different interpretations and results.",
+    "canonical_resolutions": [
+      "Clarification of what constitutes a 'random' chord.",
+      "Adoption of a specific method for selecting chords in probabilistic contexts."
+    ],
+    "disagreement_status": "open",
+    "what_to_give_up": "The assumption that all methods of randomness are equivalent.",
+    "lessons": "Understanding the importance of definitions in probability and the implications of different interpretations.",
+    "originator": "Unknown",
+    "year_first": "Unknown",
+    "historical_notes": "Unknown",
+    "real_world_examples": [],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [],
+    "notes_author": "",
+    "practice_prompts": []
+  },
+  {
+    "id": "p_boxes",
+    "name": "Boxes Paradox",
+    "aliases": [
+      "Bertrand\u2019s Box Paradox",
+      "Three-Box Paradox"
+    ],
+    "one_line": "Box and urn setups where conditioning on information reverses naive probability judgments.",
+    "domain_primary": "probability",
+    "domain_secondary": [],
+    "quine_type": "veridical",
+    "structure_tags": [
+      "conditional_probability"
+    ],
+    "difficulty": "intermediate",
+    "story_opening": "Imagine you have three boxes: one contains two gold coins, another contains two silver coins, and the last contains one of each. You randomly choose a box and draw one coin, revealing it to be gold. What are the chances that the other coin in the same box is also gold?",
+    "intuitive_question": "What is the probability that the other coin is gold after drawing a gold coin?",
+    "naive_answer": "The probability is 1/2 since there are two boxes left.",
+    "paradoxical_result": "The probability that the other coin is gold is actually 2/3, not 1/2.",
+    "assumptions": [
+      "The boxes are chosen randomly.",
+      "The coin drawn is not replaced."
+    ],
+    "informal_setup": "You have three boxes with different coin combinations. After drawing a gold coin, you reassess the probabilities of the remaining coins.",
+    "formal_setup": "Given the setup of the boxes, calculate the conditional probabilities based on the drawn coin.",
+    "core_mechanism": "The paradox arises from the misinterpretation of conditional probabilities.",
+    "canonical_resolutions": [
+      "Understanding conditional probability correctly.",
+      "Using Bayes' theorem."
+    ],
+    "disagreement_status": "settled",
+    "what_to_give_up": "The naive assumption about equal likelihood of remaining boxes.",
+    "lessons": "Probabilities can change based on new information; understanding conditional probability is crucial.",
+    "originator": "Unknown",
+    "year_first": "Unknown",
+    "historical_notes": "Unknown",
+    "real_world_examples": [],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [],
+    "notes_author": "",
+    "practice_prompts": []
+  },
+  {
+    "id": "p_moore",
+    "name": "Moore\u2019s Paradox",
+    "aliases": [],
+    "one_line": "Statements like \u2018It is raining, but I don\u2019t believe it is\u2019 appear absurd though not logically contradictory.",
+    "domain_primary": "philosophy",
+    "domain_secondary": [
+      "logic"
+    ],
+    "quine_type": "antinomy",
+    "structure_tags": [
+      "epistemology",
+      "language"
+    ],
+    "difficulty": "intermediate",
+    "story_opening": "Imagine standing outside on a rainy day, feeling the droplets on your skin. You look up and say, 'It is raining, but I don\u2019t believe it is.' This statement seems nonsensical, yet it doesn\u2019t violate any logical rules.",
+    "intuitive_question": "Why do we find such statements absurd?",
+    "naive_answer": "Because they contradict themselves.",
+    "paradoxical_result": "The paradox reveals a conflict between belief and assertion, challenging our understanding of rationality.",
+    "assumptions": [
+      "Beliefs should align with statements about reality.",
+      "Language accurately reflects our mental states."
+    ],
+    "informal_setup": "Consider the implications of asserting something while simultaneously denying belief in it.",
+    "formal_setup": "Let P be a proposition. The statement 'P, but I do not believe P' creates a tension between belief and assertion.",
+    "core_mechanism": "The paradox arises from the dissonance between what one asserts and what one believes.",
+    "canonical_resolutions": [
+      "Understanding the nature of belief and assertion.",
+      "Exploring the role of context in communication."
+    ],
+    "disagreement_status": "settled",
+    "what_to_give_up": "The assumption that belief must align with one's statements.",
+    "lessons": "Language and belief are complex; our assertions do not always reflect our internal states.",
+    "originator": "Unknown",
+    "year_first": "Unknown",
+    "historical_notes": "Unknown",
+    "real_world_examples": [],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [],
+    "notes_author": "",
+    "practice_prompts": []
+  },
+  {
+    "id": "p_npv_irr",
+    "name": "NPV vs. IRR Paradox",
+    "aliases": [],
+    "one_line": "Projects can have conflicting rankings under net present value and internal rate of return criteria.",
+    "domain_primary": "other",
+    "domain_secondary": [
+      "decision_theory"
+    ],
+    "quine_type": "veridical",
+    "structure_tags": [
+      "investment",
+      "ranking"
+    ],
+    "difficulty": "intermediate",
+    "story_opening": "Imagine two investment projects, each promising different returns. When evaluated using net present value (NPV) and internal rate of return (IRR), they yield conflicting rankings, leaving investors puzzled about which project to choose.",
+    "intuitive_question": "Why do NPV and IRR give different rankings for the same projects?",
+    "naive_answer": "Both methods should lead to the same decision since they are evaluating the same cash flows.",
+    "paradoxical_result": "Investors may choose different projects based on the method used, leading to inconsistent decision-making.",
+    "assumptions": "Investors seek to maximize returns and have access to accurate cash flow projections.",
+    "informal_setup": "When faced with two projects, one may rank higher under NPV while the other may excel under IRR, creating confusion.",
+    "formal_setup": "Given two projects with distinct cash flows, NPV and IRR can suggest different optimal choices.",
+    "core_mechanism": "The difference in how NPV and IRR account for the timing and scale of cash flows leads to conflicting project rankings.",
+    "canonical_resolutions": [
+      "Use NPV as the primary decision criterion.",
+      "Consider the scale of the projects when comparing IRR.",
+      "Evaluate projects using multiple criteria."
+    ],
+    "disagreement_status": "settled",
+    "what_to_give_up": "Simplicity in decision-making; understanding the nuances of financial metrics.",
+    "lessons": "Different financial metrics can lead to different conclusions; it's essential to understand the context and assumptions behind each method.",
+    "originator": "Unknown",
+    "year_first": "Unknown",
+    "historical_notes": "Unknown",
+    "real_world_examples": [],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [],
+    "notes_author": "",
+    "practice_prompts": []
+  },
+  {
+    "id": "p_dividend",
+    "name": "Dividend Paradox",
+    "aliases": [],
+    "one_line": "Dividend policy appears to affect firm value despite theoretical results suggesting irrelevance under ideal conditions.",
+    "domain_primary": "other",
+    "domain_secondary": [
+      "decision_theory"
+    ],
+    "quine_type": "veridical",
+    "structure_tags": [
+      "corporate_finance"
+    ],
+    "difficulty": "intermediate",
+    "story_opening": "Imagine a world where companies can choose to pay dividends or reinvest profits. The prevailing theory suggests that in a perfect market, the choice should not impact the company's value. Yet, empirical evidence shows that investors often react strongly to dividend announcements, leading to puzzling outcomes.",
+    "intuitive_question": "Why do dividends seem to influence stock prices if they should not matter?",
+    "naive_answer": "Investors prefer dividends because they provide immediate returns, thus affecting the perceived value of the firm.",
+    "paradoxical_result": "Despite theoretical predictions, firms that pay dividends often see an increase in stock price, contradicting the notion of market efficiency.",
+    "assumptions": "Investors are rational and markets are efficient; dividend policy should not affect firm value.",
+    "informal_setup": "Consider two identical companies: one pays dividends while the other does not. If the theory holds, their market values should be the same, yet they are not.",
+    "formal_setup": "Let firm A pay dividends and firm B retain earnings. Under ideal conditions, both firms should have equal market value.",
+    "core_mechanism": "Investor psychology and market perceptions lead to a discrepancy between theoretical predictions and actual market behavior.",
+    "canonical_resolutions": [
+      "Market inefficiencies exist that allow dividends to signal firm health.",
+      "Investors may have a preference for current income over future capital gains.",
+      "Behavioral finance explains the irrationality in investor reactions."
+    ],
+    "disagreement_status": "contested",
+    "what_to_give_up": "The assumption of market efficiency in the context of dividend policy.",
+    "lessons": "Real-world investor behavior often deviates from theoretical models, highlighting the importance of psychological factors in finance.",
+    "originator": "Unknown",
+    "year_first": "Unknown",
+    "historical_notes": "",
+    "real_world_examples": [],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [],
+    "notes_author": "",
+    "practice_prompts": []
+  },
+  {
+    "id": "p_thomson_lamp",
+    "name": "Thomson\u2019s Lamp",
+    "aliases": [],
+    "one_line": "A lamp toggled infinitely many times in finite time raises the question of its final state.",
+    "domain_primary": "philosophy",
+    "domain_secondary": [],
+    "quine_type": "antinomy",
+    "structure_tags": [
+      "supertask",
+      "infinity"
+    ],
+    "difficulty": "intermediate",
+    "story_opening": "Imagine a lamp that is turned on and off repeatedly, each toggle occurring in half the time of the previous one. As this process continues infinitely, one must ponder: what is the final state of the lamp after a finite amount of time? This paradox challenges our understanding of infinity and the nature of tasks.",
+    "intuitive_question": "What state is the lamp in after all the toggling?",
+    "naive_answer": "The lamp must be off, since it was toggled an infinite number of times.",
+    "paradoxical_result": "The lamp cannot be definitively said to be on or off, leading to a contradiction.",
+    "assumptions": [
+      "The toggling of the lamp can be completed in finite time.",
+      "Each toggle changes the state of the lamp."
+    ],
+    "informal_setup": "A lamp is turned on and off infinitely many times in a finite duration, leading to confusion about its final state.",
+    "formal_setup": "Let the lamp start in the off position. Toggle it on at time t=1, off at t=1.5, on at t=1.75, and so forth.",
+    "core_mechanism": "The concept of a supertask where an infinite number of operations are performed in a finite time frame.",
+    "canonical_resolutions": [
+      "The lamp is indeterminate in state.",
+      "The concept of supertasks is flawed.",
+      "The paradox highlights limitations in our understanding of infinity."
+    ],
+    "disagreement_status": "open",
+    "what_to_give_up": "The assumption that all infinite processes yield a clear outcome.",
+    "lessons": [
+      "Infinity can lead to counterintuitive results.",
+      "Not all processes can be completed in a finite time."
+    ],
+    "originator": "Unknown",
+    "year_first": "Unknown",
+    "historical_notes": "Unknown",
+    "real_world_examples": [],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [],
+    "notes_author": "",
+    "practice_prompts": []
+  },
+  {
+    "id": "p_double_neg",
+    "name": "Double Negatives Paradox",
+    "aliases": [],
+    "one_line": "Phrases with double negatives can express affirmation or nuanced attitudes, defying simple logical mapping.",
+    "domain_primary": "linguistics",
+    "domain_secondary": [],
+    "quine_type": "veridical",
+    "structure_tags": [
+      "semantics",
+      "pragmatics"
+    ],
+    "difficulty": "intro",
+    "story_opening": "In everyday conversation, a speaker might say, 'I don't need no help,' which can imply that they do, in fact, need help. This use of double negatives creates confusion and challenges the listener's understanding of intent, showcasing the complexity of language.",
+    "intuitive_question": "How can two negatives result in a positive meaning?",
+    "naive_answer": "Two negatives always cancel each other out, so they should mean a positive.",
+    "paradoxical_result": "Double negatives can lead to affirmations rather than negations, complicating logical interpretation.",
+    "assumptions": "Language follows strict logical rules; speakers intend to communicate clearly.",
+    "informal_setup": "Consider how people often use double negatives in casual speech. It seems contradictory, yet it conveys a specific meaning.",
+    "formal_setup": "Double negatives challenge the binary logic of affirmation and negation in language.",
+    "core_mechanism": "The pragmatic context of language use allows for double negatives to convey complex meanings beyond mere logical interpretation.",
+    "canonical_resolutions": [
+      "Understanding context and intent in communication.",
+      "Recognizing the role of cultural and regional language variations.",
+      "Accepting that language can operate outside strict logical frameworks."
+    ],
+    "disagreement_status": "settled",
+    "what_to_give_up": "The assumption that language must adhere to strict logical rules.",
+    "lessons": "Language is nuanced and context-dependent, often defying simple logical interpretations.",
+    "originator": "Unknown",
+    "year_first": "Unknown",
+    "historical_notes": "",
+    "real_world_examples": [
+      "In African American Vernacular English (AAVE), double negatives are commonly used and understood as affirmations."
+    ],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [],
+    "notes_author": "",
+    "practice_prompts": [
+      "Identify examples of double negatives in everyday speech.",
+      "Discuss how double negatives can change the meaning of a statement.",
+      "Explore cultural differences in the use of double negatives."
+    ]
+  },
+  {
+    "id": "p_zeno",
+    "name": "Zeno\u2019s Paradoxes",
+    "aliases": [],
+    "one_line": "Arguments like Achilles and the tortoise claim motion is impossible due to infinitely many required steps.",
+    "domain_primary": "philosophy",
+    "domain_secondary": [],
+    "quine_type": "antinomy",
+    "structure_tags": [
+      "motion",
+      "infinity"
+    ],
+    "difficulty": "intermediate",
+    "story_opening": "In ancient Greece, Zeno of Elea crafted paradoxes that challenged the very nature of motion. One of his most famous arguments features Achilles racing a tortoise, where the swift Achilles can never overtake the slow tortoise due to an infinite number of steps required to reach it.",
+    "intuitive_question": "How can Achilles ever catch up to the tortoise if he must first reach the point where the tortoise started?",
+    "naive_answer": "Achilles will eventually overtake the tortoise because he is faster.",
+    "paradoxical_result": "Despite Achilles' speed, he can never surpass the tortoise due to the infinite divisions of distance.",
+    "assumptions": [
+      "Motion can be divided into infinitely small segments.",
+      "Time and space are continuous."
+    ],
+    "informal_setup": "Imagine a race between Achilles and a tortoise, where the tortoise has a head start. Zeno argues that Achilles can never catch the tortoise because he must first reach the point where the tortoise began.",
+    "formal_setup": "Let the tortoise start at point A and Achilles at point B. For Achilles to reach A, the tortoise will have moved ahead, creating an infinite regress.",
+    "core_mechanism": "The paradox arises from the assumption of infinite divisibility of space and time.",
+    "canonical_resolutions": [
+      "Understanding limits in calculus.",
+      "The concept of converging series."
+    ],
+    "disagreement_status": "settled",
+    "what_to_give_up": "The notion that motion can be understood purely through infinite divisions.",
+    "lessons": "The paradox teaches us about the complexities of infinity and the nature of motion.",
+    "originator": "Zeno of Elea",
+    "year_first": "Unknown",
+    "historical_notes": "Zeno's paradoxes have been discussed and debated for centuries, influencing philosophers and mathematicians alike.",
+    "real_world_examples": [],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [],
+    "notes_author": "",
+    "practice_prompts": []
+  },
+  {
+    "id": "p_jevons",
+    "name": "Jevons Paradox",
+    "aliases": [],
+    "one_line": "Efficiency improvements can increase total resource use when they lower effective cost and spur demand.",
+    "domain_primary": "economics",
+    "domain_secondary": [
+      "decision_theory"
+    ],
+    "quine_type": "veridical",
+    "structure_tags": [
+      "efficiency",
+      "rebound"
+    ],
+    "difficulty": "intermediate",
+    "story_opening": "In the 19th century, economist William Stanley Jevons observed that as steam engines became more efficient, coal consumption actually increased. This counterintuitive outcome sparked a debate about the relationship between efficiency and resource use, revealing a complex interplay between technology and demand.",
+    "intuitive_question": "How can using resources more efficiently lead to greater overall consumption?",
+    "naive_answer": "Improving efficiency should reduce resource use, not increase it.",
+    "paradoxical_result": "Increased efficiency leads to lower costs, which can stimulate higher demand and ultimately result in greater total resource consumption.",
+    "assumptions": [
+      "Efficiency improvements will always reduce resource consumption.",
+      "Demand for resources is static."
+    ],
+    "informal_setup": "Imagine a factory that produces widgets more efficiently. You'd expect it to use less energy, but instead, it produces more widgets, leading to higher energy use overall.",
+    "formal_setup": "Let E be the efficiency of resource use. As E increases, the cost per unit decreases, potentially increasing total demand D, leading to higher total resource consumption R.",
+    "core_mechanism": "The rebound effect, where lower costs from efficiency gains lead to increased consumption.",
+    "canonical_resolutions": [
+      "Recognizing the rebound effect in policy-making.",
+      "Implementing regulations to mitigate increased consumption.",
+      "Promoting sustainable practices alongside efficiency improvements."
+    ],
+    "disagreement_status": "settled",
+    "what_to_give_up": "The assumption that efficiency alone will lead to reduced consumption.",
+    "lessons": "Efficiency improvements must be coupled with demand management to achieve true resource conservation.",
+    "originator": "William Stanley Jevons",
+    "year_first": "1865",
+    "historical_notes": "Jevons introduced this paradox in his work 'The Coal Question', highlighting the unexpected consequences of technological advancements.",
+    "real_world_examples": [
+      "Increased fuel efficiency in cars leading to more driving.",
+      "Energy-efficient appliances resulting in higher overall energy use."
+    ],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [
+      "efficiency",
+      "resource management",
+      "sustainability"
+    ],
+    "notes_author": "",
+    "practice_prompts": [
+      "Discuss how Jevons Paradox applies to modern energy policies.",
+      "Analyze a case study where efficiency improvements led to increased consumption."
+    ]
+  },
+  {
+    "id": "p_tea_leaves",
+    "name": "Tea Leaves Paradox",
+    "aliases": [],
+    "one_line": "Tea leaves collect in the center of a stirred cup despite naive centrifugal expectations.",
+    "domain_primary": "physics",
+    "domain_secondary": [],
+    "quine_type": "veridical",
+    "structure_tags": [
+      "fluid_dynamics"
+    ],
+    "difficulty": "intro",
+    "story_opening": "Imagine stirring a cup of tea. As the liquid swirls, you expect the tea leaves to be pushed outward by centrifugal force. Instead, they gather in the center, defying your expectations and prompting curiosity about the underlying physics.",
+    "intuitive_question": "Why do the tea leaves move to the center instead of being pushed outward?",
+    "naive_answer": "Centrifugal force should push the leaves to the sides of the cup.",
+    "paradoxical_result": "The tea leaves accumulate in the center, contrary to the expectation based on centrifugal force.",
+    "assumptions": "Centrifugal force will push particles outward in a rotating fluid.",
+    "informal_setup": "When you stir a cup of tea, you might think the leaves would be flung to the edges due to the spinning motion.",
+    "formal_setup": "In a rotating fluid, particles experience forces that can lead to unexpected distributions.",
+    "core_mechanism": "The behavior of particles in a rotating fluid is influenced by factors such as viscosity and flow patterns, leading to the accumulation of particles in the center.",
+    "canonical_resolutions": [
+      "Understanding the role of fluid dynamics in particle distribution.",
+      "Recognizing the effects of viscosity and flow patterns."
+    ],
+    "disagreement_status": "settled",
+    "what_to_give_up": "The assumption that centrifugal force alone dictates particle movement in fluids.",
+    "lessons": "Real-world phenomena often defy intuitive expectations; understanding the underlying physics is crucial.",
+    "originator": "Unknown",
+    "year_first": "Unknown",
+    "historical_notes": "Unknown",
+    "real_world_examples": [],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [],
+    "notes_author": "",
+    "practice_prompts": []
+  },
+  {
+    "id": "p_fitch",
+    "name": "Fitch\u2019s Knowability Paradox",
+    "aliases": [],
+    "one_line": "If all truths are knowable, it appears to follow that all truths are in fact known.",
+    "domain_primary": "logic",
+    "domain_secondary": [],
+    "quine_type": "antinomy",
+    "structure_tags": [
+      "epistemic_logic",
+      "knowability"
+    ],
+    "difficulty": "intermediate",
+    "story_opening": "Imagine a world where every truth can be known. In this world, if it is true that something is knowable, it seems to imply that it must already be known, leading to a perplexing conclusion about the nature of knowledge.",
+    "intuitive_question": "Can all truths be known?",
+    "naive_answer": "Yes, if something is true, it must be knowable and therefore known.",
+    "paradoxical_result": "If all truths are knowable, then it leads to the conclusion that all truths are known, which contradicts the existence of unknown truths.",
+    "assumptions": [
+      "All truths are knowable",
+      "Knowability implies knowledge"
+    ],
+    "informal_setup": "The paradox arises from the assumption that if something is true, it can be known, leading to contradictions about what we can actually know.",
+    "formal_setup": "If every truth is knowable, then every truth must be known.",
+    "core_mechanism": "The mechanism involves the interplay between knowability and the nature of truth, challenging our understanding of what it means to know something.",
+    "canonical_resolutions": [
+      "Accept that not all truths are knowable",
+      "Reject the premise that knowability implies knowledge"
+    ],
+    "disagreement_status": "contested",
+    "what_to_give_up": "The assumption that knowability guarantees knowledge.",
+    "lessons": "The paradox highlights the complexities of knowledge and the limits of epistemic claims.",
+    "originator": "Unknown",
+    "year_first": "Unknown",
+    "historical_notes": "Unknown",
+    "real_world_examples": [],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [],
+    "notes_author": "",
+    "practice_prompts": []
+  },
+  {
+    "id": "p_drinker",
+    "name": "Drinker Paradox",
+    "aliases": [],
+    "one_line": "In any non-empty bar there is a person such that if that person is drinking, everyone is drinking.",
+    "domain_primary": "logic",
+    "domain_secondary": [],
+    "quine_type": "veridical",
+    "structure_tags": [
+      "classical_logic",
+      "existential"
+    ],
+    "difficulty": "intro",
+    "story_opening": "Imagine a bustling bar filled with patrons enjoying their drinks. In this lively atmosphere, a curious observation arises: there exists at least one person whose drinking status determines the drinking habits of everyone else. This paradox challenges our understanding of individual and collective behavior.",
+    "intuitive_question": "Can one person's drinking affect the entire group's drinking behavior?",
+    "naive_answer": "No, each person drinks independently of others.",
+    "paradoxical_result": "The existence of a person whose drinking influences the entire group creates a logical contradiction.",
+    "assumptions": [
+      "The bar is non-empty.",
+      "Drinking behavior can be influenced by a single individual."
+    ],
+    "informal_setup": "In a bar, if one person is drinking, does that mean everyone else must be drinking too?",
+    "formal_setup": "Let P be a person in the bar. If P is drinking, then all others must also be drinking.",
+    "core_mechanism": "Existential quantification in logic leads to a conclusion that seems intuitively false.",
+    "canonical_resolutions": [
+      "Clarifying the conditions under which the paradox holds.",
+      "Exploring the implications of collective behavior.",
+      "Examining the role of individual agency."
+    ],
+    "disagreement_status": "settled",
+    "what_to_give_up": "The assumption that individual drinking is independent of others.",
+    "lessons": "Collective behavior can sometimes defy individual logic.",
+    "originator": "Unknown",
+    "year_first": "Unknown",
+    "historical_notes": "Unknown",
+    "real_world_examples": [],
+    "related_paradoxes": [],
+    "source_refs": {
+      "szpiro_group": null,
+      "whitcraft_section": null,
+      "wikipedia_slug": null,
+      "other_sources": []
+    },
+    "tags_user": [],
+    "notes_author": "",
+    "practice_prompts": []
+  }
+]

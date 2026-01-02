@@ -1,0 +1,60 @@
+{
+  "id": "p_three_cards",
+  "narrative": {
+    "story": "In the Three Cards Problem, you have three cards: two red on one side and one blue on the other. You randomly draw one card and see a red side. What is the probability that the other side is also red? Intuitively, many might think it's 50%, but the actual probability is 2/3. This is because there are two favorable outcomes (the two red cards) and only one unfavorable outcome (the blue card).",
+    "wrong_reasoning": "A common mistake is to assume that seeing a red side means there are equal chances for the other side to be red or blue. This overlooks the fact that there are two red cards that could show red when drawn, skewing the probabilities.",
+    "paradox": "The paradox arises from the counterintuitive nature of conditional probability. Many people struggle to accept that the probability of the other side being red is not 50%, leading to confusion and debate."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that the observer understands the setup of the cards and the implications of conditional probability.",
+    "steps": "1. Identify the possible cards: RR, RB, BR. 2. Draw a card and observe the side. 3. Calculate the probability based on the observed side. 4. Recognize that seeing red increases the likelihood of the other side being red.",
+    "math": "P(Red on other side | Red observed) = 2/3.",
+    "truth": "The truth is that conditional probabilities can defy intuition."
+  },
+  "solutions": {
+    "paths": [
+      "Understand the setup clearly.",
+      "Use a systematic approach to calculate probabilities.",
+      "Discuss with others to challenge your assumptions.",
+      "Review similar probability problems."
+    ],
+    "tradeoffs": [
+      "Intuition vs. mathematical reasoning.",
+      "Simplicity vs. accuracy in understanding.",
+      "Immediate conclusions vs. deeper analysis.",
+      "Personal biases vs. objective probability."
+    ],
+    "status": "Accepted as a classic probability problem."
+  },
+  "practice": {
+    "patterns": [
+      "Conditional probability problems.",
+      "Card drawing scenarios.",
+      "Simpson's paradox examples.",
+      "Monty Hall variations."
+    ],
+    "prompts": [
+      "What happens if you draw a blue card?",
+      "How would the problem change with four cards?",
+      "Explain the solution to someone unfamiliar with probability.",
+      "What assumptions are you making in your reasoning?"
+    ],
+    "warnings": [
+      "Don't confuse the observed outcome with overall probabilities.",
+      "Be cautious of intuitive leaps.",
+      "Remember to consider all possible outcomes.",
+      "Avoid overgeneralizing from this problem."
+    ],
+    "context": {
+      "history": "The Three Cards Problem has been discussed in probability theory for decades, illustrating the complexities of conditional reasoning.",
+      "sources": []
+    }
+  },
+  "context": {
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

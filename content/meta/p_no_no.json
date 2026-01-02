@@ -1,0 +1,15 @@
+{
+  "id": "p_no_no",
+  "title": "No-No Paradox",
+  "hook": "The statement 'No one believes no one is infallible' leads to contradictions.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "antinomy",
+  "key_lesson": "Ambiguities in belief statements can create paradoxes.",
+  "tags": [
+    "propositional_attitudes"
+  ],
+  "related": []
+}

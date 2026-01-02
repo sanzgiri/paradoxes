@@ -1,0 +1,16 @@
+{
+  "id": "p_envelope_game",
+  "title": "Envelope Game Paradox",
+  "hook": "Sealed bid auction where higher bid wins but pays own bid creates no-trade theorem.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Bidding strategies can lead to paradoxical outcomes.",
+  "tags": [
+    "information_asymmetry"
+  ],
+  "related": []
+}

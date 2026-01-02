@@ -1,0 +1,17 @@
+{
+  "id": "p_self_defeating",
+  "title": "Self-Defeating Belief Paradox",
+  "hook": "Beliefs whose content contradicts their rational holding.",
+  "domains": [
+    "other",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Not all beliefs can be rationally held.",
+  "tags": [
+    "moore",
+    "practical"
+  ],
+  "related": []
+}

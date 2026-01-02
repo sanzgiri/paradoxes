@@ -1,0 +1,16 @@
+{
+  "id": "p_rocket",
+  "title": "Relativistic Rocket Paradox",
+  "hook": "Constant proper acceleration yields hyperbolic motion trajectory.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Acceleration affects time perception in relativity.",
+  "tags": [
+    "proper_acceleration",
+    "time_dilation"
+  ],
+  "related": []
+}

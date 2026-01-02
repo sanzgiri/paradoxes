@@ -1,0 +1,17 @@
+{
+  "id": "p_paradoxical_bargaining",
+  "title": "Paradoxical Bargaining",
+  "hook": "Equal split emerges despite strategic incentives for unequal offers.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Fairness can lead to unexpected outcomes in negotiations.",
+  "tags": [
+    "ultimatum",
+    "fairness"
+  ],
+  "related": []
+}

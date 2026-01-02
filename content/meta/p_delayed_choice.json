@@ -1,0 +1,16 @@
+{
+  "id": "p_delayed_choice",
+  "title": "Delayed Choice Paradox",
+  "hook": "Future measurement choice affects past particle behavior.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Observation influences reality in quantum mechanics.",
+  "tags": [
+    "quantum",
+    "retrocausality"
+  ],
+  "related": []
+}

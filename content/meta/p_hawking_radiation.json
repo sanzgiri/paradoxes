@@ -1,0 +1,16 @@
+{
+  "id": "p_hawking_radiation",
+  "title": "Hawking Radiation Paradox",
+  "hook": "Virtual particles become real near horizon, causing black hole mass loss.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Black holes can emit radiation and lose mass.",
+  "tags": [
+    "black_hole_evaporation",
+    "quantum"
+  ],
+  "related": []
+}

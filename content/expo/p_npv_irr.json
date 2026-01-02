@@ -1,0 +1,71 @@
+{
+  "id": "p_npv_irr",
+  "narrative": {
+    "story": "Consider two projects, A and B. Project A has a higher NPV, while Project B has a higher IRR. Investors face a dilemma: which project should they choose? This situation arises because NPV and IRR use different methods to evaluate the profitability of projects. NPV measures the total value added, while IRR focuses on the rate of return. This can lead to conflicting decisions, especially when projects differ significantly in scale or cash flow timing.",
+    "wrong_reasoning": "Many believe that a higher IRR always indicates a better investment. However, this is misleading. IRR does not account for the scale of the project or the timing of cash flows, which can result in poor investment choices. For example, a small project with a high IRR might be less profitable than a larger project with a lower IRR but higher NPV.",
+    "paradox": "The paradox lies in the fact that two projects can be ranked differently based on NPV and IRR, leading to confusion and potential misallocation of resources. This contradiction challenges the reliability of IRR as a standalone metric for investment decisions."
+  },
+  "mechanism": {
+    "assumptions": "Investors assume that higher IRR equates to better returns, ignoring project scale and cash flow timing.",
+    "steps": "1. Calculate NPV for each project. 2. Calculate IRR for each project. 3. Compare results. 4. Make a decision based on the chosen metric.",
+    "math": "NPV = \u03a3 (Cash Flow_t / (1 + r)^t) where r is the discount rate. IRR is the rate r that makes NPV = 0.",
+    "truth": "NPV provides a more comprehensive view of project value."
+  },
+  "solutions": {
+    "paths": [
+      "Use NPV as the primary decision metric.",
+      "Consider both NPV and IRR for a balanced view.",
+      "Evaluate projects based on cash flow patterns.",
+      "Incorporate risk assessments into decision-making."
+    ],
+    "tradeoffs": [
+      "NPV provides absolute value, while IRR gives a percentage return.",
+      "Higher IRR may mislead if project scales differ.",
+      "NPV is sensitive to discount rates; IRR is not.",
+      "Choosing IRR may overlook cash flow timing.",
+      "NPV can favor larger projects; IRR may favor smaller ones.",
+      "IRR can lead to multiple rates for non-conventional cash flows.",
+      "NPV assumes reinvestment at the discount rate; IRR assumes reinvestment at the IRR.",
+      "NPV is more suitable for mutually exclusive projects."
+    ],
+    "status": "Adopt NPV for major investment decisions."
+  },
+  "practice": {
+    "patterns": [
+      "Always calculate both NPV and IRR.",
+      "Use sensitivity analysis on cash flows.",
+      "Compare projects with similar scales.",
+      "Assess the impact of discount rates.",
+      "Evaluate long-term cash flow patterns."
+    ],
+    "prompts": [
+      "What are the cash flow projections?",
+      "How do the projects compare in scale?",
+      "What discount rate should be used?",
+      "What are the risks associated with each project?",
+      "How does timing affect cash flows?",
+      "What are the potential market changes?",
+      "How will the projects be financed?",
+      "What are the opportunity costs?",
+      "What is the decision-making timeframe?",
+      "How do external factors influence the projects?",
+      "What are the stakeholders' preferences?",
+      "What is the historical performance of similar projects?"
+    ],
+    "warnings": [
+      "Do not rely solely on IRR.",
+      "Beware of misleading project scales.",
+      "Consider cash flow timing carefully.",
+      "Avoid ignoring external economic factors.",
+      "Be cautious of multiple IRRs."
+    ]
+  },
+  "context": {
+    "history": "The NPV vs. IRR paradox has been discussed in investment literature for decades, highlighting the complexities of project evaluation.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

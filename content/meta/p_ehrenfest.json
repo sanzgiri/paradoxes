@@ -1,0 +1,16 @@
+{
+  "id": "p_ehrenfest",
+  "title": "Ehrenfest Paradox",
+  "hook": "Rotating disk in special relativity has circumference contraction but radius dilation.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Relativity challenges our intuitive understanding of geometry.",
+  "tags": [
+    "relativity",
+    "rotation"
+  ],
+  "related": []
+}

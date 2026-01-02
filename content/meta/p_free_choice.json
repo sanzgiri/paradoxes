@@ -1,0 +1,16 @@
+{
+  "id": "p_free_choice",
+  "title": "Paradox of Free Choice",
+  "hook": "Disjunction introduction leads to contradictions in free choice scenarios.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Free choice can yield contradictory outcomes.",
+  "tags": [
+    "modal_logic",
+    "disjunction"
+  ],
+  "related": []
+}

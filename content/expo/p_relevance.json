@@ -1,0 +1,72 @@
+{
+  "id": "p_relevance",
+  "narrative": {
+    "story": "In decision-making, individuals often overlook information until its relevance becomes apparent. This paradox highlights how people may ignore data that could be crucial for informed choices, only to realize its importance after encountering it. For instance, a voter might disregard statistics about a candidate until they see how those statistics relate to their own values and priorities.",
+    "wrong_reasoning": "Many assume that all relevant information is sought proactively. However, this overlooks the cognitive bias where individuals fail to recognize the potential significance of information until after they have engaged with it. This leads to missed opportunities for informed decision-making.",
+    "paradox": "The relevance paradox suggests that the value of information is not recognized until it is encountered, creating a cycle where individuals do not seek out potentially relevant data because they are unaware of its importance."
+  },
+  "mechanism": {
+    "assumptions": "Individuals can predict the relevance of information before acquiring it.",
+    "steps": "1. Encounter information. 2. Assess its relevance post-exposure. 3. Make decisions based on recognized relevance. 4. Repeat the cycle with new information.",
+    "math": "N/A",
+    "truth": "Relevance is often subjective and context-dependent."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage proactive information seeking.",
+      "Develop frameworks for assessing potential relevance.",
+      "Utilize decision aids that highlight overlooked data.",
+      "Foster environments that promote curiosity."
+    ],
+    "tradeoffs": [
+      "Time spent seeking information vs. immediate decision-making.",
+      "Overloading with data vs. missing critical insights.",
+      "Balancing intuition with data-driven decisions.",
+      "Risk of analysis paralysis vs. informed choices."
+    ],
+    "status": "Ongoing research in decision theory."
+  },
+  "practice": {
+    "patterns": [
+      "Reflective questioning.",
+      "Scenario analysis.",
+      "Data visualization.",
+      "Collaborative discussions.",
+      "Feedback loops.",
+      "Iterative decision-making.",
+      "Mind mapping.",
+      "Role-playing.",
+      "Case studies.",
+      "Simulations."
+    ],
+    "prompts": [
+      "What information have I overlooked?",
+      "How might this data be relevant later?",
+      "What assumptions am I making about relevance?",
+      "Can I identify patterns in past decisions?",
+      "What alternative perspectives exist?",
+      "How would I explain this data to someone else?",
+      "What questions remain unanswered?",
+      "What if I had access to more information?",
+      "How does this relate to my goals?",
+      "What biases might affect my judgment?",
+      "What are the potential consequences of ignoring this data?",
+      "How can I test the relevance of this information?"
+    ],
+    "warnings": [
+      "Avoid confirmation bias.",
+      "Do not dismiss data prematurely.",
+      "Be cautious of overconfidence in assumptions.",
+      "Recognize the limits of intuition.",
+      "Stay open to new information."
+    ]
+  },
+  "context": {
+    "history": "The relevance paradox has been discussed in various decision-making theories, emphasizing the cognitive biases that affect information processing.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

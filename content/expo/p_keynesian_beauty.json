@@ -1,0 +1,76 @@
+{
+  "id": "p_keynesian_beauty",
+  "narrative": {
+    "story": "In a Keynesian beauty contest, participants must choose the most beautiful face from a set of photographs. The winner is the one whose choice is closest to the average choice of all participants. This creates a scenario where individuals must predict not only their own preferences but also the preferences of others, leading to a complex interplay of expectations and strategies.",
+    "wrong_reasoning": "Many participants may assume that choosing the most traditionally beautiful face will lead to success. However, this reasoning fails as it overlooks the necessity of predicting others' choices, which may diverge from personal preferences.",
+    "paradox": "The paradox lies in the fact that the most popular choice may not be the most beautiful according to individual standards, highlighting the disconnect between personal beliefs and collective behavior."
+  },
+  "mechanism": {
+    "assumptions": "Participants assume others will act rationally and predictably.",
+    "steps": "1. Participants view a set of faces. 2. Each participant makes a choice based on their prediction of the average choice. 3. The results are revealed, and the closest choice wins. 4. Participants reflect on their strategies for future contests.",
+    "math": "If n participants choose from m options, the expected value can be calculated based on the distribution of choices.",
+    "truth": "The average choice may not reflect individual beauty standards."
+  },
+  "solutions": {
+    "paths": [
+      "Improve predictive strategies",
+      "Analyze past contests",
+      "Collaborate with others",
+      "Diversify choices"
+    ],
+    "tradeoffs": [
+      "Risk of overthinking",
+      "Balancing personal taste vs. group norms",
+      "Time spent on analysis vs. instinctive choice",
+      "Potential for groupthink",
+      "Loss of individuality in choices",
+      "Pressure to conform",
+      "Difficulty in predicting irrational behavior",
+      "Changing trends in beauty"
+    ],
+    "status": "Ongoing research in decision theory."
+  },
+  "practice": {
+    "patterns": [
+      "Iterative prediction",
+      "Group dynamics analysis",
+      "Behavioral economics",
+      "Game theory applications",
+      "Social influence",
+      "Feedback loops",
+      "Risk assessment",
+      "Choice architecture",
+      "Preference aggregation",
+      "Cognitive biases"
+    ],
+    "prompts": [
+      "What do you think others will choose?",
+      "How does your choice reflect your beliefs?",
+      "What strategies can improve your predictions?",
+      "Consider the impact of trends on choices.",
+      "How do emotions influence decision-making?",
+      "Reflect on past choices and outcomes.",
+      "What assumptions are you making?",
+      "How can collaboration change outcomes?",
+      "What if everyone thinks differently?",
+      "How does context affect beauty standards?",
+      "What are the implications of your choice?",
+      "How can you adapt your strategy?"
+    ],
+    "warnings": [
+      "Avoid overconfidence in predictions.",
+      "Be wary of groupthink.",
+      "Don't ignore personal preferences.",
+      "Recognize cognitive biases.",
+      "Stay adaptable to changing dynamics."
+    ]
+  },
+  "context": {
+    "history": "The concept originated from Keynes' analogy in economics, illustrating how expectations shape market behavior.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

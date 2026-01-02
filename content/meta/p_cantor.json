@@ -1,0 +1,16 @@
+{
+  "id": "p_cantor",
+  "title": "Cantor's Paradox",
+  "hook": "The set of all sets has no cardinality because its power set is strictly larger.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "There is no greatest cardinal number.",
+  "tags": [
+    "cardinality",
+    "power_set"
+  ],
+  "related": []
+}

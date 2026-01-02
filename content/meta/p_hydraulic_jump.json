@@ -1,0 +1,16 @@
+{
+  "id": "p_hydraulic_jump",
+  "title": "Hydraulic Jump Paradox",
+  "hook": "Slow shallow flow jumps to fast deep flow counterintuitively.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Fluid flow can behave unexpectedly under certain conditions.",
+  "tags": [
+    "fluid_dynamics",
+    "shock_wave"
+  ],
+  "related": []
+}

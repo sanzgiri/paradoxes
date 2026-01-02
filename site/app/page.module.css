@@ -1,0 +1,82 @@
+.shell {
+  background: transparent;
+}
+
+.hero {
+  width: min(1200px, 92vw);
+  margin: 0 auto;
+  padding: 64px 0 32px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 32px;
+  align-items: center;
+}
+
+.kicker {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+  margin-bottom: 16px;
+}
+
+.hero h1 {
+  font-family: var(--font-serif), serif;
+  font-size: clamp(2.4rem, 3.5vw, 3.8rem);
+  margin: 0 0 16px;
+}
+
+.subhead {
+  font-size: 1.05rem;
+  color: var(--muted);
+  max-width: 480px;
+  line-height: 1.6;
+}
+
+.heroCard {
+  background: var(--card);
+  border-radius: 24px;
+  padding: 28px;
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(16, 19, 27, 0.08);
+}
+
+.heroQuote {
+  font-family: var(--font-serif), serif;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin: 0 0 16px;
+}
+
+.heroMeta {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.main {
+  width: min(1200px, 92vw);
+  margin: 0 auto;
+  padding: 16px 0 32px;
+}
+
+.footer {
+  width: min(1200px, 92vw);
+  margin: 32px auto 48px;
+  border-top: 1px solid var(--line);
+  padding-top: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 12px;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.footer span {
+  display: block;
+}
+
+.footerNote {
+  font-size: 0.85rem;
+}

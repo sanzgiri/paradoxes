@@ -1,0 +1,16 @@
+{
+  "id": "p_hilbert_bernays",
+  "title": "Hilbert-Bernays Paradox",
+  "hook": "A name equals the successor of the number it names.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Names can create misleading identities.",
+  "tags": [
+    "successor",
+    "natural_numbers"
+  ],
+  "related": []
+}

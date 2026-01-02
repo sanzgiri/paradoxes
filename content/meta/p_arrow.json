@@ -1,0 +1,17 @@
+{
+  "id": "p_arrow",
+  "title": "Arrow\u2019s Impossibility Theorem",
+  "hook": "No rank-order voting system can satisfy a small set of fairness criteria when there are three or more options.",
+  "domains": [
+    "social_choice",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Fairness in voting systems is fundamentally limited.",
+  "tags": [
+    "voting",
+    "aggregation"
+  ],
+  "related": []
+}

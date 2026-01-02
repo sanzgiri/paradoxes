@@ -1,0 +1,17 @@
+{
+  "id": "p_borda",
+  "title": "Borda Count Paradox",
+  "hook": "Rank-order voting vulnerable to strategic misrepresentation of preferences.",
+  "domains": [
+    "social_choice",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Voting systems can lead to unexpected outcomes.",
+  "tags": [
+    "voting",
+    "strategic"
+  ],
+  "related": []
+}

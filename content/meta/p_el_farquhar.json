@@ -1,0 +1,17 @@
+{
+  "id": "p_el_farquhar",
+  "title": "El Farol Bar Paradox",
+  "hook": "Predicting others' attendance creates self-defeating prophecies.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Overconfidence in predictions can lead to failure.",
+  "tags": [
+    "bounded_rationality",
+    "prediction"
+  ],
+  "related": []
+}

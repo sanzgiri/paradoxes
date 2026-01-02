@@ -1,0 +1,17 @@
+{
+  "id": "p_chainstore",
+  "title": "Chainstore Paradox",
+  "hook": "Backward induction unravels cooperation despite reputation concerns.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Reputation does not guarantee cooperation in repeated games.",
+  "tags": [
+    "reputation",
+    "repeated_games"
+  ],
+  "related": []
+}

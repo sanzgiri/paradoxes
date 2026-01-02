@@ -1,0 +1,17 @@
+{
+  "id": "p_deaton",
+  "title": "Deaton Paradox",
+  "hook": "Consumption smooth despite sharp income variations.",
+  "domains": [
+    "economics",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Income fluctuations do not always affect consumption patterns.",
+  "tags": [
+    "consumption",
+    "income"
+  ],
+  "related": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p_allais",
+  "title": "Allais Paradox",
+  "hook": "Choice patterns over lotteries violate the independence axiom of expected utility theory.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Choices can contradict expected utility theory.",
+  "tags": [
+    "risk",
+    "expected_utility"
+  ],
+  "related": []
+}

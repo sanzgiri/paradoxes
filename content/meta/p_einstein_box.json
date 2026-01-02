@@ -1,0 +1,16 @@
+{
+  "id": "p_einstein_box",
+  "title": "Einstein's Box Paradox",
+  "hook": "Relativistic energy transfer appears to violate conservation locally.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Energy conservation can seem violated in relativistic contexts.",
+  "tags": [
+    "relativity",
+    "energymomentum"
+  ],
+  "related": []
+}

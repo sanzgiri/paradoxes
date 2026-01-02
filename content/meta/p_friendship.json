@@ -1,0 +1,16 @@
+{
+  "id": "p_friendship",
+  "title": "Friendship Paradox",
+  "hook": "Average person's friends have more friends than average.",
+  "domains": [
+    "statistics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Your friends likely have more friends than you do.",
+  "tags": [
+    "networks",
+    "averages"
+  ],
+  "related": []
+}

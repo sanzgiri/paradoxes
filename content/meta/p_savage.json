@@ -1,0 +1,15 @@
+{
+  "id": "p_savage",
+  "title": "Savage's Paradox",
+  "hook": "Dutch book arguments force subjective probabilities matching objective frequencies.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Subjective probabilities must align with objective frequencies.",
+  "tags": [
+    "subjective_probability"
+  ],
+  "related": []
+}

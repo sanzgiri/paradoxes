@@ -1,0 +1,64 @@
+{
+  "id": "p_newcomb",
+  "narrative": {
+    "story": "In Newcomb's Problem, a predictor has placed money in two boxes: one transparent with $1,000 and another opaque that may contain $1,000,000. You can choose to take both boxes (two-boxing) or only the opaque box (one-boxing). The predictor is highly accurate, and if they predict you will one-box, the opaque box will contain the larger amount. This creates a dilemma: should you trust the predictor's ability and choose one box, or play it safe and take both?",
+    "wrong_reasoning": "Many argue that since the transparent box always contains $1,000, you should take both boxes to maximize your gain. However, this reasoning ignores the predictor's accuracy and the implications of your choice on the outcome.",
+    "paradox": "The paradox arises from the conflict between expected utility theory and causal decision theory. One-boxing seems to yield a higher expected value based on the predictor's reliability, while two-boxing appears rational from a purely mathematical perspective."
+  },
+  "mechanism": {
+    "assumptions": "The predictor's accuracy and the decision-maker's rationality.",
+    "steps": "1. Assess the predictor's track record. 2. Decide whether to trust the prediction. 3. Choose one box or both based on your decision-making framework.",
+    "math": "Expected value calculations show that one-boxing yields a higher expected return when the predictor is reliable.",
+    "truth": "Rationality can lead to different conclusions based on the decision framework."
+  },
+  "solutions": {
+    "paths": [
+      "One-boxing",
+      "Two-boxing"
+    ],
+    "tradeoffs": [
+      "Trust in the predictor vs. maximizing immediate gain",
+      "Long-term strategy vs. short-term outcomes",
+      "Risk aversion vs. potential reward",
+      "Philosophical implications vs. practical decisions"
+    ],
+    "status": "Debated among philosophers and decision theorists."
+  },
+  "practice": {
+    "patterns": [
+      "Decision-making under uncertainty",
+      "Predictive modeling",
+      "Game theory applications",
+      "Philosophical implications of free will"
+    ],
+    "prompts": [
+      "What would you choose in this scenario?",
+      "How do you define rationality?",
+      "Can you trust predictions?",
+      "What influences your decision-making?",
+      "How does this relate to real-life choices?",
+      "Discuss the implications of your choice.",
+      "What if the predictor was wrong?",
+      "How would you explain this to someone unfamiliar?",
+      "What are the ethical considerations?",
+      "How does this apply to other decision theories?",
+      "What are the limits of prediction?",
+      "How does this challenge your beliefs about free will?"
+    ],
+    "warnings": [
+      "Don't ignore the predictor's accuracy.",
+      "Beware of cognitive biases.",
+      "Consider the implications of your choice.",
+      "Avoid overconfidence in your reasoning.",
+      "Recognize the limits of rationality."
+    ]
+  },
+  "context": {
+    "history": "Newcomb's Problem was formulated by William Newcomb in the 1960s and has since sparked extensive debate in philosophy and decision theory.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

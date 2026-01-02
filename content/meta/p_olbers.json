@@ -1,0 +1,17 @@
+{
+  "id": "p_olbers",
+  "title": "Olbers\u2019 Paradox",
+  "hook": "An infinite static universe of stars should produce a bright night sky, not darkness.",
+  "domains": [
+    "other",
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "The universe's structure affects our perception of the night sky.",
+  "tags": [
+    "night_sky",
+    "infinity"
+  ],
+  "related": []
+}

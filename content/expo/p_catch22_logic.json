@@ -1,0 +1,57 @@
+{
+  "id": "p_catch22_logic",
+  "narrative": {
+    "story": "In a bureaucratic world, a soldier learns that he can be declared insane if he requests to be grounded from flying dangerous missions. However, by making the request, he demonstrates rational thought and thus cannot be considered insane. This creates a paradox where he is trapped in a cycle of needing to escape danger but unable to do so due to the very logic that governs his situation.",
+    "wrong_reasoning": "Many believe that simply avoiding the request would free the soldier from the paradox. However, this ignores the fact that the very act of wanting to avoid danger is a rational thought, thus keeping him in the loop of needing to request to be grounded.",
+    "paradox": "The Catch-22 paradox illustrates a situation where a person cannot escape a dilemma due to contradictory rules, leading to a no-win scenario."
+  },
+  "mechanism": {
+    "assumptions": "The paradox assumes that rational thought can be used to escape irrational situations.",
+    "steps": "1. Identify the need to avoid danger. 2. Recognize the requirement to request grounding. 3. Understand that making the request indicates sanity. 4. Conclude that the request cannot be made without losing the ability to escape danger.",
+    "math": "",
+    "truth": "The paradox reveals the flaws in bureaucratic logic."
+  },
+  "solutions": {
+    "paths": [
+      "Redefine the criteria for insanity.",
+      "Create a new policy that allows for exceptions.",
+      "Encourage open dialogue about the paradox.",
+      "Implement a support system for soldiers."
+    ],
+    "tradeoffs": [
+      "Increased bureaucracy vs. clearer policies.",
+      "Short-term confusion vs. long-term clarity.",
+      "Individual needs vs. systemic rules.",
+      "Potential for abuse vs. genuine safety."
+    ],
+    "status": "Ongoing discussions in military ethics."
+  },
+  "practice": {
+    "patterns": [
+      "Identify self-referential situations.",
+      "Analyze bureaucratic logic.",
+      "Discuss paradoxes in group settings.",
+      "Explore real-life applications of paradoxes."
+    ],
+    "prompts": [
+      "What are other examples of Catch-22 situations?",
+      "How can we change the rules to avoid paradoxes?",
+      "Discuss a time you faced a similar dilemma.",
+      "What assumptions are we making in this scenario?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying complex situations.",
+      "Be cautious of circular reasoning.",
+      "Recognize the emotional impact of paradoxes.",
+      "Don't ignore the human element in logic."
+    ]
+  },
+  "context": {
+    "history": "The term 'Catch-22' was popularized by Joseph Heller's novel, highlighting the absurdities of war and bureaucracy.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "p_minority_game",
+  "narrative": {
+    "story": "In the Minority Game, players choose between two options, aiming to be in the minority. Despite simple rules, the game leads to unpredictable outcomes, resembling complex market behaviors. Players adapt their strategies based on past results, creating a dynamic environment where individual decisions impact the whole system.",
+    "wrong_reasoning": "Many assume that rational players will always converge on a single choice. However, the game's nature encourages diversity in choices, leading to unexpected results. This misinterpretation overlooks the importance of strategy adaptation and the role of randomness in decision-making.",
+    "paradox": "The paradox lies in the fact that while each player aims to win by being in the minority, the collective behavior often results in chaotic outcomes. This illustrates how individual rationality can lead to collective irrationality, challenging our understanding of decision-making in groups."
+  },
+  "mechanism": {
+    "assumptions": "Players are rational and adapt their strategies based on previous rounds.",
+    "steps": "1. Players choose between two options. 2. The minority choice wins. 3. Players observe outcomes and adjust strategies. 4. Repeat the process.",
+    "math": "The game can be modeled using game theory, where the expected utility of choices is calculated based on past outcomes.",
+    "truth": "The game reveals insights into collective behavior."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage diverse strategies",
+      "Implement feedback mechanisms",
+      "Analyze historical data",
+      "Promote collaboration"
+    ],
+    "tradeoffs": [
+      "Complexity vs. simplicity",
+      "Individual freedom vs. collective outcome",
+      "Short-term gain vs. long-term strategy",
+      "Adaptability vs. stability",
+      "Predictability vs. randomness",
+      "Efficiency vs. equity",
+      "Risk vs. reward",
+      "Information overload vs. informed decisions"
+    ],
+    "status": "Ongoing research in decision theory and market dynamics."
+  },
+  "practice": {
+    "patterns": [
+      "Diversity in choices",
+      "Adaptation to feedback",
+      "Strategic thinking",
+      "Group dynamics",
+      "Market behavior",
+      "Risk assessment",
+      "Decision-making under uncertainty",
+      "Collaboration",
+      "Competitive strategies",
+      "Learning from outcomes"
+    ],
+    "prompts": [
+      "What choice would you make?",
+      "How would you adapt your strategy?",
+      "What influences your decision?",
+      "Can you predict others' choices?",
+      "How does randomness affect outcomes?",
+      "What historical examples relate?",
+      "How can you improve your strategy?",
+      "What are the risks involved?",
+      "How do group dynamics play a role?",
+      "What patterns do you observe?",
+      "What tradeoffs are present?",
+      "How can collaboration change outcomes?"
+    ],
+    "warnings": [
+      "Avoid overconfidence",
+      "Don't ignore randomness",
+      "Beware of herd behavior",
+      "Recognize cognitive biases",
+      "Stay adaptable"
+    ]
+  },
+  "context": {
+    "history": "The Minority Game was introduced in the late 1990s as a model for understanding complex systems.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

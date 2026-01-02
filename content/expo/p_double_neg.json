@@ -1,0 +1,76 @@
+{
+  "id": "p_double_neg",
+  "narrative": {
+    "story": "In English, a double negative typically implies a positive. For instance, saying 'I don't need no help' can suggest that the speaker does indeed need help, depending on the context. This challenges the conventional view of negation in logic, where two negatives cancel each other out. The use of double negatives varies across languages and dialects, leading to rich discussions in linguistics about meaning and intention.",
+    "wrong_reasoning": "Many assume that double negatives always lead to confusion or incorrect grammar. However, in some dialects, they are a standard form of expression. This misunderstanding can lead to the erroneous belief that speakers using double negatives are uneducated or incorrect, when in fact they are employing a valid linguistic structure.",
+    "paradox": "The double negatives paradox reveals how language can defy strict logical interpretations. While logic dictates that two negatives result in a positive, the pragmatic use of language shows that context and cultural norms can alter meaning significantly."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that negation operates uniformly across all languages and contexts.",
+    "steps": "1. Identify the double negative in a sentence. 2. Analyze the context in which it is used. 3. Determine the intended meaning based on cultural and linguistic norms. 4. Compare with standard logical interpretations.",
+    "math": "",
+    "truth": "Meaning is context-dependent."
+  },
+  "solutions": {
+    "paths": [
+      "Embrace context in language interpretation.",
+      "Educate on dialectical variations.",
+      "Encourage open discussions about language use.",
+      "Promote understanding of pragmatics."
+    ],
+    "tradeoffs": [
+      "Clarity vs. authenticity in expression.",
+      "Standardization vs. linguistic diversity.",
+      "Prescriptive grammar vs. descriptive usage.",
+      "Cultural sensitivity vs. formal correctness.",
+      "Teaching standard English vs. recognizing dialects.",
+      "Simplification vs. complexity of meaning.",
+      "Avoiding confusion vs. embracing nuance.",
+      "Conformity vs. individual expression."
+    ],
+    "status": "Ongoing discussions in linguistics."
+  },
+  "practice": {
+    "patterns": [
+      "Identify double negatives in spoken language.",
+      "Analyze sentences for intended meaning.",
+      "Discuss examples from different dialects.",
+      "Create sentences using double negatives.",
+      "Explore cultural implications of language use.",
+      "Compare with standard negation.",
+      "Role-play conversations using double negatives.",
+      "Examine literature for double negative usage.",
+      "Engage in debates about language norms.",
+      "Reflect on personal language use."
+    ],
+    "prompts": [
+      "What does 'I don't need no help' mean?",
+      "How do double negatives function in your dialect?",
+      "Can you think of examples where double negatives clarify meaning?",
+      "Discuss a time when a double negative caused confusion.",
+      "What are the implications of double negatives in formal writing?",
+      "How do you feel about double negatives in everyday speech?",
+      "Explore the historical context of double negatives.",
+      "How do different cultures view double negatives?",
+      "What are the benefits of understanding double negatives?",
+      "Can double negatives be used effectively in poetry?",
+      "How do you teach double negatives to others?",
+      "What role does context play in understanding double negatives?"
+    ],
+    "warnings": [
+      "Avoid assuming all double negatives are incorrect.",
+      "Be cautious of cultural biases in language use.",
+      "Recognize the importance of context.",
+      "Don't dismiss dialects as inferior.",
+      "Be aware of the potential for miscommunication."
+    ]
+  },
+  "context": {
+    "history": "Double negatives have been a topic of interest in linguistics for centuries, with varying acceptance across cultures.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

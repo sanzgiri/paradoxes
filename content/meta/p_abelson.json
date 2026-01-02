@@ -1,0 +1,16 @@
+{
+  "id": "p_abelson",
+  "title": "Abelson's Paradox",
+  "hook": "Effect size may not indicate practical meaning.",
+  "domains": [
+    "statistics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Effect size does not guarantee practical significance.",
+  "tags": [
+    "effect_size",
+    "practicality"
+  ],
+  "related": []
+}

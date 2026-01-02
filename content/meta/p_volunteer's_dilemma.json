@@ -1,0 +1,16 @@
+{
+  "id": "p_volunteer's_dilemma",
+  "title": "Volunteer's Dilemma",
+  "hook": "Someone must act for group benefit but all prefer inaction.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Collective action often requires individual sacrifice.",
+  "tags": [
+    "threshold_public_goods"
+  ],
+  "related": []
+}

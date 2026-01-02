@@ -1,0 +1,77 @@
+{
+  "id": "p_boy_girl",
+  "narrative": {
+    "story": "In a two-child family, if we know at least one child is a boy, what is the probability that the other child is a girl? Many might instinctively say 50%, but the actual probability is 2/3. This is because the possible combinations of children are: Boy-Boy, Boy-Girl, and Girl-Boy. Given that at least one is a boy, the Girl-Girl combination is eliminated, leaving us with three equally likely scenarios: Boy-Boy, Boy-Girl, and Girl-Boy.",
+    "wrong_reasoning": "A common misconception is to assume that knowing one child is a boy does not affect the probability of the other child being a girl. This reasoning overlooks the fact that the sample space is altered by the condition of having at least one boy.",
+    "paradox": "The paradox lies in the fact that our intuition suggests a 50% chance for the other child being a girl, but the correct calculation shows a 2/3 probability. This discrepancy highlights how conditional probabilities can defy our expectations."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that each child is equally likely to be a boy or girl and that the gender of one child does not influence the other.",
+    "steps": "1. Identify possible combinations of children. 2. Eliminate combinations that do not meet the condition (at least one boy). 3. Calculate the probability based on remaining combinations.",
+    "math": "P(Girl | At least one Boy) = P(Boy-Girl or Girl-Boy | At least one Boy) = 2/3.",
+    "truth": "Conditional probabilities can lead to surprising results."
+  },
+  "solutions": {
+    "paths": [
+      "Understand the sample space.",
+      "Use visual aids like tree diagrams.",
+      "Practice with similar probability problems.",
+      "Discuss with peers to clarify misconceptions."
+    ],
+    "tradeoffs": [
+      "Intuition vs. mathematical reasoning.",
+      "Simplicity of explanation vs. accuracy.",
+      "Generalization vs. specific cases.",
+      "Time spent on understanding vs. quick assumptions.",
+      "Learning through examples vs. theoretical understanding.",
+      "Engagement in discussions vs. solitary study.",
+      "Using simulations vs. analytical methods.",
+      "Relying on common sense vs. statistical evidence."
+    ],
+    "status": "Understanding this paradox can improve decision-making in probabilistic scenarios."
+  },
+  "practice": {
+    "patterns": [
+      "Explore other conditional probability problems.",
+      "Identify assumptions in probability scenarios.",
+      "Use real-life examples to illustrate concepts.",
+      "Create your own paradoxes.",
+      "Discuss with others to gain different perspectives.",
+      "Analyze how changing conditions affect outcomes.",
+      "Practice with simulations to visualize probabilities.",
+      "Work through problems step-by-step.",
+      "Compare intuitive answers with calculated results.",
+      "Reflect on past decisions influenced by probability."
+    ],
+    "prompts": [
+      "What would happen if we had three children?",
+      "How does the order of children affect probabilities?",
+      "Can you think of a real-life situation where this applies?",
+      "What if we knew the gender of one child but not the other?",
+      "How would this change if we had different probabilities for boys and girls?",
+      "What assumptions are we making in this problem?",
+      "How can we visualize this problem?",
+      "What other paradoxes are similar to this one?",
+      "How does this relate to other areas of decision theory?",
+      "Can you create a similar paradox with different conditions?",
+      "What are the implications of this paradox in real life?",
+      "How might this affect family planning decisions?"
+    ],
+    "warnings": [
+      "Don't rely solely on intuition.",
+      "Be cautious of oversimplifying complex scenarios.",
+      "Always check your assumptions.",
+      "Consider alternative explanations.",
+      "Discuss with others to avoid confirmation bias."
+    ]
+  },
+  "context": {
+    "history": "The Boy or Girl paradox has been discussed in probability theory for decades, illustrating the complexities of conditional probability.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf",
+      "wikipedia": "https://en.wikipedia.org/wiki/Boy_or_Girl_paradox"
+    }
+  }
+}

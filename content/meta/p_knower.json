@@ -1,0 +1,16 @@
+{
+  "id": "p_knower",
+  "title": "Knower Paradox",
+  "hook": "This sentence is unknown leads to inconsistency.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Knowledge can lead to contradictions.",
+  "tags": [
+    "epistemic_logic",
+    "necessity"
+  ],
+  "related": []
+}

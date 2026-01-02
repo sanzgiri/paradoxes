@@ -1,0 +1,15 @@
+{
+  "id": "p_borel",
+  "title": "Borel's Paradox",
+  "hook": "Conditional densities on the circle depend on coordinate choice despite rotational invariance.",
+  "domains": [
+    "probability"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Coordinate choices affect probability densities.",
+  "tags": [
+    "coordinate_dependence"
+  ],
+  "related": []
+}

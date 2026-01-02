@@ -1,0 +1,76 @@
+{
+  "id": "p_revenge_liar",
+  "narrative": {
+    "story": "The Revenge Liar Paradox arises when we attempt to assign truth values to sentences that refer to their own truth. For instance, if we have a liar sentence at one level, we can create a new sentence at a higher level that refers to the truth of the first. This leads to an endless chain of sentences that can never be definitively assigned a truth value, illustrating the complexities of self-reference in logic.",
+    "wrong_reasoning": "One might assume that by simply assigning truth values to each level of sentences, we can resolve the paradox. However, this overlooks the fact that each new level introduces a new liar sentence, perpetuating the cycle of uncertainty.",
+    "paradox": "The paradox highlights the limitations of our logical systems when dealing with self-referential statements, suggesting that truth may not be a simple binary."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that truth can be hierarchically structured without limit.",
+    "steps": "1. Define a liar sentence at level n. 2. Create a new sentence at level n+1 that refers to the truth of the level n sentence. 3. Repeat indefinitely, generating new levels.",
+    "math": "No specific mathematical formulation, but involves logical structures and set theory.",
+    "truth": "Truth is not absolute in self-referential contexts."
+  },
+  "solutions": {
+    "paths": [
+      "Limit the hierarchy of truth predicates",
+      "Adopt a non-classical logic framework",
+      "Use fixed-point theories",
+      "Accept the paradox as a feature of language"
+    ],
+    "tradeoffs": [
+      "Simplification of truth hierarchies",
+      "Loss of expressive power",
+      "Potential for inconsistencies",
+      "Increased complexity in reasoning",
+      "Need for new logical frameworks",
+      "Risk of oversimplification",
+      "Difficulty in practical application",
+      "Challenges in consensus on definitions"
+    ],
+    "status": "Ongoing debate in philosophical and logical circles."
+  },
+  "practice": {
+    "patterns": [
+      "Self-reference",
+      "Hierarchical reasoning",
+      "Truth value assignment",
+      "Paradox exploration",
+      "Logical consistency checks",
+      "Language and meaning analysis",
+      "Set theory applications",
+      "Non-classical logic exploration",
+      "Philosophical implications",
+      "Critical thinking"
+    ],
+    "prompts": [
+      "What happens if we add another level?",
+      "Can we resolve the paradox?",
+      "How does this relate to G\u00f6del's incompleteness?",
+      "What are the implications for truth?",
+      "Explore a real-world example.",
+      "Discuss the limits of language.",
+      "How does this affect our understanding of logic?",
+      "Can we create a hierarchy without paradox?",
+      "What are alternative logical systems?",
+      "How does this relate to other paradoxes?",
+      "What assumptions are we making?",
+      "What is the role of self-reference in logic?"
+    ],
+    "warnings": [
+      "Avoid oversimplification",
+      "Be cautious with assumptions",
+      "Recognize the limits of classical logic",
+      "Consider implications for language",
+      "Stay aware of philosophical debates"
+    ]
+  },
+  "context": {
+    "history": "The Revenge Liar Paradox has roots in ancient philosophical discussions about truth and self-reference, evolving through modern logic.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

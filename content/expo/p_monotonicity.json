@@ -1,0 +1,76 @@
+{
+  "id": "p_monotonicity",
+  "narrative": {
+    "story": "In a voting scenario, consider three candidates: A, B, and C. Initially, candidate A has the most support. However, when more voters express support for A, the voting system unexpectedly results in candidate B winning. This occurs because the system fails to account for the increased support for A, leading to a counterintuitive outcome.",
+    "wrong_reasoning": "Many assume that increasing support for a candidate will always lead to better chances of winning. This reasoning overlooks the complexities of voting systems that can distort outcomes based on voter preferences and the distribution of support.",
+    "paradox": "The paradox arises when a candidate's increased support leads to a lower chance of winning, contradicting the intuitive belief that more votes should equate to a higher likelihood of victory."
+  },
+  "mechanism": {
+    "assumptions": "Voters will always choose the candidate with the most votes; voting systems are designed to reflect true preferences.",
+    "steps": "1. Voters rank candidates. 2. Votes are tallied based on rankings. 3. The candidate with the highest tally wins. 4. Increased support for a candidate is misinterpreted by the system.",
+    "math": "Let A, B, and C be candidates. If A receives 40 votes, B 35, and C 25, A wins. If A's support increases to 45 but B's support shifts to 40, B wins due to the system's mechanics.",
+    "truth": "In some systems, more votes can lead to unexpected outcomes."
+  },
+  "solutions": {
+    "paths": [
+      "Implement alternative voting systems",
+      "Educate voters on voting mechanics",
+      "Analyze outcomes of different systems",
+      "Encourage ranked-choice voting"
+    ],
+    "tradeoffs": [
+      "Complexity of systems",
+      "Voter understanding",
+      "Potential for confusion",
+      "Resistance to change",
+      "Impact on voter turnout",
+      "Cost of implementation",
+      "Time for adaptation",
+      "Political implications"
+    ],
+    "status": "Ongoing discussions in electoral reform."
+  },
+  "practice": {
+    "patterns": [
+      "Nonmonotonicity in voting",
+      "Voter behavior analysis",
+      "System design implications",
+      "Preference aggregation",
+      "Electoral fairness",
+      "Ranked-choice voting",
+      "Condorcet methods",
+      "Borda count",
+      "Approval voting",
+      "Strategic voting"
+    ],
+    "prompts": [
+      "What happens when support shifts?",
+      "How do different systems handle ties?",
+      "Can you identify a real-world example?",
+      "What are the implications for democracy?",
+      "How does this affect voter trust?",
+      "Discuss the role of education in voting.",
+      "What reforms could mitigate this issue?",
+      "Analyze a case study.",
+      "How do cultural factors influence voting?",
+      "What are the historical contexts of voting systems?",
+      "Explore the impact of technology on voting.",
+      "What lessons can be learned from past elections?"
+    ],
+    "warnings": [
+      "Beware of oversimplifying voting behavior.",
+      "Don't assume all voters understand the system.",
+      "Be cautious of biases in voter education.",
+      "Consider the implications of system changes.",
+      "Avoid ignoring minority voices in reforms."
+    ]
+  },
+  "context": {
+    "history": "The monotonicity criterion has been a topic of discussion since the development of modern voting systems, highlighting the complexities involved in electoral mechanics.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

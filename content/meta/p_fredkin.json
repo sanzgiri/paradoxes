@@ -1,0 +1,16 @@
+{
+  "id": "p_fredkin",
+  "title": "Fredkin's Paradox",
+  "hook": "More similar choices take more decision time.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Similarity can complicate decision-making.",
+  "tags": [
+    "similarity",
+    "deliberation"
+  ],
+  "related": []
+}

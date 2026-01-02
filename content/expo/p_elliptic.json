@@ -1,0 +1,76 @@
+{
+  "id": "p_elliptic",
+  "narrative": {
+    "story": "In decision theory, the maxmin expected utility approach suggests that individuals should prepare for the worst-case scenario when faced with ambiguity. This leads to overly cautious decisions that may prevent optimal outcomes. For instance, a person might avoid investing in a promising venture due to fears of the worst possible market conditions, despite the potential for significant gains.",
+    "wrong_reasoning": "The assumption that preparing for the worst is always the safest strategy ignores the potential benefits of taking calculated risks. By focusing solely on minimizing losses, individuals may miss opportunities for growth and success, leading to a paradox where the pursuit of safety results in greater overall risk.",
+    "paradox": "The paradox lies in the fact that while maxmin expected utility aims to safeguard against uncertainty, it can paradoxically lead to worse outcomes by fostering excessive caution and inaction."
+  },
+  "mechanism": {
+    "assumptions": "Individuals prefer to minimize potential losses over maximizing gains.",
+    "steps": "1. Identify potential outcomes. 2. Assess worst-case scenarios. 3. Choose actions based on minimizing losses. 4. Evaluate the impact of decisions on overall utility.",
+    "math": "Maxmin utility is calculated as U = min{U(x1), U(x2), ..., U(xn)} where U(x) represents utility of outcome x.",
+    "truth": "Caution can lead to missed opportunities."
+  },
+  "solutions": {
+    "paths": [
+      "Adopt a balanced approach to risk.",
+      "Incorporate probabilistic reasoning.",
+      "Engage in scenario planning.",
+      "Seek diverse perspectives."
+    ],
+    "tradeoffs": [
+      "Safety vs. opportunity.",
+      "Short-term caution vs. long-term gains.",
+      "Simplicity vs. complexity in decision-making.",
+      "Individual vs. collective decision-making.",
+      "Immediate losses vs. future benefits.",
+      "Risk aversion vs. risk tolerance.",
+      "Conservatism vs. innovation.",
+      "Certainty vs. uncertainty."
+    ],
+    "status": "Ongoing research into decision-making strategies."
+  },
+  "practice": {
+    "patterns": [
+      "Identify biases in decision-making.",
+      "Use decision trees.",
+      "Conduct risk assessments.",
+      "Evaluate past decisions.",
+      "Practice scenario analysis.",
+      "Engage in group discussions.",
+      "Reflect on outcomes.",
+      "Test assumptions.",
+      "Balance caution with action.",
+      "Learn from failures."
+    ],
+    "prompts": [
+      "What are the potential outcomes?",
+      "How likely is each outcome?",
+      "What assumptions am I making?",
+      "What is the worst-case scenario?",
+      "What is the best-case scenario?",
+      "How can I mitigate risks?",
+      "What have I learned from past decisions?",
+      "What would I advise a friend to do?",
+      "How can I diversify my options?",
+      "What are the long-term implications?",
+      "Am I being overly cautious?",
+      "What opportunities am I missing?"
+    ],
+    "warnings": [
+      "Avoid paralysis by analysis.",
+      "Don't ignore potential gains.",
+      "Beware of confirmation bias.",
+      "Don't let fear dictate decisions.",
+      "Recognize when caution becomes detrimental."
+    ]
+  },
+  "context": {
+    "history": "The maxmin expected utility theory has been discussed in various decision-making contexts, particularly in economics and behavioral science.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

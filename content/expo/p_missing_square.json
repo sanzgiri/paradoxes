@@ -1,0 +1,67 @@
+{
+  "id": "p_missing_square",
+  "narrative": {
+    "story": "The Missing Square Puzzle presents two seemingly identical figures that are made from the same pieces but appear to have different areas. This optical illusion tricks the viewer into believing that the areas are unequal, despite being constructed from congruent shapes. The puzzle highlights how our visual perception can mislead us in mathematical contexts.",
+    "wrong_reasoning": "Many assume that because the two figures look different, they must have different areas. This reasoning fails to account for the fact that visual perception can be influenced by the arrangement of shapes, leading to incorrect conclusions about area.",
+    "paradox": "The paradox arises from the fact that two shapes can be dissected into the same pieces yet appear to cover different areas. This challenges our understanding of area and congruence, illustrating how visual tricks can create false impressions."
+  },
+  "mechanism": {
+    "assumptions": "The assumption that visual similarity implies area similarity.",
+    "steps": "1. Analyze the two figures. 2. Dissect both figures into their component shapes. 3. Attempt to measure the areas of each figure. 4. Compare the areas and observe the discrepancy.",
+    "math": "Area calculations show that both figures have the same total area despite visual differences.",
+    "truth": "Visual perception can be misleading."
+  },
+  "solutions": {
+    "paths": [
+      "Re-evaluate the figures using mathematical principles.",
+      "Use physical models to demonstrate area equivalence.",
+      "Educate about optical illusions in geometry.",
+      "Explore other similar paradoxes."
+    ],
+    "tradeoffs": [
+      "Increased understanding of visual perception vs. initial confusion.",
+      "Engagement through puzzles vs. potential frustration.",
+      "Learning through exploration vs. reliance on intuition.",
+      "Time spent on puzzles vs. direct mathematical learning."
+    ],
+    "status": "Widely discussed in mathematical circles and educational contexts."
+  },
+  "practice": {
+    "patterns": [
+      "Identify visual illusions in geometry.",
+      "Create similar puzzles using different shapes.",
+      "Discuss the implications of visual perception in math.",
+      "Explore other paradoxes and their resolutions."
+    ],
+    "prompts": [
+      "What shapes can create similar illusions?",
+      "How does perception affect our understanding of math?",
+      "Can you design your own missing square puzzle?",
+      "What other paradoxes can you find in geometry?",
+      "How do optical illusions impact learning?",
+      "Discuss a time when perception misled you.",
+      "What assumptions do we make about shapes?",
+      "How can we verify area calculations?",
+      "What role does intuition play in math?",
+      "Explore the history of optical illusions.",
+      "How can we teach others about these concepts?",
+      "What are the implications for real-world applications?",
+      "How do different cultures perceive geometry?"
+    ],
+    "warnings": [
+      "Be cautious of visual assumptions.",
+      "Don't rely solely on intuition.",
+      "Verify calculations with logic.",
+      "Discuss findings with peers for clarity.",
+      "Explore multiple perspectives."
+    ]
+  },
+  "context": {
+    "history": "The Missing Square Puzzle has roots in geometric explorations and has been used to illustrate concepts in visual perception and mathematics.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "p_availability_cascade",
+  "narrative": {
+    "story": "The Availability Cascade Paradox illustrates how repeated exposure to low-probability events can lead to a false sense of consensus. For instance, if media outlets frequently report on rare disasters, the public may begin to believe these events are more common than they are. This can skew perceptions and influence decision-making, leading to unnecessary fear or policy changes.",
+    "wrong_reasoning": "People often assume that if many sources report a low-probability event, it must be more likely. This reasoning ignores the role of media amplification and cognitive biases, leading to misguided beliefs about risk and consensus.",
+    "paradox": "The paradox lies in the fact that while the actual probability of the event remains low, the perception of its prevalence can become inflated through repeated warnings, creating a false consensus that influences behavior and policy."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that repeated information equates to truth and consensus.",
+    "steps": "1. Media reports on a rare event. 2. Public begins to discuss it. 3. More reports follow, amplifying the narrative. 4. Perception shifts, leading to heightened concern and action.",
+    "math": "No specific mathematical model, but can be analyzed through probability theory and Bayesian inference.",
+    "truth": "Consensus does not equal truth."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage critical thinking about media sources.",
+      "Promote statistical literacy.",
+      "Diversify information sources.",
+      "Implement checks on sensational reporting."
+    ],
+    "tradeoffs": [
+      "Increased awareness vs. heightened anxiety.",
+      "Media freedom vs. responsible reporting.",
+      "Public engagement vs. misinformation spread.",
+      "Short-term reactions vs. long-term understanding."
+    ],
+    "status": "Ongoing discussions in media ethics and psychology."
+  },
+  "practice": {
+    "patterns": [
+      "Identify sources of information.",
+      "Analyze the frequency of reports.",
+      "Discuss perceptions with peers.",
+      "Evaluate the actual probabilities.",
+      "Challenge consensus views."
+    ],
+    "prompts": [
+      "What is the source of this information?",
+      "How often is this event reported?",
+      "What are the actual statistics?",
+      "Who benefits from this narrative?",
+      "Is there a counter-narrative?",
+      "What assumptions are being made?",
+      "How does this affect decision-making?",
+      "What are the potential consequences?",
+      "Can we verify this claim?",
+      "What biases might be at play?",
+      "How would experts view this situation?",
+      "What alternative explanations exist?"
+    ],
+    "warnings": [
+      "Beware of confirmation bias.",
+      "Don't equate frequency with probability.",
+      "Question sensational headlines.",
+      "Consider the context of reports.",
+      "Avoid jumping to conclusions."
+    ]
+  },
+  "context": {
+    "history": "The concept has roots in media studies and psychology, highlighting the impact of information dissemination on public perception.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

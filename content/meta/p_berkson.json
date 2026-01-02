@@ -1,0 +1,16 @@
+{
+  "id": "p_berkson",
+  "title": "Berkson\u2019s Paradox",
+  "hook": "Conditioning on a common effect can induce spurious negative correlations.",
+  "domains": [
+    "statistics",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Correlation does not imply causation.",
+  "tags": [
+    "selection_bias"
+  ],
+  "related": []
+}

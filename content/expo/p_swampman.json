@@ -1,0 +1,67 @@
+{
+  "id": "p_swampman",
+  "narrative": {
+    "story": "Imagine a lightning strike creates a perfect duplicate of a person, named Swampman. This duplicate behaves exactly like the original, but lacks any mental states or intentions. The paradox arises when we question whether Swampman is truly the same person or merely a copy without consciousness.",
+    "wrong_reasoning": "One might argue that since Swampman acts identically to the original, he must have the same thoughts and feelings. However, this reasoning overlooks the distinction between behavior and mental states, leading to a misunderstanding of identity.",
+    "paradox": "The Swampman paradox challenges our understanding of personal identity by suggesting that identical behavior does not imply identical mental states, raising questions about what it means to be 'you'."
+  },
+  "mechanism": {
+    "assumptions": "The assumption that behavior reflects mental states is flawed; identity can exist without consciousness.",
+    "steps": "1. Define personal identity. 2. Introduce the Swampman scenario. 3. Analyze the implications of identical behavior without intentionality. 4. Discuss the philosophical consequences.",
+    "math": "",
+    "truth": "Identity is complex and cannot be reduced to behavior alone."
+  },
+  "solutions": {
+    "paths": [
+      "Explore definitions of identity",
+      "Investigate consciousness",
+      "Consider implications in philosophy",
+      "Analyze similar paradoxes"
+    ],
+    "tradeoffs": [
+      "Behavior vs. mental states",
+      "Identity vs. duplication",
+      "Philosophical implications vs. practical applications",
+      "Understanding vs. acceptance"
+    ],
+    "status": "Ongoing debate in philosophy."
+  },
+  "practice": {
+    "patterns": [
+      "Behavioral analysis",
+      "Identity exploration",
+      "Philosophical inquiry",
+      "Thought experiments",
+      "Comparative analysis"
+    ],
+    "prompts": [
+      "What defines personal identity?",
+      "Can behavior exist without intention?",
+      "How do we perceive consciousness?",
+      "What is the role of memory in identity?",
+      "Discuss the implications of the Swampman paradox.",
+      "Explore other identity paradoxes.",
+      "How does this relate to artificial intelligence?",
+      "What are the ethical implications?",
+      "Can a copy be considered 'you'?",
+      "What is the nature of consciousness?",
+      "How do we differentiate between self and other?",
+      "What role does intention play in identity?"
+    ],
+    "warnings": [
+      "Avoid conflating behavior with intention.",
+      "Be cautious of oversimplifying identity.",
+      "Recognize the complexity of consciousness.",
+      "Challenge assumptions critically.",
+      "Stay open to multiple interpretations."
+    ]
+  },
+  "context": {
+    "history": "The Swampman paradox was introduced by philosopher Donald Davidson in the 1980s, contributing to discussions on identity and consciousness.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

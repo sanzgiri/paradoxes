@@ -1,0 +1,68 @@
+{
+  "id": "p_monty_hall",
+  "narrative": {
+    "story": "In the Monty Hall problem, a contestant is presented with three doors. Behind one door is a car, and behind the other two are goats. After the contestant picks a door, the host, Monty, who knows what's behind the doors, opens another door revealing a goat. The contestant is then given the option to stick with their original choice or switch to the remaining unopened door. Counterintuitively, switching doors actually doubles the contestant's chances of winning the car.",
+    "wrong_reasoning": "Many believe that after one door is opened, the odds are equal between the two remaining doors, thinking each has a 50% chance. This reasoning ignores the initial probabilities and the information provided by Monty's action.",
+    "paradox": "The paradox lies in the fact that switching doors increases the probability of winning from 1/3 to 2/3, which contradicts the intuitive belief that the odds should be equal after one door is revealed."
+  },
+  "mechanism": {
+    "assumptions": "Contestant chooses randomly, Monty always reveals a goat.",
+    "steps": "1. Contestant picks a door. 2. Monty opens a door with a goat. 3. Contestant decides to switch or stay.",
+    "math": "Initial choice has a 1/3 chance of winning. If the contestant switches, they win if their initial choice was wrong (2/3 chance).",
+    "truth": "Switching doors maximizes winning probability."
+  },
+  "solutions": {
+    "paths": [
+      "Always switch doors after Monty reveals a goat.",
+      "Stick with the original choice for a 1/3 chance.",
+      "Analyze the problem using probability theory.",
+      "Simulate the game multiple times to observe outcomes."
+    ],
+    "tradeoffs": [
+      "Switching increases winning odds but may feel counterintuitive.",
+      "Sticking with the original choice feels safer but is less optimal.",
+      "Understanding the math requires a shift in intuition.",
+      "Explaining the solution can be challenging to others."
+    ],
+    "status": "Widely accepted in probability theory."
+  },
+  "practice": {
+    "patterns": [
+      "Identify similar probability puzzles.",
+      "Use simulations to visualize outcomes.",
+      "Discuss with peers to challenge intuitions.",
+      "Apply conditional probability in real-life scenarios.",
+      "Explore other paradoxes for deeper understanding."
+    ],
+    "prompts": [
+      "What would you choose: switch or stay?",
+      "How does Monty's action affect your choice?",
+      "Can you explain why switching is better?",
+      "What are other examples of conditional probability?",
+      "How does this relate to decision-making in uncertainty?",
+      "What assumptions are you making in this problem?",
+      "How would you explain this to someone unfamiliar?",
+      "What if Monty opened a door randomly?",
+      "How does this apply to game theory?",
+      "Can you think of a situation where this applies?",
+      "What are the implications for real-world decisions?",
+      "How does intuition play a role in decision-making?"
+    ],
+    "warnings": [
+      "Don't assume equal probabilities after one door is opened.",
+      "Be cautious of intuitive reasoning in probability.",
+      "Understand the role of information in decision-making.",
+      "Avoid overconfidence in initial choices.",
+      "Recognize the difference between subjective and objective probabilities."
+    ]
+  },
+  "context": {
+    "history": "The Monty Hall problem was popularized by the game show 'Let's Make a Deal' and has been a subject of debate since.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf",
+      "wikipedia": "https://en.wikipedia.org/wiki/Monty_Hall_problem"
+    }
+  }
+}

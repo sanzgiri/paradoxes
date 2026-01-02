@@ -1,0 +1,16 @@
+{
+  "id": "p_three_cards",
+  "title": "Three Cards Problem",
+  "hook": "Determining card underside color from random draw.",
+  "domains": [
+    "probability"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Conditional probability can lead to counterintuitive results.",
+  "tags": [
+    "conditional",
+    "color"
+  ],
+  "related": []
+}

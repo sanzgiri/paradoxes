@@ -1,0 +1,16 @@
+{
+  "id": "p_skolem",
+  "title": "Skolem's Paradox",
+  "hook": "Uncountable sets have countable models, challenging the absoluteness of countability.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Countability is not absolute in set theory.",
+  "tags": [
+    "model_theory",
+    "set_theory"
+  ],
+  "related": []
+}

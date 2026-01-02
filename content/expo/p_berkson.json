@@ -1,0 +1,76 @@
+{
+  "id": "p_berkson",
+  "narrative": {
+    "story": "In a study examining the relationship between two independent variables, A and B, researchers found a surprising negative correlation when controlling for a common effect, C. This led to confusion about the nature of the relationship between A and B, as they were believed to be independent. The paradox illustrates how conditioning on a common effect can distort perceived relationships.",
+    "wrong_reasoning": "Researchers assumed that since A and B were negatively correlated when controlling for C, A must influence B negatively. They overlooked that the correlation was spurious, arising from the conditioning on C, which affected both A and B independently.",
+    "paradox": "Berkson\u2019s Paradox reveals that conditioning on a common effect can create misleading correlations, challenging intuitive notions of independence."
+  },
+  "mechanism": {
+    "assumptions": "Variables A and B are independent; C is a common effect influencing both.",
+    "steps": "1. Identify independent variables A and B. 2. Introduce common effect C. 3. Analyze correlation between A and B while conditioning on C. 4. Observe the induced negative correlation.",
+    "math": "If P(A|C) and P(B|C) are conditioned probabilities, the correlation can appear negative despite A and B being independent.",
+    "truth": "Conditioning can distort relationships."
+  },
+  "solutions": {
+    "paths": [
+      "Avoid conditioning on common effects",
+      "Use causal diagrams",
+      "Conduct sensitivity analyses",
+      "Educate on correlation vs causation"
+    ],
+    "tradeoffs": [
+      "Increased complexity in analysis",
+      "Potential for overlooked variables",
+      "Need for careful interpretation",
+      "Risk of miscommunication",
+      "Time-consuming investigations",
+      "Possibility of false conclusions",
+      "Need for robust data",
+      "Challenges in real-world applications"
+    ],
+    "status": "Ongoing research in causal inference."
+  },
+  "practice": {
+    "patterns": [
+      "Identify common effects",
+      "Check for independence",
+      "Use visualizations",
+      "Conduct experiments",
+      "Review assumptions",
+      "Engage in peer discussions",
+      "Utilize statistical software",
+      "Explore alternative models",
+      "Document findings",
+      "Iterate on analysis"
+    ],
+    "prompts": [
+      "What common effects are present?",
+      "How might conditioning change results?",
+      "Are A and B truly independent?",
+      "What assumptions are being made?",
+      "Can we visualize the relationships?",
+      "What alternative explanations exist?",
+      "How can we test our conclusions?",
+      "What data supports our claims?",
+      "What are the implications of our findings?",
+      "How can we communicate results effectively?",
+      "What further research is needed?",
+      "How does this relate to real-world scenarios?"
+    ],
+    "warnings": [
+      "Beware of spurious correlations",
+      "Avoid overgeneralizing results",
+      "Check for hidden biases",
+      "Be cautious with interpretations",
+      "Consider the context of findings"
+    ]
+  },
+  "context": {
+    "history": "Berkson\u2019s Paradox was first described by statistician Joseph Berkson in the 1940s, highlighting issues in medical studies.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

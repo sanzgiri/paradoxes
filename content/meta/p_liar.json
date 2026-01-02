@@ -1,0 +1,16 @@
+{
+  "id": "p_liar",
+  "title": "Liar Paradox",
+  "hook": "The sentence \u2018This sentence is false\u2019 is true if and only if it is false.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "antinomy",
+  "key_lesson": "Self-referential statements can create logical contradictions.",
+  "tags": [
+    "selfreference",
+    "truth"
+  ],
+  "related": []
+}

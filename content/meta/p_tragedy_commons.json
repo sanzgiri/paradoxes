@@ -1,0 +1,17 @@
+{
+  "id": "p_tragedy_commons",
+  "title": "Tragedy of the Commons",
+  "hook": "Individually rational resource use leads to collective ruin.",
+  "domains": [
+    "economics",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Collective action problems can lead to resource depletion.",
+  "tags": [
+    "externalities",
+    "overuse"
+  ],
+  "related": []
+}

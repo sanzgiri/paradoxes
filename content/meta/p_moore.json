@@ -1,0 +1,17 @@
+{
+  "id": "p_moore",
+  "title": "Moore\u2019s Paradox",
+  "hook": "Statements like \u2018It is raining, but I don\u2019t believe it is\u2019 appear absurd though not logically contradictory.",
+  "domains": [
+    "philosophy",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Belief and assertion can diverge in surprising ways.",
+  "tags": [
+    "epistemology",
+    "language"
+  ],
+  "related": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "p_prisoner",
+  "narrative": {
+    "story": "In a classic scenario, two criminals are arrested and interrogated separately. Each can either betray the other or remain silent. If both betray, they serve 5 years. If one betrays while the other stays silent, the betrayer goes free while the silent one serves 10 years. If both remain silent, they each serve only 1 year. The dilemma arises because mutual cooperation yields the best collective outcome, yet rational self-interest leads both to betray.",
+    "wrong_reasoning": "Many believe that since betrayal offers the best individual outcome, it is the rational choice. However, this reasoning ignores the potential for mutual cooperation, which would yield a better result for both parties.",
+    "paradox": "The paradox lies in the fact that while mutual cooperation is the optimal strategy, the fear of betrayal leads both players to defect, resulting in a worse outcome for both."
+  },
+  "mechanism": {
+    "assumptions": "Players are rational and seek to minimize their own sentences.",
+    "steps": "1. Each player evaluates their options. 2. They consider the potential actions of the other player. 3. They choose to betray or cooperate based on perceived self-interest. 4. The outcomes are realized based on their choices.",
+    "math": "Let C = cooperate, D = defect. Payoffs: (C, C) = -1, (D, D) = -5, (C, D) = 0, (D, C) = -10.",
+    "truth": "Rational choice does not always lead to the best collective outcome."
+  },
+  "solutions": {
+    "paths": [
+      "Encouraging communication",
+      "Establishing trust",
+      "Repeated interactions",
+      "Incentivizing cooperation"
+    ],
+    "tradeoffs": [
+      "Short-term gain vs long-term benefit",
+      "Individual vs collective outcomes",
+      "Trust vs betrayal",
+      "Risk vs reward",
+      "Certainty vs uncertainty",
+      "Self-interest vs cooperation",
+      "Immediate payoff vs future payoff",
+      "Competition vs collaboration"
+    ],
+    "status": "Ongoing research in game theory and behavioral economics."
+  },
+  "practice": {
+    "patterns": [
+      "Iterated games",
+      "Group decision-making",
+      "Negotiation strategies",
+      "Trust-building exercises",
+      "Conflict resolution",
+      "Social dilemmas",
+      "Collective action problems",
+      "Game theory applications",
+      "Behavioral incentives",
+      "Cooperative frameworks"
+    ],
+    "prompts": [
+      "What would you do in their situation?",
+      "How can trust be built?",
+      "What incentives could change the outcome?",
+      "Discuss a real-life example.",
+      "How does this apply to your field?",
+      "What are the implications for teamwork?",
+      "Can technology help in fostering cooperation?",
+      "What historical examples mirror this dilemma?",
+      "How do cultural differences affect decisions?",
+      "What role does communication play?",
+      "How can we encourage cooperation in society?",
+      "What are the ethical considerations?"
+    ],
+    "warnings": [
+      "Avoid assuming rationality in all players.",
+      "Be cautious of over-simplifying outcomes.",
+      "Recognize the impact of emotions.",
+      "Understand the limits of game theory.",
+      "Consider the influence of external factors."
+    ]
+  },
+  "context": {
+    "history": "The Prisoner's Dilemma was formulated in the 1950s and has since become a fundamental concept in game theory.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf",
+      "wikipedia": "https://en.wikipedia.org/wiki/Prisoner%27s_dilemma"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p_black_hole_firewall",
+  "title": "Black Hole Firewall Paradox",
+  "hook": "Horizon either destroys information (firewall) or violates equivalence principle.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "advanced",
+  "paradox_type": "falsidical",
+  "key_lesson": "Information preservation challenges our understanding of black holes.",
+  "tags": [
+    "quantum_gravity",
+    "information"
+  ],
+  "related": []
+}

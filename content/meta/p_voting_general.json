@@ -1,0 +1,17 @@
+{
+  "id": "p_voting_general",
+  "title": "General Voting Paradoxes",
+  "hook": "Voting rules can lead to surprising and counterintuitive outcomes.",
+  "domains": [
+    "social_choice",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Voting systems can produce unexpected results.",
+  "tags": [
+    "voting",
+    "aggregation"
+  ],
+  "related": []
+}

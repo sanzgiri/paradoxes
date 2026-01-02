@@ -1,0 +1,16 @@
+{
+  "id": "p_earman_baron",
+  "title": "Earman-Baron Supertask",
+  "hook": "Infinite process converges differently depending on time parameterization.",
+  "domains": [
+    "mathematics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Time parameterization affects convergence in infinite processes.",
+  "tags": [
+    "infinity",
+    "limits"
+  ],
+  "related": []
+}

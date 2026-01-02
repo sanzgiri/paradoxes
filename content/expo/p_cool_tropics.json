@@ -1,0 +1,76 @@
+{
+  "id": "p_cool_tropics",
+  "narrative": {
+    "story": "During the warm periods of the Cretaceous and Eocene, climate models predicted higher tropical temperatures. However, proxy data indicated that these temperatures were actually lower than expected. This discrepancy raises questions about the reliability of climate models and the methods used to interpret proxy data.",
+    "wrong_reasoning": "One might assume that model predictions are always accurate, but this paradox shows that reliance on models without considering empirical data can lead to incorrect conclusions about past climates.",
+    "paradox": "The Cool Tropics Paradox illustrates a situation where theoretical models suggest one outcome, while empirical evidence suggests another, leading to confusion about historical climate conditions."
+  },
+  "mechanism": {
+    "assumptions": "Models assume consistent climatic responses; proxies reflect real historical conditions.",
+    "steps": "1. Analyze model predictions for tropical temperatures. 2. Collect proxy data from geological records. 3. Compare model outputs with proxy results. 4. Identify discrepancies and analyze their implications.",
+    "math": "Mathematical models use equations based on physical principles to predict temperatures, while proxies rely on indirect measurements.",
+    "truth": "Empirical data can challenge theoretical models."
+  },
+  "solutions": {
+    "paths": [
+      "Refine climate models using proxy data.",
+      "Develop better proxy measurement techniques.",
+      "Encourage interdisciplinary research.",
+      "Increase transparency in model assumptions."
+    ],
+    "tradeoffs": [
+      "Model accuracy vs. complexity.",
+      "Proxy reliability vs. availability.",
+      "Short-term predictions vs. long-term trends.",
+      "Theoretical rigor vs. empirical validation.",
+      "Resource allocation for research vs. immediate policy needs.",
+      "Collaboration vs. competition among researchers.",
+      "Focus on local vs. global climate patterns.",
+      "Interdisciplinary approaches vs. specialized studies."
+    ],
+    "status": "Ongoing research is needed to reconcile models with proxy data."
+  },
+  "practice": {
+    "patterns": [
+      "Identify discrepancies in data.",
+      "Use multiple data sources for validation.",
+      "Engage in peer review for model assumptions.",
+      "Conduct sensitivity analyses on models.",
+      "Explore historical climate events for context.",
+      "Utilize advanced statistical methods.",
+      "Incorporate feedback from empirical findings.",
+      "Promote open data sharing among researchers.",
+      "Encourage public engagement in climate science.",
+      "Foster collaboration between disciplines."
+    ],
+    "prompts": [
+      "What assumptions underlie your climate model?",
+      "How do proxy data challenge your predictions?",
+      "What historical events could inform your research?",
+      "In what ways can models be improved?",
+      "What are the implications of your findings?",
+      "How can interdisciplinary collaboration enhance understanding?",
+      "What new proxies could be developed?",
+      "How does this paradox affect climate policy?",
+      "What lessons can be learned from past climate studies?",
+      "How can you communicate your findings effectively?",
+      "What are the limitations of your approach?",
+      "How can you ensure data integrity in your research?"
+    ],
+    "warnings": [
+      "Avoid over-reliance on models without empirical support.",
+      "Be cautious of confirmation bias in data interpretation.",
+      "Recognize the limitations of proxy data.",
+      "Stay updated on new research findings.",
+      "Consider the broader implications of your conclusions."
+    ]
+  },
+  "context": {
+    "history": "The Cool Tropics Paradox has been a topic of discussion since the early 2000s, as researchers began to analyze discrepancies between model predictions and proxy data.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

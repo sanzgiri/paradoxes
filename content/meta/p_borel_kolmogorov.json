@@ -1,0 +1,16 @@
+{
+  "id": "p_borel_kolmogorov",
+  "title": "Borel\u2013Kolmogorov Paradox",
+  "hook": "Conditional probabilities on sets of measure zero depend on the conditioning method.",
+  "domains": [
+    "probability"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Conditioning affects probability outcomes.",
+  "tags": [
+    "conditional",
+    "measure_zero"
+  ],
+  "related": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p_boiling_freezing",
+  "title": "Boiling-Freezing Paradox",
+  "hook": "Water can boil and freeze simultaneously at triple point.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "States of matter can coexist under specific conditions.",
+  "tags": [
+    "thermodynamics",
+    "triple_point"
+  ],
+  "related": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "p_necktie",
+  "title": "Necktie Paradox",
+  "hook": "Wager between two seems to favor both parties.",
+  "domains": [
+    "probability",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Wagers can create misleading perceptions of fairness.",
+  "tags": [
+    "wagering",
+    "exchange"
+  ],
+  "related": []
+}

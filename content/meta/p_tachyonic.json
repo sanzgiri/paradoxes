@@ -1,0 +1,16 @@
+{
+  "id": "p_tachyonic",
+  "title": "Tachyonic Antitelephone",
+  "hook": "Faster-than-light signaling enables sending messages to past.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Causality can be violated with faster-than-light communication.",
+  "tags": [
+    "causality",
+    "fasterthanlight"
+  ],
+  "related": []
+}

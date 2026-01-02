@@ -1,0 +1,15 @@
+{
+  "id": "p_moving_rows",
+  "title": "Moving Rows Paradox",
+  "hook": "Moving rows pass stationary differently than each other.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Motion is relative and depends on the observer's frame.",
+  "tags": [
+    "relativity_of_motion"
+  ],
+  "related": []
+}

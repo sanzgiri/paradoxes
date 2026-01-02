@@ -1,0 +1,17 @@
+{
+  "id": "p_monotonicity",
+  "title": "Monotonicity Criterion Failure",
+  "hook": "Increasing support for candidate can cause them to lose under some systems.",
+  "domains": [
+    "social_choice",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Support can backfire in certain voting systems.",
+  "tags": [
+    "voting",
+    "nonmonotonicity"
+  ],
+  "related": []
+}

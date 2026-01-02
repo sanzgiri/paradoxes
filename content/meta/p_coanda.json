@@ -1,0 +1,16 @@
+{
+  "id": "p_coanda",
+  "title": "Coand\u0103 Effect Paradox",
+  "hook": "Fluid streams follow curved surfaces defying straight-line expectation.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Curved paths can influence fluid behavior unexpectedly.",
+  "tags": [
+    "fluid_adhesion",
+    "surface"
+  ],
+  "related": []
+}

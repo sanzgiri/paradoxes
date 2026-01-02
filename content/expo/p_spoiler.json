@@ -1,0 +1,76 @@
+{
+  "id": "p_spoiler",
+  "narrative": {
+    "story": "In a three-way election, a third candidate emerges, drawing votes away from the leading candidate. This results in the less preferred candidate winning, despite the majority favoring the leading candidate. This phenomenon illustrates how the presence of a spoiler can distort electoral outcomes.",
+    "wrong_reasoning": "Many believe that voting for a third candidate is a waste, as it does not contribute to the winning outcome. However, this reasoning overlooks the potential for the third candidate to influence the election dynamics, leading to a less desired result.",
+    "paradox": "The paradox lies in the fact that voters may prefer a candidate who ultimately loses due to vote splitting, yet they feel compelled to vote strategically, which can lead to a less representative outcome."
+  },
+  "mechanism": {
+    "assumptions": "Voters have clear preferences; candidates can split votes; elections are binary.",
+    "steps": "1. Identify preferred candidates. 2. Assess the impact of a third candidate. 3. Decide whether to vote strategically or sincerely. 4. Analyze the election outcome.",
+    "math": "If candidate A has 40% support, B has 35%, and C has 25%, C's presence can cause A to lose despite being the preferred choice of the majority.",
+    "truth": "Vote splitting can distort true voter preferences."
+  },
+  "solutions": {
+    "paths": [
+      "Ranked choice voting",
+      "Two-round system",
+      "Voter education",
+      "Coalition building"
+    ],
+    "tradeoffs": [
+      "Complexity of voting system",
+      "Voter confusion",
+      "Potential for lower turnout",
+      "Increased campaign costs",
+      "Risk of strategic voting",
+      "Time for implementation",
+      "Resistance to change",
+      "Impact on minor parties"
+    ],
+    "status": "Ongoing discussions in electoral reform."
+  },
+  "practice": {
+    "patterns": [
+      "Strategic voting",
+      "Coalition formation",
+      "Voter mobilization",
+      "Preference aggregation",
+      "Election monitoring",
+      "Public forums",
+      "Debate participation",
+      "Candidate endorsement",
+      "Issue prioritization",
+      "Voter education campaigns"
+    ],
+    "prompts": [
+      "What is your preferred candidate?",
+      "How would a third candidate affect your vote?",
+      "Discuss the implications of vote splitting.",
+      "What reforms could mitigate the spoiler effect?",
+      "How do you feel about ranked choice voting?",
+      "What strategies can voters use?",
+      "Analyze a recent election for spoilers.",
+      "What are the benefits of coalition building?",
+      "How can voters be educated?",
+      "Discuss historical examples of the spoiler effect.",
+      "What role do minor parties play?",
+      "How can we encourage voter turnout?"
+    ],
+    "warnings": [
+      "Beware of strategic voting pitfalls.",
+      "Understand the implications of your vote.",
+      "Consider the long-term effects of reforms.",
+      "Be cautious of misinformation.",
+      "Recognize the importance of every vote."
+    ]
+  },
+  "context": {
+    "history": "The spoiler effect has been observed in various elections, notably in the U.S. presidential elections.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

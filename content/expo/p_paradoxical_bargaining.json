@@ -1,0 +1,76 @@
+{
+  "id": "p_paradoxical_bargaining",
+  "narrative": {
+    "story": "In a negotiation scenario, two parties must decide how to split a sum of money. Each party has the incentive to propose an unequal split to maximize their own gain. However, if one party proposes an unfair offer, the other can reject it, leading to no one receiving anything. Surprisingly, this often results in both parties agreeing to an equal split, despite their initial intentions to negotiate for more. This outcome highlights the complexities of human behavior in decision-making.",
+    "wrong_reasoning": "Many assume that the party with the most power will always dictate the terms. However, the fear of rejection can lead both parties to settle for fairness rather than risk losing everything. This misjudgment overlooks the role of mutual interest in negotiations.",
+    "paradox": "The paradox lies in the expectation that strategic self-interest will lead to unequal offers, yet the fear of rejection drives both parties to agree on an equal split, contradicting their initial motivations."
+  },
+  "mechanism": {
+    "assumptions": "Negotiators prioritize their own gain over fairness.",
+    "steps": "1. Each party evaluates their potential offers. 2. They consider the risk of rejection. 3. They adjust their offers to avoid losing the deal. 4. Both parties converge on an equal split.",
+    "math": "If Party A offers $70 to themselves and $30 to Party B, Party B may reject it. If both offer $50, they both gain something.",
+    "truth": "Negotiation outcomes can defy expectations."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage open communication",
+      "Establish trust",
+      "Set clear expectations",
+      "Utilize third-party mediation"
+    ],
+    "tradeoffs": [
+      "Fairness vs. individual gain",
+      "Short-term satisfaction vs. long-term relationships",
+      "Risk of rejection vs. potential gain",
+      "Complexity of negotiation vs. simplicity of equal split",
+      "Power dynamics vs. mutual agreement",
+      "Emotional responses vs. rational decisions",
+      "Cultural differences vs. common ground",
+      "Time invested vs. outcome achieved"
+    ],
+    "status": "Ongoing research in behavioral economics."
+  },
+  "practice": {
+    "patterns": [
+      "Ultimatum game",
+      "Negotiation role-play",
+      "Fairness experiments",
+      "Decision-making scenarios",
+      "Game theory applications",
+      "Conflict resolution techniques",
+      "Bargaining simulations",
+      "Trust-building exercises",
+      "Empathy training",
+      "Feedback sessions"
+    ],
+    "prompts": [
+      "What would you offer?",
+      "How would you respond to a low offer?",
+      "Discuss fairness in negotiations.",
+      "Role-play a negotiation scenario.",
+      "What are your priorities?",
+      "How can you build trust?",
+      "What risks are you willing to take?",
+      "How do emotions affect decisions?",
+      "What strategies can ensure fairness?",
+      "Reflect on past negotiations.",
+      "What assumptions are you making?",
+      "How can you improve your negotiation skills?"
+    ],
+    "warnings": [
+      "Avoid making extreme offers.",
+      "Don't underestimate the power of rejection.",
+      "Be aware of emotional biases.",
+      "Don't ignore the other party's perspective.",
+      "Be cautious of cultural differences."
+    ]
+  },
+  "context": {
+    "history": "The concept of fairness in bargaining has been studied in economics and psychology for decades, revealing insights into human behavior.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

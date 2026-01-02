@@ -1,0 +1,76 @@
+{
+  "id": "p_ellsberg",
+  "narrative": {
+    "story": "In a classic experiment, participants choose between two urns. One urn has 50 red and 50 black balls, while the other has an unknown mix of red and black balls. Most people prefer the known urn, demonstrating a preference for certainty over ambiguity, even when the expected outcomes are the same. This behavior highlights a fundamental aspect of human decision-making: the discomfort with ambiguity.",
+    "wrong_reasoning": "Many believe that risk aversion explains the preference for the known urn. However, this is misleading because risk aversion pertains to known probabilities, while the Ellsberg Paradox specifically addresses choices involving ambiguity, where probabilities are unknown. This distinction is crucial in understanding why people behave differently in ambiguous situations compared to risky ones.",
+    "paradox": "The Ellsberg Paradox illustrates that people's preferences can violate the axioms of expected utility theory. While traditional models assume rational decision-making based on known probabilities, the paradox reveals that individuals often prefer options with known outcomes, even when they are statistically less favorable."
+  },
+  "mechanism": {
+    "assumptions": "People prefer known probabilities over unknown ones.",
+    "steps": "1. Present choices between urns with known vs. unknown compositions. 2. Observe preferences. 3. Analyze choices against expected utility predictions.",
+    "math": "Expected utility calculations show equal expected values for both urns, yet choices diverge.",
+    "truth": "Ambiguity aversion is a real phenomenon."
+  },
+  "solutions": {
+    "paths": [
+      "Educate on probability and risk vs. ambiguity.",
+      "Use decision aids to clarify options.",
+      "Encourage exploration of ambiguous choices.",
+      "Implement policies that reduce ambiguity."
+    ],
+    "tradeoffs": [
+      "Increased clarity may reduce ambiguity aversion.",
+      "Simplifying choices might overlook complex preferences.",
+      "Encouraging risk-taking can lead to negative outcomes.",
+      "Balancing certainty and exploration is challenging.",
+      "Overemphasis on data can overwhelm decision-makers.",
+      "Ignoring ambiguity may lead to poor long-term choices.",
+      "Fostering a culture of risk-taking can backfire.",
+      "Reducing options may limit beneficial ambiguity."
+    ],
+    "status": "Ongoing research into decision-making under uncertainty."
+  },
+  "practice": {
+    "patterns": [
+      "Identify ambiguous situations.",
+      "Evaluate known vs. unknown outcomes.",
+      "Reflect on personal biases towards ambiguity.",
+      "Discuss decisions with peers to gain perspective.",
+      "Use scenarios to practice decision-making.",
+      "Analyze past decisions involving ambiguity.",
+      "Create a decision matrix for clarity.",
+      "Simulate outcomes of ambiguous choices.",
+      "Explore case studies of ambiguity aversion.",
+      "Engage in role-playing to experience different perspectives."
+    ],
+    "prompts": [
+      "What are the known probabilities?",
+      "How does ambiguity affect your choice?",
+      "What would you choose if you knew the outcomes?",
+      "Reflect on a time you faced ambiguity.",
+      "How can you reduce uncertainty in this decision?",
+      "What assumptions are you making?",
+      "What are the potential consequences of your choice?",
+      "How do you feel about taking risks?",
+      "What information would help clarify your decision?",
+      "What biases might influence your choice?",
+      "How can you approach this decision differently?",
+      "What would you advise a friend in this situation?"
+    ],
+    "warnings": [
+      "Avoid overconfidence in ambiguous situations.",
+      "Don't ignore your discomfort with uncertainty.",
+      "Be cautious of simplifying complex decisions.",
+      "Recognize the influence of emotions on choices.",
+      "Beware of confirmation bias in decision-making."
+    ]
+  },
+  "context": {
+    "history": "The Ellsberg Paradox was introduced by Daniel Ellsberg in 1961, challenging traditional economic theories of decision-making.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

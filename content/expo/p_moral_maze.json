@@ -1,0 +1,76 @@
+{
+  "id": "p_moral_maze",
+  "narrative": {
+    "story": "In a moral dilemma, two scenarios present the same action: diverting a trolley to save five people at the cost of one. In one case, the action is framed as a choice to kill one to save five; in another, it's framed as a choice to save five by redirecting the trolley. People's judgments often shift based on how the scenario is described, revealing inconsistencies in moral reasoning.",
+    "wrong_reasoning": "Many believe that the moral weight of an action should remain constant regardless of its framing. However, studies show that people's decisions can be swayed by how options are presented, leading to the conclusion that moral judgments are not purely objective but influenced by context.",
+    "paradox": "The paradox lies in the fact that the same action can be deemed morally acceptable in one framing and unacceptable in another, challenging the notion of a consistent moral framework."
+  },
+  "mechanism": {
+    "assumptions": "People assume moral judgments are absolute and not influenced by context.",
+    "steps": "1. Present two scenarios with the same outcome. 2. Ask participants to judge the morality of the action. 3. Analyze the differences in responses based on framing.",
+    "math": "N/A",
+    "truth": "Moral judgments can be context-dependent."
+  },
+  "solutions": {
+    "paths": [
+      "Reframe moral dilemmas",
+      "Educate on framing effects",
+      "Encourage critical thinking",
+      "Promote consistent moral frameworks"
+    ],
+    "tradeoffs": [
+      "Clarity vs. complexity",
+      "Emotional appeal vs. rational analysis",
+      "Individual vs. collective morality",
+      "Short-term vs. long-term consequences",
+      "Simplicity vs. nuance",
+      "Cultural differences vs. universal ethics",
+      "Intuition vs. deliberation",
+      "Consistency vs. flexibility"
+    ],
+    "status": "Ongoing discussions in ethics and psychology."
+  },
+  "practice": {
+    "patterns": [
+      "Framing effects",
+      "Moral reasoning",
+      "Decision-making biases",
+      "Ethical dilemmas",
+      "Contextual analysis",
+      "Cognitive dissonance",
+      "Value judgments",
+      "Scenario analysis",
+      "Empathy in decision-making",
+      "Critical evaluation"
+    ],
+    "prompts": [
+      "How would you frame this scenario?",
+      "What assumptions are you making?",
+      "Can you identify biases in your reasoning?",
+      "How does context change your judgment?",
+      "What alternative perspectives exist?",
+      "What is the moral principle at stake?",
+      "How would different cultures view this?",
+      "What are the potential consequences?",
+      "Is there a way to reconcile differing judgments?",
+      "What would a utilitarian say?",
+      "What would a deontologist argue?",
+      "How does this relate to real-world situations?"
+    ],
+    "warnings": [
+      "Avoid emotional reasoning",
+      "Be aware of framing effects",
+      "Question your assumptions",
+      "Recognize cognitive biases",
+      "Don't oversimplify complex issues"
+    ]
+  },
+  "context": {
+    "history": "The moral maze paradox has roots in philosophical discussions about ethics and decision-making, particularly in the context of the trolley problem.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

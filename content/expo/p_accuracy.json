@@ -1,0 +1,57 @@
+{
+  "id": "p_accuracy",
+  "narrative": {
+    "story": "In predictive modeling, a classifier may achieve high accuracy on a dataset, yet fail to predict minority classes effectively. This occurs when the dataset is imbalanced, leading to a false sense of security about the model's performance. For instance, a model predicting whether an email is spam might classify 95% of emails correctly, but if 90% of the emails are not spam, it may miss many spam emails, resulting in poor real-world performance.",
+    "wrong_reasoning": "Many assume that a high accuracy score indicates a good model. However, this reasoning overlooks the distribution of classes in the dataset. A model could predict the majority class most of the time and still report high accuracy, while failing to identify the minority class, which is often the more critical aspect of the prediction.",
+    "paradox": "The accuracy paradox illustrates that a model can be accurate yet ineffective. It challenges the notion that accuracy is the sole metric for evaluating model performance, especially in cases where class distribution is skewed."
+  },
+  "mechanism": {
+    "assumptions": "Assumes equal importance of all classes in the dataset.",
+    "steps": "1. Analyze the class distribution in the dataset. 2. Train a classifier and evaluate its accuracy. 3. Examine precision, recall, and F1 score for each class. 4. Compare results to understand the model's performance on minority classes.",
+    "math": "Accuracy = (True Positives + True Negatives) / Total Samples.",
+    "truth": "Accuracy can be deceptive in imbalanced datasets."
+  },
+  "solutions": {
+    "paths": [
+      "Use precision and recall metrics.",
+      "Implement resampling techniques.",
+      "Utilize cost-sensitive learning.",
+      "Explore ensemble methods."
+    ],
+    "tradeoffs": [
+      "Increased complexity with ensemble methods.",
+      "Potential loss of information with resampling.",
+      "Higher computational cost for cost-sensitive learning.",
+      "Risk of overfitting with minority class emphasis."
+    ],
+    "status": "Ongoing research in model evaluation metrics."
+  },
+  "practice": {
+    "patterns": [
+      "Evaluate models using confusion matrices.",
+      "Consider ROC curves for performance assessment.",
+      "Use stratified sampling for training.",
+      "Implement cross-validation techniques."
+    ],
+    "prompts": [
+      "What is the class distribution?",
+      "How does the model perform on minority classes?",
+      "What metrics are most relevant for evaluation?",
+      "How can the model be improved?"
+    ],
+    "warnings": [
+      "Avoid relying solely on accuracy.",
+      "Be cautious of overfitting.",
+      "Monitor for bias in model predictions.",
+      "Consider the impact of class imbalance on results."
+    ]
+  },
+  "context": {
+    "history": "The accuracy paradox has been recognized in statistical modeling since the early 2000s, highlighting the need for better evaluation metrics.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

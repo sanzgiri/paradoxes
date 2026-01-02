@@ -1,0 +1,76 @@
+{
+  "id": "p_immovable",
+  "narrative": {
+    "story": "Imagine a scenario where an unstoppable force meets an immovable object. This situation creates a paradox: if the force is truly unstoppable, it should be able to move the object. Conversely, if the object is truly immovable, it cannot be moved by any force. This conflict raises questions about the nature of force and resistance, leading to deep philosophical inquiries.",
+    "wrong_reasoning": "One might reason that if an irresistible force exists, it must be able to overcome any obstacle, including an immovable object. However, this reasoning fails to consider the definitions of both terms. If both exist simultaneously, they contradict each other, suggesting that at least one must be false.",
+    "paradox": "The paradox lies in the logical impossibility of both an irresistible force and an immovable object existing together. If one exists, the other cannot, leading to a contradiction that challenges our understanding of physical laws."
+  },
+  "mechanism": {
+    "assumptions": "The definitions of 'irresistible' and 'immovable' are absolute and mutually exclusive.",
+    "steps": "1. Define an irresistible force. 2. Define an immovable object. 3. Analyze the implications of their coexistence. 4. Conclude the logical conflict.",
+    "math": "No mathematical formulation applies directly, as this is a philosophical paradox.",
+    "truth": "The truth is that both concepts cannot coexist without contradiction."
+  },
+  "solutions": {
+    "paths": [
+      "Redefine the terms to allow coexistence.",
+      "Accept that one of the concepts must be false.",
+      "Explore alternative frameworks of understanding.",
+      "Consider the paradox as a thought experiment."
+    ],
+    "tradeoffs": [
+      "Simplifying definitions may lose nuance.",
+      "Accepting one concept as false limits exploration.",
+      "Alternative frameworks may complicate understanding.",
+      "Thought experiments may not yield practical insights.",
+      "Engaging with paradoxes can lead to confusion.",
+      "Over-analysis may detract from intuitive understanding.",
+      "Rejecting the paradox may ignore deeper truths.",
+      "Maintaining both concepts may lead to cognitive dissonance."
+    ],
+    "status": "The paradox remains a topic of philosophical debate."
+  },
+  "practice": {
+    "patterns": [
+      "Identify contradictions in definitions.",
+      "Explore similar paradoxes.",
+      "Discuss implications in groups.",
+      "Apply concepts to real-world scenarios.",
+      "Analyze historical interpretations.",
+      "Create visual representations.",
+      "Write essays on related topics.",
+      "Engage in debates.",
+      "Reflect on personal beliefs.",
+      "Challenge assumptions."
+    ],
+    "prompts": [
+      "What if the definitions were altered?",
+      "How does this paradox relate to modern physics?",
+      "Can you think of real-life examples?",
+      "What philosophical implications arise?",
+      "How do different cultures interpret this paradox?",
+      "What are the limits of human understanding?",
+      "How does language shape our perception of this paradox?",
+      "What role does belief play in accepting these concepts?",
+      "Can this paradox be resolved?",
+      "What are the consequences of accepting one concept as true?",
+      "How does this paradox influence theological discussions?",
+      "What are the implications for free will?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying complex ideas.",
+      "Be cautious of confirmation bias.",
+      "Recognize the limits of logical reasoning.",
+      "Stay open to multiple interpretations.",
+      "Do not dismiss the paradox too quickly."
+    ]
+  },
+  "context": {
+    "history": "This paradox has been discussed in philosophical circles for centuries, often used to illustrate the limits of human reasoning.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

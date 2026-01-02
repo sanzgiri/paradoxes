@@ -1,0 +1,76 @@
+{
+  "id": "p_volunteer's_dilemma",
+  "narrative": {
+    "story": "In a small community, a group faces a crisis that requires one member to volunteer for a challenging task. Each individual hopes someone else will step up, leading to a stalemate where no one acts. This dilemma illustrates the tension between self-interest and collective benefit.",
+    "wrong_reasoning": "Many believe that if everyone thinks someone else will volunteer, then it\u2019s rational to wait. However, this reasoning ignores the reality that if everyone waits, no one will act, resulting in a worse outcome for all.",
+    "paradox": "The paradox lies in the fact that while everyone benefits from someone volunteering, the incentive to act diminishes as individuals expect others to take the initiative."
+  },
+  "mechanism": {
+    "assumptions": "Individuals prioritize personal comfort over group needs.",
+    "steps": "1. Identify the need for action. 2. Assess personal willingness to volunteer. 3. Consider others' potential actions. 4. Decide whether to act or wait.",
+    "math": "If n individuals are needed to volunteer and each has a probability p of acting, the expected number of volunteers is n * p. If p is low, the expected outcome is insufficient.",
+    "truth": "Collective action requires at least one individual to overcome hesitation."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage commitment through incentives",
+      "Create a culture of volunteering",
+      "Implement accountability measures",
+      "Educate on the importance of participation"
+    ],
+    "tradeoffs": [
+      "Incentives may lead to dependency",
+      "Cultural shifts take time",
+      "Accountability can create pressure",
+      "Education requires resources",
+      "Volunteering may not suit everyone",
+      "Risk of burnout in volunteers",
+      "Potential resentment among non-volunteers",
+      "Balancing individual and group needs"
+    ],
+    "status": "Ongoing efforts to address the dilemma in various communities."
+  },
+  "practice": {
+    "patterns": [
+      "Group discussions",
+      "Role-playing scenarios",
+      "Incentive programs",
+      "Feedback loops",
+      "Public commitments",
+      "Peer support systems",
+      "Awareness campaigns",
+      "Volunteer recognition",
+      "Shared responsibilities",
+      "Community events"
+    ],
+    "prompts": [
+      "What would motivate you to volunteer?",
+      "How can we support each other?",
+      "What are the risks of inaction?",
+      "Share a time you volunteered.",
+      "Discuss barriers to volunteering.",
+      "What incentives would work?",
+      "How can we build trust?",
+      "What roles can we share?",
+      "What are the community needs?",
+      "How can we celebrate volunteers?",
+      "What commitments can we make?",
+      "How can we encourage others?"
+    ],
+    "warnings": [
+      "Avoid coercion",
+      "Recognize individual limits",
+      "Be mindful of burnout",
+      "Ensure inclusivity",
+      "Monitor group dynamics"
+    ]
+  },
+  "context": {
+    "history": "The Volunteer's Dilemma has been studied in various fields, including economics and sociology, highlighting the challenges of collective action.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

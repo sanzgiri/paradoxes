@@ -1,0 +1,16 @@
+{
+  "id": "p_satisfaction",
+  "title": "Satisfaction Paradox",
+  "hook": "A self-referential definability issue in logic.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Self-reference can lead to definitional contradictions.",
+  "tags": [
+    "heterological",
+    "predication"
+  ],
+  "related": []
+}

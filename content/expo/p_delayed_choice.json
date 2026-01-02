@@ -1,0 +1,57 @@
+{
+  "id": "p_delayed_choice",
+  "narrative": {
+    "story": "In the Delayed Choice Paradox, a photon is sent through a double-slit apparatus. If measured, it behaves like a particle, but if not measured, it behaves like a wave. The twist is that the decision to measure or not can be made after the photon has passed through the slits, seemingly affecting its past behavior. This challenges our understanding of time and causality in quantum mechanics.",
+    "wrong_reasoning": "Some might argue that the photon 'decides' how to behave based on future actions. However, this misinterprets the nature of quantum mechanics, where outcomes are probabilistic and not determined until measurement.",
+    "paradox": "The paradox lies in the fact that the choice to measure or not can retroactively change the behavior of the photon, suggesting that future actions can influence past events."
+  },
+  "mechanism": {
+    "assumptions": "The behavior of particles is influenced by observation.",
+    "steps": "1. A photon is emitted towards a double-slit. 2. It travels through the slits. 3. A decision is made to measure or not. 4. The outcome is observed, revealing wave or particle behavior.",
+    "math": "The probability amplitudes for the photon can be calculated using wave functions, leading to interference patterns when not measured.",
+    "truth": "Reality is not fixed until observed."
+  },
+  "solutions": {
+    "paths": [
+      "Accept the non-classical nature of quantum mechanics.",
+      "Explore interpretations like the Copenhagen or Many-Worlds.",
+      "Investigate implications for causality.",
+      "Conduct experiments to further understand quantum behavior."
+    ],
+    "tradeoffs": [
+      "Simpler classical models vs. complex quantum interpretations.",
+      "Determinism vs. probabilistic outcomes.",
+      "Intuitive understanding vs. counterintuitive quantum phenomena.",
+      "Philosophical implications vs. practical applications."
+    ],
+    "status": "Ongoing research in quantum mechanics."
+  },
+  "practice": {
+    "patterns": [
+      "Experiment with double-slit setups.",
+      "Analyze quantum experiments.",
+      "Discuss implications of measurement.",
+      "Explore different interpretations of quantum mechanics."
+    ],
+    "prompts": [
+      "What does it mean for reality to be observer-dependent?",
+      "How does this paradox challenge classical physics?",
+      "Can you think of other examples where future choices affect past events?",
+      "What are the implications for our understanding of time?"
+    ],
+    "warnings": [
+      "Avoid conflating quantum behavior with classical intuition.",
+      "Be cautious of oversimplifying complex quantum concepts.",
+      "Recognize the limits of current interpretations.",
+      "Do not assume causality behaves as in classical physics."
+    ]
+  },
+  "context": {
+    "history": "The Delayed Choice Paradox was proposed by physicist John Archibald Wheeler in the 1970s, highlighting the peculiarities of quantum mechanics.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

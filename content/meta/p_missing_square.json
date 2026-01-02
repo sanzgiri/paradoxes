@@ -1,0 +1,16 @@
+{
+  "id": "p_missing_square",
+  "title": "Missing Square Puzzle",
+  "hook": "Figures same pieces but different areas due to visual trick.",
+  "domains": [
+    "other"
+  ],
+  "difficulty": "intro",
+  "paradox_type": "falsidical",
+  "key_lesson": "Visual perception can deceive mathematical reasoning.",
+  "tags": [
+    "dissection",
+    "area"
+  ],
+  "related": []
+}

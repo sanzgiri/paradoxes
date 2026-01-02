@@ -1,0 +1,16 @@
+{
+  "id": "p_pascal_wager",
+  "title": "Pascal's Wager",
+  "hook": "Infinite reward for belief makes wagering on God rational regardless of probability.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Rationality can lead to belief based on potential infinite outcomes.",
+  "tags": [
+    "expected_utility",
+    "infinite_reward"
+  ],
+  "related": []
+}

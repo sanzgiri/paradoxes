@@ -1,0 +1,15 @@
+{
+  "id": "p_revenge_liar",
+  "title": "Revenge Liar Paradox",
+  "hook": "Even after assigning truth predicates to levels, a new liar sentence at the next level arises.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Truth predicates can lead to infinite regress.",
+  "tags": [
+    "truth_hierarchies"
+  ],
+  "related": []
+}

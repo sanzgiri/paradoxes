@@ -1,0 +1,67 @@
+{
+  "id": "p_omission_bias",
+  "narrative": {
+    "story": "The omission bias paradox illustrates how people often prefer inaction over action, even when the expected outcomes of inaction are worse. For instance, in a medical scenario, a doctor may hesitate to administer a treatment that has potential side effects, even if not treating the patient could lead to severe consequences. This bias can lead to detrimental decisions in various fields, from healthcare to policy-making.",
+    "wrong_reasoning": "Many believe that by not acting, they avoid responsibility for negative outcomes. This reasoning overlooks the fact that inaction can also result in harm. The assumption that doing nothing is safer can lead to worse results, as the consequences of inaction are often ignored or underestimated.",
+    "paradox": "The paradox lies in the preference for inaction despite knowing that it can lead to worse outcomes. This preference contradicts rational decision-making, where one would typically choose the option that minimizes harm, regardless of whether it involves action or inaction."
+  },
+  "mechanism": {
+    "assumptions": "People assume that inaction is less risky and avoids blame.",
+    "steps": "1. Identify a decision point. 2. Evaluate potential actions and inactions. 3. Compare expected outcomes. 4. Choose inaction based on perceived safety.",
+    "math": "If the expected loss from inaction is greater than the expected loss from action, rational choice would favor action. However, biases can skew this evaluation.",
+    "truth": "Inaction can lead to significant negative outcomes."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage proactive decision-making.",
+      "Educate on the consequences of inaction.",
+      "Implement frameworks for evaluating risks.",
+      "Promote accountability in decision-making."
+    ],
+    "tradeoffs": [
+      "Immediate comfort vs. long-term consequences.",
+      "Avoiding blame vs. facing potential outcomes.",
+      "Short-term safety vs. overall well-being.",
+      "Perceived risk vs. actual risk."
+    ],
+    "status": "Ongoing research into decision-making biases."
+  },
+  "practice": {
+    "patterns": [
+      "Identify decision points.",
+      "Analyze potential outcomes.",
+      "Discuss biases with peers.",
+      "Reflect on past decisions.",
+      "Use decision-making frameworks."
+    ],
+    "prompts": [
+      "What are the potential outcomes of inaction?",
+      "How does this decision align with your values?",
+      "What would you advise a friend in this situation?",
+      "Are you avoiding responsibility by not acting?",
+      "What are the risks of inaction?",
+      "How would you feel if inaction leads to harm?",
+      "What evidence supports taking action?",
+      "What are the long-term effects of your choice?",
+      "How can you mitigate risks of action?",
+      "What lessons can be learned from past decisions?",
+      "How do biases influence your choices?",
+      "What alternative actions can you consider?"
+    ],
+    "warnings": [
+      "Beware of the comfort of inaction.",
+      "Don't underestimate the consequences of doing nothing.",
+      "Recognize the influence of biases on your decisions.",
+      "Avoid rationalizing inaction as a safer choice.",
+      "Be aware of the long-term implications of your choices."
+    ]
+  },
+  "context": {
+    "history": "The omission bias has been studied in psychology and decision theory, highlighting its impact on human behavior.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "p_rock_paper",
+  "narrative": {
+    "story": "In the game of Rock-Paper-Scissors, each choice beats one option and loses to another, creating a cycle. This paradox illustrates how players must randomize their choices to avoid predictability, leading to a mixed strategy equilibrium where no player has an advantage.",
+    "wrong_reasoning": "Many believe that consistently choosing one option can lead to victory. However, this strategy is easily countered by opponents who adapt, demonstrating that predictability is detrimental in cyclic games.",
+    "paradox": "The paradox arises from the necessity of randomness in a game where each option is equally viable. It challenges the notion of a dominant strategy, revealing that the best approach is to mix choices."
+  },
+  "mechanism": {
+    "assumptions": "Players are rational and seek to maximize their chances of winning.",
+    "steps": "1. Identify the options: Rock, Paper, Scissors. 2. Understand the cyclic dominance: Rock > Scissors, Scissors > Paper, Paper > Rock. 3. Recognize the need for randomization to maintain unpredictability. 4. Implement a mixed strategy to achieve equilibrium.",
+    "math": "The expected payoff in a mixed strategy is equal across all choices, leading to a Nash equilibrium where no player can benefit from changing their strategy unilaterally.",
+    "truth": "In cyclic games, randomness is essential."
+  },
+  "solutions": {
+    "paths": [
+      "Adopt a mixed strategy",
+      "Analyze opponent's patterns",
+      "Use psychological tactics",
+      "Incorporate randomness"
+    ],
+    "tradeoffs": [
+      "Increased complexity in decision-making",
+      "Potential for suboptimal choices",
+      "Requires understanding of opponent behavior",
+      "Risk of overthinking",
+      "May lead to frustration",
+      "Time-consuming analysis",
+      "Possibility of misjudgment",
+      "Need for adaptability"
+    ],
+    "status": "Effective in competitive settings."
+  },
+  "practice": {
+    "patterns": [
+      "Random choice generation",
+      "Pattern recognition",
+      "Adaptive strategies",
+      "Psychological manipulation",
+      "Bluffing",
+      "Statistical analysis",
+      "Game theory application",
+      "Risk assessment",
+      "Behavioral observation",
+      "Feedback loops"
+    ],
+    "prompts": [
+      "What strategy did your opponent use?",
+      "How can you randomize your choices?",
+      "What patterns can you identify?",
+      "How does your choice affect the game?",
+      "What are the potential outcomes?",
+      "How can you adapt your strategy?",
+      "What psychological tactics can you employ?",
+      "How do you respond to predictability?",
+      "What tradeoffs are you willing to make?",
+      "How can you improve your decision-making?",
+      "What is your opponent's likely next move?",
+      "How can you maintain unpredictability?"
+    ],
+    "warnings": [
+      "Avoid predictable patterns",
+      "Don't overanalyze",
+      "Be cautious of opponent's psychology",
+      "Maintain randomness",
+      "Adapt to changing dynamics"
+    ]
+  },
+  "context": {
+    "history": "The game has been played for centuries, often used to resolve disputes or make decisions.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

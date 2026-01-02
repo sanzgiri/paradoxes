@@ -1,0 +1,76 @@
+{
+  "id": "p_necktie",
+  "narrative": {
+    "story": "In the Necktie Paradox, two players engage in a wager where each believes they have the upper hand. Player A bets that they will win a necktie, while Player B believes they will win as well. The paradox arises from the fact that both players can justify their chances of winning based on their understanding of the game, leading to a situation where both feel favored despite the odds being against them. This creates a false sense of security and fairness in the wager.",
+    "wrong_reasoning": "Both players assume that their individual strategies guarantee a win, neglecting the overall probability of the wager. They fail to recognize that their beliefs are based on flawed reasoning, as the game\u2019s structure does not support both winning simultaneously. This misjudgment leads to an illusion of advantage.",
+    "paradox": "The Necktie Paradox illustrates how two parties can feel equally favored in a wager, despite the underlying probabilities suggesting otherwise. This contradiction highlights the complexities of decision-making under uncertainty."
+  },
+  "mechanism": {
+    "assumptions": "Each player assumes their strategy is superior and overlooks the collective probability.",
+    "steps": "1. Player A and Player B agree on a wager. 2. Each player evaluates their chances based on personal beliefs. 3. Both players commit to the wager, believing they will win. 4. The outcome reveals the flawed assumptions.",
+    "math": "The probabilities involved can be calculated, but both players ignore the mathematical implications in favor of personal belief.",
+    "truth": "The truth is that only one can win, yet both feel justified in their beliefs."
+  },
+  "solutions": {
+    "paths": [
+      "Educate players on probability",
+      "Encourage critical thinking",
+      "Implement clearer rules",
+      "Use simulations to demonstrate outcomes"
+    ],
+    "tradeoffs": [
+      "Increased understanding vs. potential confusion",
+      "More rules vs. simplicity",
+      "Engagement vs. accuracy",
+      "Time spent learning vs. immediate play",
+      "Risk of losing interest vs. deeper insight",
+      "Complexity vs. clarity",
+      "Individual belief vs. collective reality",
+      "Short-term wins vs. long-term understanding"
+    ],
+    "status": "Ongoing discussions in probability theory and decision-making."
+  },
+  "practice": {
+    "patterns": [
+      "Identify assumptions",
+      "Evaluate outcomes",
+      "Discuss probabilities",
+      "Analyze past wagers",
+      "Use visual aids",
+      "Simulate scenarios",
+      "Encourage skepticism",
+      "Foster group discussions",
+      "Challenge beliefs",
+      "Review decisions"
+    ],
+    "prompts": [
+      "What are the odds?",
+      "How do you justify your belief?",
+      "What if the roles were reversed?",
+      "Can both win?",
+      "What does the math say?",
+      "How would you explain this to a friend?",
+      "What assumptions are you making?",
+      "What evidence supports your claim?",
+      "How can you test your belief?",
+      "What are the implications of your decision?",
+      "What strategies could improve your chances?",
+      "How does this relate to other paradoxes?"
+    ],
+    "warnings": [
+      "Don't rely solely on intuition.",
+      "Be aware of cognitive biases.",
+      "Understand the limits of personal belief.",
+      "Recognize the role of chance.",
+      "Avoid overconfidence."
+    ]
+  },
+  "context": {
+    "history": "The Necktie Paradox has been discussed in various contexts of decision theory and probability, often compared to other paradoxes like the Two-envelope paradox.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

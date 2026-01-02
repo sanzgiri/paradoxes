@@ -1,0 +1,66 @@
+{
+  "id": "p_infinitely_repeated",
+  "narrative": {
+    "story": "In infinitely repeated games, players face the same situation over and over. The potential for future interactions encourages cooperation, as players weigh the benefits of mutual cooperation against the temptation to defect for immediate gain. This dynamic leads to a stable equilibrium where cooperation becomes the rational choice.",
+    "wrong_reasoning": "One might assume that since players can defect for immediate rewards, they will always choose to do so. However, this overlooks the long-term benefits of cooperation and the punishment strategies that can arise in repeated games, which can deter defection.",
+    "paradox": "The paradox lies in the fact that while defection seems rational in a single game, the infinite nature of the game allows for strategies that promote cooperation, contradicting the expectation that players will always act in their immediate self-interest."
+  },
+  "mechanism": {
+    "assumptions": "Players are rational and seek to maximize their payoffs over time.",
+    "steps": "1. Players engage in the game repeatedly. 2. They evaluate the long-term benefits of cooperation. 3. Strategies evolve to punish defection. 4. Cooperation becomes a stable equilibrium.",
+    "math": "The payoff matrix illustrates the benefits of cooperation over time, showing that the discounted future payoffs can outweigh immediate gains from defection.",
+    "truth": "Cooperation can be sustained in infinitely repeated games."
+  },
+  "solutions": {
+    "paths": [
+      "Establishing trust through communication.",
+      "Implementing punishment strategies for defectors.",
+      "Using reputation systems to encourage cooperation.",
+      "Creating incentives for mutual cooperation."
+    ],
+    "tradeoffs": [
+      "Short-term gain vs. long-term cooperation.",
+      "Risk of defection vs. stability of cooperation.",
+      "Complexity of strategies vs. simplicity of defection.",
+      "Immediate rewards vs. future benefits."
+    ],
+    "status": "Ongoing research in game theory."
+  },
+  "practice": {
+    "patterns": [
+      "Tit-for-tat strategy.",
+      "Grim trigger strategy.",
+      "Generous tit-for-tat.",
+      "Randomized strategies."
+    ],
+    "prompts": [
+      "How can trust be built in repeated interactions?",
+      "What punishment strategies can deter defection?",
+      "How does reputation influence cooperation?",
+      "What are the long-term benefits of cooperation?",
+      "Can cooperation emerge in one-shot games?",
+      "What role does communication play in cooperation?",
+      "How do cultural factors influence game outcomes?",
+      "What are the implications for real-world negotiations?",
+      "How can we model cooperation mathematically?",
+      "What historical examples illustrate this paradox?",
+      "How does this apply to environmental agreements?",
+      "What lessons can be drawn for team dynamics?"
+    ],
+    "warnings": [
+      "Beware of overestimating immediate gains.",
+      "Don't ignore the importance of future interactions.",
+      "Avoid rigid strategies that don't adapt.",
+      "Recognize the potential for miscommunication.",
+      "Understand the limits of trust."
+    ]
+  },
+  "context": {
+    "history": "The study of infinitely repeated games has evolved from early game theory research, highlighting the complexities of cooperation.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

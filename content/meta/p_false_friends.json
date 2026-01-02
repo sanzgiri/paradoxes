@@ -1,0 +1,16 @@
+{
+  "id": "p_false_friends",
+  "title": "False Friends Paradox",
+  "hook": "Similar-looking words across languages can mislead speakers into incorrect interpretations.",
+  "domains": [
+    "linguistics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Beware of misleading similarities in language.",
+  "tags": [
+    "translation",
+    "semantics"
+  ],
+  "related": []
+}

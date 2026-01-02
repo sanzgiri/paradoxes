@@ -1,0 +1,76 @@
+{
+  "id": "p_tragedy_commons",
+  "narrative": {
+    "story": "In a shared pasture, each herder aims to maximize their own gain by adding more livestock. Initially, this seems beneficial as each herder profits. However, as more livestock are added, the pasture becomes overgrazed, leading to depletion of resources. Eventually, all herders suffer as the pasture can no longer support any livestock, illustrating how individual rational choices can lead to collective disaster.",
+    "wrong_reasoning": "Many believe that if everyone acts in their own self-interest, the resources will remain abundant. This reasoning fails to account for the limits of shared resources and the impact of individual actions on the collective. The assumption is that resources are infinite, which leads to overexploitation.",
+    "paradox": "The paradox lies in the fact that while each individual seeks to benefit themselves, the cumulative effect of their actions results in a loss for all. This contradiction highlights the conflict between individual incentives and collective well-being."
+  },
+  "mechanism": {
+    "assumptions": "Individuals act rationally and seek to maximize personal benefit.",
+    "steps": "1. Each herder adds livestock to increase personal gain. 2. Over time, the pasture becomes overgrazed. 3. Resource depletion occurs, affecting all herders. 4. Ultimately, the pasture can no longer sustain any livestock.",
+    "math": "If each herder adds one additional animal, the total number of animals increases linearly, but the pasture's capacity is finite, leading to a quadratic decline in resource availability.",
+    "truth": "Rational individual choices can lead to irrational collective outcomes."
+  },
+  "solutions": {
+    "paths": [
+      "Implementing regulations on resource use.",
+      "Creating cooperative agreements among users.",
+      "Introducing sustainable practices.",
+      "Educating users about the long-term impacts."
+    ],
+    "tradeoffs": [
+      "Short-term gains vs. long-term sustainability.",
+      "Individual freedom vs. collective responsibility.",
+      "Economic growth vs. environmental health.",
+      "Immediate benefits vs. future resource availability.",
+      "Personal profit vs. community welfare.",
+      "Market solutions vs. regulatory approaches.",
+      "Innovation vs. tradition in resource management.",
+      "Cost of enforcement vs. benefits of sustainability."
+    ],
+    "status": "Ongoing discussions in policy and economics."
+  },
+  "practice": {
+    "patterns": [
+      "Identifying shared resources.",
+      "Analyzing individual vs. collective outcomes.",
+      "Exploring case studies of resource management.",
+      "Evaluating the impact of regulations.",
+      "Discussing ethical implications of resource use.",
+      "Modeling scenarios of resource depletion.",
+      "Collaborative decision-making exercises.",
+      "Simulating resource management strategies.",
+      "Debating the role of government in resource allocation.",
+      "Creating awareness campaigns on sustainability."
+    ],
+    "prompts": [
+      "What are examples of shared resources in your community?",
+      "How can individuals balance personal gain with collective needs?",
+      "Discuss a time when individual actions affected a group negatively.",
+      "What regulations could help manage shared resources?",
+      "How do cultural values influence resource use?",
+      "What role does technology play in resource management?",
+      "Can market solutions effectively address the tragedy of the commons?",
+      "How can education change behaviors regarding resource use?",
+      "What are the consequences of ignoring sustainability?",
+      "How do you think future generations will view our resource use?",
+      "What are the most effective ways to promote cooperation?",
+      "How can we measure the success of resource management strategies?"
+    ],
+    "warnings": [
+      "Avoid assuming resources are infinite.",
+      "Be cautious of short-term thinking.",
+      "Recognize the impact of individual actions.",
+      "Understand the importance of collective agreements.",
+      "Beware of neglecting future generations' needs."
+    ]
+  },
+  "context": {
+    "history": "The concept has been discussed since the 1830s, notably by economist William Forster Lloyd.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

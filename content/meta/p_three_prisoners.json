@@ -1,0 +1,17 @@
+{
+  "id": "p_three_prisoners",
+  "title": "Three Prisoners Problem",
+  "hook": "Warden's statement changes survival probabilities counterintuitively.",
+  "domains": [
+    "probability",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Conditional probabilities can defy intuition.",
+  "tags": [
+    "conditional",
+    "information"
+  ],
+  "related": []
+}

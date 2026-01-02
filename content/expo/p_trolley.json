@@ -1,0 +1,76 @@
+{
+  "id": "p_trolley",
+  "narrative": {
+    "story": "Imagine a trolley is headed towards five people tied to the tracks. You can pull a lever to divert it to another track, where one person is tied down. This dilemma forces you to choose between saving five lives at the cost of one. Different ethical frameworks yield different answers, complicating the decision.",
+    "wrong_reasoning": "Some argue that saving five lives is always the right choice, ignoring the moral weight of actively causing harm to the one person. This reasoning oversimplifies complex ethical considerations and fails to account for the emotional and social implications of such decisions.",
+    "paradox": "The Trolley Problem illustrates the conflict between utilitarianism and deontological ethics. While utilitarianism suggests maximizing overall happiness, deontological ethics emphasizes the moral duty not to harm others, creating a paradox in moral reasoning."
+  },
+  "mechanism": {
+    "assumptions": "Assumes rational decision-making and quantifiable value of lives.",
+    "steps": "1. Identify the lives at stake. 2. Assess the consequences of action vs. inaction. 3. Evaluate ethical frameworks (utilitarianism vs. deontology). 4. Make a decision based on the chosen framework.",
+    "math": "Utilitarian calculus: Value of lives saved (5) vs. value of life lost (1).",
+    "truth": "Moral truths can vary based on perspective."
+  },
+  "solutions": {
+    "paths": [
+      "Utilitarian approach: save five lives.",
+      "Deontological approach: do not intervene.",
+      "Hybrid approach: consider context and consequences.",
+      "Emotional approach: factor in personal connections."
+    ],
+    "tradeoffs": [
+      "Number of lives saved vs. moral implications.",
+      "Immediate outcomes vs. long-term societal impact.",
+      "Personal ethics vs. societal norms.",
+      "Emotional distress vs. rational decision-making.",
+      "Individual rights vs. collective good.",
+      "Active harm vs. passive inaction.",
+      "Public perception vs. personal beliefs.",
+      "Legal implications vs. moral choices."
+    ],
+    "status": "Debated in philosophy and ethics."
+  },
+  "practice": {
+    "patterns": [
+      "Scenario analysis.",
+      "Role-playing ethical dilemmas.",
+      "Group discussions on moral choices.",
+      "Comparative analysis of ethical theories.",
+      "Case studies of real-life dilemmas.",
+      "Reflection on personal values.",
+      "Debate formats to explore different viewpoints.",
+      "Creative writing on moral conflicts.",
+      "Simulation games involving ethical decisions.",
+      "Journaling responses to moral questions."
+    ],
+    "prompts": [
+      "What would you do in the Trolley Problem?",
+      "How do you define the value of a life?",
+      "Discuss a time you faced a moral dilemma.",
+      "How do emotions influence ethical decisions?",
+      "What ethical framework resonates with you?",
+      "Can numbers quantify morality?",
+      "Explore a real-world application of the Trolley Problem.",
+      "How do cultural differences affect moral reasoning?",
+      "What role does intent play in moral decisions?",
+      "Discuss the implications of inaction vs. action.",
+      "How would you teach this dilemma to others?",
+      "What are the limits of utilitarianism?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying complex issues.",
+      "Be mindful of emotional responses.",
+      "Recognize biases in ethical reasoning.",
+      "Consider the impact of societal norms.",
+      "Don't ignore the historical context of dilemmas."
+    ]
+  },
+  "context": {
+    "history": "The Trolley Problem was first introduced by philosopher Philippa Foot in 1967 and has since become a staple in discussions of ethics.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "p_grelling",
+  "narrative": {
+    "story": "The Grelling\u2013Nelson paradox arises when we consider the word 'heterological', which means 'not applicable to itself'. If 'heterological' is heterological, then it does not apply to itself, creating a contradiction. Conversely, if it is not heterological, then it applies to itself, leading to the same contradiction. This paradox highlights the complexities of self-reference in language and logic.",
+    "wrong_reasoning": "One might think that since 'heterological' means not applicable to itself, it must be heterological. However, this reasoning fails because it ignores the self-referential nature of the term, leading to a circular argument.",
+    "paradox": "The paradox lies in the self-referential definition of 'heterological', which creates a situation where it is both true and false, challenging our understanding of language and classification."
+  },
+  "mechanism": {
+    "assumptions": "The assumption that terms can be clearly categorized as self-applicable or not.",
+    "steps": "1. Define 'heterological'. 2. Analyze if 'heterological' applies to itself. 3. Identify contradictions arising from the definition.",
+    "math": "",
+    "truth": "The truth of the statement depends on its self-reference."
+  },
+  "solutions": {
+    "paths": [
+      "Redefine terms to avoid self-reference.",
+      "Use alternative logical frameworks.",
+      "Accept the paradox as a limitation of language.",
+      "Explore meta-linguistic approaches."
+    ],
+    "tradeoffs": [
+      "Clarity vs. complexity in definitions.",
+      "Rigidity vs. flexibility in language use.",
+      "Precision vs. ambiguity in logical statements.",
+      "Acceptance of paradox vs. rejection of self-reference."
+    ],
+    "status": "Ongoing debate in philosophy and logic."
+  },
+  "practice": {
+    "patterns": [
+      "Identify self-referential terms.",
+      "Analyze definitions for contradictions.",
+      "Explore similar paradoxes."
+    ],
+    "prompts": [
+      "What does it mean for a term to apply to itself?",
+      "Can you find other self-referential paradoxes?",
+      "How does language shape our understanding of logic?"
+    ],
+    "warnings": [
+      "Avoid circular reasoning.",
+      "Be cautious with self-reference.",
+      "Recognize the limits of language."
+    ]
+  },
+  "context": {
+    "history": "The Grelling\u2013Nelson paradox was introduced in the early 20th century as part of discussions on self-reference and language.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

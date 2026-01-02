@@ -1,0 +1,16 @@
+{
+  "id": "p_paper_balloon",
+  "title": "Paper Balloon Paradox",
+  "hook": "Light paper balloons can rise in air in ways that seem to contradict simple weight-based expectations.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Buoyancy can defy intuitive weight assumptions.",
+  "tags": [
+    "buoyancy",
+    "thermodynamics"
+  ],
+  "related": []
+}

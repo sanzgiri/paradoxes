@@ -1,0 +1,76 @@
+{
+  "id": "p_rule_following",
+  "narrative": {
+    "story": "The Rule-Following Paradox arises when we consider how rules govern our actions. For instance, the rule for addition seems straightforward: to add two numbers, we follow the operation defined by the rule. However, the paradox reveals that any action can be interpreted as conforming to the rule, leading to ambiguity. If someone adds 2 and 3 and gets 5, they follow the rule. But if they interpret the rule differently, they could justify a different outcome, suggesting that rules are not as determinative as they seem.",
+    "wrong_reasoning": "One might assume that rules provide clear guidance for actions. However, the paradox shows that the interpretation of rules can vary widely. For example, if a person believes they are following a rule but arrives at an unexpected result, it challenges the notion that rules can dictate behavior unambiguously. This leads to the conclusion that rules are subject to interpretation, which undermines their authority.",
+    "paradox": "The paradox illustrates that while rules are intended to guide actions, they cannot uniquely determine a single course of action. This creates a situation where multiple interpretations can exist, leading to confusion about what it truly means to follow a rule."
+  },
+  "mechanism": {
+    "assumptions": "The assumption that rules provide clear and unambiguous guidance for actions.",
+    "steps": "1. Define a rule (e.g., addition). 2. Apply the rule to specific instances. 3. Observe outcomes. 4. Analyze interpretations of the rule. 5. Conclude that multiple outcomes can be justified.",
+    "math": "If a rule states that a + b = c, then for a = 2 and b = 3, c should equal 5. However, interpretations can lead to different results.",
+    "truth": "Rules are not absolute."
+  },
+  "solutions": {
+    "paths": [
+      "Embrace multiple interpretations of rules.",
+      "Focus on context rather than strict adherence.",
+      "Develop clearer guidelines for rule application.",
+      "Encourage dialogue about rule interpretation."
+    ],
+    "tradeoffs": [
+      "Flexibility vs. consistency in rule application.",
+      "Clarity vs. ambiguity in understanding rules.",
+      "Individual interpretation vs. collective agreement.",
+      "Rigidity vs. adaptability in following rules.",
+      "Simplicity vs. complexity in rule definitions.",
+      "Authority vs. autonomy in decision-making.",
+      "Precision vs. generality in rule formulation.",
+      "Tradition vs. innovation in rule adherence."
+    ],
+    "status": "Ongoing philosophical debate."
+  },
+  "practice": {
+    "patterns": [
+      "Identify rules in various contexts.",
+      "Discuss interpretations with peers.",
+      "Analyze outcomes of rule application.",
+      "Reflect on personal experiences with rules.",
+      "Challenge assumptions about rule-following.",
+      "Explore historical examples of rule interpretation.",
+      "Engage in thought experiments.",
+      "Create scenarios with ambiguous rules.",
+      "Debate the implications of rule-following.",
+      "Document different interpretations of the same rule."
+    ],
+    "prompts": [
+      "What does it mean to follow a rule?",
+      "Can rules ever be absolute?",
+      "How do cultural contexts affect rule interpretation?",
+      "Discuss a time when you interpreted a rule differently.",
+      "What are the implications of rule ambiguity?",
+      "How can we improve rule clarity?",
+      "Explore the role of authority in rule-following.",
+      "What happens when rules conflict?",
+      "How do emotions influence rule interpretation?",
+      "Discuss the importance of dialogue in understanding rules.",
+      "What are the consequences of strict rule adherence?",
+      "How can we balance flexibility and consistency?"
+    ],
+    "warnings": [
+      "Avoid assuming rules are always clear.",
+      "Be cautious of rigid interpretations.",
+      "Recognize the influence of context.",
+      "Challenge your own assumptions.",
+      "Engage with diverse perspectives."
+    ]
+  },
+  "context": {
+    "history": "The Rule-Following Paradox has been discussed in philosophical literature, particularly in the works of Ludwig Wittgenstein, who emphasized the fluidity of meaning in language and rules.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

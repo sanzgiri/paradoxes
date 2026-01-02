@@ -1,0 +1,76 @@
+{
+  "id": "p_abelson",
+  "narrative": {
+    "story": "Abelson's Paradox illustrates how a statistically significant effect size can be misleading. For instance, a large sample size may yield a small effect size that appears significant but lacks practical relevance. This paradox challenges researchers to consider the real-world implications of their findings, rather than solely relying on statistical metrics.",
+    "wrong_reasoning": "Many assume that a larger effect size always translates to greater importance. This leads to misinterpretations where researchers prioritize statistical significance over practical significance, potentially skewing conclusions and recommendations.",
+    "paradox": "The paradox lies in the disconnect between statistical significance and practical relevance. A result can be statistically significant yet practically meaningless, highlighting the need for careful interpretation of effect sizes."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that effect sizes are directly correlated with practical implications.",
+    "steps": "1. Conduct a study to determine effect size. 2. Analyze the statistical significance. 3. Evaluate the practical implications of the findings. 4. Compare effect size with real-world relevance.",
+    "math": "Effect size = (Mean1 - Mean2) / Standard Deviation. Statistical significance is determined using p-values.",
+    "truth": "Statistical significance does not equate to practical significance."
+  },
+  "solutions": {
+    "paths": [
+      "Focus on effect sizes in context.",
+      "Use confidence intervals to assess practical relevance.",
+      "Combine statistical analysis with qualitative insights.",
+      "Educate stakeholders on interpreting effect sizes."
+    ],
+    "tradeoffs": [
+      "Balancing statistical rigor with practical relevance.",
+      "Potentially overlooking small but meaningful effects.",
+      "Increased complexity in data interpretation.",
+      "Risk of miscommunication with non-expert audiences.",
+      "Time-consuming analysis of practical implications.",
+      "Need for interdisciplinary collaboration.",
+      "Possibility of conflicting interpretations.",
+      "Challenges in standardizing practical significance."
+    ],
+    "status": "Ongoing discussions in statistical methodology."
+  },
+  "practice": {
+    "patterns": [
+      "Always contextualize effect sizes.",
+      "Use visual aids to represent data.",
+      "Encourage critical thinking about results.",
+      "Foster discussions on practical implications.",
+      "Integrate qualitative data with quantitative findings.",
+      "Highlight case studies demonstrating practical significance.",
+      "Promote transparency in reporting results.",
+      "Encourage peer review focusing on practical relevance.",
+      "Utilize workshops for effective communication of findings.",
+      "Engage with stakeholders to understand practical needs."
+    ],
+    "prompts": [
+      "What does this effect size mean in practice?",
+      "How can we communicate these findings effectively?",
+      "What are the real-world implications of this result?",
+      "Are there alternative interpretations of the data?",
+      "How does this finding align with existing knowledge?",
+      "What additional data could enhance our understanding?",
+      "Who are the stakeholders affected by this finding?",
+      "What limitations should we acknowledge?",
+      "How can we ensure our conclusions are actionable?",
+      "What further research is needed to clarify this issue?",
+      "How do we balance statistical and practical significance?",
+      "What examples can we provide to illustrate our points?"
+    ],
+    "warnings": [
+      "Avoid overemphasizing statistical significance.",
+      "Be cautious of sample size effects.",
+      "Don't ignore qualitative insights.",
+      "Watch for misinterpretation by non-experts.",
+      "Ensure clarity in communication."
+    ]
+  },
+  "context": {
+    "history": "Abelson's Paradox emerged from discussions in statistical methodology, emphasizing the importance of practical significance in research.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

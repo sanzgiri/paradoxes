@@ -1,0 +1,17 @@
+{
+  "id": "p_jevons",
+  "title": "Jevons Paradox",
+  "hook": "Efficiency improvements can increase total resource use when they lower effective cost and spur demand.",
+  "domains": [
+    "economics",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Efficiency can lead to increased consumption.",
+  "tags": [
+    "efficiency",
+    "rebound"
+  ],
+  "related": []
+}

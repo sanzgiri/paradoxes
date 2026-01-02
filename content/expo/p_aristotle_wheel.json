@@ -1,0 +1,66 @@
+{
+  "id": "p_aristotle_wheel",
+  "narrative": {
+    "story": "Imagine two wheels, one inside the other, both rotating around the same center. The inner wheel has a smaller circumference than the outer wheel. As they rotate, it appears that both wheels cover the same distance along their edges. However, this leads to a contradiction when we consider the actual distances traveled by each wheel, revealing a flaw in our intuitive understanding of motion.",
+    "wrong_reasoning": "One might assume that since both wheels are rotating around the same center, they must trace equal distances. This reasoning ignores the fact that the inner wheel travels a shorter path due to its smaller circumference, leading to a misunderstanding of how rotation and distance relate.",
+    "paradox": "The paradox arises from the visual perception of equal motion despite differing circumferences, challenging our intuitive grasp of geometry and motion."
+  },
+  "mechanism": {
+    "assumptions": "Assumes uniform rotation and equal angular displacement for both wheels.",
+    "steps": "1. Define the circumferences of both wheels. 2. Analyze the rotation of each wheel. 3. Compare the distances traveled by the edges of both wheels. 4. Identify the contradiction in perceived versus actual distances.",
+    "math": "Circumference = 2\u03c0r, where r is the radius. For two wheels with radii r1 and r2, the distances traveled are different: d1 = 2\u03c0r1 and d2 = 2\u03c0r2.",
+    "truth": "The inner wheel travels a shorter distance than the outer wheel."
+  },
+  "solutions": {
+    "paths": [
+      "Re-evaluate the assumptions about motion.",
+      "Use mathematical models to clarify distances.",
+      "Visualize the problem with accurate diagrams.",
+      "Conduct physical experiments with wheels."
+    ],
+    "tradeoffs": [
+      "Simplifying assumptions may lead to misunderstandings.",
+      "Visual aids can clarify but may also mislead.",
+      "Mathematical rigor enhances understanding but may complicate intuition.",
+      "Physical experiments provide insight but can be impractical."
+    ],
+    "status": "Ongoing exploration in educational contexts."
+  },
+  "practice": {
+    "patterns": [
+      "Identify assumptions in geometric problems.",
+      "Use diagrams to visualize motion.",
+      "Compare intuitive reasoning with mathematical results.",
+      "Explore similar paradoxes in geometry."
+    ],
+    "prompts": [
+      "What assumptions are you making?",
+      "How does changing the radius affect distance?",
+      "Can you find a real-world example of this paradox?",
+      "What happens if the wheels rotate at different speeds?",
+      "How would you explain this to someone unfamiliar with geometry?",
+      "What other paradoxes can you think of?",
+      "How does this relate to circular motion in physics?",
+      "What is the role of perspective in understanding motion?",
+      "Can you create a model to demonstrate this paradox?",
+      "How does this paradox challenge your understanding of geometry?",
+      "What mathematical tools can help clarify this situation?",
+      "How does this relate to the concept of limits in calculus?"
+    ],
+    "warnings": [
+      "Be cautious of visual misinterpretations.",
+      "Avoid oversimplifying complex concepts.",
+      "Ensure mathematical models accurately reflect reality.",
+      "Recognize the limits of intuition in geometry.",
+      "Don't ignore the role of context in understanding paradoxes."
+    ]
+  },
+  "context": {
+    "history": "The paradox has been discussed since ancient times, notably by Aristotle, who explored the implications of motion and geometry.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

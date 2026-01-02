@@ -1,0 +1,76 @@
+{
+  "id": "p_el_farquhar",
+  "narrative": {
+    "story": "The El Farol Bar Paradox illustrates how individual predictions about others' behavior can lead to unexpected outcomes. If everyone believes that the bar will be crowded, they may choose not to attend, resulting in a less crowded bar. Conversely, if they think it will be empty, they will attend, making it crowded. This creates a cycle of mispredictions and self-defeating prophecies.",
+    "wrong_reasoning": "Many assume that if everyone predicts the same outcome, their collective choice will lead to that outcome. However, this overlooks the fact that individuals will adjust their behavior based on their predictions, leading to a paradox where the expected outcome is not realized.",
+    "paradox": "The paradox arises from the conflict between individual rationality and collective outcomes. Each person's decision is rational based on their predictions, but when everyone acts on the same predictions, the result can be counterintuitive."
+  },
+  "mechanism": {
+    "assumptions": "Individuals make independent predictions about others' attendance based on past experiences and expectations.",
+    "steps": "1. Each person predicts the bar's attendance. 2. Based on their predictions, they decide whether to go. 3. The collective attendance is influenced by these individual decisions. 4. The outcome often contradicts the initial predictions.",
+    "math": "Let A be the number of attendees predicted. If A > threshold, individuals choose not to attend; if A < threshold, they do attend. This creates a feedback loop affecting future predictions.",
+    "truth": "The truth is that individual predictions can distort collective behavior."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage diverse predictions",
+      "Implement randomized attendance",
+      "Use historical data for better forecasting",
+      "Limit the number of attendees"
+    ],
+    "tradeoffs": [
+      "Increased uncertainty vs. potential for better outcomes",
+      "Individual freedom vs. collective benefit",
+      "Short-term satisfaction vs. long-term attendance",
+      "Predictive accuracy vs. social dynamics",
+      "Simplicity vs. complexity in decision-making",
+      "Risk of exclusion vs. inclusivity",
+      "Stability vs. adaptability",
+      "Predictive models vs. human intuition"
+    ],
+    "status": "Ongoing research into decision-making and social dynamics."
+  },
+  "practice": {
+    "patterns": [
+      "Feedback loops",
+      "Self-fulfilling prophecies",
+      "Collective behavior",
+      "Individual rationality",
+      "Dynamic systems",
+      "Predictive modeling",
+      "Game theory",
+      "Social choice",
+      "Behavioral economics",
+      "Decision-making under uncertainty"
+    ],
+    "prompts": [
+      "What would happen if everyone thought the bar would be empty?",
+      "How can predictions be diversified?",
+      "What are the implications of overconfidence?",
+      "Can we create a system to balance attendance?",
+      "How does this apply to other social settings?",
+      "What historical examples mirror this paradox?",
+      "How can we measure attendance predictions?",
+      "What role does communication play?",
+      "How do biases affect predictions?",
+      "What strategies can mitigate the paradox?",
+      "How can technology assist in attendance forecasting?",
+      "What lessons can be learned for future events?"
+    ],
+    "warnings": [
+      "Avoid overconfidence in predictions",
+      "Be aware of groupthink",
+      "Recognize the impact of individual choices",
+      "Understand the limitations of models",
+      "Consider the social dynamics involved"
+    ]
+  },
+  "context": {
+    "history": "The El Farol Bar Paradox was introduced by economist W. Brian Arthur in the 1990s as a way to explore complex systems and decision-making.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

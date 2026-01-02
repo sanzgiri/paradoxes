@@ -1,0 +1,16 @@
+{
+  "id": "p_gettier",
+  "title": "Gettier Paradoxes",
+  "hook": "Agents can have justified true belief without knowledge in cleverly constructed cases.",
+  "domains": [
+    "other"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Justified true belief does not guarantee knowledge.",
+  "tags": [
+    "knowledge",
+    "justified_true_belief"
+  ],
+  "related": []
+}

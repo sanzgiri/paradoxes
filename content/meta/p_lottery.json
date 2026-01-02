@@ -1,0 +1,17 @@
+{
+  "id": "p_lottery",
+  "title": "Lottery Paradox",
+  "hook": "Rationality requires believing each ticket loses but the conjunction that all lose is improbable.",
+  "domains": [
+    "other",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Probability can mislead rational belief.",
+  "tags": [
+    "belief",
+    "probability"
+  ],
+  "related": []
+}

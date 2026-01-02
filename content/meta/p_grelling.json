@@ -1,0 +1,16 @@
+{
+  "id": "p_grelling",
+  "title": "Grelling\u2013Nelson Paradox",
+  "hook": "The predicate \u2018heterological\u2019 seems to be heterological if and only if it is not.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "antinomy",
+  "key_lesson": "Self-reference can lead to contradictory definitions.",
+  "tags": [
+    "selfreference",
+    "predication"
+  ],
+  "related": []
+}

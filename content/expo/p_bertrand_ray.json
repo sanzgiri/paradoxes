@@ -1,0 +1,76 @@
+{
+  "id": "p_bertrand_ray",
+  "narrative": {
+    "story": "Imagine a circle inscribed in a square. If you randomly select a ray from the center of the circle, the probability of it intersecting the circle's boundary can vary based on how you define 'random'. Different methods of selecting a ray yield different probabilities for the same geometric scenario, leading to confusion and debate among mathematicians.",
+    "wrong_reasoning": "One might assume that any method of selecting a ray should yield the same probability of intersection. However, this overlooks the impact of the selection method on the geometric properties involved. The assumption that all rays are equally likely can lead to incorrect conclusions about the probabilities.",
+    "paradox": "The paradox arises when one realizes that the method of selecting a ray (uniformly random angle, random point on the circle, etc.) leads to different probabilities for the same geometric situation, challenging intuitive notions of randomness and uniformity."
+  },
+  "mechanism": {
+    "assumptions": "Assumes uniformity in ray selection without considering geometric implications.",
+    "steps": "1. Define the circle and square. 2. Choose a method for ray selection. 3. Calculate the probability of intersection based on the chosen method. 4. Compare results from different methods.",
+    "math": "Using geometric probability, the area of intersection can be calculated based on the angle or point of selection, leading to varying results.",
+    "truth": "The truth is that probability can be heavily influenced by the method of selection."
+  },
+  "solutions": {
+    "paths": [
+      "Clarify the selection method used.",
+      "Use simulations to visualize outcomes.",
+      "Educate on geometric probability principles.",
+      "Standardize ray selection methods."
+    ],
+    "tradeoffs": [
+      "Simplicity vs. accuracy in selection methods.",
+      "Intuitive understanding vs. mathematical rigor.",
+      "Generalization vs. specific cases.",
+      "Visual representation vs. abstract reasoning.",
+      "Time spent on education vs. immediate application.",
+      "Complexity of explanation vs. clarity.",
+      "Rigorous proofs vs. practical examples.",
+      "Assumptions made vs. real-world applicability."
+    ],
+    "status": "Ongoing discussions in mathematical circles."
+  },
+  "practice": {
+    "patterns": [
+      "Explore different ray selection methods.",
+      "Analyze geometric probabilities.",
+      "Engage in discussions about randomness.",
+      "Conduct simulations of ray selections.",
+      "Compare results from various methods.",
+      "Visualize geometric scenarios.",
+      "Challenge assumptions about uniformity.",
+      "Investigate real-world applications.",
+      "Study related paradoxes.",
+      "Collaborate on problem-solving."
+    ],
+    "prompts": [
+      "What happens if you change the selection method?",
+      "How does this paradox relate to other probability concepts?",
+      "Can you find a real-world example of this paradox?",
+      "What assumptions are you making in your calculations?",
+      "How would you explain this paradox to a layperson?",
+      "What are the implications of this paradox in statistics?",
+      "How can we standardize ray selection methods?",
+      "What are the limitations of your chosen method?",
+      "How does this relate to randomness in other fields?",
+      "Can you create a visual representation of this paradox?",
+      "What alternative methods could be used?",
+      "How does this challenge your understanding of probability?"
+    ],
+    "warnings": [
+      "Avoid assuming uniformity in selections.",
+      "Be cautious of intuitive conclusions.",
+      "Check calculations for consistency.",
+      "Consider the implications of your method.",
+      "Don't overlook geometric properties."
+    ]
+  },
+  "context": {
+    "history": "The paradox has been discussed since the early 20th century, highlighting the complexities of probability theory.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

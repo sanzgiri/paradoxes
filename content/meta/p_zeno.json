@@ -1,0 +1,16 @@
+{
+  "id": "p_zeno",
+  "title": "Zeno\u2019s Paradoxes",
+  "hook": "Zeno's arguments suggest motion is impossible due to infinite steps.",
+  "domains": [
+    "philosophy"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Infinity complicates our understanding of motion.",
+  "tags": [
+    "motion",
+    "infinity"
+  ],
+  "related": []
+}

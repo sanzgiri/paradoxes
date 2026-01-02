@@ -1,0 +1,16 @@
+{
+  "id": "p_richard",
+  "title": "Richard's Paradox",
+  "hook": "A real number defined in finite English words is claimed undefinable, contradicting arithmetic.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Definability can lead to contradictions in arithmetic.",
+  "tags": [
+    "definability",
+    "diagonalization"
+  ],
+  "related": []
+}

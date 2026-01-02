@@ -1,0 +1,16 @@
+{
+  "id": "p_albert",
+  "title": "Albert's Paradox",
+  "hook": "Supertask convergence depends on time parameterization.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Understanding time's role in infinite processes.",
+  "tags": [
+    "supertasks",
+    "limits"
+  ],
+  "related": []
+}

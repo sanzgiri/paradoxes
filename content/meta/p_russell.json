@@ -1,0 +1,16 @@
+{
+  "id": "p_russell",
+  "title": "Russell\u2019s Paradox",
+  "hook": "The set of all sets that do not contain themselves leads to contradiction in naive set theory.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Self-reference can lead to logical contradictions.",
+  "tags": [
+    "set_theory",
+    "selfreference"
+  ],
+  "related": []
+}

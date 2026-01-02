@@ -1,0 +1,16 @@
+{
+  "id": "p_preface",
+  "title": "Preface Paradox",
+  "hook": "An author believes all claims but also that errors exist.",
+  "domains": [
+    "other",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "antinomy",
+  "key_lesson": "Belief can coexist with doubt about correctness.",
+  "tags": [
+    "belief_inconsistency"
+  ],
+  "related": []
+}

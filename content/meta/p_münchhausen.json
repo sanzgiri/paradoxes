@@ -1,0 +1,17 @@
+{
+  "id": "p_m\u00fcnchhausen",
+  "title": "M\u00fcnchhausen Trilemma",
+  "hook": "All justification faces regress, circularity, or axiomatic stopping.",
+  "domains": [
+    "other",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "antinomy",
+  "key_lesson": "Justification in knowledge is inherently problematic.",
+  "tags": [
+    "justification",
+    "circularity"
+  ],
+  "related": []
+}

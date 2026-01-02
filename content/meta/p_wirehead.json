@@ -1,0 +1,17 @@
+{
+  "id": "p_wirehead",
+  "title": "Wirehead Paradox",
+  "hook": "Direct reward stimulation preferred over goal achievement.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Pursuing direct rewards can undermine long-term goals.",
+  "tags": [
+    "reward_hacking",
+    "ai_alignment"
+  ],
+  "related": []
+}

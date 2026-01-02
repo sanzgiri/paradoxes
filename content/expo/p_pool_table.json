@@ -1,0 +1,76 @@
+{
+  "id": "p_pool_table",
+  "narrative": {
+    "story": "Imagine a perfectly smooth pool table where a cue ball is struck and rolls towards the edge. According to Newton's first law, an object in motion should remain in motion unless acted upon by an external force. However, the ball eventually stops due to friction with the table surface. This scenario creates confusion as it seems to contradict the law of inertia.",
+    "wrong_reasoning": "One might think that since the cue ball is in motion, it should continue rolling indefinitely. The assumption is that the only forces acting on the ball are the initial force from the cue and gravity. However, neglecting friction leads to the incorrect conclusion that the ball will never stop.",
+    "paradox": "The paradox arises from the expectation that an object in motion should not stop without a clear external force. The presence of friction, often overlooked, serves as that force, leading to a misunderstanding of Newton's first law."
+  },
+  "mechanism": {
+    "assumptions": "The ball will roll indefinitely without considering friction.",
+    "steps": "1. Strike the cue ball. 2. Observe its motion across the table. 3. Note the gradual slowing and eventual stop. 4. Analyze the forces acting on the ball.",
+    "math": "Frictional force = coefficient of friction * normal force. The work done by friction leads to a decrease in kinetic energy.",
+    "truth": "Friction is a significant force that affects motion."
+  },
+  "solutions": {
+    "paths": [
+      "Acknowledge the role of friction in motion.",
+      "Incorporate friction into physics problems.",
+      "Use simulations to visualize motion with friction.",
+      "Educate on the limits of Newton's laws in real-world scenarios."
+    ],
+    "tradeoffs": [
+      "Simplifying assumptions may lead to misunderstandings.",
+      "Increased complexity in models can enhance accuracy.",
+      "Real-world applications require consideration of friction.",
+      "Neglecting friction can lead to incorrect predictions.",
+      "Overemphasis on ideal conditions may mislead learners.",
+      "Balancing theory and practical examples is crucial.",
+      "Understanding friction enhances comprehension of motion.",
+      "Ignoring friction can result in flawed engineering designs."
+    ],
+    "status": "Ongoing discussions in physics education."
+  },
+  "practice": {
+    "patterns": [
+      "Identify forces in motion problems.",
+      "Analyze scenarios with and without friction.",
+      "Use diagrams to visualize forces.",
+      "Conduct experiments with rolling objects.",
+      "Discuss real-life applications of friction.",
+      "Compare ideal vs. real-world physics.",
+      "Explore historical misconceptions in physics.",
+      "Engage in group discussions on motion.",
+      "Utilize interactive simulations.",
+      "Reflect on personal experiences with motion."
+    ],
+    "prompts": [
+      "What forces act on a rolling ball?",
+      "How does friction change motion?",
+      "Describe a scenario where friction is ignored.",
+      "What happens to energy when friction is present?",
+      "How can we demonstrate friction's effects?",
+      "What are common misconceptions about motion?",
+      "How does this paradox relate to everyday life?",
+      "Why is it important to consider friction?",
+      "What experiments can illustrate this paradox?",
+      "How do different surfaces affect motion?",
+      "What role does friction play in sports?",
+      "How can we apply this understanding in engineering?"
+    ],
+    "warnings": [
+      "Don't overlook friction in calculations.",
+      "Beware of idealized scenarios.",
+      "Avoid assuming constant motion without forces.",
+      "Recognize the limits of Newton's laws.",
+      "Be cautious of misconceptions in teaching."
+    ]
+  },
+  "context": {
+    "history": "The Pool Table Paradox has been discussed in physics for decades, highlighting the importance of friction in classical mechanics.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "p_horses",
+  "narrative": {
+    "story": "The argument begins by considering a group of horses. If we take two horses from this group, we can show that they share a color. By induction, we extend this to larger groups, concluding that all horses must be the same color. However, this reasoning fails when we consider the transition from a group of one horse to two horses, as the overlap does not guarantee color uniformity.",
+    "wrong_reasoning": "The flaw lies in the assumption that overlapping sets guarantee a shared property. When transitioning from one horse to two, there is no overlap, making the conclusion invalid. This oversight illustrates how induction can mislead.",
+    "paradox": "The paradox arises from the incorrect application of induction, leading to the absurd conclusion that all horses are the same color, despite the clear existence of horses of different colors."
+  },
+  "mechanism": {
+    "assumptions": "The argument assumes that overlapping sets imply shared properties.",
+    "steps": "1. Start with a single horse. 2. Add a second horse and show they share a color. 3. Inductively apply this to larger groups. 4. Conclude all horses share the same color.",
+    "math": "The argument can be framed in terms of set theory, where the intersection of sets is incorrectly assumed to yield a universal property.",
+    "truth": "Induction does not always hold."
+  },
+  "solutions": {
+    "paths": [
+      "Identify flawed assumptions",
+      "Use counterexamples",
+      "Clarify induction limits",
+      "Explore alternative reasoning"
+    ],
+    "tradeoffs": [
+      "Simplification vs. accuracy",
+      "Generalization vs. specificity",
+      "Inductive reasoning vs. deductive reasoning",
+      "Intuition vs. formal proof",
+      "Complexity vs. clarity",
+      "Speed vs. thoroughness",
+      "Rigorous proof vs. heuristic methods",
+      "Practical application vs. theoretical understanding"
+    ],
+    "status": "Understanding the limitations of induction can prevent fallacies."
+  },
+  "practice": {
+    "patterns": [
+      "Identify assumptions",
+      "Check for counterexamples",
+      "Analyze reasoning steps",
+      "Discuss with peers",
+      "Apply to real-world scenarios",
+      "Use visual aids",
+      "Break down arguments",
+      "Compare with deductive reasoning",
+      "Explore related paradoxes",
+      "Reflect on personal biases"
+    ],
+    "prompts": [
+      "What assumptions are made?",
+      "Can you find a counterexample?",
+      "How does this apply to other cases?",
+      "What is the flaw in reasoning?",
+      "Can this be proven deductively?",
+      "What are the implications?",
+      "How does this relate to other paradoxes?",
+      "What alternative explanations exist?",
+      "What is the historical context?",
+      "How can this be taught?",
+      "What are common misconceptions?",
+      "How does this affect decision-making?"
+    ],
+    "warnings": [
+      "Beware of overgeneralization",
+      "Question intuitive conclusions",
+      "Check for logical consistency",
+      "Avoid confirmation bias",
+      "Recognize the limits of induction"
+    ]
+  },
+  "context": {
+    "history": "The paradox has been discussed in logic and philosophy, illustrating the pitfalls of inductive reasoning.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

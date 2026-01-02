@@ -1,0 +1,57 @@
+{
+  "id": "p_groupthink",
+  "narrative": {
+    "story": "In a corporate meeting, a team discusses a new marketing strategy. Initially, opinions vary, but as the discussion progresses, members begin to align with the most vocal participant, who advocates for an aggressive approach. Despite some reservations, the group collectively dismisses moderate suggestions, leading to a decision that ultimately fails. This illustrates how group dynamics can suppress dissent and push towards extremes.",
+    "wrong_reasoning": "Participants believe that agreeing with the majority will lead to better outcomes. They think that by avoiding conflict and conforming, they are fostering teamwork. However, this reasoning overlooks the value of diverse perspectives and critical debate, which are essential for sound decision-making.",
+    "paradox": "The paradox lies in the fact that while groups are formed to enhance decision-making through collaboration, they can instead lead to poorer outcomes by stifling individual opinions and promoting conformity."
+  },
+  "mechanism": {
+    "assumptions": "Group members assume that consensus equates to correctness and that dissent will disrupt harmony.",
+    "steps": "1. Initial discussion with diverse opinions. 2. Dominant voices emerge. 3. Dissenting opinions are silenced. 4. Group converges on an extreme decision. 5. Outcome is evaluated post-decision.",
+    "math": "",
+    "truth": "Consensus does not guarantee the best decision."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage open dialogue and dissent.",
+      "Implement structured decision-making processes.",
+      "Seek external opinions to challenge group views.",
+      "Rotate facilitators to prevent dominance."
+    ],
+    "tradeoffs": [
+      "Time spent on deliberation vs. speed of decision-making.",
+      "Conflict management vs. group cohesion.",
+      "Diverse opinions vs. consensus.",
+      "Risk of decision paralysis vs. risk of poor decisions."
+    ],
+    "status": "Ongoing research into effective group decision-making."
+  },
+  "practice": {
+    "patterns": [
+      "Devil's advocate approach.",
+      "Anonymous feedback mechanisms.",
+      "Regular reflection sessions post-decision.",
+      "Diverse team composition."
+    ],
+    "prompts": [
+      "What are the potential downsides of this decision?",
+      "How would an outsider view our conclusion?",
+      "What alternative solutions have we overlooked?",
+      "Are we prioritizing harmony over effectiveness?"
+    ],
+    "warnings": [
+      "Avoid groupthink by encouraging dissent.",
+      "Be cautious of dominant personalities.",
+      "Recognize the signs of conformity pressure.",
+      "Don't rush to consensus without critical evaluation."
+    ]
+  },
+  "context": {
+    "history": "The term 'groupthink' was coined by psychologist Irving Janis in the 1970s to describe the phenomenon in decision-making groups.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

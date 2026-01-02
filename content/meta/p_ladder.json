@@ -1,0 +1,16 @@
+{
+  "id": "p_ladder",
+  "title": "Ladder Paradox",
+  "hook": "Ladder fits in shorter barn due to relativity of simultaneity.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intro",
+  "paradox_type": "veridical",
+  "key_lesson": "Relativity alters our perception of simultaneity.",
+  "tags": [
+    "relativity",
+    "simultaneity"
+  ],
+  "related": []
+}

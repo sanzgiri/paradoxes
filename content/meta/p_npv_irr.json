@@ -1,0 +1,17 @@
+{
+  "id": "p_npv_irr",
+  "title": "NPV vs. IRR Paradox",
+  "hook": "Projects can have conflicting rankings under net present value and internal rate of return criteria.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "NPV and IRR can lead to different project decisions.",
+  "tags": [
+    "investment",
+    "ranking"
+  ],
+  "related": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p_pool_table",
+  "title": "Pool Table Paradox",
+  "hook": "Ball stops due to friction despite Newton's first law intuition.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Friction can cause motion to cease contrary to expectations.",
+  "tags": [
+    "classical_mechanics",
+    "friction"
+  ],
+  "related": []
+}

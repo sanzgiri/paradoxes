@@ -1,0 +1,17 @@
+{
+  "id": "p_pygmalion",
+  "title": "Pygmalion Paradox",
+  "hook": "Higher expectations create better performance, self-fulfilling.",
+  "domains": [
+    "psychology",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Expectations can shape outcomes significantly.",
+  "tags": [
+    "expectation",
+    "performance"
+  ],
+  "related": []
+}

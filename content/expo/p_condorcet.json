@@ -1,0 +1,65 @@
+{
+  "id": "p_condorcet",
+  "narrative": {
+    "story": "In a voting scenario with three candidates A, B, and C, individual preferences can be transitive: if a voter prefers A over B and B over C, they will prefer A over C. However, when aggregated, the collective preferences can create a cycle. For instance, if a majority prefers A over B, B over C, and C over A, the overall preference is cyclic, leading to no clear winner. This paradox illustrates the complexities of collective decision-making.",
+    "wrong_reasoning": "One might assume that if individual preferences are transitive, the group preference must also be transitive. This is a common misconception, as the aggregation of preferences can lead to contradictions, demonstrating that majority rule does not guarantee a consistent outcome.",
+    "paradox": "The Condorcet Paradox shows that even with rational individual preferences, collective decisions can be irrational. This challenges the assumption that majority rule is a reliable method for determining a winner in elections."
+  },
+  "mechanism": {
+    "assumptions": "Voters have clear preferences; preferences can be aggregated without loss.",
+    "steps": "1. Collect individual preferences. 2. Aggregate preferences to find majority choices. 3. Identify cycles in the aggregated preferences. 4. Analyze the implications of these cycles.",
+    "math": "Mathematically, if A > B, B > C, and C > A, then the cycle A > B > C > A occurs, violating transitivity.",
+    "truth": "Majority rule can lead to inconsistent outcomes."
+  },
+  "solutions": {
+    "paths": [
+      "Implement ranked-choice voting.",
+      "Use a Borda count method.",
+      "Adopt a consensus-based approach.",
+      "Encourage deliberative democracy."
+    ],
+    "tradeoffs": [
+      "Ranked-choice voting can be complex to understand.",
+      "Borda count may favor less popular candidates.",
+      "Consensus approaches can be time-consuming.",
+      "Deliberative methods may not scale well."
+    ],
+    "status": "Ongoing research into better voting systems."
+  },
+  "practice": {
+    "patterns": [
+      "Identify cycles in preference data.",
+      "Analyze voter behavior.",
+      "Explore alternative voting systems."
+    ],
+    "prompts": [
+      "What happens when preferences are cyclic?",
+      "How can we improve decision-making processes?",
+      "What are the implications of the Condorcet Paradox?",
+      "Can technology help in resolving voting paradoxes?",
+      "How do different cultures approach voting?",
+      "What are the historical examples of voting paradoxes?",
+      "How does this paradox affect policy-making?",
+      "What are the psychological factors at play?",
+      "How can we educate voters about these issues?",
+      "What role does transparency play in voting?",
+      "How can we ensure fair representation?",
+      "What are the ethical implications of voting systems?"
+    ],
+    "warnings": [
+      "Avoid assuming transitivity in group preferences.",
+      "Be cautious of oversimplifying voting systems.",
+      "Recognize the limitations of majority rule.",
+      "Understand the potential for manipulation in voting.",
+      "Stay informed about evolving voting technologies."
+    ]
+  },
+  "context": {
+    "history": "The Condorcet Paradox was named after the French philosopher and mathematician Marquis de Condorcet, who explored voting theory in the 18th century.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

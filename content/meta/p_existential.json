@@ -1,0 +1,18 @@
+{
+  "id": "p_existential",
+  "title": "Existential Paradox",
+  "hook": "Radical freedom creates burden of absolute responsibility.",
+  "domains": [
+    "philosophy",
+    "logic",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "antinomy",
+  "key_lesson": "Freedom entails responsibility, leading to existential dilemmas.",
+  "tags": [
+    "freedom",
+    "responsibility"
+  ],
+  "related": []
+}

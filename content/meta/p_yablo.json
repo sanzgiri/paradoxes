@@ -1,0 +1,16 @@
+{
+  "id": "p_yablo",
+  "title": "Yablo's Paradox",
+  "hook": "An infinite sequence of sentences leads to a contradiction without self-reference.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Infinite sequences can create paradoxes without self-reference.",
+  "tags": [
+    "selfreference",
+    "infinite"
+  ],
+  "related": []
+}

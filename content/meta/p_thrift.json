@@ -1,0 +1,17 @@
+{
+  "id": "p_thrift",
+  "title": "Paradox of Thrift",
+  "hook": "Saving more individually can harm the economy's overall savings.",
+  "domains": [
+    "economics",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Aggregate behavior can contradict individual intentions.",
+  "tags": [
+    "macro",
+    "aggregate_demand"
+  ],
+  "related": []
+}

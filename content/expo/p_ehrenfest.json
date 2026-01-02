@@ -1,0 +1,76 @@
+{
+  "id": "p_ehrenfest",
+  "narrative": {
+    "story": "The Ehrenfest Paradox illustrates the counterintuitive effects of special relativity on a rotating disk. According to special relativity, an object in motion experiences length contraction. For a rotating disk, this means that while the circumference contracts, the radius appears to dilate. This creates a paradox where the geometry of the disk seems inconsistent with classical expectations, leading to questions about the nature of rigid bodies in relativistic physics.",
+    "wrong_reasoning": "One might assume that a rotating disk maintains its classical geometry, leading to the conclusion that both the radius and circumference should contract equally. This reasoning neglects the relativistic effects that apply differently to points on the disk due to their varying velocities.",
+    "paradox": "The paradox arises when considering the implications of both circumference contraction and radius dilation. If the disk is rigid, how can it maintain a consistent shape while experiencing these opposing effects? This challenges our understanding of rigid bodies in the context of relativity."
+  },
+  "mechanism": {
+    "assumptions": "Assumes rigid body mechanics and classical geometry apply in relativistic contexts.",
+    "steps": "1. Define a rotating disk in a stationary frame. 2. Apply length contraction to the circumference. 3. Analyze the implications for the radius. 4. Resolve the contradictions through relativistic principles.",
+    "math": "Circumference = 2\u03c0r, where r is the radius. Length contraction leads to C' = C\u221a(1 - v\u00b2/c\u00b2) for the moving circumference.",
+    "truth": "In relativity, geometry is not absolute."
+  },
+  "solutions": {
+    "paths": [
+      "Re-evaluate the concept of rigidity in relativity.",
+      "Use non-Euclidean geometry to describe rotating frames.",
+      "Explore the implications of general relativity on rotating bodies.",
+      "Investigate the role of angular momentum in relativistic contexts."
+    ],
+    "tradeoffs": [
+      "Simplifying assumptions may lead to incorrect conclusions.",
+      "Non-intuitive results can complicate understanding.",
+      "Accepting relativistic effects may challenge classical intuition.",
+      "Exploring advanced geometry requires deeper mathematical tools.",
+      "General relativity introduces additional complexities.",
+      "Rigid body assumptions may not hold in relativistic speeds.",
+      "Different observers may perceive different geometries.",
+      "Resolving paradoxes may require abandoning classical notions."
+    ],
+    "status": "Ongoing research in relativistic physics."
+  },
+  "practice": {
+    "patterns": [
+      "Identify assumptions in classical mechanics.",
+      "Analyze scenarios involving high-speed motion.",
+      "Compare classical and relativistic predictions.",
+      "Explore implications of length contraction in various contexts.",
+      "Discuss the nature of rigidity in relativistic systems.",
+      "Investigate other paradoxes in relativity.",
+      "Apply geometric transformations in relativistic scenarios.",
+      "Examine the role of observers in relativistic physics.",
+      "Utilize thought experiments to explore relativistic effects.",
+      "Challenge intuitive notions of space and time."
+    ],
+    "prompts": [
+      "What happens to a clock on a rotating disk?",
+      "How does length contraction affect measurements?",
+      "Can a rigid body exist in relativity?",
+      "What are the implications of the Ehrenfest Paradox?",
+      "How do different observers perceive the disk?",
+      "What mathematical tools can help resolve the paradox?",
+      "How does this paradox relate to other relativistic phenomena?",
+      "What assumptions are being challenged?",
+      "How would you explain this to a layperson?",
+      "What historical context led to this paradox?",
+      "How does this affect our understanding of spacetime?",
+      "What experiments could test these predictions?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying complex relativistic effects.",
+      "Be cautious of intuitive reasoning in relativity.",
+      "Recognize the limitations of classical mechanics.",
+      "Do not assume rigidity without justification.",
+      "Be aware of observer-dependent phenomena."
+    ]
+  },
+  "context": {
+    "history": "The Ehrenfest Paradox was introduced by Paul Ehrenfest in the early 20th century as part of the development of special relativity.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

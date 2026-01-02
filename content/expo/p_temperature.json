@@ -1,0 +1,77 @@
+{
+  "id": "p_temperature",
+  "narrative": {
+    "story": "Imagine a day where the temperature reads 90 degrees and is reported to be rising. This statement leads to confusion: if the temperature is 90, how can it also be rising? This paradox challenges our understanding of how we interpret temperature readings and the implications of change in a static context.",
+    "wrong_reasoning": "One might think that since the temperature is stated to be 90 and also rising, the value of 90 itself must be increasing. This misinterpretation stems from conflating the state of the temperature with its rate of change, leading to a logical inconsistency.",
+    "paradox": "The paradox arises from the statement that if the temperature is 90 and rising, then 90 must be rising as well. This contradicts the nature of fixed values, highlighting a flaw in our reasoning about change."
+  },
+  "mechanism": {
+    "assumptions": "We assume that temperature can be both a fixed value and subject to change simultaneously.",
+    "steps": "1. Identify the current temperature. 2. Note the change in temperature. 3. Analyze the implications of a static value rising. 4. Conclude the logical inconsistency.",
+    "math": "No specific mathematical formulation is required, but understanding limits and rates of change can be beneficial.",
+    "truth": "A fixed temperature cannot rise."
+  },
+  "solutions": {
+    "paths": [
+      "Clarify the distinction between static values and dynamic changes.",
+      "Use precise language when discussing temperature changes.",
+      "Educate on logical reasoning and predication.",
+      "Explore alternative interpretations of temperature readings."
+    ],
+    "tradeoffs": [
+      "Simplifying language may lead to misunderstandings.",
+      "In-depth explanations can confuse non-experts.",
+      "Focusing on logic may overlook practical implications.",
+      "Overemphasis on paradox may detract from real-world applications.",
+      "Balancing technicality with accessibility is challenging.",
+      "Avoiding jargon can limit precision.",
+      "Engaging examples may oversimplify complex ideas.",
+      "Relying on intuition can lead to errors."
+    ],
+    "status": "Ongoing discussions in logic and philosophy."
+  },
+  "practice": {
+    "patterns": [
+      "Identify fixed values in dynamic contexts.",
+      "Analyze statements for logical consistency.",
+      "Practice rephrasing ambiguous statements.",
+      "Explore real-world examples of paradoxes.",
+      "Engage in group discussions on logical reasoning.",
+      "Create scenarios that illustrate the paradox.",
+      "Challenge assumptions in everyday reasoning.",
+      "Use visual aids to represent changes.",
+      "Reflect on personal experiences with change.",
+      "Test understanding through quizzes."
+    ],
+    "prompts": [
+      "What does it mean for a value to rise?",
+      "Can a static number ever change?",
+      "How do we interpret temperature readings?",
+      "What assumptions do we make about change?",
+      "Discuss a time when you encountered a paradox.",
+      "How can language affect our understanding of logic?",
+      "What are the implications of this paradox?",
+      "Explore other paradoxes in logic.",
+      "How does this relate to real-world scenarios?",
+      "What lessons can we learn from this paradox?",
+      "How can we improve our reasoning skills?",
+      "What role does context play in understanding?"
+    ],
+    "warnings": [
+      "Avoid conflating static and dynamic concepts.",
+      "Be cautious of oversimplifying complex ideas.",
+      "Don't ignore the importance of precise language.",
+      "Recognize the limits of intuition in reasoning.",
+      "Be aware of cognitive biases in interpretation."
+    ]
+  },
+  "context": {
+    "history": "The temperature paradox has been discussed in philosophical and logical contexts, highlighting the complexities of language and reasoning.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf",
+      "wikipedia": "https://en.wikipedia.org/wiki/Temperature_paradox"
+    }
+  }
+}

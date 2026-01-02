@@ -1,0 +1,16 @@
+{
+  "id": "p_which_way",
+  "title": "Which-Way Paradox",
+  "hook": "Path information destroys interference pattern.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Observation affects quantum systems.",
+  "tags": [
+    "quantum",
+    "complementarity"
+  ],
+  "related": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "p_rule_following",
+  "title": "Rule-Following Paradox",
+  "hook": "No fact about past behavior determines uniquely how to follow a rule like 'plus'.",
+  "domains": [
+    "philosophy",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Rules do not uniquely determine actions.",
+  "tags": [
+    "meaning",
+    "wittgenstein"
+  ],
+  "related": []
+}

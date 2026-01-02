@@ -1,0 +1,17 @@
+{
+  "id": "p_giffen",
+  "title": "Giffen Paradox",
+  "hook": "For some inferior goods, demand can rise when price rises because income effects dominate substitution effects.",
+  "domains": [
+    "economics",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Higher prices can increase demand for certain goods.",
+  "tags": [
+    "demand",
+    "income_effect"
+  ],
+  "related": []
+}

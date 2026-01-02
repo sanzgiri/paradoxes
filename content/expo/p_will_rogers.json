@@ -1,0 +1,65 @@
+{
+  "id": "p_will_rogers",
+  "narrative": {
+    "story": "The Will Rogers phenomenon illustrates how transferring an element between groups can lead to an increase in the average of both groups. For instance, if we have two groups with different average values and we move a member from the lower average group to the higher average group, the averages of both groups can rise. This counterintuitive result highlights the complexities of statistical averages.",
+    "wrong_reasoning": "Many assume that moving an entry from a lower average group to a higher average group will decrease the lower group's average. However, the Will Rogers phenomenon shows that both averages can increase, leading to misconceptions about how averages work.",
+    "paradox": "The paradox arises when the mathematical definition of averages, whether mean or median, leads to results that contradict intuitive expectations. It challenges our understanding of how data can be interpreted."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that averages are stable and representative of the groups involved.",
+    "steps": "1. Identify two groups with different averages. 2. Move an element from the lower average group to the higher average group. 3. Calculate the new averages for both groups. 4. Observe the increase in both averages.",
+    "math": "Let A1 and A2 be the averages of two groups before the transfer. After transferring an element, the new averages A1' and A2' can be calculated, showing that A1' > A1 and A2' > A2 under certain conditions.",
+    "truth": "Averages can be misleading."
+  },
+  "solutions": {
+    "paths": [
+      "Analyze data carefully",
+      "Consider group sizes",
+      "Use medians for skewed data",
+      "Visualize data distributions"
+    ],
+    "tradeoffs": [
+      "Simplifying assumptions may lead to errors",
+      "Ignoring group context can mislead",
+      "Over-reliance on averages can obscure truths",
+      "Statistical significance vs. practical significance"
+    ],
+    "status": "Understanding the phenomenon can improve data interpretation."
+  },
+  "practice": {
+    "patterns": [
+      "Simpson's paradox",
+      "Data visualization techniques",
+      "Comparative analysis",
+      "Contextual data interpretation",
+      "Statistical literacy"
+    ],
+    "prompts": [
+      "What happens if we move an element?",
+      "How do group sizes affect averages?",
+      "Can we trust averages in this context?",
+      "What other factors might influence the results?",
+      "How can we visualize this phenomenon?",
+      "What assumptions are we making?",
+      "Are there better measures than averages?",
+      "What is the impact of outliers?",
+      "How do we communicate these findings?",
+      "What real-world examples illustrate this?"
+    ],
+    "warnings": [
+      "Beware of misleading averages",
+      "Consider the context of data",
+      "Don't ignore group differences",
+      "Be cautious with small sample sizes",
+      "Avoid overgeneralizing results"
+    ]
+  },
+  "context": {
+    "history": "The phenomenon is named after Will Rogers, who humorously noted that moving people between groups could lead to paradoxical outcomes.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "p_preparedness\tPreparedness Paradox",
+  "narrative": {
+    "story": "Imagine a team preparing for a natural disaster. They stockpile supplies and create detailed plans. However, when the disaster strikes, their over-preparedness leads to confusion and misallocation of resources, ultimately hindering their response. This scenario illustrates how excessive preparation can create unforeseen complications.",
+    "wrong_reasoning": "Many believe that more preparation always leads to better outcomes. This reasoning overlooks the potential for over-preparation to create rigidity and confusion, which can be detrimental in dynamic situations.",
+    "paradox": "The Preparedness Paradox highlights that while being prepared is generally seen as positive, it can lead to negative consequences when taken to extremes."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that preparation is always beneficial and that plans can account for all variables.",
+    "steps": "1. Identify potential risks. 2. Develop a comprehensive plan. 3. Gather resources. 4. Execute the plan during the event. 5. Evaluate outcomes post-event.",
+    "math": "The effectiveness of preparedness can be modeled using probability distributions to account for various outcomes based on different levels of preparation.",
+    "truth": "Preparation can be a double-edged sword."
+  },
+  "solutions": {
+    "paths": [
+      "Balance preparation with flexibility.",
+      "Encourage adaptive planning.",
+      "Regularly review and update plans.",
+      "Incorporate feedback from past experiences."
+    ],
+    "tradeoffs": [
+      "Time spent preparing vs. time spent adapting.",
+      "Resource allocation for preparedness vs. immediate response.",
+      "Detailed plans vs. flexibility in execution.",
+      "Over-preparation vs. under-preparation."
+    ],
+    "status": "Ongoing research into optimal preparedness strategies."
+  },
+  "practice": {
+    "patterns": [
+      "Scenario planning.",
+      "Regular drills.",
+      "Feedback loops.",
+      "Resource audits.",
+      "Cross-training team members.",
+      "Flexible resource allocation.",
+      "Post-event analysis.",
+      "Stakeholder engagement.",
+      "Iterative planning.",
+      "Risk assessment workshops."
+    ],
+    "prompts": [
+      "What could go wrong with our plan?",
+      "How can we adapt if circumstances change?",
+      "What resources are critical?",
+      "Who needs to be involved in decision-making?",
+      "How will we communicate during a crisis?",
+      "What lessons did we learn from past events?",
+      "How can we ensure flexibility?",
+      "What assumptions are we making?",
+      "How often should we review our plans?",
+      "What are the potential unintended consequences?",
+      "How do we prioritize our resources?",
+      "What if our plan fails?"
+    ],
+    "warnings": [
+      "Avoid rigid plans.",
+      "Don't ignore feedback.",
+      "Beware of complacency.",
+      "Stay adaptable.",
+      "Recognize limits of preparation."
+    ]
+  },
+  "context": {
+    "history": "The Preparedness Paradox has been discussed in various contexts, particularly in emergency management and organizational behavior.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p_drinker",
+  "title": "Drinker Paradox",
+  "hook": "In any non-empty bar, there is a person such that if that person is drinking, everyone is drinking.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Existence of a drinker implies universal drinking.",
+  "tags": [
+    "classical_logic",
+    "existential"
+  ],
+  "related": []
+}

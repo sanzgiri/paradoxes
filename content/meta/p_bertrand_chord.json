@@ -1,0 +1,16 @@
+{
+  "id": "p_bertrand_chord",
+  "title": "Bertrand\u2019s Paradox (Chord)",
+  "hook": "Different \u2018natural\u2019 procedures for choosing a random chord in a circle yield different probabilities.",
+  "domains": [
+    "probability"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Randomness can lead to contradictory results.",
+  "tags": [
+    "geometric_probability",
+    "infinity"
+  ],
+  "related": []
+}

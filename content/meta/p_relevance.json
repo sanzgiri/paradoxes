@@ -1,0 +1,15 @@
+{
+  "id": "p_relevance",
+  "title": "Relevance Paradox",
+  "hook": "Relevant info not sought until relevance clear.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Relevance can only be assessed post-information acquisition.",
+  "tags": [
+    "information_seeking"
+  ],
+  "related": []
+}

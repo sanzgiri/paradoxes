@@ -1,0 +1,76 @@
+{
+  "id": "p_centipede",
+  "narrative": {
+    "story": "In the Centipede Game, two players alternately choose to take or pass a growing pot of money. If both pass, the pot continues to grow, but if one takes, the game ends with that player receiving the pot. Players often choose to take early, leading to lower overall gains, despite the potential for mutual benefit if they cooperate.",
+    "wrong_reasoning": "Players might believe that taking the pot early is the best strategy due to fear of being outsmarted. This reasoning overlooks the potential for greater rewards through cooperation, leading to a paradox where rational decisions yield worse outcomes.",
+    "paradox": "The paradox arises when players, acting rationally according to backward induction, choose to take the pot early, resulting in a lower total payoff than if they had both chosen to pass, highlighting the conflict between individual rationality and collective benefit."
+  },
+  "mechanism": {
+    "assumptions": "Players are rational and have complete knowledge of the game's structure.",
+    "steps": "1. Players take turns deciding to take or pass. 2. If both pass, the pot increases. 3. If one takes, the game ends. 4. Players evaluate their options based on potential outcomes.",
+    "math": "The expected value of passing can be calculated based on the potential growth of the pot versus the immediate gain from taking.",
+    "truth": "Rational behavior can lead to suboptimal group outcomes."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage cooperative strategies.",
+      "Educate players on the benefits of mutual gain.",
+      "Implement rules that reward passing.",
+      "Use repeated games to build trust."
+    ],
+    "tradeoffs": [
+      "Immediate gain vs. long-term benefit.",
+      "Trust vs. suspicion.",
+      "Individual rationality vs. collective outcomes.",
+      "Risk of loss vs. potential for gain.",
+      "Short-term strategy vs. long-term cooperation.",
+      "Competition vs. collaboration.",
+      "Certainty vs. uncertainty in decision-making.",
+      "Self-interest vs. group interest."
+    ],
+    "status": "Ongoing research into cooperative game theory."
+  },
+  "practice": {
+    "patterns": [
+      "Identify potential for cooperation.",
+      "Analyze past decisions in similar games.",
+      "Discuss outcomes with peers.",
+      "Role-play scenarios to explore strategies.",
+      "Reflect on personal biases in decision-making.",
+      "Use game theory models to predict outcomes.",
+      "Evaluate the impact of trust on decisions.",
+      "Consider alternative strategies.",
+      "Study historical examples of cooperation.",
+      "Engage in discussions about rationality."
+    ],
+    "prompts": [
+      "What would happen if both players passed?",
+      "How does fear influence decision-making?",
+      "Can trust change the outcome of the game?",
+      "What are the long-term benefits of cooperation?",
+      "How can players communicate effectively?",
+      "What assumptions are players making?",
+      "How does this game relate to real-life scenarios?",
+      "What strategies could improve cooperation?",
+      "How do emotions affect rational choices?",
+      "What lessons can be learned from this game?",
+      "How does the game's structure influence decisions?",
+      "What role does risk play in decision-making?"
+    ],
+    "warnings": [
+      "Avoid making decisions based solely on fear.",
+      "Don't underestimate the value of cooperation.",
+      "Be aware of biases in your reasoning.",
+      "Consider the long-term consequences of your choices.",
+      "Recognize when individual rationality leads to group failure."
+    ]
+  },
+  "context": {
+    "history": "The Centipede Game was introduced in game theory to illustrate the complexities of decision-making in competitive environments.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "p_100_prisoners",
+  "title": "100 Prisoners Problem",
+  "hook": "Optimal hat-guessing strategy saves most prisoners with high probability.",
+  "domains": [
+    "probability",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Collaboration can enhance individual chances of success.",
+  "tags": [
+    "information",
+    "strategy"
+  ],
+  "related": []
+}

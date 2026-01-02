@@ -1,0 +1,16 @@
+{
+  "id": "p_kr_puzzle",
+  "title": "KR Paradox",
+  "hook": "Knowledge requires justified true belief, but justification loops create regress.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "antinomy",
+  "key_lesson": "Justification can lead to infinite regress.",
+  "tags": [
+    "knowability",
+    "modal"
+  ],
+  "related": []
+}

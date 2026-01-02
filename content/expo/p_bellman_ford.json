@@ -1,0 +1,67 @@
+{
+  "id": "p_bellman_ford",
+  "narrative": {
+    "story": "In decision theory, the Bellman-Ford paradox illustrates how an optimal policy can yield different results than simply maximizing expected value in the short term. This occurs when considering future states and their probabilities, leading to decisions that may seem counterintuitive. For instance, a strategy that appears suboptimal in the present may actually lead to better long-term outcomes, highlighting the importance of dynamic programming in decision-making.",
+    "wrong_reasoning": "Many assume that maximizing expected value at each step guarantees the best overall outcome. However, this approach neglects the impact of future decisions and states. By focusing solely on immediate rewards, one might overlook strategies that, while less rewarding now, could lead to significantly better results later. This misjudgment can lead to a failure in recognizing the value of planning and foresight in decision-making.",
+    "paradox": "The paradox lies in the conflict between short-term and long-term strategies. While myopic decision-making suggests that one should always choose the option with the highest immediate expected value, the Bellman-Ford paradox shows that this can lead to suboptimal overall results. The optimal policy may require sacrificing immediate gains for future benefits, challenging conventional wisdom."
+  },
+  "mechanism": {
+    "assumptions": "Rational decision-making, knowledge of future states, and probabilities.",
+    "steps": "1. Identify possible future states and their probabilities. 2. Calculate expected values for each action based on immediate outcomes. 3. Evaluate the long-term impact of each action. 4. Choose the action that maximizes overall expected value over time.",
+    "math": "E(X) = \u03a3 (P(x) * V(x)) where E(X) is the expected value, P(x) is the probability of state x, and V(x) is the value of state x.",
+    "truth": "Optimal policies consider future consequences."
+  },
+  "solutions": {
+    "paths": [
+      "Implement dynamic programming techniques.",
+      "Utilize reinforcement learning for better policy evaluation.",
+      "Incorporate risk assessment into decision-making.",
+      "Adopt a long-term perspective in strategy formulation."
+    ],
+    "tradeoffs": [
+      "Short-term gain vs. long-term benefit.",
+      "Complexity of calculations vs. accuracy of outcomes.",
+      "Immediate rewards vs. future stability.",
+      "Simplicity of myopic strategies vs. optimal policies."
+    ],
+    "status": "Ongoing research in decision theory."
+  },
+  "practice": {
+    "patterns": [
+      "Evaluate decisions based on long-term outcomes.",
+      "Use simulations to understand future states.",
+      "Incorporate feedback loops in decision processes.",
+      "Analyze historical data for better predictions.",
+      "Balance risk and reward in strategy development."
+    ],
+    "prompts": [
+      "What are the long-term consequences of this decision?",
+      "How does this choice affect future options?",
+      "What assumptions are we making about future states?",
+      "Can we model this decision using dynamic programming?",
+      "What risks are we willing to accept for potential gains?",
+      "How can we validate our expected outcomes?",
+      "What alternative strategies could we consider?",
+      "How does this align with our overall goals?",
+      "What feedback mechanisms can we implement?",
+      "What historical examples can guide our decision?",
+      "How can we simplify our decision-making process?",
+      "What metrics will we use to evaluate success?"
+    ],
+    "warnings": [
+      "Avoid focusing solely on immediate rewards.",
+      "Be cautious of over-simplifying complex decisions.",
+      "Don't ignore the impact of future uncertainties.",
+      "Beware of cognitive biases in decision-making.",
+      "Recognize the limitations of expected value calculations."
+    ]
+  },
+  "context": {
+    "history": "The Bellman-Ford algorithm was developed in the 1950s for solving shortest path problems, leading to insights in decision-making.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

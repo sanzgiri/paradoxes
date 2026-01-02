@@ -1,0 +1,16 @@
+{
+  "id": "p_hardest_problem",
+  "title": "Quantum Hardest Problem",
+  "hook": "Born rule probabilities unexplained in Everettian quantum mechanics.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "advanced",
+  "paradox_type": "falsidical",
+  "key_lesson": "Understanding quantum mechanics requires reconciling probabilities.",
+  "tags": [
+    "manyworlds",
+    "probability"
+  ],
+  "related": []
+}

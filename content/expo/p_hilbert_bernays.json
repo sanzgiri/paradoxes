@@ -1,0 +1,76 @@
+{
+  "id": "p_hilbert_bernays",
+  "narrative": {
+    "story": "The Hilbert-Bernays paradox arises when we consider the naming of natural numbers. If we define a name to be the successor of the number it represents, we encounter a contradiction. For instance, if 'n' is the name for the number 1, then according to our definition, 'n' should also represent 2, leading to confusion about the identity of names and numbers.",
+    "wrong_reasoning": "One might assume that naming a number as its successor is straightforward. However, this reasoning overlooks the implications of self-reference and the potential for circular definitions, which can lead to contradictions.",
+    "paradox": "The paradox illustrates that a name cannot simultaneously represent two distinct entities, challenging our understanding of identity in mathematics."
+  },
+  "mechanism": {
+    "assumptions": "Names can be defined without ambiguity.",
+    "steps": "1. Define a name as the successor of the number it represents. 2. Apply this definition recursively. 3. Identify contradictions that arise from self-reference.",
+    "math": "Let n be a name for a natural number. If n = n + 1, then n cannot be uniquely defined.",
+    "truth": "Names should maintain distinct identities."
+  },
+  "solutions": {
+    "paths": [
+      "Clarify definitions",
+      "Avoid self-referential naming",
+      "Use formal systems",
+      "Implement strict identity rules"
+    ],
+    "tradeoffs": [
+      "Increased complexity",
+      "Potential loss of intuitive understanding",
+      "Need for rigorous definitions",
+      "Risk of over-complication",
+      "Possibility of excluding certain concepts",
+      "Challenges in communication",
+      "Difficulty in teaching",
+      "Potential for misinterpretation"
+    ],
+    "status": "Ongoing discussions in logic and philosophy."
+  },
+  "practice": {
+    "patterns": [
+      "Identify self-referential definitions",
+      "Analyze naming conventions",
+      "Explore identity in mathematics",
+      "Discuss implications of paradoxes",
+      "Apply formal logic",
+      "Engage in thought experiments",
+      "Review historical examples",
+      "Collaborate on problem-solving",
+      "Debate philosophical implications",
+      "Create visual representations"
+    ],
+    "prompts": [
+      "What is the role of names in mathematics?",
+      "How can we avoid paradoxes?",
+      "Discuss the implications of self-reference.",
+      "What are the limits of naming?",
+      "Explore alternative naming conventions.",
+      "How does this paradox affect mathematical logic?",
+      "What historical examples relate to this paradox?",
+      "Can we redefine names to avoid contradictions?",
+      "What are the philosophical implications?",
+      "How do we teach this concept effectively?",
+      "What are the consequences of ignoring this paradox?",
+      "How can we apply this understanding in practice?"
+    ],
+    "warnings": [
+      "Be cautious of circular definitions.",
+      "Avoid ambiguous terms.",
+      "Recognize the limits of self-reference.",
+      "Understand the implications of naming.",
+      "Stay aware of logical consistency."
+    ]
+  },
+  "context": {
+    "history": "The Hilbert-Bernays paradox has roots in the early 20th century discussions on logic and mathematics, particularly in the works of David Hilbert and Kurt G\u00f6del.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

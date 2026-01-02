@@ -1,0 +1,17 @@
+{
+  "id": "p_nihilism",
+  "title": "Nihilism Paradox",
+  "hook": "No meaning implies search for meaning is absurd.",
+  "domains": [
+    "philosophy",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Searching for meaning can be inherently absurd.",
+  "tags": [
+    "meaning",
+    "absurdity"
+  ],
+  "related": []
+}

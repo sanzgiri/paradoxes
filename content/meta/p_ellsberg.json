@@ -1,0 +1,15 @@
+{
+  "id": "p_ellsberg",
+  "title": "Ellsberg Paradox",
+  "hook": "Preferences over ambiguous urns violate expected-utility axioms.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Ambiguity aversion contradicts expected utility theory.",
+  "tags": [
+    "ambiguity_aversion"
+  ],
+  "related": []
+}

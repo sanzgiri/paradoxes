@@ -1,0 +1,76 @@
+{
+  "id": "p_sleeping_beauty_third",
+  "narrative": {
+    "story": "In the Sleeping Beauty problem, a subject is put to sleep on Sunday and awakened either once or twice based on a coin flip. If heads, she wakes up once on Monday; if tails, she wakes up on Monday and again on Tuesday. The debate arises on what her credence should be upon awakening. Thirders argue for a 1/3 credence for heads and 2/3 for tails, while halfers argue for a 1/2 credence for both outcomes. This leads to a fascinating discussion on self-locating beliefs and how they influence our understanding of probability.",
+    "wrong_reasoning": "Some argue that since the coin flip is fair, the credence should simply be 1/2 for heads and 1/2 for tails, ignoring the implications of multiple awakenings. This reasoning fails to account for the fact that the probability of awakening twice alters the expected credence.",
+    "paradox": "The paradox lies in the conflicting intuitions about probability and self-location. While halfers believe in equal credence based on the fairness of the coin, thirders highlight the importance of the awakening process, leading to a deeper philosophical inquiry into how we assign probabilities to self-locating scenarios."
+  },
+  "mechanism": {
+    "assumptions": "The assumptions include the fairness of the coin and the nature of the awakening process.",
+    "steps": "1. A fair coin is flipped. 2. If heads, the subject wakes once on Monday. 3. If tails, the subject wakes on both Monday and Tuesday. 4. Upon waking, the subject must assign a credence to the coin flip outcome based on the awakening scenario.",
+    "math": "The calculations involve determining the probabilities based on the number of awakenings: P(heads) = 1/3, P(tails) = 2/3.",
+    "truth": "The truth of the matter hinges on how we interpret self-locating beliefs."
+  },
+  "solutions": {
+    "paths": [
+      "Adopt thirder's perspective for self-locating beliefs.",
+      "Use Bayesian reasoning to update credences.",
+      "Engage in discussions to explore different viewpoints.",
+      "Consider implications in decision theory."
+    ],
+    "tradeoffs": [
+      "Clarity vs. complexity in reasoning.",
+      "Intuition vs. formalism in probability.",
+      "Simplicity vs. accuracy in credence assignment.",
+      "Philosophical implications vs. practical applications.",
+      "Consensus vs. individual belief systems.",
+      "Static vs. dynamic credence updates.",
+      "Personal belief vs. objective probability.",
+      "Short-term vs. long-term decision impacts."
+    ],
+    "status": "Ongoing debate among philosophers and decision theorists."
+  },
+  "practice": {
+    "patterns": [
+      "Identify self-locating scenarios.",
+      "Apply Bayesian reasoning in decision-making.",
+      "Discuss probability interpretations with peers.",
+      "Analyze historical cases of similar debates.",
+      "Reflect on personal beliefs and biases.",
+      "Explore implications of credence in real-life decisions.",
+      "Challenge assumptions in probability assessments.",
+      "Engage with paradoxes in decision theory.",
+      "Utilize thought experiments to clarify reasoning.",
+      "Document reasoning processes in complex scenarios."
+    ],
+    "prompts": [
+      "What would your credence be upon waking?",
+      "How does the awakening process affect your beliefs?",
+      "Discuss the implications of being a thirder or halfer.",
+      "What assumptions are you making in your reasoning?",
+      "How would you explain this problem to a novice?",
+      "What real-life decisions relate to this paradox?",
+      "How does self-location influence your choices?",
+      "What are the limits of your current understanding?",
+      "How can you apply this reasoning to other scenarios?",
+      "What historical debates mirror this discussion?",
+      "How do you reconcile conflicting intuitions?",
+      "What further questions does this raise for you?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying the problem.",
+      "Be cautious of confirmation bias.",
+      "Don't ignore the implications of self-location.",
+      "Recognize the limits of intuitive reasoning.",
+      "Stay open to alternative perspectives."
+    ]
+  },
+  "context": {
+    "history": "The Sleeping Beauty problem has been a topic of philosophical debate since its formulation, highlighting the complexities of probability and belief.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

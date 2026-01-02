@@ -1,0 +1,76 @@
+{
+  "id": "p_abilene",
+  "narrative": {
+    "story": "The Abilene Paradox illustrates how a group can make a decision that none of its members truly support. In a family trip scenario, everyone agrees to go to Abilene, thinking that others want to go there, despite none actually wanting to. This leads to a collective decision that results in dissatisfaction.",
+    "wrong_reasoning": "The group members mistakenly believe that their preferences align with those of others. They assume that by conforming to what they think others want, they are making a better choice, when in fact, they are all unhappy with the outcome.",
+    "paradox": "The paradox lies in the fact that individuals suppress their true preferences, leading to a decision that is collectively unwanted. This highlights the dangers of miscommunication and assumption in group dynamics."
+  },
+  "mechanism": {
+    "assumptions": "Group members assume others have a preference for the same outcome.",
+    "steps": "1. Each member thinks about their own preference. 2. Each member assumes others have different preferences. 3. Members express agreement to a decision they don't support. 4. The group collectively pursues the unwanted outcome.",
+    "math": "",
+    "truth": "The truth is that individual preferences can differ significantly from perceived group preferences."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage open communication about preferences.",
+      "Facilitate anonymous feedback to gauge true desires.",
+      "Implement decision-making frameworks that prioritize individual input.",
+      "Use consensus-building techniques to align group decisions."
+    ],
+    "tradeoffs": [
+      "Increased time for decision-making vs. better alignment with true preferences.",
+      "Potential conflict vs. clearer understanding of group desires.",
+      "Risk of indecision vs. avoidance of unwanted outcomes.",
+      "Transparency vs. vulnerability in sharing preferences.",
+      "Group cohesion vs. individual satisfaction.",
+      "Efficiency vs. thoroughness in decision processes.",
+      "Conformity vs. authenticity in group dynamics.",
+      "Short-term discomfort vs. long-term satisfaction."
+    ],
+    "status": "Ongoing exploration of group decision-making strategies."
+  },
+  "practice": {
+    "patterns": [
+      "Regular check-ins on group preferences.",
+      "Anonymous surveys before group discussions.",
+      "Role-playing to explore different perspectives.",
+      "Facilitated discussions to uncover hidden preferences.",
+      "Use of decision matrices to visualize options.",
+      "Establishing a culture of honesty in group settings.",
+      "Encouraging dissenting opinions to surface.",
+      "Creating a safe space for expressing true desires.",
+      "Utilizing technology for real-time feedback.",
+      "Implementing structured decision-making processes."
+    ],
+    "prompts": [
+      "What does everyone truly want?",
+      "How do we feel about this decision?",
+      "Is there anyone who disagrees?",
+      "What are the potential downsides of this choice?",
+      "How can we ensure everyone's voice is heard?",
+      "What assumptions are we making about each other?",
+      "Are we prioritizing group harmony over individual preferences?",
+      "What would happen if we chose differently?",
+      "How can we better communicate our desires?",
+      "What alternative options do we have?",
+      "How can we validate each other's preferences?",
+      "What is the worst-case scenario of this decision?"
+    ],
+    "warnings": [
+      "Avoid assuming consensus without verification.",
+      "Be cautious of groupthink dynamics.",
+      "Recognize the importance of individual voices.",
+      "Don't ignore non-verbal cues of dissent.",
+      "Be aware of the pressure to conform."
+    ]
+  },
+  "context": {
+    "history": "The Abilene Paradox was first articulated in the 1970s by Jerry B. Harvey, highlighting the complexities of group decision-making.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

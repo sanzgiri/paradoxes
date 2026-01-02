@@ -1,0 +1,16 @@
+{
+  "id": "p_feynman_sprinkler",
+  "title": "Feynman Sprinkler",
+  "hook": "Submerged sprinkler sucking fluid rotation direction.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Fluid dynamics can defy intuitive expectations.",
+  "tags": [
+    "fluid_dynamics",
+    "rotation"
+  ],
+  "related": []
+}

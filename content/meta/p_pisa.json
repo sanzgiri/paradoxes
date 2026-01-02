@@ -1,0 +1,16 @@
+{
+  "id": "p_pisa",
+  "title": "Leaning Tower of Pisa Paradox",
+  "hook": "Heavier objects fall faster myth debunked by simultaneous drop experiment.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intro",
+  "paradox_type": "veridical",
+  "key_lesson": "All objects fall at the same rate in a vacuum.",
+  "tags": [
+    "falling_bodies",
+    "galileo"
+  ],
+  "related": []
+}

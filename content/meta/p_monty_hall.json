@@ -1,0 +1,17 @@
+{
+  "id": "p_monty_hall",
+  "title": "Monty Hall Problem",
+  "hook": "Switching doors in a game show setup doubles the chance of winning, contrary to many intuitions.",
+  "domains": [
+    "probability",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Switching doors increases winning odds.",
+  "tags": [
+    "conditional_probability",
+    "intuition"
+  ],
+  "related": []
+}

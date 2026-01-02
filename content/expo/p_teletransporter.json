@@ -1,0 +1,76 @@
+{
+  "id": "p_teletransporter",
+  "narrative": {
+    "story": "Imagine a teletransporter that scans your body, destroys it, and recreates an exact copy at a different location. Is the new copy still you? This scenario raises questions about personal identity and consciousness. If the original is destroyed, can the copy truly be considered the same person, or is it merely a duplicate with no continuity of self?",
+    "wrong_reasoning": "Some argue that since the copy has all the memories and traits of the original, it must be the same person. However, this reasoning overlooks the importance of continuity and the experience of being the original individual.",
+    "paradox": "The teletransporter paradox challenges our understanding of identity. If a person is teleported, are they the same person upon arrival, or just a replica? This leads to conflicting views on what constitutes the self."
+  },
+  "mechanism": {
+    "assumptions": "The teletransporter operates under the assumption that identity is tied to physical continuity.",
+    "steps": "1. Scan the original body. 2. Destroy the original. 3. Rebuild the body at the destination. 4. Assess the identity of the new body.",
+    "math": "The process involves complex data transfer and reconstruction algorithms, but the core issue is philosophical rather than mathematical.",
+    "truth": "Identity is not solely defined by physical form."
+  },
+  "solutions": {
+    "paths": [
+      "Accept the copy as a new individual.",
+      "Redefine identity based on psychological continuity.",
+      "Argue for the preservation of the original.",
+      "Explore alternative theories of self."
+    ],
+    "tradeoffs": [
+      "Loss of original identity vs. creation of a new one.",
+      "Psychological continuity vs. physical continuity.",
+      "Ethical implications of destruction vs. recreation.",
+      "Acceptance of duplicates vs. rejection of non-originals.",
+      "Philosophical implications vs. practical applications.",
+      "Personal beliefs vs. scientific understanding.",
+      "Cultural perspectives on identity vs. individual views.",
+      "Legal implications of identity vs. moral considerations."
+    ],
+    "status": "Ongoing debate in philosophy and ethics."
+  },
+  "practice": {
+    "patterns": [
+      "Analyze thought experiments.",
+      "Discuss implications of technology on identity.",
+      "Explore historical views on self.",
+      "Debate ethical considerations of duplication.",
+      "Examine case studies in philosophy.",
+      "Reflect on personal beliefs about identity.",
+      "Engage in role-playing scenarios.",
+      "Create visual representations of identity.",
+      "Write essays on personal identity.",
+      "Participate in group discussions."
+    ],
+    "prompts": [
+      "What makes you, you?",
+      "Is a copy of you still you?",
+      "How do memories define identity?",
+      "Discuss the implications of cloning.",
+      "What if you could teleport?",
+      "Explore the concept of consciousness.",
+      "How does technology affect self-perception?",
+      "Debate the ethics of identity duplication.",
+      "What is the role of memory in identity?",
+      "How do different cultures view identity?",
+      "Discuss the impact of teletransportation on society.",
+      "What would you choose: original or copy?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying identity.",
+      "Be cautious of emotional biases.",
+      "Recognize the complexity of consciousness.",
+      "Consider diverse philosophical perspectives.",
+      "Stay open to new interpretations."
+    ]
+  },
+  "context": {
+    "history": "The teletransporter paradox has been a topic of discussion since the advent of science fiction, prompting philosophical inquiries into the nature of self and identity.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

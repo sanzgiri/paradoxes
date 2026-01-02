@@ -1,0 +1,76 @@
+{
+  "id": "p_social_loafing",
+  "narrative": {
+    "story": "In a group project, each member may feel less inclined to contribute fully, believing others will pick up the slack. This phenomenon, known as social loafing, leads to decreased overall effort and productivity. Studies show that as group size increases, individual accountability diminishes, resulting in a paradox where collective effort is less than the sum of individual efforts.",
+    "wrong_reasoning": "Many assume that larger groups inherently lead to better outcomes due to shared responsibilities. However, this belief overlooks the psychological tendency for individuals to reduce their effort when they feel less accountable, leading to suboptimal results.",
+    "paradox": "The paradox lies in the expectation that collaboration enhances performance, yet it often results in diminished individual contributions, contradicting the assumption that more people will lead to more effort."
+  },
+  "mechanism": {
+    "assumptions": "Individuals believe their contributions are less critical in larger groups.",
+    "steps": "1. Group is formed. 2. Members assume others will contribute. 3. Individual effort decreases. 4. Overall group performance suffers.",
+    "math": "If each member in a group of 5 contributes 20% effort, total output is 100%. If each contributes only 15%, total output drops to 75%.",
+    "truth": "Group dynamics can undermine individual motivation."
+  },
+  "solutions": {
+    "paths": [
+      "Increase individual accountability",
+      "Set clear group goals",
+      "Encourage personal contributions",
+      "Use smaller teams"
+    ],
+    "tradeoffs": [
+      "Increased monitoring",
+      "Potential for conflict",
+      "Need for clear communication",
+      "Risk of social comparison",
+      "Time investment in coordination",
+      "Balancing group size",
+      "Maintaining motivation",
+      "Ensuring equitable workload"
+    ],
+    "status": "Ongoing research into effective group dynamics."
+  },
+  "practice": {
+    "patterns": [
+      "Accountability systems",
+      "Goal-setting workshops",
+      "Team-building exercises",
+      "Feedback loops",
+      "Role assignments",
+      "Regular check-ins",
+      "Performance tracking",
+      "Incentive structures",
+      "Peer evaluations",
+      "Collaborative tools"
+    ],
+    "prompts": [
+      "How can we ensure everyone contributes?",
+      "What roles can we assign?",
+      "How do we measure individual effort?",
+      "What motivates you in a group?",
+      "How can we improve communication?",
+      "What are our group goals?",
+      "How do we handle conflicts?",
+      "What feedback do we need?",
+      "How can we celebrate contributions?",
+      "What tools can facilitate collaboration?",
+      "How do we ensure fairness?",
+      "What challenges do we face?"
+    ],
+    "warnings": [
+      "Avoid groupthink",
+      "Monitor for disengagement",
+      "Be aware of social comparison",
+      "Ensure clarity in roles",
+      "Recognize individual contributions"
+    ]
+  },
+  "context": {
+    "history": "The concept of social loafing was first identified in the 1910s but gained prominence in social psychology in the 1970s.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

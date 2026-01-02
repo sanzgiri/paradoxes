@@ -1,0 +1,62 @@
+{
+  "id": "p_giffen",
+  "narrative": {
+    "story": "The Giffen Paradox illustrates a counterintuitive economic principle where an increase in the price of a staple good, like bread, leads to an increase in its demand among lower-income consumers. This occurs because as the price rises, these consumers cannot afford more expensive substitutes and thus buy more of the inferior good to maintain their caloric intake, despite its higher price.",
+    "wrong_reasoning": "Many assume that higher prices always lead to lower demand due to substitution effects. However, in the case of Giffen goods, the income effect outweighs the substitution effect, leading to increased demand.",
+    "paradox": "The paradox lies in the fact that while traditional economic theory suggests that demand decreases as price increases, Giffen goods defy this logic, demonstrating that demand can actually rise under certain conditions."
+  },
+  "mechanism": {
+    "assumptions": "Consumers prioritize caloric intake over cost when faced with rising prices of staple goods.",
+    "steps": "1. Price of the Giffen good increases. 2. Consumers' real income effectively decreases. 3. Consumers buy more of the Giffen good instead of more expensive alternatives.",
+    "math": "If the price of bread rises from $1 to $2, and consumers can only afford 5 loaves at $1, they may choose to buy 6 loaves at $2 instead, due to the lack of affordable substitutes.",
+    "truth": "The Giffen Paradox is a real phenomenon observed in specific economic conditions."
+  },
+  "solutions": {
+    "paths": [
+      "Increase income support for low-income consumers",
+      "Subsidize alternative goods",
+      "Educate consumers on budgeting",
+      "Implement price controls on staples"
+    ],
+    "tradeoffs": [
+      "Potential market distortions",
+      "Increased government spending",
+      "Risk of dependency on subsidies",
+      "Impact on producers' profits",
+      "Inflationary pressures",
+      "Reduced consumer choice",
+      "Administrative costs",
+      "Long-term economic effects"
+    ],
+    "status": "Ongoing research into Giffen goods and their implications."
+  },
+  "practice": {
+    "patterns": [
+      "Identify Giffen goods in real markets",
+      "Analyze consumer behavior under price changes",
+      "Study income effects vs. substitution effects",
+      "Evaluate policy impacts on demand"
+    ],
+    "prompts": [
+      "What are examples of Giffen goods?",
+      "How do income effects influence consumer choices?",
+      "Can you think of a situation where demand increased with price?",
+      "What policies could mitigate Giffen effects?"
+    ],
+    "warnings": [
+      "Not all inferior goods are Giffen goods",
+      "Be cautious of oversimplifying consumer behavior",
+      "Consider market conditions when analyzing demand",
+      "Beware of conflating correlation with causation",
+      "Understand the limitations of economic models"
+    ]
+  },
+  "context": {
+    "history": "The Giffen Paradox was named after the Scottish economist Sir Robert Giffen, who observed this phenomenon in the 19th century.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

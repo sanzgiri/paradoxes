@@ -1,0 +1,16 @@
+{
+  "id": "p_magnus",
+  "title": "Magnus Effect Paradox",
+  "hook": "Spinning sphere curves trajectory due to pressure differences.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Understanding how spin affects motion.",
+  "tags": [
+    "spin",
+    "lift"
+  ],
+  "related": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": "p_feather_hammer",
+  "narrative": {
+    "story": "In a vacuum, a feather and a hammer dropped from the same height hit the ground simultaneously. This experiment, famously demonstrated by astronaut David Scott on the Moon, challenges our everyday experiences with gravity and air resistance. It illustrates that in the absence of air, all objects fall at the same rate regardless of their mass.",
+    "wrong_reasoning": "Many believe that heavier objects fall faster than lighter ones due to their weight. This misconception arises from experiences on Earth where air resistance plays a significant role. In reality, without air, weight does not influence the rate of fall.",
+    "paradox": "The paradox lies in the contradiction between our intuitive understanding of falling objects and the reality observed in a vacuum. It challenges the notion that mass affects falling speed."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that air resistance is a factor in falling objects on Earth.",
+    "steps": "1. Drop a feather and a hammer in a vacuum. 2. Observe both objects fall at the same rate. 3. Compare results with falling objects in air. 4. Conclude that gravity acts uniformly.",
+    "math": "The acceleration due to gravity is constant (9.81 m/s\u00b2) for all objects, regardless of mass.",
+    "truth": "In a vacuum, all objects fall at the same rate."
+  },
+  "solutions": {
+    "paths": [
+      "Conduct experiments in a vacuum",
+      "Use simulations to demonstrate the principle",
+      "Educate on the effects of air resistance",
+      "Explore gravitational theories"
+    ],
+    "tradeoffs": [
+      "Simplifying concepts may lead to misconceptions",
+      "Real-world experiments require controlled environments",
+      "Simulations may lack tactile understanding",
+      "Time investment in education vs. immediate understanding",
+      "Potential confusion with varying gravitational fields",
+      "Need for specialized equipment",
+      "Balancing theory with practical demonstrations",
+      "Addressing diverse learning styles"
+    ],
+    "status": "Widely accepted in physics education."
+  },
+  "practice": {
+    "patterns": [
+      "Drop tests",
+      "Vacuum chamber experiments",
+      "Interactive simulations",
+      "Group discussions",
+      "Visual aids",
+      "Real-life applications",
+      "Comparative analysis",
+      "Historical context",
+      "Critical thinking exercises",
+      "Problem-solving tasks"
+    ],
+    "prompts": [
+      "What happens when you drop different objects?",
+      "How does air resistance affect falling?",
+      "Can you think of real-world examples?",
+      "Why do we perceive weight differently?",
+      "How would this change on another planet?",
+      "What experiments can you design?",
+      "Discuss the implications of this paradox.",
+      "How does this relate to Newton's laws?",
+      "Explore the concept of terminal velocity.",
+      "What are the limitations of this experiment?",
+      "How does this affect our understanding of gravity?",
+      "What questions remain unanswered?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying the concept.",
+      "Ensure safety in experiments.",
+      "Be cautious of misconceptions.",
+      "Clarify the role of air resistance.",
+      "Address varying gravitational conditions."
+    ]
+  },
+  "context": {
+    "history": "The feather-hammer experiment has roots in classical physics and was popularized by modern demonstrations in space.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

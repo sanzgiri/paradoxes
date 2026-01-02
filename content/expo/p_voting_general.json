@@ -1,0 +1,76 @@
+{
+  "id": "p_voting_general",
+  "narrative": {
+    "story": "In a small town election, three candidates are running: A, B, and C. Most voters prefer A over B, and B over C. However, when C receives enough votes to be a spoiler, A loses to B, despite being the most preferred candidate overall. This scenario illustrates how voting systems can lead to unexpected outcomes, where the presence of a less popular candidate can alter the election result.",
+    "wrong_reasoning": "Many believe that voting for a less popular candidate is harmless, thinking it won't affect the outcome. However, this can lead to the spoiler effect, where the less popular candidate inadvertently helps elect the least preferred option. Voters often assume that their vote will not matter, but in reality, strategic voting can significantly influence results.",
+    "paradox": "The paradox arises when a candidate who is least preferred by the majority can win due to the presence of a third candidate. This challenges the assumption that majority preference should dictate the outcome, revealing the flaws in certain voting systems."
+  },
+  "mechanism": {
+    "assumptions": "Voters will vote for their true preferences and that the voting system accurately reflects majority choice.",
+    "steps": "1. Voters rank candidates based on preference. 2. Votes are counted according to the chosen voting system. 3. The candidate with the most votes is declared the winner. 4. Analyze the outcome to see if it aligns with majority preference.",
+    "math": "In a three-candidate election, if A receives 40% of the votes, B 35%, and C 25%, B wins despite A being the majority's first choice. This illustrates how vote splitting can distort outcomes.",
+    "truth": "Voting systems can fail to reflect true majority preferences."
+  },
+  "solutions": {
+    "paths": [
+      "Implement ranked-choice voting",
+      "Use approval voting",
+      "Adopt score voting",
+      "Educate voters on strategic voting"
+    ],
+    "tradeoffs": [
+      "Increased complexity",
+      "Potential voter confusion",
+      "Longer counting times",
+      "Higher implementation costs",
+      "Resistance to change",
+      "Need for voter education",
+      "Possible unintended consequences",
+      "Variability in outcomes"
+    ],
+    "status": "Ongoing discussions in electoral reform."
+  },
+  "practice": {
+    "patterns": [
+      "Spoiler effect",
+      "Vote splitting",
+      "Strategic voting",
+      "Majority rule failures",
+      "Preference aggregation",
+      "Non-monotonic outcomes",
+      "Condorcet paradox",
+      "Borda count issues",
+      "Plurality voting pitfalls",
+      "Voter apathy"
+    ],
+    "prompts": [
+      "What happens if a third candidate enters the race?",
+      "How would ranked-choice voting change the outcome?",
+      "Can strategic voting lead to better results?",
+      "What are the implications of vote splitting?",
+      "How do different systems handle ties?",
+      "What if all voters ranked their preferences?",
+      "How does voter turnout affect results?",
+      "What are the historical examples of voting paradoxes?",
+      "How can we educate voters on these issues?",
+      "What reforms could mitigate these paradoxes?",
+      "How do cultural factors influence voting behavior?",
+      "What role does media play in shaping voter preferences?"
+    ],
+    "warnings": [
+      "Beware of the spoiler effect",
+      "Don't assume all voters understand the system",
+      "Be cautious of overcomplicating voting processes",
+      "Watch for unintended consequences of reforms",
+      "Consider the impact of voter education initiatives."
+    ]
+  },
+  "context": {
+    "history": "Voting paradoxes have been studied since the 18th century, with notable discussions by mathematicians and political theorists.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

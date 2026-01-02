@@ -1,0 +1,60 @@
+{
+  "id": "p_tachyonic",
+  "narrative": {
+    "story": "The Tachyonic Antitelephone is a thought experiment proposed by Einstein, illustrating how faster-than-light (FTL) communication could lead to paradoxes in causality. If one could send a message back in time using tachyons, it raises questions about the sequence of events and whether the future can influence the past. This concept challenges our understanding of time and causality, suggesting that FTL communication could allow for scenarios where an effect precedes its cause.",
+    "wrong_reasoning": "Many assume that FTL communication is simply a faster way to send information without consequences. However, this overlooks the fundamental principles of causality and the implications of sending messages to the past, which could create contradictions and paradoxes.",
+    "paradox": "The paradox arises when a message sent to the past results in an event that prevents the message from being sent in the first place, creating a logical inconsistency."
+  },
+  "mechanism": {
+    "assumptions": "Assumes the existence of tachyons, hypothetical particles that travel faster than light.",
+    "steps": "1. Consider a sender and receiver separated by a distance. 2. The sender transmits a message using tachyons. 3. The message arrives before it was sent in the receiver's frame of reference. 4. Analyze the implications on causality.",
+    "math": "The equations governing tachyonic particles suggest they have imaginary mass, leading to non-causal behavior in spacetime.",
+    "truth": "FTL communication contradicts established physical laws."
+  },
+  "solutions": {
+    "paths": [
+      "Restrict communication to sub-light speeds.",
+      "Develop a new understanding of causality.",
+      "Explore alternative theories of time.",
+      "Utilize quantum mechanics to address paradoxes."
+    ],
+    "tradeoffs": [
+      "Maintaining causality vs. enabling FTL travel.",
+      "Complexity of new theories vs. simplicity of current models.",
+      "Potential technological advancements vs. ethical implications.",
+      "Scientific exploration vs. public misunderstanding."
+    ],
+    "status": "Theoretical exploration continues."
+  },
+  "practice": {
+    "patterns": [
+      "Identify assumptions in FTL theories.",
+      "Analyze historical examples of causality.",
+      "Discuss implications of time travel in literature.",
+      "Explore quantum entanglement as a related concept.",
+      "Debate the feasibility of tachyons."
+    ],
+    "prompts": [
+      "What if FTL communication were possible?",
+      "How would society change with time travel?",
+      "Discuss a story involving causality violations.",
+      "What are the implications of changing past events?",
+      "Explore the relationship between time and causality."
+    ],
+    "warnings": [
+      "Avoid oversimplifying complex theories.",
+      "Be cautious of misconceptions about time travel.",
+      "Recognize the limits of current scientific understanding.",
+      "Understand the philosophical implications of causality.",
+      "Do not conflate science fiction with scientific fact."
+    ]
+  },
+  "context": {
+    "history": "The concept of tachyons emerged from theoretical physics discussions in the early 20th century, particularly in the context of relativity.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

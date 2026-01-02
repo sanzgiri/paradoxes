@@ -1,0 +1,16 @@
+{
+  "id": "p_gibbs",
+  "title": "Gibbs Paradox",
+  "hook": "Entropy of mixing seems discontinuous between identical and slightly different gases.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Entropy is not always extensive in mixing scenarios.",
+  "tags": [
+    "entropy",
+    "mixing"
+  ],
+  "related": []
+}

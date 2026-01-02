@@ -1,0 +1,16 @@
+{
+  "id": "p_rabin",
+  "title": "Rabin Paradox",
+  "hook": "Observed risk aversion for small stakes implies absurd behavior for large stakes.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Risk aversion can lead to irrational decisions.",
+  "tags": [
+    "risk_aversion",
+    "small_stakes"
+  ],
+  "related": []
+}

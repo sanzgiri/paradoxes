@@ -1,0 +1,16 @@
+{
+  "id": "p_heterological",
+  "title": "Heterological Paradox",
+  "hook": "Is 'heterological' (true of words not describing themselves) heterological?",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "antinomy",
+  "key_lesson": "Self-reference can lead to contradictory conclusions.",
+  "tags": [
+    "predication",
+    "selfreference"
+  ],
+  "related": []
+}

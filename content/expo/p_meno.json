@@ -1,0 +1,76 @@
+{
+  "id": "p_meno",
+  "narrative": {
+    "story": "In Plato's dialogue, Meno questions whether virtue can be taught. Socrates introduces a paradox: if one knows what they seek, inquiry is unnecessary; if one does not know, how can they search for it? This leads to a deeper exploration of knowledge and learning, suggesting that true understanding comes from recognizing one's ignorance.",
+    "wrong_reasoning": "Some argue that if you don't know what you're looking for, you can't search effectively. However, this overlooks the role of inquiry in discovering new knowledge. The assumption that knowledge must precede inquiry is flawed; exploration often leads to unexpected insights.",
+    "paradox": "Meno's Paradox presents a dilemma: if you know what you seek, you don't need to search; if you don't know, how can you search? This creates a loop where inquiry seems impossible, challenging our understanding of knowledge acquisition."
+  },
+  "mechanism": {
+    "assumptions": "Knowledge must precede inquiry; inquiry requires prior knowledge.",
+    "steps": "1. Identify the object of inquiry. 2. Assess existing knowledge. 3. Determine if further inquiry is needed. 4. Engage in exploration to fill knowledge gaps.",
+    "math": "",
+    "truth": "Inquiry is a pathway to knowledge."
+  },
+  "solutions": {
+    "paths": [
+      "Embrace inquiry as a learning process.",
+      "Acknowledge the role of ignorance in discovery.",
+      "Utilize dialogue to explore unknowns.",
+      "Accept that knowledge evolves through questioning."
+    ],
+    "tradeoffs": [
+      "Time spent in inquiry vs. immediate knowledge.",
+      "Depth of understanding vs. breadth of knowledge.",
+      "Certainty vs. exploration.",
+      "Risk of confusion vs. potential insights.",
+      "Structured learning vs. open-ended inquiry.",
+      "Superficial answers vs. profound understanding.",
+      "Guided inquiry vs. independent exploration.",
+      "Comfort in knowledge vs. discomfort in uncertainty."
+    ],
+    "status": "Ongoing exploration in epistemology."
+  },
+  "practice": {
+    "patterns": [
+      "Socratic questioning.",
+      "Reflective journaling.",
+      "Group discussions.",
+      "Mind mapping.",
+      "Case studies.",
+      "Role-playing scenarios.",
+      "Debates on knowledge.",
+      "Exploratory essays.",
+      "Thought experiments.",
+      "Conceptual frameworks."
+    ],
+    "prompts": [
+      "What do you know about knowledge?",
+      "How do you define inquiry?",
+      "Can you think of a time when questioning led to insight?",
+      "What assumptions do you hold about learning?",
+      "How does ignorance contribute to knowledge?",
+      "What is the value of asking questions?",
+      "Describe a paradox you've encountered.",
+      "How can inquiry lead to unexpected outcomes?",
+      "What role does dialogue play in understanding?",
+      "How do you approach a topic you know little about?",
+      "What strategies help you in your inquiry?",
+      "How can you challenge your own assumptions?"
+    ],
+    "warnings": [
+      "Avoid circular reasoning.",
+      "Don't dismiss the value of ignorance.",
+      "Be cautious of overconfidence in knowledge.",
+      "Recognize the limits of your understanding.",
+      "Stay open to new perspectives."
+    ]
+  },
+  "context": {
+    "history": "Meno's Paradox has been a significant topic in philosophy, influencing discussions on epistemology and the nature of knowledge since Plato's time.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

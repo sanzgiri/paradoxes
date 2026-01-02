@@ -1,0 +1,76 @@
+{
+  "id": "p_braess",
+  "narrative": {
+    "story": "In a city with a simple traffic network, adding a new road was expected to reduce congestion. However, as drivers began to use the new route, the overall travel time increased due to the way individuals made decisions based on their own perceived shortest path. This led to a paradox where the addition of a route, intended to improve flow, actually caused delays.",
+    "wrong_reasoning": "Many assume that more routes will always lead to better traffic conditions. This reasoning overlooks how individual choices can aggregate to create worse outcomes. Drivers, seeking to minimize their own travel time, may inadvertently create a situation where everyone is worse off.",
+    "paradox": "The paradox illustrates that individual rational decisions can lead to a collective irrational outcome, where the addition of a beneficial option results in increased overall travel time."
+  },
+  "mechanism": {
+    "assumptions": "Drivers act rationally to minimize their own travel time.",
+    "steps": "1. Analyze the traffic network before and after adding a new route. 2. Observe changes in traffic patterns. 3. Measure travel times for all routes. 4. Compare overall travel times pre- and post-addition.",
+    "math": "Let T be the total travel time. Before the new route, T = T1 + T2. After adding the new route, T = T1' + T2' + T3, where T3 is the new route's travel time. Often, T > T1 + T2.",
+    "truth": "More routes can lead to worse outcomes."
+  },
+  "solutions": {
+    "paths": [
+      "Implement traffic management systems.",
+      "Encourage carpooling to reduce individual trips.",
+      "Use real-time traffic data to inform drivers.",
+      "Design networks with consideration of user behavior."
+    ],
+    "tradeoffs": [
+      "Increased complexity in traffic management.",
+      "Potential for longer travel times during peak hours.",
+      "Need for public awareness campaigns.",
+      "Balancing infrastructure costs with benefits.",
+      "Impact on local businesses during construction.",
+      "Environmental considerations of new routes.",
+      "Changes in land use patterns.",
+      "Equity concerns for different neighborhoods."
+    ],
+    "status": "Ongoing research and case studies."
+  },
+  "practice": {
+    "patterns": [
+      "Analyze traffic flow patterns.",
+      "Simulate changes in traffic networks.",
+      "Study case studies of similar paradoxes.",
+      "Engage in group discussions about traffic solutions.",
+      "Use software tools for traffic modeling.",
+      "Explore historical traffic data.",
+      "Conduct surveys on driver behavior.",
+      "Implement pilot projects for new routes.",
+      "Evaluate the effectiveness of traffic policies.",
+      "Collaborate with urban planners."
+    ],
+    "prompts": [
+      "What assumptions do drivers make about routes?",
+      "How can we measure the impact of a new road?",
+      "What alternative solutions exist to reduce congestion?",
+      "Discuss a time when a new route caused delays.",
+      "How can technology help mitigate Braess\u2019s Paradox?",
+      "What role does public transportation play?",
+      "How do different cities handle traffic management?",
+      "What are the long-term effects of adding routes?",
+      "How can we educate drivers about traffic choices?",
+      "What are the implications for urban design?",
+      "How does this paradox relate to other decision-making scenarios?",
+      "What policies could prevent worsening traffic conditions?"
+    ],
+    "warnings": [
+      "Avoid assuming all drivers will behave rationally.",
+      "Be cautious of oversimplifying traffic models.",
+      "Consider the long-term effects of new routes.",
+      "Beware of unintended consequences.",
+      "Monitor traffic patterns continuously."
+    ]
+  },
+  "context": {
+    "history": "Braess\u2019s Paradox was first identified by Dietrich Braess in 1968, highlighting counterintuitive outcomes in traffic flow.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

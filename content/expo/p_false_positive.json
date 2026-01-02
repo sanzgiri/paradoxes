@@ -1,0 +1,70 @@
+{
+  "id": "p_false_positive",
+  "narrative": {
+    "story": "Imagine a medical test for a rare disease that is 99% accurate. If only 1 in 10,000 people actually have the disease, a positive result is likely a false positive. This paradox highlights how even highly accurate tests can yield misleading results when the condition is rare.",
+    "wrong_reasoning": "Many assume that a 99% accuracy means a 99% chance of having the disease if tested positive. This reasoning ignores the base rate of the disease, leading to overconfidence in the test's results.",
+    "paradox": "The false positive paradox illustrates that a test can be highly accurate yet produce a majority of false positives in low-prevalence situations, challenging our intuition about probability."
+  },
+  "mechanism": {
+    "assumptions": "The accuracy of the test and the prevalence of the condition are critical assumptions.",
+    "steps": "1. Determine the prevalence of the disease. 2. Assess the test's accuracy. 3. Calculate the probability of true positives and false positives. 4. Analyze the results in context.",
+    "math": "Using Bayes' theorem: P(Disease | Positive) = (P(Positive | Disease) * P(Disease)) / P(Positive).",
+    "truth": "The truth is that high accuracy in tests does not equate to high probability of having the disease."
+  },
+  "solutions": {
+    "paths": [
+      "Improve public understanding of probability.",
+      "Use additional tests to confirm results.",
+      "Educate on the implications of low prevalence.",
+      "Implement decision aids for interpreting test results."
+    ],
+    "tradeoffs": [
+      "Increased testing may lead to more false positives.",
+      "Confirmatory tests can delay treatment.",
+      "Education requires resources and time.",
+      "Over-testing can cause anxiety and unnecessary procedures.",
+      "Balancing accuracy and prevalence is complex.",
+      "Public trust may be affected by false positives.",
+      "Cost of additional testing vs. benefits.",
+      "Potential for misdiagnosis if not careful."
+    ],
+    "status": "Ongoing research and education efforts are needed."
+  },
+  "practice": {
+    "patterns": [
+      "Always consider base rates.",
+      "Use multiple sources of information.",
+      "Be cautious with test results in low-prevalence cases.",
+      "Communicate uncertainty effectively."
+    ],
+    "prompts": [
+      "What is the prevalence of the condition?",
+      "How accurate is the test?",
+      "What are the consequences of a false positive?",
+      "How can we confirm the test result?",
+      "What assumptions are we making?",
+      "How does this affect decision-making?",
+      "What alternative explanations exist?",
+      "What additional information do we need?",
+      "How can we educate others about this?",
+      "What are the implications for public health?",
+      "How can we improve testing protocols?",
+      "What role does patient history play?"
+    ],
+    "warnings": [
+      "Don't rely solely on test results.",
+      "Be aware of the base rate fallacy.",
+      "Consider the psychological impact of false positives.",
+      "Avoid overconfidence in diagnostic tests.",
+      "Remember that accuracy does not imply certainty."
+    ]
+  },
+  "context": {
+    "history": "The false positive paradox has been discussed in statistical literature for decades, emphasizing the importance of understanding probability in medical testing.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

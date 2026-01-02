@@ -1,0 +1,17 @@
+{
+  "id": "p_swampman",
+  "title": "Swampman Paradox",
+  "hook": "Lightning-created duplicate lacks intentional states despite identical behavior.",
+  "domains": [
+    "philosophy",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Identity does not guarantee intentionality.",
+  "tags": [
+    "intentionality",
+    "teleology"
+  ],
+  "related": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p_standing_wave",
+  "title": "Standing Wave Paradox",
+  "hook": "Stationary pattern emerges from moving wave superposition.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Motion can create stationary patterns.",
+  "tags": [
+    "wave_interference",
+    "energy"
+  ],
+  "related": []
+}

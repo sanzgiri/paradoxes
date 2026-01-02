@@ -1,0 +1,17 @@
+{
+  "id": "p_boy_girl",
+  "title": "Boy or Girl Paradox",
+  "hook": "Probability of boy given at least one boy changes based on sampling assumptions.",
+  "domains": [
+    "probability",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Conditional probabilities can be counterintuitive.",
+  "tags": [
+    "conditional",
+    "family"
+  ],
+  "related": []
+}

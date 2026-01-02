@@ -1,0 +1,16 @@
+{
+  "id": "p_hindsight",
+  "title": "Hindsight Bias Paradox",
+  "hook": "Post-event probabilities exceed pre-event despite Bayesian updating.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Our memories distort probabilities after events occur.",
+  "tags": [
+    "updating",
+    "overconfidence"
+  ],
+  "related": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "p_finite_repeated_pd",
+  "title": "Finite Repeated Prisoner's Dilemma",
+  "hook": "Known finite horizon unravels cooperation backward from last round.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Finite games can lead to non-cooperative outcomes.",
+  "tags": [
+    "backward_induction",
+    "cooperation"
+  ],
+  "related": []
+}

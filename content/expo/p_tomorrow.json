@@ -1,0 +1,76 @@
+{
+  "id": "p_tomorrow",
+  "narrative": {
+    "story": "Imagine a world where tomorrow's events are already set in stone, yet remain uncertain until they occur. This paradox challenges our understanding of time and truth, suggesting that while we can predict future events, they are not yet true or false until they happen. This leads to a conflict between determinism and free will.",
+    "wrong_reasoning": "Many argue that if we can predict future events, they must be predetermined. However, this reasoning overlooks the nature of time and the role of human agency in shaping outcomes. Just because we can foresee an event does not mean it is inevitable.",
+    "paradox": "The paradox arises when we consider that future events are neither true nor false until they occur, yet our predictions about them seem to imply a certain truth. This creates a tension between our expectations and the reality of uncertainty."
+  },
+  "mechanism": {
+    "assumptions": "We assume that time is linear and that future events can be known.",
+    "steps": "1. Define the nature of future events. 2. Explore the implications of determinism. 3. Analyze the conflict between prediction and reality. 4. Conclude on the nature of truth in relation to time.",
+    "math": "Mathematical models of probability can illustrate the uncertainty of future events, but they do not resolve the paradox.",
+    "truth": "Truth about future events is contingent upon their occurrence."
+  },
+  "solutions": {
+    "paths": [
+      "Embrace uncertainty in predictions.",
+      "Consider multiple possible futures.",
+      "Focus on present actions rather than future outcomes.",
+      "Accept the limits of knowledge."
+    ],
+    "tradeoffs": [
+      "Certainty vs. uncertainty.",
+      "Determinism vs. free will.",
+      "Predictability vs. spontaneity.",
+      "Knowledge vs. ignorance.",
+      "Control vs. acceptance.",
+      "Planning vs. flexibility.",
+      "Hope vs. realism.",
+      "Expectation vs. experience."
+    ],
+    "status": "Ongoing philosophical debate."
+  },
+  "practice": {
+    "patterns": [
+      "Reflect on past predictions.",
+      "Discuss future scenarios with peers.",
+      "Analyze decision-making processes.",
+      "Engage in thought experiments.",
+      "Write about personal experiences with uncertainty.",
+      "Explore philosophical texts on time.",
+      "Debate determinism vs. free will.",
+      "Create scenarios with varying outcomes.",
+      "Use probability in everyday decisions.",
+      "Challenge assumptions about the future."
+    ],
+    "prompts": [
+      "What does it mean for an event to be 'true'?",
+      "How do you cope with uncertainty?",
+      "Can we ever truly know the future?",
+      "Discuss a time when your predictions were wrong.",
+      "What role does free will play in your life?",
+      "How do you define success in uncertain situations?",
+      "What philosophical texts resonate with your views on time?",
+      "How do you balance planning and spontaneity?",
+      "What are the implications of a deterministic universe?",
+      "How do you approach decision-making?",
+      "What is the value of hope in uncertain times?",
+      "How do you interpret conflicting predictions?"
+    ],
+    "warnings": [
+      "Avoid overconfidence in predictions.",
+      "Recognize the limits of knowledge.",
+      "Be cautious of deterministic thinking.",
+      "Don't ignore the role of chance.",
+      "Stay open to new information."
+    ]
+  },
+  "context": {
+    "history": "The paradox has been discussed by philosophers like Aristotle and more recently in modern philosophy.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

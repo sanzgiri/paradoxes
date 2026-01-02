@@ -1,0 +1,70 @@
+{
+  "id": "p_new_evil_demon",
+  "narrative": {
+    "story": "Imagine a demon that manipulates your perceptions, ensuring you only believe true statements. Despite your beliefs being true, the demon's influence undermines your justification for those beliefs. This scenario raises questions about the nature of knowledge and justification.",
+    "wrong_reasoning": "One might argue that if beliefs are true, they must be justified. However, justification requires more than truth; it requires a reliable process free from manipulation. The demon's interference shows that truth alone is insufficient.",
+    "paradox": "The paradox lies in the conflict between having true beliefs and lacking justification. If a demon can ensure your beliefs are true, yet you cannot justify them, it challenges our understanding of knowledge."
+  },
+  "mechanism": {
+    "assumptions": "Beliefs can be justified solely by their truth; reliability is not essential.",
+    "steps": "1. Consider a scenario where a demon influences beliefs. 2. Analyze the nature of justification. 3. Conclude that true beliefs can exist without justification.",
+    "math": "",
+    "truth": "Truth does not equate to justified belief."
+  },
+  "solutions": {
+    "paths": [
+      "Reject the assumption that truth guarantees justification.",
+      "Emphasize the importance of reliable belief formation.",
+      "Explore alternative theories of knowledge.",
+      "Consider the implications for epistemology."
+    ],
+    "tradeoffs": [
+      "Accepting unreliable beliefs for truth.",
+      "Balancing internalism and externalism.",
+      "Navigating skepticism about knowledge.",
+      "Defining justification in a new light.",
+      "Risking overcomplication of epistemic concepts.",
+      "Potentially dismissing intuitive beliefs.",
+      "Addressing the limits of human cognition.",
+      "Revising foundational epistemological theories."
+    ],
+    "status": "Under discussion in epistemology."
+  },
+  "practice": {
+    "patterns": [
+      "Identify cases of manipulated beliefs.",
+      "Evaluate the justification of your own beliefs.",
+      "Discuss the implications of the paradox.",
+      "Analyze real-world examples of belief formation."
+    ],
+    "prompts": [
+      "What does justification mean to you?",
+      "Can you think of a time when you believed something true but felt unjustified?",
+      "How do you differentiate between true belief and justified belief?",
+      "What role does reliability play in your understanding of knowledge?",
+      "Discuss the implications of the demon scenario.",
+      "How would you respond to someone who claims truth is all that matters?",
+      "Explore the relationship between belief and justification.",
+      "What are the limits of our knowledge?",
+      "How does this paradox affect your view of epistemology?",
+      "Can you propose a solution to the paradox?",
+      "What other paradoxes relate to justification?",
+      "How might this influence your daily decision-making?"
+    ],
+    "warnings": [
+      "Avoid conflating truth with justification.",
+      "Be cautious of oversimplifying complex ideas.",
+      "Recognize the limits of personal experience.",
+      "Challenge your assumptions about knowledge.",
+      "Stay open to alternative perspectives."
+    ]
+  },
+  "context": {
+    "history": "The New Evil Demon Paradox has roots in discussions about knowledge and justification in epistemology, particularly influenced by skepticism.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

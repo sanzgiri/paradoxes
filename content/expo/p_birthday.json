@@ -1,0 +1,65 @@
+{
+  "id": "p_birthday",
+  "narrative": {
+    "story": "Imagine a party with 23 people. Surprisingly, there's about a 50% chance that at least two of them share the same birthday. This counterintuitive result arises from the way probabilities combine in groups. As the number of people increases, the chances of shared birthdays rise dramatically, leading to what is known as the Birthday Paradox.",
+    "wrong_reasoning": "Many people assume that with 23 people, the chance of shared birthdays is low because there are 365 days in a year. They think each person has a unique birthday, but this overlooks the combinations of pairs that can share a birthday.",
+    "paradox": "The paradox lies in the fact that while there are 365 days, the number of ways to pair people grows quickly, making shared birthdays more likely than our intuition suggests."
+  },
+  "mechanism": {
+    "assumptions": "Assumes uniform distribution of birthdays across the year.",
+    "steps": "1. Calculate the probability that two people do not share a birthday. 2. Extend this to all pairs in a group of 23. 3. Subtract from 1 to find the probability of at least one shared birthday.",
+    "math": "P(shared) = 1 - (365/365) * (364/365) * ... * (343/365)",
+    "truth": "The probability increases with more people."
+  },
+  "solutions": {
+    "paths": [
+      "Use simulations to visualize",
+      "Teach through examples",
+      "Discuss implications in real life",
+      "Explore related paradoxes"
+    ],
+    "tradeoffs": [
+      "Simplifying assumptions may mislead",
+      "Overlooking combinations can cause errors",
+      "Intuition vs. mathematical reality",
+      "Contextual factors may vary"
+    ],
+    "status": "Widely accepted in probability theory."
+  },
+  "practice": {
+    "patterns": [
+      "Group size effects",
+      "Probability calculations",
+      "Real-world applications",
+      "Counterintuitive results",
+      "Simulations"
+    ],
+    "prompts": [
+      "What happens with 30 people?",
+      "How does this apply to lotteries?",
+      "Can you think of other paradoxes?",
+      "What if we change the number of days?",
+      "Discuss implications in social settings",
+      "How does this relate to risk assessment?",
+      "Explore variations in different cultures",
+      "What if we include leap years?",
+      "How would this change with fewer people?",
+      "Discuss with a friend"
+    ],
+    "warnings": [
+      "Avoid overgeneralizing results",
+      "Be cautious with assumptions",
+      "Don't ignore the role of randomness",
+      "Misinterpretation can lead to confusion",
+      "Ensure clarity in explanations"
+    ]
+  },
+  "context": {
+    "history": "The Birthday Paradox has been studied since the 20th century, illustrating the complexities of probability.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

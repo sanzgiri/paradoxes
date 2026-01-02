@@ -1,0 +1,17 @@
+{
+  "id": "p_dollar_auction",
+  "title": "Dollar Auction",
+  "hook": "Bidders escalate beyond rational limits due to sunk costs.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Sunk costs can lead to irrational decision-making.",
+  "tags": [
+    "sunk_cost",
+    "escalation"
+  ],
+  "related": []
+}

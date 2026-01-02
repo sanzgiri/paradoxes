@@ -1,0 +1,17 @@
+{
+  "id": "p_sleeping_beauty_quarterer",
+  "title": "Quarterer Position",
+  "hook": "Extreme position claiming 1/4 credence in Sleeping Beauty experiment.",
+  "domains": [
+    "probability",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Credence can be counterintuitive in self-locating beliefs.",
+  "tags": [
+    "selflocating",
+    "anthropics"
+  ],
+  "related": []
+}

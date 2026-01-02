@@ -1,0 +1,16 @@
+{
+  "id": "p_ross",
+  "title": "Ross Paradox",
+  "hook": "Disjunction introduction permits arbitrary imperatives from conditionals.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Conditionals can lead to unexpected imperatives.",
+  "tags": [
+    "imperatives",
+    "disjunction"
+  ],
+  "related": []
+}

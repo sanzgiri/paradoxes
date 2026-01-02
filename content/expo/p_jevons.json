@@ -1,0 +1,57 @@
+{
+  "id": "p_jevons",
+  "narrative": {
+    "story": "The Jevons Paradox illustrates how improvements in resource efficiency can lead to increased overall consumption. For instance, when a car becomes more fuel-efficient, the cost per mile decreases, encouraging people to drive more. This can result in higher total fuel consumption, counteracting the initial efficiency gains.",
+    "wrong_reasoning": "Many believe that increasing efficiency will always lead to reduced consumption. However, this overlooks the behavioral response to lower costs, which can drive demand higher, leading to greater resource use instead of conservation.",
+    "paradox": "The paradox lies in the fact that enhancing efficiency does not guarantee reduced consumption; instead, it can stimulate demand, resulting in higher total usage of resources."
+  },
+  "mechanism": {
+    "assumptions": "It is assumed that consumers will respond to lower costs by increasing usage.",
+    "steps": "1. Efficiency improvements lower costs. 2. Consumers perceive lower costs as an opportunity to use more of the resource. 3. Increased demand leads to higher total consumption despite initial efficiency gains.",
+    "math": "If a car's fuel efficiency improves from 20 to 30 miles per gallon, the cost per mile decreases, leading to increased driving.",
+    "truth": "Efficiency can paradoxically lead to more consumption."
+  },
+  "solutions": {
+    "paths": [
+      "Implement policies to manage demand alongside efficiency improvements.",
+      "Encourage behavioral changes that promote conservation.",
+      "Educate consumers about the implications of increased efficiency.",
+      "Develop technologies that balance efficiency with sustainable consumption."
+    ],
+    "tradeoffs": [
+      "Short-term savings vs. long-term consumption increases.",
+      "Consumer convenience vs. environmental impact.",
+      "Economic growth vs. resource sustainability.",
+      "Innovation vs. potential overconsumption."
+    ],
+    "status": "Ongoing research and policy development."
+  },
+  "practice": {
+    "patterns": [
+      "Monitor resource usage post-efficiency improvements.",
+      "Incorporate demand management strategies.",
+      "Promote public awareness campaigns.",
+      "Analyze consumer behavior changes."
+    ],
+    "prompts": [
+      "How can we balance efficiency with sustainability?",
+      "What policies can mitigate the rebound effect?",
+      "In what ways can consumer education be improved?",
+      "How do we measure the impact of efficiency improvements?"
+    ],
+    "warnings": [
+      "Beware of assuming efficiency will lead to conservation.",
+      "Monitor for unintended consequences of efficiency gains.",
+      "Avoid neglecting demand management strategies.",
+      "Consider the long-term implications of increased consumption."
+    ]
+  },
+  "context": {
+    "history": "The Jevons Paradox was first articulated by William Stanley Jevons in 1865, highlighting the unexpected consequences of increased coal efficiency.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

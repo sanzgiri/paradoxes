@@ -1,0 +1,16 @@
+{
+  "id": "p_uncertainty_principle",
+  "title": "Uncertainty Principle Paradox",
+  "hook": "Precision in position destroys momentum knowledge.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Measurement affects the system being measured.",
+  "tags": [
+    "quantum",
+    "measurement"
+  ],
+  "related": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p_elevator",
+  "title": "Elevator Weight Paradox",
+  "hook": "Apparent weight changes in an accelerating elevator can feel paradoxical without Newtonian analysis.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Understanding forces reveals the true nature of weight in acceleration.",
+  "tags": [
+    "acceleration",
+    "forces"
+  ],
+  "related": []
+}

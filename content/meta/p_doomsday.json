@@ -1,0 +1,17 @@
+{
+  "id": "p_doomsday",
+  "title": "Doomsday Argument",
+  "hook": "Our birth rank suggests humanity nears end given uniform birth distribution.",
+  "domains": [
+    "probability",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Our position in time can skew our perception of future events.",
+  "tags": [
+    "selfsampling",
+    "anthropic"
+  ],
+  "related": []
+}

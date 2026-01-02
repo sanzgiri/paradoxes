@@ -1,0 +1,76 @@
+{
+  "id": "p_google",
+  "narrative": {
+    "story": "In a room filled with sleep-deprived candidates, each believes they are the most awake. This leads to a paradox where the probability of any one individual being the most alert is 1/n, where n is the number of candidates. Despite feeling alert, the collective state of sleep deprivation creates a skewed perception of individual performance.",
+    "wrong_reasoning": "Many assume that being awake is a straightforward measure of alertness. However, the shared experience of sleep deprivation distorts this perception, leading individuals to overestimate their own alertness relative to others.",
+    "paradox": "The paradox lies in the fact that while each individual feels they are the most awake, statistically, only one can be the most alert, leading to a contradiction in self-assessment."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that alertness can be accurately perceived and compared among individuals.",
+    "steps": "1. Gather a group of sleep-deprived individuals. 2. Each person assesses their own alertness. 3. Compare self-assessments. 4. Calculate the probability of being the most awake.",
+    "math": "If n individuals are present, the probability of any one being the most awake is 1/n.",
+    "truth": "The truth is that collective sleep deprivation affects individual perceptions."
+  },
+  "solutions": {
+    "paths": [
+      "Awareness training",
+      "Group discussions",
+      "Sleep management strategies",
+      "Individual assessments"
+    ],
+    "tradeoffs": [
+      "Time investment",
+      "Group dynamics influence",
+      "Potential for miscommunication",
+      "Varied individual responses",
+      "Need for expert facilitation",
+      "Cultural differences in perception",
+      "Resource allocation",
+      "Long-term effectiveness"
+    ],
+    "status": "Ongoing research into group dynamics and alertness."
+  },
+  "practice": {
+    "patterns": [
+      "Self-assessment",
+      "Peer feedback",
+      "Group evaluations",
+      "Alertness tracking",
+      "Sleep hygiene education",
+      "Mindfulness practices",
+      "Cognitive behavioral techniques",
+      "Sleep scheduling",
+      "Regular breaks",
+      "Hydration awareness"
+    ],
+    "prompts": [
+      "How do you feel compared to others?",
+      "What factors influence your alertness?",
+      "Can you identify patterns in your performance?",
+      "How does sleep affect your work?",
+      "Discuss alertness with peers.",
+      "What strategies help you stay awake?",
+      "Reflect on past experiences.",
+      "What changes can you implement?",
+      "How do you measure alertness?",
+      "What role does environment play?",
+      "Share your thoughts on sleep deprivation.",
+      "What are your alertness triggers?"
+    ],
+    "warnings": [
+      "Avoid overconfidence",
+      "Recognize groupthink",
+      "Be aware of biases",
+      "Consider individual differences",
+      "Don't neglect sleep hygiene."
+    ]
+  },
+  "context": {
+    "history": "The paradox has been discussed in various psychological studies focusing on group dynamics and performance.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

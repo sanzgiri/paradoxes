@@ -1,0 +1,57 @@
+{
+  "id": "p_allais",
+  "narrative": {
+    "story": "The Allais Paradox illustrates how people's choices between risky options can defy the predictions of expected utility theory. When faced with two different lotteries, individuals often prefer one option over another, even when the expected outcomes suggest otherwise. This behavior highlights the complexities of human decision-making under uncertainty.",
+    "wrong_reasoning": "Many believe that rational choices should always align with expected utility maximization. However, the Allais Paradox shows that people frequently make decisions based on perceived risk rather than mathematical expectations, leading to choices that seem irrational.",
+    "paradox": "The paradox arises when individuals prefer a certain outcome over a probabilistic one, even when the latter has a higher expected value. This contradicts the independence axiom, which states that if an option is preferred, it should remain preferred regardless of the presence of other options."
+  },
+  "mechanism": {
+    "assumptions": "Individuals are rational and make decisions based on expected outcomes.",
+    "steps": "1. Present two lotteries with different probabilities and outcomes. 2. Observe choices made by individuals. 3. Analyze the decisions against expected utility theory. 4. Identify inconsistencies in choices.",
+    "math": "Expected utility is calculated as the sum of the probabilities of outcomes multiplied by their respective utilities. For example, if Lottery A has a 50% chance of winning $100 and Lottery B has a 100% chance of winning $40, the expected utility of A is $50, while B is $40.",
+    "truth": "Human decision-making often deviates from mathematical rationality."
+  },
+  "solutions": {
+    "paths": [
+      "Educate individuals on expected utility theory.",
+      "Encourage reflective decision-making processes.",
+      "Utilize decision aids to clarify options.",
+      "Explore alternative models of decision-making."
+    ],
+    "tradeoffs": [
+      "Increased understanding vs. cognitive overload.",
+      "Simplified choices vs. loss of nuanced options.",
+      "Immediate satisfaction vs. long-term benefits.",
+      "Risk aversion vs. potential gains."
+    ],
+    "status": "Ongoing research into decision-making behavior."
+  },
+  "practice": {
+    "patterns": [
+      "Identify common biases in decision-making.",
+      "Use visual aids to represent probabilities.",
+      "Simulate lottery choices in controlled settings.",
+      "Discuss real-life implications of the paradox."
+    ],
+    "prompts": [
+      "What would you choose between these two lotteries?",
+      "How does risk influence your decision?",
+      "Can you explain your reasoning for your choice?",
+      "What factors do you consider when faced with uncertainty?"
+    ],
+    "warnings": [
+      "Avoid overconfidence in predictions.",
+      "Be aware of emotional influences on choices.",
+      "Recognize the limitations of expected utility theory.",
+      "Don't ignore the context of decisions."
+    ]
+  },
+  "context": {
+    "history": "The Allais Paradox was introduced by Maurice Allais in 1953, challenging the foundations of expected utility theory.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

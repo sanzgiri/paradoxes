@@ -1,0 +1,76 @@
+{
+  "id": "p_rabin",
+  "narrative": {
+    "story": "The Rabin Paradox illustrates how individuals display risk-averse behavior for small stakes, yet this behavior can lead to seemingly irrational choices when faced with larger stakes. For instance, a person may refuse a 50% chance to win $100 while simultaneously accepting a 50% chance to lose $1,000, highlighting a disconnect in decision-making based on perceived risk.",
+    "wrong_reasoning": "Many believe that risk aversion should be consistent across all stakes. However, the paradox shows that individuals often apply different reasoning when small amounts are at stake compared to larger amounts, leading to inconsistent and irrational choices.",
+    "paradox": "The paradox arises when rational decision-making leads to contradictory choices based on stake size, challenging the notion of consistent risk preferences."
+  },
+  "mechanism": {
+    "assumptions": "Individuals evaluate risks based on potential losses and gains, but their evaluations can be skewed by the magnitude of stakes involved.",
+    "steps": "1. Assess small stakes with risk aversion. 2. Compare with large stakes. 3. Observe inconsistent decision-making. 4. Conclude irrationality in choices.",
+    "math": "If a person values a 50% chance to win $100 at $50, they may value a 50% chance to lose $1,000 at only $500, leading to paradoxical behavior.",
+    "truth": "Risk preferences can vary significantly with stake size."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage consistent risk assessment across all stakes.",
+      "Educate on the implications of risk aversion.",
+      "Utilize decision-making frameworks.",
+      "Promote awareness of cognitive biases."
+    ],
+    "tradeoffs": [
+      "Short-term gains vs. long-term stability",
+      "Emotional satisfaction vs. rational choices",
+      "Risk-taking vs. risk-averse behavior",
+      "Immediate rewards vs. future benefits",
+      "Individual preferences vs. societal norms",
+      "Perceived value vs. actual value",
+      "Certainty vs. uncertainty",
+      "Loss aversion vs. potential gains"
+    ],
+    "status": "Ongoing research in behavioral economics."
+  },
+  "practice": {
+    "patterns": [
+      "Identify risk preferences in various scenarios.",
+      "Analyze decision-making processes.",
+      "Compare small vs. large stake decisions.",
+      "Evaluate outcomes of past decisions.",
+      "Discuss risk aversion with peers.",
+      "Simulate decision-making under risk.",
+      "Reflect on personal biases.",
+      "Use decision trees for clarity.",
+      "Practice consistent valuation of risks.",
+      "Engage in role-playing scenarios."
+    ],
+    "prompts": [
+      "What would you choose in this scenario?",
+      "How do you feel about potential losses?",
+      "Reflect on a recent decision involving risk.",
+      "Discuss a time you faced a similar choice.",
+      "What factors influenced your decision?",
+      "How would you advise someone in this situation?",
+      "What are the potential outcomes?",
+      "How does stake size affect your choices?",
+      "What biases might be at play?",
+      "How can you ensure consistent decision-making?",
+      "What lessons can be learned from this paradox?",
+      "How would you explain this to someone else?"
+    ],
+    "warnings": [
+      "Avoid letting emotions dictate decisions.",
+      "Be aware of cognitive biases.",
+      "Don't ignore the impact of stake size.",
+      "Recognize the difference between perceived and actual risk.",
+      "Challenge your own assumptions regularly."
+    ]
+  },
+  "context": {
+    "history": "The Rabin Paradox has been discussed in behavioral economics since the late 20th century, highlighting inconsistencies in human decision-making.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

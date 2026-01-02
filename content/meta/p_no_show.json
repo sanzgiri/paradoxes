@@ -1,0 +1,17 @@
+{
+  "id": "p_no_show",
+  "title": "No-Show Paradox",
+  "hook": "Voting for candidate can cause loss vs abstaining.",
+  "domains": [
+    "social_choice",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Voting can lead to unintended negative outcomes.",
+  "tags": [
+    "voting",
+    "strategy"
+  ],
+  "related": []
+}

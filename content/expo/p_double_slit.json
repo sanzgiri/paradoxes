@@ -1,0 +1,76 @@
+{
+  "id": "p_double_slit",
+  "narrative": {
+    "story": "In the double slit experiment, particles like electrons are fired at a barrier with two slits. When both slits are open, an interference pattern emerges on a screen behind the barrier, suggesting wave-like behavior. However, if one attempts to observe which slit a particle goes through, the interference pattern disappears, and particles behave like classical particles. This paradox challenges our understanding of reality and observation in quantum mechanics.",
+    "wrong_reasoning": "One might think that particles must choose a path through one slit or the other, but this reasoning overlooks the wave nature of particles. The interference pattern indicates that particles exist in a superposition of states until measured, contradicting classical intuition.",
+    "paradox": "The double slit paradox illustrates the conflict between wave and particle theories in quantum mechanics, revealing that the act of measurement alters the system being observed."
+  },
+  "mechanism": {
+    "assumptions": "Particles have definite paths; observation does not affect outcomes.",
+    "steps": "1. Fire particles at a double slit. 2. Observe the screen for patterns. 3. Measure which slit particles pass through. 4. Compare results with and without observation.",
+    "math": "The interference pattern can be described using wave functions and probability amplitudes, leading to calculations involving sin and cos functions.",
+    "truth": "Observation changes outcomes."
+  },
+  "solutions": {
+    "paths": [
+      "Accept wave-particle duality.",
+      "Explore quantum interpretations.",
+      "Utilize quantum computing principles.",
+      "Investigate observer effect implications."
+    ],
+    "tradeoffs": [
+      "Simplifying models vs. accuracy.",
+      "Classical vs. quantum explanations.",
+      "Intuitive understanding vs. mathematical rigor.",
+      "Practical applications vs. theoretical implications.",
+      "Determinism vs. probabilistic nature.",
+      "Local realism vs. non-locality.",
+      "Measurement impact vs. system integrity.",
+      "Philosophical implications vs. scientific utility."
+    ],
+    "status": "Ongoing research in quantum mechanics."
+  },
+  "practice": {
+    "patterns": [
+      "Wave-particle duality examples.",
+      "Quantum superposition scenarios.",
+      "Measurement impact studies.",
+      "Interference pattern analysis.",
+      "Observer effect experiments.",
+      "Quantum entanglement cases.",
+      "Real-world applications of quantum theory.",
+      "Philosophical discussions on reality.",
+      "Mathematical modeling of quantum systems.",
+      "Simulations of double slit experiments."
+    ],
+    "prompts": [
+      "Discuss the implications of observation.",
+      "Explain wave-particle duality.",
+      "Analyze a double slit experiment.",
+      "Explore quantum interpretations.",
+      "Debate determinism vs. randomness.",
+      "Investigate the observer effect.",
+      "Describe real-world applications.",
+      "Summarize historical context.",
+      "Evaluate measurement impacts.",
+      "Propose experiments to test theories.",
+      "Connect to technological advancements.",
+      "Reflect on philosophical questions."
+    ],
+    "warnings": [
+      "Avoid classical assumptions.",
+      "Be cautious with interpretations.",
+      "Recognize the limits of intuition.",
+      "Understand the role of measurement.",
+      "Stay updated with ongoing research."
+    ]
+  },
+  "context": {
+    "history": "The double slit experiment has been fundamental in the development of quantum mechanics since the early 20th century.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

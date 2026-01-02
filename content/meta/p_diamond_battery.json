@@ -1,0 +1,16 @@
+{
+  "id": "p_diamond_battery",
+  "title": "Diamond Battery Paradox",
+  "hook": "Carbon-14 diamonds generate electricity for 5700+ years.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Longevity of radioactive materials can be harnessed.",
+  "tags": [
+    "radioactivity",
+    "longevity"
+  ],
+  "related": []
+}

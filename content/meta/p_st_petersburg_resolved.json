@@ -1,0 +1,16 @@
+{
+  "id": "p_st_petersburg_resolved",
+  "title": "St. Petersburg Paradox Resolutions",
+  "hook": "Logarithmic utility or probability adjustments resolve infinite expectation.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Utility can be bounded to resolve paradoxes.",
+  "tags": [
+    "utility",
+    "bounded"
+  ],
+  "related": []
+}

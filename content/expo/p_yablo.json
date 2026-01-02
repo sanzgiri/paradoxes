@@ -1,0 +1,76 @@
+{
+  "id": "p_yablo",
+  "narrative": {
+    "story": "Yablo's Paradox presents an infinite sequence of sentences where each sentence states that all subsequent sentences are false. For example, the first sentence claims that the second is false, the second claims the third is false, and so on. This creates a contradiction as the truth of any sentence relies on the truth of the following sentences, leading to an infinite regress without self-reference.",
+    "wrong_reasoning": "One might assume that since each sentence refers to the next, it involves self-reference. However, Yablo's construction avoids direct self-reference, which is a common misconception. The paradox arises from the structure of the sentences rather than from any single sentence referring to itself.",
+    "paradox": "The paradox lies in the fact that if the first sentence is true, then the second must be false, which implies the first is false, creating a contradiction. This infinite loop of truth and falsehood illustrates the complexities of truth in logical sequences."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that truth values can be assigned to infinite sequences.",
+    "steps": "1. Construct an infinite sequence of sentences. 2. Each sentence claims that all following sentences are false. 3. Analyze the truth values of the sentences. 4. Identify the contradiction that arises.",
+    "math": "",
+    "truth": "Truth is not absolute in infinite sequences."
+  },
+  "solutions": {
+    "paths": [
+      "Explore alternative logical frameworks.",
+      "Consider finite approximations of the paradox.",
+      "Investigate related paradoxes for insights.",
+      "Develop formal systems to handle such sequences."
+    ],
+    "tradeoffs": [
+      "Simplifying the paradox may lose its essence.",
+      "Complex solutions may be less intuitive.",
+      "Finite models may not capture infinite behavior.",
+      "Ignoring the paradox may lead to unresolved questions.",
+      "Formal systems can be overly complex.",
+      "Alternative frameworks may lack acceptance.",
+      "Pragmatic approaches may overlook theoretical implications.",
+      "Focus on applications may neglect foundational issues."
+    ],
+    "status": "Ongoing research in logic and philosophy."
+  },
+  "practice": {
+    "patterns": [
+      "Identify self-referential structures.",
+      "Analyze infinite sequences in logic.",
+      "Explore paradoxes in mathematical contexts.",
+      "Discuss implications of truth in philosophy.",
+      "Create examples of similar paradoxes.",
+      "Evaluate logical frameworks for consistency.",
+      "Debate the nature of truth in language.",
+      "Investigate implications for computer science.",
+      "Examine historical perspectives on paradoxes.",
+      "Apply paradoxes to real-world scenarios."
+    ],
+    "prompts": [
+      "What is the significance of self-reference?",
+      "How do infinite sequences challenge logic?",
+      "Can you create a new paradox?",
+      "Discuss the implications of Yablo's Paradox.",
+      "What are the limits of truth in language?",
+      "How does this relate to other paradoxes?",
+      "What assumptions underlie logical reasoning?",
+      "Explore the impact of paradoxes on philosophy.",
+      "How do we resolve contradictions in logic?",
+      "What are the practical applications of paradoxes?",
+      "Discuss the role of paradoxes in mathematics.",
+      "How can we teach about paradoxes effectively?"
+    ],
+    "warnings": [
+      "Avoid conflating self-reference with Yablo's structure.",
+      "Be cautious of oversimplifying the paradox.",
+      "Recognize the limits of logical frameworks.",
+      "Do not ignore historical context in discussions.",
+      "Be aware of the implications for truth in communication."
+    ]
+  },
+  "context": {
+    "history": "Yablo's Paradox was introduced by Stephen Yablo in the 1990s as a response to self-referential paradoxes.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

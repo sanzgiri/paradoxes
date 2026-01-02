@@ -1,0 +1,61 @@
+{
+  "id": "p_population",
+  "narrative": {
+    "story": "In a recent election, State A, which has been rapidly growing in population, surprisingly lost a congressional seat to State B, which has been growing at a much slower rate. This outcome puzzled many voters and analysts alike, as one would intuitively expect that a growing population would lead to increased representation. However, the method of apportionment used in this election led to this counterintuitive result, illustrating the complexities of political representation.",
+    "wrong_reasoning": "Many people assume that a state's representation in Congress should directly correlate with its population growth. They believe that if a state is growing faster than another, it should automatically gain more seats. This reasoning overlooks the nuances of apportionment methods, which can lead to unexpected outcomes.",
+    "paradox": "The Population Paradox reveals that under certain apportionment methods, a state can experience population growth yet still lose representation. This challenges the common belief that growth guarantees political power."
+  },
+  "mechanism": {
+    "assumptions": "The assumption that population growth directly translates to increased representation.",
+    "steps": "1. Calculate the population of each state. 2. Apply the chosen apportionment method. 3. Allocate seats based on the results. 4. Observe the outcomes and their implications.",
+    "math": "Using the method of equal proportions, the allocation of seats can lead to unexpected results due to rounding errors.",
+    "truth": "Representation is not always proportional to population."
+  },
+  "solutions": {
+    "paths": [
+      "Revise apportionment methods to ensure fair representation.",
+      "Increase public awareness of apportionment complexities.",
+      "Implement checks to prevent paradoxical outcomes.",
+      "Encourage legislative reforms for better representation."
+    ],
+    "tradeoffs": [
+      "More complex methods may reduce transparency.",
+      "Simpler methods may lead to unfair representation.",
+      "Reforms may face political resistance.",
+      "Public understanding may lag behind changes.",
+      "Changes could disrupt established political norms.",
+      "Potential for increased litigation over representation.",
+      "Balancing fairness and simplicity is challenging.",
+      "Adjustments may not be retroactive."
+    ],
+    "status": "Ongoing discussions in political science and legislation."
+  },
+  "practice": {
+    "patterns": [
+      "Identify common misconceptions about representation.",
+      "Analyze past elections for apportionment outcomes.",
+      "Discuss the implications of different apportionment methods.",
+      "Explore historical cases of representation changes."
+    ],
+    "prompts": [
+      "What assumptions do you have about population and representation?",
+      "How might different apportionment methods affect election outcomes?",
+      "Discuss a time when you encountered a surprising election result.",
+      "What reforms would you propose to improve representation?"
+    ],
+    "warnings": [
+      "Be cautious of oversimplifying complex issues.",
+      "Avoid assuming that growth always leads to power.",
+      "Recognize the potential for unintended consequences.",
+      "Stay informed about changes in apportionment laws."
+    ]
+  },
+  "context": {
+    "history": "The Population Paradox has been observed in various elections, notably in the U.S. Congress, where changes in population do not always result in proportional representation.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

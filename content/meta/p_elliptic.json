@@ -1,0 +1,16 @@
+{
+  "id": "p_elliptic",
+  "title": "Elliptic Envelope Paradox",
+  "hook": "Maxmin expected utility handles ambiguity but leads to over-cautiousness.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Over-cautiousness can hinder optimal decision-making.",
+  "tags": [
+    "ambiguity",
+    "multiple_priors"
+  ],
+  "related": []
+}

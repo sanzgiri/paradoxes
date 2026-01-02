@@ -1,0 +1,60 @@
+{
+  "id": "p_borel",
+  "narrative": {
+    "story": "Borel's Paradox illustrates how conditional probability densities can yield different results based on the coordinate system used. Imagine a circle where we define points based on angles. If we calculate the probability density of a point being in a specific region of the circle, the result can change depending on how we measure angles, despite the circle's inherent symmetry. This leads to confusion and highlights the importance of coordinate systems in probability.",
+    "wrong_reasoning": "One might assume that because the circle is symmetric, the probability densities should remain constant regardless of the coordinate system. However, this overlooks the fact that the definitions of regions and the way we measure angles can significantly alter the outcomes. This misconception can lead to incorrect conclusions about probability.",
+    "paradox": "The paradox arises when we realize that the same physical situation can yield different probability densities based on our choice of coordinates, challenging the notion of invariance in probability."
+  },
+  "mechanism": {
+    "assumptions": "The assumption that probability densities are invariant under coordinate transformations is flawed.",
+    "steps": "1. Define a circle and choose a coordinate system. 2. Calculate the conditional probability density for a region. 3. Change the coordinate system. 4. Recalculate the conditional probability density and observe the differences.",
+    "math": "P(A|B) = P(A \u2229 B) / P(B) can yield different results based on the coordinate system used.",
+    "truth": "Probability densities are not invariant under coordinate transformations."
+  },
+  "solutions": {
+    "paths": [
+      "Use invariant measures for probability calculations.",
+      "Standardize coordinate systems in analysis.",
+      "Educate on the implications of coordinate dependence.",
+      "Explore alternative interpretations of probability."
+    ],
+    "tradeoffs": [
+      "Increased complexity in calculations.",
+      "Potential for misunderstanding among learners.",
+      "Need for rigorous definitions.",
+      "Loss of intuitive appeal.",
+      "Challenges in communication of results.",
+      "Risk of overfitting to specific coordinate systems.",
+      "Difficulty in generalizing findings.",
+      "Potential for misapplication in real-world scenarios."
+    ],
+    "status": "Ongoing research into invariant measures."
+  },
+  "practice": {
+    "patterns": [
+      "Identify coordinate systems in probability problems.",
+      "Analyze how changes in coordinates affect outcomes.",
+      "Compare results from different coordinate systems."
+    ],
+    "prompts": [
+      "What happens to the probability density if we switch coordinates?",
+      "Can you find a scenario where coordinate choice does not matter?",
+      "How would you explain this paradox to a beginner?",
+      "What are the implications of this paradox in real-world applications?"
+    ],
+    "warnings": [
+      "Avoid assuming invariance without verification.",
+      "Be cautious of intuitive reasoning in probability.",
+      "Check coordinate systems before drawing conclusions.",
+      "Recognize the limitations of common probability models."
+    ]
+  },
+  "context": {
+    "history": "Borel's Paradox has been discussed in the context of probability theory since the early 20th century, highlighting foundational issues in the interpretation of probability.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

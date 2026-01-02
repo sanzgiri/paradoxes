@@ -1,0 +1,16 @@
+{
+  "id": "p_curry",
+  "title": "Curry\u2019s Paradox",
+  "hook": "Self-referential conditionals can trivialize certain logical systems, deriving any statement.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Self-reference can lead to contradictions in logic.",
+  "tags": [
+    "implication",
+    "selfreference"
+  ],
+  "related": []
+}

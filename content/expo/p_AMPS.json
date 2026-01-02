@@ -1,0 +1,76 @@
+{
+  "id": "p_AMPS",
+  "narrative": {
+    "story": "The AMPS paradox arises from the implications of quantum entanglement at black hole horizons. It suggests that if two particles are entangled, and one falls into a black hole, the other cannot remain entangled without violating the principles of quantum mechanics. This leads to the conclusion that a firewall must exist at the event horizon, which contradicts the idea of a smooth passage into the black hole.",
+    "wrong_reasoning": "Some argue that the existence of a firewall would violate the equivalence principle, which states that falling into a black hole should not feel different from free fall in flat spacetime. However, this reasoning overlooks the complexities introduced by quantum entanglement and the nature of information loss in black holes.",
+    "paradox": "The paradox lies in reconciling the principles of quantum mechanics with general relativity. If a firewall exists, it challenges our understanding of black hole interiors and the fate of information, leading to a fundamental conflict in physics."
+  },
+  "mechanism": {
+    "assumptions": "The assumptions include the validity of quantum mechanics, the nature of entanglement, and the behavior of particles at event horizons.",
+    "steps": "1. Consider two entangled particles. 2. One particle falls into a black hole. 3. Analyze the implications for the remaining particle. 4. Conclude that a firewall must exist to preserve quantum information.",
+    "math": "The mathematical framework involves quantum state descriptions and entanglement entropy calculations, which highlight the conflict between quantum mechanics and general relativity.",
+    "truth": "The truth is that our understanding of black holes and quantum mechanics is still incomplete."
+  },
+  "solutions": {
+    "paths": [
+      "Revising the concept of black hole horizons",
+      "Exploring alternative theories of quantum gravity",
+      "Investigating the nature of information in quantum systems",
+      "Developing new models of entanglement"
+    ],
+    "tradeoffs": [
+      "Complexity vs. simplicity in models",
+      "Quantum coherence vs. classical intuition",
+      "Information preservation vs. loss",
+      "Theoretical elegance vs. empirical validation",
+      "Locality vs. non-locality",
+      "Determinism vs. randomness",
+      "Entanglement vs. separability",
+      "Black hole thermodynamics vs. quantum mechanics"
+    ],
+    "status": "Ongoing research"
+  },
+  "practice": {
+    "patterns": [
+      "Identifying entangled systems",
+      "Analyzing black hole thermodynamics",
+      "Exploring quantum information theory",
+      "Studying the implications of the equivalence principle",
+      "Evaluating different interpretations of quantum mechanics",
+      "Simulating black hole interactions",
+      "Investigating firewall implications",
+      "Understanding quantum decoherence",
+      "Applying mathematical models to paradoxes",
+      "Collaborating across disciplines"
+    ],
+    "prompts": [
+      "What happens to information in a black hole?",
+      "How does entanglement affect black hole physics?",
+      "Can we reconcile quantum mechanics with general relativity?",
+      "What are the implications of a firewall?",
+      "How do different theories approach the paradox?",
+      "What experiments could test these ideas?",
+      "How does this relate to current physics research?",
+      "What historical perspectives exist on black holes?",
+      "How do we define the boundary of a black hole?",
+      "What role does entropy play in this paradox?",
+      "How can we visualize entanglement in black holes?",
+      "What are the philosophical implications of the AMPS paradox?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying complex theories.",
+      "Be cautious of assumptions in quantum mechanics.",
+      "Recognize the limits of current models.",
+      "Stay updated with ongoing research.",
+      "Consider interdisciplinary approaches."
+    ]
+  },
+  "context": {
+    "history": "The AMPS paradox was proposed in 2012 by a group of physicists, including Almheiri, Marolf, Polchinski, and Sully, as a challenge to existing theories of black holes.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

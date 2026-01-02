@@ -1,0 +1,15 @@
+{
+  "id": "p_buffon",
+  "title": "Buffon's Needle Paradox",
+  "hook": "Needle crossings estimate pi but counterintuitive for small angles.",
+  "domains": [
+    "probability"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Randomness can yield precise mathematical constants.",
+  "tags": [
+    "geometric_probability"
+  ],
+  "related": []
+}

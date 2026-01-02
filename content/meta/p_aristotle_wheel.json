@@ -1,0 +1,16 @@
+{
+  "id": "p_aristotle_wheel",
+  "title": "Aristotle\u2019s Wheel Paradox",
+  "hook": "Two concentric wheels seem to trace equal path lengths despite having different circumferences.",
+  "domains": [
+    "mathematics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Perception can mislead our understanding of motion.",
+  "tags": [
+    "geometry",
+    "motion"
+  ],
+  "related": []
+}

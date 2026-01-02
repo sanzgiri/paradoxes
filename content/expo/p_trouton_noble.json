@@ -1,0 +1,76 @@
+{
+  "id": "p_trouton_noble",
+  "narrative": {
+    "story": "The Trouton\u2013Noble paradox presents a scenario where a charged capacitor, when set in motion, is expected to experience a torque due to electromagnetic forces. However, experiments show that no such torque occurs, leading to confusion about the nature of forces in motion. This paradox challenges our understanding of how electric fields interact with moving charges.",
+    "wrong_reasoning": "One might assume that since the capacitor is charged, it should experience a torque when it moves through a magnetic field. This reasoning overlooks the effects of relativity and the transformation of electric fields in different frames of reference, leading to the incorrect conclusion that motion must always result in force.",
+    "paradox": "The paradox lies in the expectation that a charged object in motion should experience torque due to its electric field, yet it does not. This contradiction raises questions about the fundamental principles of electromagnetism and motion."
+  },
+  "mechanism": {
+    "assumptions": "The capacitor is assumed to behave like a classical object under electromagnetic theory.",
+    "steps": "1. A charged capacitor is placed in a magnetic field. 2. It is set in motion. 3. Torque is expected due to the interaction of the electric field with the magnetic field. 4. No torque is observed, contradicting initial expectations.",
+    "math": "The equations governing the electric and magnetic fields suggest that the expected torque should arise from the Lorentz force law, yet the results show otherwise.",
+    "truth": "The absence of torque is a result of relativistic effects."
+  },
+  "solutions": {
+    "paths": [
+      "Re-evaluate the assumptions about electric fields in motion.",
+      "Consider the role of relativity in electromagnetic interactions.",
+      "Explore alternative interpretations of the observed phenomena.",
+      "Conduct further experiments to clarify the conditions of the paradox."
+    ],
+    "tradeoffs": [
+      "Simplifying assumptions may lead to misunderstandings.",
+      "In-depth analysis requires advanced knowledge of relativity.",
+      "Experimental setups can be complex and costly.",
+      "Alternative theories may complicate the understanding of basic principles.",
+      "Focus on one aspect may overlook others.",
+      "Time invested in resolving the paradox could yield minimal practical benefits.",
+      "Collaboration across disciplines may be necessary.",
+      "Results may vary based on experimental conditions."
+    ],
+    "status": "Ongoing research continues to explore the implications of the paradox."
+  },
+  "practice": {
+    "patterns": [
+      "Identify assumptions in physical scenarios.",
+      "Analyze the effects of motion on electric fields.",
+      "Use thought experiments to challenge existing theories.",
+      "Explore the relationship between electricity and magnetism.",
+      "Apply relativistic principles to classical problems.",
+      "Discuss paradoxes in physics to enhance understanding.",
+      "Investigate historical context of electromagnetic theory.",
+      "Collaborate with peers to explore complex concepts.",
+      "Utilize simulations to visualize electromagnetic interactions.",
+      "Engage in problem-solving sessions focused on paradoxes."
+    ],
+    "prompts": [
+      "What assumptions are you making in this scenario?",
+      "How does motion affect electric fields?",
+      "Can you think of a real-world example of this paradox?",
+      "What would happen if we changed the conditions?",
+      "How does relativity change our understanding of forces?",
+      "What experiments could clarify this paradox?",
+      "How do different frames of reference affect observations?",
+      "What are the implications of this paradox for technology?",
+      "How can we apply this understanding to other fields?",
+      "What historical experiments relate to this paradox?",
+      "How do you reconcile conflicting theories?",
+      "What new questions arise from this paradox?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying complex interactions.",
+      "Be cautious of misapplying classical physics principles.",
+      "Ensure clarity in communication of concepts.",
+      "Recognize the limits of current theories.",
+      "Stay open to revising your understanding based on new evidence."
+    ]
+  },
+  "context": {
+    "history": "The Trouton\u2013Noble paradox has been a topic of discussion since its introduction, prompting further investigation into the nature of electromagnetic forces and motion.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

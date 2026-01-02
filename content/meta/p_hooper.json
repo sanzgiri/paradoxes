@@ -1,0 +1,16 @@
+{
+  "id": "p_hooper",
+  "title": "Hooper's Paradox",
+  "hook": "Rearranging pieces preserves area but creates visual volume illusion.",
+  "domains": [
+    "mathematics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Visual perception can mislead despite mathematical truths.",
+  "tags": [
+    "area_preservation",
+    "dissection"
+  ],
+  "related": []
+}

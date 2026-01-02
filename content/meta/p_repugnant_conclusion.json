@@ -1,0 +1,16 @@
+{
+  "id": "p_repugnant_conclusion",
+  "title": "Repugnant Conclusion Paradox",
+  "hook": "Total utilitarianism implies barely worth living lives preferable to quality.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Quality of life can be overshadowed by sheer quantity.",
+  "tags": [
+    "population_ethics"
+  ],
+  "related": []
+}

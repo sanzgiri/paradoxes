@@ -1,0 +1,76 @@
+{
+  "id": "p_ultimatum",
+  "narrative": {
+    "story": "In the Ultimatum Game, one player proposes a division of a sum of money, and the second player can either accept or reject the offer. If accepted, the money is split as proposed; if rejected, both players receive nothing. Theoretically, any positive offer should be accepted, but many low offers are rejected, highlighting a conflict between rational choice and human behavior.",
+    "wrong_reasoning": "One might assume that players will always act in their best financial interest, accepting any offer greater than zero. However, this reasoning overlooks emotional responses and social norms surrounding fairness, leading to rejections of offers perceived as unfair.",
+    "paradox": "The paradox lies in the contradiction between the prediction of rational choice theory and actual player behavior, where individuals prioritize fairness over monetary gain."
+  },
+  "mechanism": {
+    "assumptions": "Players are rational and self-interested, valuing monetary gain above all else.",
+    "steps": "1. Player A proposes a split of a sum. 2. Player B decides to accept or reject. 3. If accepted, the split occurs; if rejected, both get nothing.",
+    "math": "If A proposes $10 for A and $1 for B, B's rational choice is to accept since $1 > $0. Yet, many reject such offers.",
+    "truth": "Human behavior often defies strict rationality."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage fair offers through education.",
+      "Implement rules to enforce minimum acceptable offers.",
+      "Analyze cultural differences in fairness perceptions.",
+      "Explore alternative decision-making frameworks."
+    ],
+    "tradeoffs": [
+      "Fairness vs. profit maximization.",
+      "Emotional satisfaction vs. monetary gain.",
+      "Cultural norms vs. individual rationality.",
+      "Short-term gains vs. long-term relationships.",
+      "Social pressure vs. personal choice.",
+      "Risk of rejection vs. potential gain.",
+      "Trust vs. skepticism.",
+      "Competition vs. cooperation."
+    ],
+    "status": "Ongoing research into behavioral economics."
+  },
+  "practice": {
+    "patterns": [
+      "Role-playing negotiation scenarios.",
+      "Analyzing historical case studies.",
+      "Simulating Ultimatum Games in groups.",
+      "Discussing fairness in different cultures.",
+      "Exploring emotional responses in decision-making.",
+      "Comparing outcomes in various economic models.",
+      "Identifying biases in personal offers.",
+      "Evaluating the impact of social norms.",
+      "Practicing empathy in negotiations.",
+      "Reflecting on personal experiences with fairness."
+    ],
+    "prompts": [
+      "What would you do if offered a low split?",
+      "How does culture influence your perception of fairness?",
+      "Discuss a time you felt an offer was unfair.",
+      "What strategies could improve acceptance rates?",
+      "How do emotions affect your decision-making?",
+      "What role does trust play in negotiations?",
+      "How would you advise someone making an offer?",
+      "What are the implications of rejecting an offer?",
+      "How can understanding this paradox help in business?",
+      "What lessons can be drawn for personal relationships?",
+      "How does this game reflect real-world economics?",
+      "What changes would you make to the Ultimatum Game?"
+    ],
+    "warnings": [
+      "Avoid assuming rationality in all players.",
+      "Be cautious of cultural biases in fairness.",
+      "Recognize emotional responses can skew decisions.",
+      "Understand the impact of social dynamics.",
+      "Don't overlook the importance of communication."
+    ]
+  },
+  "context": {
+    "history": "The Ultimatum Game was first introduced by researchers in the 1980s to study economic behavior and fairness.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

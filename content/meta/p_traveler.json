@@ -1,0 +1,17 @@
+{
+  "id": "p_traveler",
+  "title": "Traveler's Dilemma",
+  "hook": "Rational play predicts lowest payoffs despite mutual benefit from higher choices.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Cooperation can lead to better outcomes than rational self-interest.",
+  "tags": [
+    "nash_equilibrium",
+    "cooperation"
+  ],
+  "related": []
+}

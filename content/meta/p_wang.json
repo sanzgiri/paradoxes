@@ -1,0 +1,16 @@
+{
+  "id": "p_wang",
+  "title": "Wang's Paradox",
+  "hook": "Vague predicates like 'heap' lead to contradictions when considering boundary cases.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Vagueness can create logical inconsistencies.",
+  "tags": [
+    "vagueness",
+    "sorites"
+  ],
+  "related": []
+}

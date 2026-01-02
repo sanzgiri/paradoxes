@@ -1,0 +1,74 @@
+{
+  "id": "p_three_prisoners",
+  "narrative": {
+    "story": "In a prison, three inmates are told that one of them will be executed, but the warden knows who it is. After one prisoner is chosen for execution, the warden offers to reveal the identity of one of the other two prisoners who will be spared. This leads to a surprising conclusion about the probabilities of survival for the remaining prisoners, challenging common assumptions about chance and choice.",
+    "wrong_reasoning": "Many believe that after one prisoner is revealed, the odds for the remaining two prisoners become equal. However, this reasoning overlooks the initial probabilities and the impact of the warden's knowledge.",
+    "paradox": "The paradox arises when the warden's action of revealing a non-executed prisoner alters the perceived probabilities, leading to the conclusion that switching choices increases the chance of survival, contrary to intuitive reasoning."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that the warden's choice is not random and that it provides information about the remaining prisoners.",
+    "steps": "1. Three prisoners are labeled A, B, and C. 2. One is chosen for execution. 3. The warden reveals one of the two remaining prisoners who is safe. 4. The remaining prisoner is then analyzed for survival probability.",
+    "math": "Initial probability of survival for each prisoner is 1/3. After one is revealed, the probability of the remaining prisoner changes based on the warden's knowledge.",
+    "truth": "The truth is that switching increases the probability of survival to 2/3."
+  },
+  "solutions": {
+    "paths": [
+      "Stay with original choice",
+      "Switch to the other prisoner"
+    ],
+    "tradeoffs": [
+      "Higher chance of survival by switching",
+      "Intuitive reasoning may lead to staying",
+      "Risk of misunderstanding probabilities",
+      "Potential for confusion in decision-making",
+      "Emotional attachment to original choice",
+      "Influence of warden's actions",
+      "Misinterpretation of revealed information",
+      "Overconfidence in initial choice"
+    ],
+    "status": "Understanding the paradox can improve decision-making in uncertain situations."
+  },
+  "practice": {
+    "patterns": [
+      "Conditional probability",
+      "Decision trees",
+      "Bayesian reasoning",
+      "Game theory applications",
+      "Counterintuitive scenarios",
+      "Information theory",
+      "Risk assessment",
+      "Strategic thinking",
+      "Probability puzzles",
+      "Critical thinking"
+    ],
+    "prompts": [
+      "What would you choose?",
+      "How does the warden's choice affect your decision?",
+      "Can you explain the probabilities?",
+      "What if there were four prisoners?",
+      "How does this relate to other paradoxes?",
+      "What assumptions are you making?",
+      "How would you teach this problem?",
+      "Can you find a real-world application?",
+      "What are the implications of this paradox?",
+      "How does intuition play a role?",
+      "What if the warden revealed a different prisoner?",
+      "How does this challenge your understanding of probability?"
+    ],
+    "warnings": [
+      "Don't rely solely on intuition",
+      "Be cautious of confirmation bias",
+      "Understand the role of information",
+      "Avoid oversimplifying the problem",
+      "Recognize the impact of prior knowledge"
+    ]
+  },
+  "context": {
+    "history": "The Three Prisoners Problem is a variation of the Monty Hall problem, illustrating the complexities of probability and decision-making.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

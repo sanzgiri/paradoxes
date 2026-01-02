@@ -1,0 +1,76 @@
+{
+  "id": "p_borel_kolmogorov",
+  "narrative": {
+    "story": "The Borel-Kolmogorov Paradox illustrates how conditional probabilities can yield contradictory results when applied to sets of measure zero. For instance, consider a scenario involving a random selection from a uniform distribution over a continuous interval. If we condition on a set of measure zero, such as a single point, the resulting probabilities can lead to unexpected and counterintuitive conclusions, demonstrating the complexities of probability theory.",
+    "wrong_reasoning": "A common misconception is that conditioning on a measure zero set should yield a probability of zero. However, this overlooks the fact that the conditioning method can significantly alter the outcome, leading to paradoxical results that defy intuitive understanding.",
+    "paradox": "The paradox arises when different conditioning methods applied to the same measure zero set yield different probabilities, challenging the consistency of probability measures."
+  },
+  "mechanism": {
+    "assumptions": "Assumes familiarity with basic probability concepts and measure theory.",
+    "steps": "1. Identify a measure zero set within a probability space. 2. Apply different conditioning methods to this set. 3. Calculate the resulting conditional probabilities. 4. Analyze the discrepancies in outcomes.",
+    "math": "Let P(A) = 0 for a measure zero set A. Conditioning on A can yield P(B|A) = 1 for some B, leading to contradictions.",
+    "truth": "Conditional probabilities can be counterintuitive."
+  },
+  "solutions": {
+    "paths": [
+      "Use alternative conditioning methods.",
+      "Avoid conditioning on measure zero sets.",
+      "Reformulate the problem to avoid paradox.",
+      "Utilize limit approaches for better insights."
+    ],
+    "tradeoffs": [
+      "Increased complexity in calculations.",
+      "Potential loss of intuitive understanding.",
+      "Need for advanced mathematical tools.",
+      "Risk of misinterpretation of results.",
+      "Dependence on the chosen conditioning method.",
+      "Variability in outcomes based on approach.",
+      "Challenges in communicating results.",
+      "Possibility of reinforcing misconceptions."
+    ],
+    "status": "Ongoing research in probability theory."
+  },
+  "practice": {
+    "patterns": [
+      "Identify measure zero sets in problems.",
+      "Explore different conditioning methods.",
+      "Analyze outcomes for consistency.",
+      "Discuss implications of paradoxes.",
+      "Compare results with intuitive expectations.",
+      "Use simulations to visualize probabilities.",
+      "Engage in group discussions on paradoxes.",
+      "Study historical cases of similar paradoxes.",
+      "Apply concepts to real-world scenarios.",
+      "Reflect on personal understanding of probability."
+    ],
+    "prompts": [
+      "What happens when you condition on a measure zero set?",
+      "Can you find an example of a paradox in probability?",
+      "How does conditioning affect your intuition?",
+      "Discuss a real-world application of this paradox.",
+      "What are the implications for statistical inference?",
+      "How can we avoid such paradoxes in practice?",
+      "What assumptions are necessary for your calculations?",
+      "How do different conditioning methods compare?",
+      "What are the limitations of your approach?",
+      "Reflect on a time you encountered a similar paradox.",
+      "How can this paradox inform your understanding of probability?",
+      "What further questions does this raise for you?"
+    ],
+    "warnings": [
+      "Be cautious with measure zero sets.",
+      "Avoid overgeneralizing results.",
+      "Check assumptions before concluding.",
+      "Consider the context of your calculations.",
+      "Be aware of potential biases in interpretation."
+    ]
+  },
+  "context": {
+    "history": "The Borel-Kolmogorov Paradox has roots in early 20th-century probability theory, highlighting foundational issues in measure theory.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

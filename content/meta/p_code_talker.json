@@ -1,0 +1,17 @@
+{
+  "id": "p_code_talker",
+  "title": "Code-Talker Paradox",
+  "hook": "Language both enables and blocks communication.",
+  "domains": [
+    "linguistics",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Language can simultaneously facilitate and hinder understanding.",
+  "tags": [
+    "communication",
+    "secrecy"
+  ],
+  "related": []
+}

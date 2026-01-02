@@ -1,0 +1,72 @@
+{
+  "id": "p_wirehead",
+  "narrative": {
+    "story": "In a futuristic society, individuals can connect their brains to a device that directly stimulates pleasure centers. Many choose this over pursuing meaningful goals, leading to a society where no one engages in productive activities. The paradox arises when the pursuit of pleasure becomes the sole focus, resulting in a loss of fulfillment and purpose.",
+    "wrong_reasoning": "People believe that maximizing immediate pleasure is the best way to achieve happiness. They ignore the long-term consequences of abandoning meaningful pursuits, thinking that pleasure alone will satisfy them.",
+    "paradox": "The paradox lies in the fact that while individuals seek pleasure, they ultimately find themselves unfulfilled, as the absence of meaningful goals leads to a hollow existence."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that pleasure equates to happiness and that immediate rewards are preferable to delayed gratification.",
+    "steps": "1. Connect to the reward stimulation device. 2. Experience immediate pleasure. 3. Neglect other life goals. 4. Realize the emptiness of a pleasure-only existence.",
+    "math": "If utility from pleasure is U(p) and utility from goals is U(g), the equation U(p) > U(g) leads to a preference for immediate pleasure.",
+    "truth": "Pleasure without purpose can lead to dissatisfaction."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage goal-oriented behavior",
+      "Limit access to direct stimulation",
+      "Promote balance between pleasure and purpose",
+      "Educate on long-term fulfillment"
+    ],
+    "tradeoffs": [
+      "Immediate pleasure vs. long-term fulfillment",
+      "Freedom of choice vs. societal well-being",
+      "Pleasure-seeking vs. productive engagement",
+      "Personal happiness vs. collective progress"
+    ],
+    "status": "Ongoing discussions in ethics and AI alignment."
+  },
+  "practice": {
+    "patterns": [
+      "Goal-setting",
+      "Mindfulness",
+      "Reward moderation",
+      "Community engagement",
+      "Value exploration",
+      "Long-term planning",
+      "Reflective practices",
+      "Balanced lifestyle",
+      "Social connections",
+      "Purpose discovery"
+    ],
+    "prompts": [
+      "What brings you true fulfillment?",
+      "How can you balance pleasure and purpose?",
+      "Reflect on your long-term goals.",
+      "What activities give you lasting joy?",
+      "Consider the impact of your choices.",
+      "How do you define success?",
+      "What role does community play in your happiness?",
+      "Identify distractions from your goals.",
+      "What are your core values?",
+      "How can you integrate pleasure into meaningful activities?",
+      "What legacy do you want to leave?",
+      "How do you measure happiness?"
+    ],
+    "warnings": [
+      "Avoid over-reliance on instant gratification.",
+      "Beware of neglecting responsibilities.",
+      "Recognize the emptiness of pleasure without purpose.",
+      "Understand the societal implications of reward hacking.",
+      "Be cautious of technology's influence on well-being."
+    ]
+  },
+  "context": {
+    "history": "The concept of the wirehead paradox has been discussed in philosophical and ethical debates regarding technology and human behavior.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

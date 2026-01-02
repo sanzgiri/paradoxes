@@ -1,0 +1,16 @@
+{
+  "id": "p_proebsting",
+  "title": "Proebsting's Paradox",
+  "hook": "Hedging with options can reverse risk attitudes compared to underlying bets.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Risk management strategies can backfire unexpectedly.",
+  "tags": [
+    "options",
+    "expected_value"
+  ],
+  "related": []
+}

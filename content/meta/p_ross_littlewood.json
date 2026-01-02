@@ -1,0 +1,16 @@
+{
+  "id": "p_ross_littlewood",
+  "title": "Ross-Littlewood Paradox",
+  "hook": "Infinite ball-adding/removal leaves empty vase despite net addition.",
+  "domains": [
+    "mathematics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Infinity can lead to counterintuitive results.",
+  "tags": [
+    "supertask",
+    "infinity"
+  ],
+  "related": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": "p_borda",
+  "narrative": {
+    "story": "In a Borda count election, voters rank candidates. The candidate with the highest total score from these rankings wins. However, voters may misrepresent their true preferences to manipulate the outcome, leading to a paradox where the most preferred candidate does not win. This strategic voting undermines the integrity of the election process.",
+    "wrong_reasoning": "Many believe that ranking their true favorite will always yield the best outcome. However, strategic misrepresentation can lead to a scenario where the preferred candidate loses, as voters may rank less favored candidates higher to block stronger opponents.",
+    "paradox": "The Borda count paradox illustrates how a voting system designed to aggregate preferences can be subverted by strategic behavior, resulting in a winner that does not reflect the true preferences of the electorate."
+  },
+  "mechanism": {
+    "assumptions": "Voters act rationally and have clear preferences.",
+    "steps": "1. Voters rank candidates. 2. Points are assigned based on rankings. 3. Total points are calculated. 4. The candidate with the highest points wins.",
+    "math": "If there are n candidates, a first-place vote gives n-1 points, second-place n-2, and so on.",
+    "truth": "Strategic voting can distort true preferences."
+  },
+  "solutions": {
+    "paths": [
+      "Educate voters on honest ranking",
+      "Implement alternative voting systems",
+      "Encourage transparency in voting",
+      "Analyze past election data"
+    ],
+    "tradeoffs": [
+      "Increased complexity",
+      "Potential voter confusion",
+      "Resistance to change",
+      "Cost of new systems",
+      "Time for education",
+      "Loss of traditional methods",
+      "Need for robust analysis",
+      "Risk of new paradoxes"
+    ],
+    "status": "Ongoing discussions in electoral reform."
+  },
+  "practice": {
+    "patterns": [
+      "Ranked voting",
+      "Preference aggregation",
+      "Strategic misrepresentation",
+      "Electoral integrity",
+      "Voter education",
+      "Transparency in elections",
+      "Alternative voting systems",
+      "Data analysis",
+      "Public engagement",
+      "Feedback mechanisms"
+    ],
+    "prompts": [
+      "How can voters be encouraged to rank honestly?",
+      "What are the implications of strategic voting?",
+      "Can alternative systems mitigate this paradox?",
+      "What historical examples illustrate this issue?",
+      "How do different cultures approach voting?",
+      "What reforms have been proposed?",
+      "How can technology aid in fair voting?",
+      "What role does public perception play?",
+      "How can we measure voter satisfaction?",
+      "What are the long-term effects of strategic voting?",
+      "How do we balance complexity and fairness?",
+      "What can be learned from past elections?"
+    ],
+    "warnings": [
+      "Beware of overcomplicating voting systems.",
+      "Watch for voter apathy.",
+      "Be cautious of new paradoxes.",
+      "Ensure transparency to build trust.",
+      "Monitor for unintended consequences."
+    ]
+  },
+  "context": {
+    "history": "The Borda count method has been used since the 18th century, but its paradoxical implications became more widely recognized in the 20th century.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "p_existential",
+  "narrative": {
+    "story": "In a world where individuals possess radical freedom, each choice carries immense weight. This freedom allows for self-definition and personal growth, but it also imposes a heavy burden of responsibility. Individuals must confront the consequences of their choices, leading to anxiety and existential dread. The paradox lies in the tension between the desire for freedom and the fear of the responsibilities it entails.",
+    "wrong_reasoning": "Some argue that freedom is purely liberating and leads to happiness. However, this view neglects the psychological burden that comes with making choices. It assumes that individuals can easily navigate their freedom without considering the weight of their decisions, which can lead to regret and despair.",
+    "paradox": "The more freedom one has, the more responsibility one bears. This creates a paradox where the pursuit of freedom can lead to feelings of entrapment by one's own choices."
+  },
+  "mechanism": {
+    "assumptions": "Individuals are rational agents capable of making informed choices.",
+    "steps": "1. Recognize the scope of personal freedom. 2. Acknowledge the consequences of choices. 3. Reflect on the emotional impact of responsibility. 4. Seek balance between freedom and responsibility.",
+    "math": "N/A",
+    "truth": "Freedom and responsibility are inherently linked."
+  },
+  "solutions": {
+    "paths": [
+      "Embrace responsibility",
+      "Seek guidance",
+      "Practice decision-making",
+      "Cultivate self-awareness"
+    ],
+    "tradeoffs": [
+      "Freedom vs. security",
+      "Individualism vs. community",
+      "Choice vs. regret",
+      "Autonomy vs. accountability",
+      "Happiness vs. responsibility",
+      "Growth vs. anxiety",
+      "Control vs. chaos",
+      "Simplicity vs. complexity"
+    ],
+    "status": "Ongoing exploration of balance."
+  },
+  "practice": {
+    "patterns": [
+      "Journaling choices",
+      "Discussing dilemmas",
+      "Role-playing scenarios",
+      "Mindfulness exercises",
+      "Setting personal goals",
+      "Evaluating past decisions",
+      "Seeking feedback",
+      "Exploring philosophical texts",
+      "Engaging in group discussions",
+      "Reflecting on values"
+    ],
+    "prompts": [
+      "What choices define you?",
+      "How do you handle regret?",
+      "In what ways do you seek freedom?",
+      "What responsibilities weigh on you?",
+      "How can you balance freedom and responsibility?",
+      "Describe a choice that changed your life.",
+      "What role does society play in your decisions?",
+      "How do you cope with anxiety from choices?",
+      "What does freedom mean to you?",
+      "How do you define success?",
+      "What values guide your decisions?",
+      "How do you support others in their choices?"
+    ],
+    "warnings": [
+      "Avoid decision paralysis",
+      "Don't ignore emotional impacts",
+      "Beware of overthinking",
+      "Recognize societal pressures",
+      "Don't neglect self-care"
+    ]
+  },
+  "context": {
+    "history": "The existential paradox has roots in existential philosophy, particularly in the works of thinkers like Sartre and Kierkegaard, who explored the implications of freedom and responsibility.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

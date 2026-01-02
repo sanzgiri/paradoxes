@@ -1,0 +1,17 @@
+{
+  "id": "p_prosecutor",
+  "title": "Prosecutor\u2019s Fallacy",
+  "hook": "Confusing the probability of evidence given innocence with the probability of innocence given evidence.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Probability must be interpreted correctly to avoid fallacies.",
+  "tags": [
+    "probability",
+    "conditional"
+  ],
+  "related": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": "p_two_envelope",
+  "narrative": {
+    "story": "Imagine you have two envelopes, one containing twice the amount of money as the other. You pick one envelope and see the amount inside. You then consider switching to the other envelope, reasoning that it might contain more money. This leads to the conclusion that you should always switch, creating a paradox where it seems you can gain by switching regardless of your initial choice.",
+    "wrong_reasoning": "The flawed reasoning lies in the assumption that the expected value of switching is always greater than the current envelope. This ignores the fact that the initial choice affects the probabilities and leads to a circular argument.",
+    "paradox": "The paradox arises because the logic suggests that you should always switch envelopes, yet this contradicts the idea that your initial choice should have a fixed expected value."
+  },
+  "mechanism": {
+    "assumptions": "Assumes equal probability of choosing either envelope and that the amounts are independent.",
+    "steps": "1. Choose an envelope. 2. Observe the amount. 3. Calculate expected value of switching. 4. Decide to switch based on expected value.",
+    "math": "If A is the amount in the chosen envelope, the expected value of switching is E = 0.5 * 2A + 0.5 * 0 = A.",
+    "truth": "The expected value calculation is misleading."
+  },
+  "solutions": {
+    "paths": [
+      "Accept the paradox as a limitation of expected value reasoning.",
+      "Re-evaluate the assumptions about the envelopes.",
+      "Use alternative decision-making frameworks.",
+      "Focus on the actual probabilities rather than expected values."
+    ],
+    "tradeoffs": [
+      "Simplistic reasoning vs. complex understanding.",
+      "Intuitive decisions vs. mathematically sound choices.",
+      "Short-term gains vs. long-term strategies.",
+      "Risk of loss vs. potential for gain."
+    ],
+    "status": "Ongoing debate in decision theory."
+  },
+  "practice": {
+    "patterns": [
+      "Identify assumptions in decision-making.",
+      "Evaluate the impact of information on choices.",
+      "Analyze paradoxes in probability."
+    ],
+    "prompts": [
+      "What assumptions are you making?",
+      "How does new information change your decision?",
+      "Can you find a similar paradox in your field?",
+      "What is the worst-case scenario?",
+      "How would you explain this to someone else?",
+      "What alternative strategies could you use?",
+      "How does this relate to real-world decisions?",
+      "What biases might affect your reasoning?",
+      "Can you visualize the problem differently?",
+      "What if the amounts were different?",
+      "How would you approach this with a team?",
+      "What lessons can you draw from this paradox?"
+    ],
+    "warnings": [
+      "Avoid over-reliance on expected value.",
+      "Be cautious of circular reasoning.",
+      "Recognize the limits of intuition.",
+      "Question your assumptions regularly.",
+      "Don't ignore the context of decisions."
+    ]
+  },
+  "context": {
+    "history": "The Two-Envelope Paradox has been discussed in decision theory and probability for decades, highlighting the complexities of expected value.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf",
+      "wikipedia": "https://en.wikipedia.org/wiki/Two-envelope_paradox"
+    }
+  }
+}

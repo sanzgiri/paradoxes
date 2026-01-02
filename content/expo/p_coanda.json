@@ -1,0 +1,76 @@
+{
+  "id": "p_coanda",
+  "narrative": {
+    "story": "The Coand\u0103 effect describes how a fluid jet adheres to a nearby surface, curving around it instead of traveling in a straight line. This phenomenon can be observed in various applications, such as in aircraft wings where airflow is manipulated to enhance lift. The unexpected behavior of fluids challenges our intuitive understanding of motion and forces.",
+    "wrong_reasoning": "One might assume that fluids will always travel in straight lines unless acted upon by an external force. However, the Coand\u0103 effect illustrates that the presence of a surface can alter the path of a fluid jet, leading to misconceptions about fluid dynamics.",
+    "paradox": "The paradox lies in the fact that while fluids naturally seek the path of least resistance, the presence of a surface can create a situation where the fluid adheres to the surface, defying the expectation of a straight trajectory."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that fluids behave predictably under normal conditions.",
+    "steps": "1. A fluid jet is emitted. 2. The jet approaches a curved surface. 3. The fluid adheres to the surface due to pressure differences. 4. The jet curves along the surface instead of continuing straight.",
+    "math": "The behavior can be described using Bernoulli's principle and the Navier-Stokes equations, which govern fluid motion.",
+    "truth": "The Coand\u0103 effect is a real phenomenon observed in fluid dynamics."
+  },
+  "solutions": {
+    "paths": [
+      "Utilizing the Coand\u0103 effect in aircraft design",
+      "Improving fluid transport systems",
+      "Enhancing spray applications",
+      "Designing efficient ventilation systems"
+    ],
+    "tradeoffs": [
+      "Increased lift vs. drag",
+      "Control complexity vs. performance",
+      "Material costs vs. benefits",
+      "Design limitations vs. innovative solutions",
+      "Safety vs. efficiency",
+      "Maintenance vs. operational costs",
+      "Predictability vs. adaptability",
+      "Scalability vs. precision"
+    ],
+    "status": "Ongoing research and application in engineering."
+  },
+  "practice": {
+    "patterns": [
+      "Observe fluid behavior in different scenarios",
+      "Experiment with various surface shapes",
+      "Analyze airflow around objects",
+      "Simulate fluid dynamics using software",
+      "Conduct experiments with different fluid viscosities",
+      "Study real-world applications",
+      "Explore historical experiments",
+      "Compare theoretical predictions with observations",
+      "Investigate related phenomena",
+      "Document findings"
+    ],
+    "prompts": [
+      "What happens when a fluid jet meets a surface?",
+      "How can the Coand\u0103 effect be applied in engineering?",
+      "What are the implications of this effect in nature?",
+      "Can you design an experiment to test this phenomenon?",
+      "How does surface texture affect fluid adhesion?",
+      "What are the limitations of the Coand\u0103 effect?",
+      "How can this effect be used in everyday applications?",
+      "What historical experiments led to the discovery of this effect?",
+      "How does this relate to other fluid dynamics principles?",
+      "What are the practical challenges in utilizing this effect?",
+      "How can we visualize the Coand\u0103 effect?",
+      "What are the safety considerations when applying this effect?"
+    ],
+    "warnings": [
+      "Ensure safety when conducting fluid experiments",
+      "Be aware of potential inaccuracies in predictions",
+      "Consider environmental factors affecting fluid behavior",
+      "Understand the limitations of theoretical models",
+      "Account for variations in fluid properties"
+    ]
+  },
+  "context": {
+    "history": "The Coand\u0103 effect was named after Romanian inventor Henri Coand\u0103, who discovered it in the early 20th century while working on jet propulsion.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

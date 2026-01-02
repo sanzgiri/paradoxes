@@ -1,0 +1,15 @@
+{
+  "id": "p_google",
+  "title": "Google Interviews Paradox",
+  "hook": "Probability of being most awake in room of sleep-deprived equals 1/n.",
+  "domains": [
+    "probability"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Awareness of group dynamics can skew perceptions of performance.",
+  "tags": [
+    "sleep_deprivation"
+  ],
+  "related": []
+}

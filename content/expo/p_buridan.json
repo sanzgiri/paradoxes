@@ -1,0 +1,67 @@
+{
+  "id": "p_buridan",
+  "narrative": {
+    "story": "Buridan's Ass presents a scenario where a donkey, placed equidistant between two identical piles of hay, cannot decide which one to eat. Despite having a clear preference for both, the equal value of the options leads to paralysis in decision-making. This thought experiment illustrates the challenges of rational choice theory when faced with equally appealing alternatives.",
+    "wrong_reasoning": "One might argue that the donkey should simply choose one pile arbitrarily. However, this reasoning overlooks the essence of the paradox: the donkey's inability to choose stems from the equal value of both options, not from a lack of preference or will.",
+    "paradox": "The paradox lies in the fact that rationality suggests making a choice, yet the equal value of the options creates a stalemate, challenging the notion of rational decision-making."
+  },
+  "mechanism": {
+    "assumptions": "The assumption is that rational agents will always make a choice when faced with options.",
+    "steps": "1. Identify the available options. 2. Evaluate the value of each option. 3. Recognize that both options hold equal value. 4. Attempt to make a decision but become paralyzed by the equal appeal.",
+    "math": "If V1 = V2, where V1 and V2 are the values of the two options, then the decision-making process fails as no option is preferred.",
+    "truth": "Rational choice can lead to inaction when faced with equal alternatives."
+  },
+  "solutions": {
+    "paths": [
+      "Introduce a third option to break the tie.",
+      "Set a time limit for decision-making.",
+      "Prioritize one option based on external criteria.",
+      "Accept the inherent uncertainty and choose randomly."
+    ],
+    "tradeoffs": [
+      "Choosing randomly may lead to regret.",
+      "Setting a time limit can induce stress.",
+      "Prioritizing based on external criteria may overlook personal preferences.",
+      "Introducing a third option may complicate the decision further."
+    ],
+    "status": "Exploring these solutions can help mitigate the effects of indecision."
+  },
+  "practice": {
+    "patterns": [
+      "Identify equal options in decision-making.",
+      "Evaluate personal values against external criteria.",
+      "Practice making quick decisions in low-stakes situations.",
+      "Reflect on past decisions to understand indecision."
+    ],
+    "prompts": [
+      "What are the pros and cons of each option?",
+      "How would you advise a friend in this situation?",
+      "What external factors could influence your choice?",
+      "Can you set a deadline for your decision?",
+      "What would you choose if you had to decide in one minute?",
+      "How do you feel about the options presented?",
+      "What is the worst-case scenario for each choice?",
+      "What would you choose if you had no prior knowledge?",
+      "How does each option align with your long-term goals?",
+      "What decision would you make if you were not afraid of making the wrong choice?",
+      "How would you feel about your choice a week from now?",
+      "What would you advise someone else to do in your position?"
+    ],
+    "warnings": [
+      "Avoid overthinking the decision.",
+      "Recognize when perfectionism hinders choice.",
+      "Be aware of emotional biases affecting your judgment.",
+      "Understand that not choosing is also a choice.",
+      "Don't let fear of regret paralyze you."
+    ]
+  },
+  "context": {
+    "history": "The paradox was named after the medieval philosopher Jean Buridan, who explored the implications of rational choice.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf",
+      "wikipedia": "https://en.wikipedia.org/wiki/Buridan%27s_ass"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "p_hilbert_hotel",
+  "title": "Hilbert\u2019s Hotel",
+  "hook": "An infinite hotel can accommodate additional guests even when fully occupied by rearranging rooms.",
+  "domains": [
+    "mathematics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Infinity can lead to counterintuitive results.",
+  "tags": [
+    "actual_infinity"
+  ],
+  "related": []
+}

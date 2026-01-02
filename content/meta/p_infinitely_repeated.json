@@ -1,0 +1,17 @@
+{
+  "id": "p_infinitely_repeated",
+  "title": "Infinitely Repeated Games Paradox",
+  "hook": "Discounted infinite horizon sustains cooperation as equilibria.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Cooperation can emerge in repeated interactions.",
+  "tags": [
+    "folk_theorem",
+    "cooperation"
+  ],
+  "related": []
+}

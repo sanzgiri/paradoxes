@@ -1,0 +1,17 @@
+{
+  "id": "p_prisoner",
+  "title": "Prisoner\u2019s Dilemma",
+  "hook": "Mutual defection is a dominant-strategy equilibrium but yields worse payoffs than mutual cooperation.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Cooperation can lead to better outcomes than self-interest.",
+  "tags": [
+    "cooperation",
+    "equilibrium"
+  ],
+  "related": []
+}

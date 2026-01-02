@@ -1,0 +1,76 @@
+{
+  "id": "p_traveler",
+  "narrative": {
+    "story": "In the Traveler's Dilemma, two players must choose a number between 2 and 100. If both choose the same number, they receive that amount. If they choose differently, the lower number is paid, and the higher number receives a penalty of 2. This creates a paradox where rational players are incentivized to choose the lowest number, leading to a suboptimal outcome for both.",
+    "wrong_reasoning": "Players might think that choosing a higher number will guarantee a better payoff. However, if one player chooses high while the other chooses low, the higher player ends up with a penalty, resulting in a worse outcome.",
+    "paradox": "The paradox lies in the fact that the rational choice leads to a worse collective outcome, demonstrating how individual incentives can conflict with group benefits."
+  },
+  "mechanism": {
+    "assumptions": "Players are rational and aim to maximize their payoffs.",
+    "steps": "1. Each player selects a number between 2 and 100. 2. Compare the numbers chosen. 3. Payoffs are determined based on the rules of the game. 4. Analyze the outcomes to understand the implications of choices.",
+    "math": "If player A chooses x and player B chooses y, the payoffs are: If x = y, both receive x. If x \u2260 y, the lower number receives its value, and the higher number receives (higher number - 2).",
+    "truth": "Rational choices can lead to irrational outcomes."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage cooperative strategies.",
+      "Implement binding agreements.",
+      "Use repeated play to build trust.",
+      "Educate players on the benefits of cooperation."
+    ],
+    "tradeoffs": [
+      "Short-term gain vs. long-term cooperation.",
+      "Individual rationality vs. collective benefit.",
+      "Trust vs. suspicion.",
+      "Simplicity of play vs. complexity of outcomes.",
+      "Risk of exploitation vs. potential for mutual benefit.",
+      "Immediate payoff vs. future relationships.",
+      "Competition vs. collaboration.",
+      "Predictability vs. unpredictability."
+    ],
+    "status": "Ongoing research into cooperative game strategies."
+  },
+  "practice": {
+    "patterns": [
+      "Identify mutual benefits.",
+      "Analyze past outcomes.",
+      "Encourage open communication.",
+      "Establish trust-building exercises.",
+      "Simulate scenarios to explore outcomes.",
+      "Discuss the importance of cooperation.",
+      "Reflect on personal biases.",
+      "Explore alternative strategies.",
+      "Engage in role-playing.",
+      "Evaluate the impact of choices."
+    ],
+    "prompts": [
+      "What would happen if both players chose the highest number?",
+      "How can trust be established in a one-time game?",
+      "What strategies could lead to better outcomes?",
+      "Discuss a real-life scenario similar to this dilemma.",
+      "How does this game relate to everyday decision-making?",
+      "What are the implications of this dilemma in economics?",
+      "How can players communicate effectively?",
+      "What role does risk play in decision-making?",
+      "How can players avoid the trap of rational self-interest?",
+      "What lessons can be learned from repeated play?",
+      "How does culture influence decision-making in this context?",
+      "What are the ethical considerations in this game?"
+    ],
+    "warnings": [
+      "Avoid focusing solely on individual gain.",
+      "Be cautious of overconfidence in predictions.",
+      "Recognize the potential for exploitation.",
+      "Understand the limits of rationality.",
+      "Don't underestimate the value of cooperation."
+    ]
+  },
+  "context": {
+    "history": "The Traveler's Dilemma was introduced by economist Richard H. Thaler in 1988 as a thought experiment in game theory.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

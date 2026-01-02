@@ -1,0 +1,76 @@
+{
+  "id": "p_moving_rows",
+  "narrative": {
+    "story": "Imagine two rows of cars moving parallel to each other at the same speed. To an observer on the ground, the cars in one row seem to pass by at a different rate than those in the other row, despite both moving uniformly. This creates confusion about how motion is perceived based on the observer's position.",
+    "wrong_reasoning": "One might assume that since both rows are moving at the same speed, they should appear identical to any observer. However, the relative motion between the rows alters the perception of speed, leading to the paradox.",
+    "paradox": "The Moving Rows Paradox illustrates how two observers can perceive motion differently based on their relative positions, challenging the notion of absolute motion."
+  },
+  "mechanism": {
+    "assumptions": "Observers are stationary; rows are moving uniformly.",
+    "steps": "1. Define the motion of the rows. 2. Identify the observer's frame. 3. Analyze perceived speeds. 4. Compare observations.",
+    "math": "If Row A moves at speed v_A and Row B at speed v_B, the perceived speed difference can be calculated based on the observer's position.",
+    "truth": "Motion is relative."
+  },
+  "solutions": {
+    "paths": [
+      "Reframe the problem in a different reference frame",
+      "Use graphical representations",
+      "Apply principles of relativity",
+      "Conduct experiments to observe outcomes"
+    ],
+    "tradeoffs": [
+      "Simplifying assumptions may overlook complexities",
+      "Different frames can complicate understanding",
+      "Experimental setups may vary",
+      "Theoretical models may not match real-world observations",
+      "Time dilation effects can confuse interpretations",
+      "Observer bias can influence conclusions",
+      "Mathematical models may not capture all nuances",
+      "Practical limitations in measuring motion"
+    ],
+    "status": "Understood but often misinterpreted."
+  },
+  "practice": {
+    "patterns": [
+      "Relative motion scenarios",
+      "Frame of reference exercises",
+      "Speed perception challenges",
+      "Graphical motion analysis",
+      "Experimental validation of motion",
+      "Thought experiments",
+      "Comparative analysis of different observers",
+      "Simulations of moving objects",
+      "Discussion of paradoxes in physics",
+      "Real-world applications of relativity"
+    ],
+    "prompts": [
+      "Describe a scenario with relative motion.",
+      "How would different observers perceive the same event?",
+      "What assumptions are made in analyzing motion?",
+      "Create a diagram illustrating the paradox.",
+      "Discuss implications of the paradox in real life.",
+      "How does this relate to Einstein's theories?",
+      "What experiments could clarify this paradox?",
+      "Explain the paradox to a layperson.",
+      "Identify flaws in common reasoning about motion.",
+      "What are the implications for understanding time?",
+      "How does this paradox affect our understanding of space?",
+      "Discuss historical perspectives on motion."
+    ],
+    "warnings": [
+      "Avoid assuming absolute motion",
+      "Be cautious of observer bias",
+      "Don't overlook relativistic effects",
+      "Consider the impact of perspective",
+      "Beware of oversimplification in explanations."
+    ]
+  },
+  "context": {
+    "history": "The Moving Rows Paradox has roots in classical mechanics and has been discussed in the context of relativity since Einstein's theories emerged.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p_paradox_place",
+  "title": "Paradox of Place",
+  "hook": "Everything existing has place, which has place ad infinitum.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Understanding infinite regress in existence.",
+  "tags": [
+    "location",
+    "regression"
+  ],
+  "related": []
+}

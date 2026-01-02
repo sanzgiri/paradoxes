@@ -1,0 +1,72 @@
+{
+  "id": "p_equity_premium",
+  "narrative": {
+    "story": "The Equity Premium Puzzle arises from the observation that historical returns on stocks exceed what traditional economic models predict based on risk aversion. This discrepancy has puzzled economists for decades, leading to various theories attempting to explain why investors demand such a high premium for holding equities over risk-free assets.",
+    "wrong_reasoning": "Some argue that the high equity premium is simply a result of market inefficiencies or behavioral biases. However, these explanations fail to account for the consistent nature of the premium across different time periods and markets, suggesting that the issue lies deeper within our understanding of risk and return.",
+    "paradox": "The paradox lies in the fact that if investors are rational and markets are efficient, the observed equity premium should not exist. Yet, it does, challenging the foundational assumptions of modern financial theory."
+  },
+  "mechanism": {
+    "assumptions": "Investors are rational and markets are efficient.",
+    "steps": "1. Analyze historical equity returns. 2. Compare with risk-free rates. 3. Assess risk aversion levels. 4. Identify discrepancies.",
+    "math": "E(R) = R_f + \text{Risk Premium}, where E(R) is expected return, R_f is risk-free rate.",
+    "truth": "The equity premium is consistently higher than predicted."
+  },
+  "solutions": {
+    "paths": [
+      "Re-evaluate risk aversion models.",
+      "Incorporate behavioral finance insights.",
+      "Explore alternative asset pricing models.",
+      "Adjust for market inefficiencies."
+    ],
+    "tradeoffs": [
+      "Complexity vs. accuracy in models.",
+      "Behavioral insights vs. traditional theory.",
+      "Short-term vs. long-term perspectives.",
+      "Risk vs. return trade-offs."
+    ],
+    "status": "Ongoing research and debate."
+  },
+  "practice": {
+    "patterns": [
+      "Analyze historical data.",
+      "Compare different asset classes.",
+      "Evaluate investor behavior.",
+      "Study market anomalies.",
+      "Simulate risk scenarios.",
+      "Review academic literature.",
+      "Discuss with peers.",
+      "Attend finance seminars.",
+      "Utilize financial modeling software.",
+      "Conduct sensitivity analysis."
+    ],
+    "prompts": [
+      "What factors contribute to the equity premium?",
+      "How do behavioral biases affect investment decisions?",
+      "Can traditional models be adjusted to fit observed data?",
+      "What alternative theories exist for the equity premium?",
+      "How does market sentiment influence equity returns?",
+      "What role does economic policy play?",
+      "How can we measure investor risk aversion?",
+      "What historical events impacted equity returns?",
+      "How do different markets compare?",
+      "What implications does the puzzle have for investors?",
+      "How can we apply this knowledge in practice?",
+      "What are the limitations of current models?"
+    ],
+    "warnings": [
+      "Avoid over-reliance on traditional models.",
+      "Be cautious of behavioral biases.",
+      "Consider market conditions when analyzing data.",
+      "Stay updated with ongoing research.",
+      "Recognize the limitations of historical data."
+    ]
+  },
+  "context": {
+    "history": "The equity premium puzzle was first identified in the early 1980s and has since sparked extensive research.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

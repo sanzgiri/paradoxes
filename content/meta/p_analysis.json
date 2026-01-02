@@ -1,0 +1,16 @@
+{
+  "id": "p_analysis",
+  "title": "Paradox of Analysis",
+  "hook": "Analyses must be both correct and informative, yet correctness seems to require synonymy.",
+  "domains": [
+    "philosophy"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "No analysis can satisfy both correctness and informativeness.",
+  "tags": [
+    "concepts",
+    "definitions"
+  ],
+  "related": []
+}

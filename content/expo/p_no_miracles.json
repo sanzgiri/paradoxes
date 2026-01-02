@@ -1,0 +1,76 @@
+{
+  "id": "p_no_miracles",
+  "narrative": {
+    "story": "The No Miracles Argument posits that the success of scientific theories in predicting phenomena is best explained by the idea that these theories are at least approximately true. If they were not, their success would be a miracle, as false theories would not consistently yield accurate predictions. This argument supports scientific realism, suggesting that our best scientific theories reflect reality.",
+    "wrong_reasoning": "Some argue that scientific success can be attributed to pragmatic factors, such as the usefulness of theories, rather than their truth. They claim that even false theories can be effective tools for prediction, thus undermining the necessity of truth in scientific success. However, this view overlooks the consistent correlation between theory accuracy and predictive success.",
+    "paradox": "The paradox arises when we consider that if scientific theories are not approximately true, their predictive success seems miraculous. Yet, if they are true, it raises questions about the nature of truth in science and whether we can ever fully attain it."
+  },
+  "mechanism": {
+    "assumptions": "The argument assumes that scientific theories can be evaluated for truth and that their success is indicative of this truth.",
+    "steps": "1. Identify successful scientific theories. 2. Analyze their predictive capabilities. 3. Argue that their success implies approximate truth. 4. Conclude that denying this leads to a paradox.",
+    "math": "Mathematical models in science often rely on assumptions that can be tested against empirical data, reinforcing the link between theory and truth.",
+    "truth": "Truth is seen as a guiding principle in scientific inquiry."
+  },
+  "solutions": {
+    "paths": [
+      "Embrace scientific realism.",
+      "Develop better models of truth.",
+      "Explore alternative epistemologies.",
+      "Foster interdisciplinary dialogue."
+    ],
+    "tradeoffs": [
+      "Realism vs. instrumentalism.",
+      "Complexity vs. simplicity in theories.",
+      "Predictive success vs. explanatory power.",
+      "Acceptance of approximate truths vs. absolute truths.",
+      "Pragmatic utility vs. theoretical accuracy.",
+      "Flexibility in theories vs. rigid adherence to truth.",
+      "Interdisciplinary insights vs. domain-specific focus.",
+      "Historical context vs. current applicability."
+    ],
+    "status": "Ongoing debate in philosophy of science."
+  },
+  "practice": {
+    "patterns": [
+      "Analyze successful theories.",
+      "Evaluate predictive accuracy.",
+      "Discuss implications of scientific realism.",
+      "Contrast realism with anti-realism.",
+      "Explore case studies in science.",
+      "Engage in thought experiments.",
+      "Review historical scientific successes.",
+      "Debate the nature of truth.",
+      "Investigate the role of models.",
+      "Consider interdisciplinary perspectives."
+    ],
+    "prompts": [
+      "What does success in science imply about truth?",
+      "Can false theories still be useful?",
+      "How do we define approximate truth?",
+      "What are the implications of scientific realism?",
+      "Discuss a scientific theory that exemplifies this paradox.",
+      "How do assumptions shape scientific inquiry?",
+      "Explore a counterexample to the No Miracles Argument.",
+      "What role does empirical data play in this discussion?",
+      "How can we reconcile theory and practice?",
+      "What are the limits of scientific theories?",
+      "Discuss the impact of historical context on scientific success.",
+      "How do different domains approach the concept of truth?"
+    ],
+    "warnings": [
+      "Avoid conflating success with truth.",
+      "Be cautious of oversimplifying complex theories.",
+      "Recognize the limitations of empirical data.",
+      "Don't ignore the role of context in scientific success.",
+      "Beware of confirmation bias in evaluating theories."
+    ]
+  },
+  "context": {
+    "history": "The No Miracles Argument has been a central topic in the philosophy of science since the 20th century, particularly in discussions surrounding scientific realism.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

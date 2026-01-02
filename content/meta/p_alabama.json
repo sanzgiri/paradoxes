@@ -1,0 +1,17 @@
+{
+  "id": "p_alabama",
+  "title": "Alabama Paradox",
+  "hook": "Increasing the total number of seats can cause a state to lose a seat under some apportionment rules.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Representation can yield counterintuitive results.",
+  "tags": [
+    "representation",
+    "rounding"
+  ],
+  "related": []
+}

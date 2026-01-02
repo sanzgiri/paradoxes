@@ -1,0 +1,17 @@
+{
+  "id": "p_braess",
+  "title": "Braess\u2019s Paradox",
+  "hook": "Adding a new route to a traffic network can worsen travel times at equilibrium.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "More options can lead to worse outcomes.",
+  "tags": [
+    "traffic",
+    "equilibrium"
+  ],
+  "related": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p_achilles_arrow",
+  "title": "Achilles and Arrow Paradox",
+  "hook": "Arrow at rest at every instant appears unable to move.",
+  "domains": [
+    "philosophy"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Motion can be counterintuitive.",
+  "tags": [
+    "zeno",
+    "motion"
+  ],
+  "related": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": "p_earman_baron",
+  "narrative": {
+    "story": "The Earman-Baron Supertask involves an infinite sequence of tasks that can be completed in finite time. Depending on how time is parameterized, the convergence of the tasks can yield different results. This leads to intriguing questions about the nature of infinity and limits in mathematics.",
+    "wrong_reasoning": "One might assume that all infinite processes converge to the same limit regardless of how time is divided. However, this is not the case, as shown by the Earman-Baron example, where different parameterizations lead to different outcomes.",
+    "paradox": "The paradox arises when we realize that the same infinite task can yield different results based on the chosen time parameterization, challenging our understanding of limits and convergence."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that tasks can be infinitely subdivided and that time can be parameterized in various ways.",
+    "steps": "1. Define an infinite sequence of tasks. 2. Choose different parameterizations of time. 3. Analyze the convergence of the tasks under each parameterization. 4. Compare the results to identify discrepancies.",
+    "math": "Mathematical analysis involves limits and series, particularly focusing on how different sequences converge based on their definitions.",
+    "truth": "The truth is that convergence is sensitive to the method of parameterization."
+  },
+  "solutions": {
+    "paths": [
+      "Re-evaluate the assumptions about infinity",
+      "Explore alternative parameterizations",
+      "Use graphical representations",
+      "Engage in philosophical discussions about infinity"
+    ],
+    "tradeoffs": [
+      "Simplifying assumptions may overlook nuances",
+      "Different parameterizations can complicate analysis",
+      "Philosophical implications may challenge mathematical rigor",
+      "Practical applications may vary based on interpretation",
+      "Understanding limits requires careful consideration",
+      "Infinite processes may not behave intuitively",
+      "Convergence can be context-dependent",
+      "Mathematical rigor may clash with intuitive reasoning"
+    ],
+    "status": "Ongoing exploration in mathematical philosophy."
+  },
+  "practice": {
+    "patterns": [
+      "Identify infinite processes",
+      "Analyze convergence behavior",
+      "Compare parameterizations",
+      "Discuss implications of results",
+      "Explore real-world applications",
+      "Engage with philosophical texts",
+      "Utilize graphical tools",
+      "Collaborate in study groups",
+      "Present findings",
+      "Reflect on personal understanding"
+    ],
+    "prompts": [
+      "What is your understanding of infinity?",
+      "How do you define convergence?",
+      "Can you think of real-world examples?",
+      "What assumptions are you making?",
+      "How does parameterization affect your results?",
+      "Discuss with peers",
+      "What are the implications of your findings?",
+      "How might this apply to other fields?",
+      "What questions remain unanswered?",
+      "How can you visualize the problem?",
+      "What alternative approaches can you consider?",
+      "Reflect on your learning process."
+    ],
+    "warnings": [
+      "Avoid oversimplification",
+      "Be cautious of intuitive reasoning",
+      "Check assumptions regularly",
+      "Engage critically with sources",
+      "Recognize the limits of your understanding"
+    ]
+  },
+  "context": {
+    "history": "The Earman-Baron Supertask has roots in discussions of infinity and limits in mathematics, particularly in the 20th century.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

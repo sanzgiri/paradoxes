@@ -1,0 +1,17 @@
+{
+  "id": "p_algol",
+  "title": "Algol Paradox",
+  "hook": "Binary partners different ages despite same formation.",
+  "domains": [
+    "other",
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Age discrepancies in binary stars challenge our understanding.",
+  "tags": [
+    "binary_stars",
+    "age"
+  ],
+  "related": []
+}

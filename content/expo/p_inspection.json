@@ -1,0 +1,76 @@
+{
+  "id": "p_inspection",
+  "narrative": {
+    "story": "Imagine a bus stop where buses arrive randomly. A person waiting for a bus often feels like they wait longer than the average time between bus arrivals. This is because the longer they wait, the more likely they are to observe other passengers arriving and leaving, skewing their perception of wait times.",
+    "wrong_reasoning": "One might think that if buses arrive every 10 minutes on average, a person should wait no longer than that. However, this reasoning ignores the fact that those who arrive just after a bus has left will wait significantly longer than the average.",
+    "paradox": "The Inspection Paradox illustrates how individual experiences can diverge from statistical averages, leading to a misunderstanding of wait times."
+  },
+  "mechanism": {
+    "assumptions": "Observers arrive randomly and bus intervals are consistent.",
+    "steps": "1. Buses arrive at random intervals. 2. Observers arrive at the bus stop at different times. 3. Those who wait longer are more likely to be present when the next bus arrives, skewing their perception.",
+    "math": "If the average wait time is T, those who arrive just after a bus leaves may wait up to 2T, while those arriving just before may wait less than T.",
+    "truth": "The average wait time perceived by observers is longer than the actual average."
+  },
+  "solutions": {
+    "paths": [
+      "Increase bus frequency.",
+      "Implement real-time arrival information.",
+      "Encourage staggered arrival times.",
+      "Educate passengers on statistical averages."
+    ],
+    "tradeoffs": [
+      "Higher operational costs for increased frequency.",
+      "Potential for information overload with real-time data.",
+      "Need for coordination among passengers.",
+      "Risk of confusion with staggered arrivals.",
+      "Increased wait times for some passengers.",
+      "Potential for reduced service reliability.",
+      "Need for public education campaigns.",
+      "Balancing cost and service quality."
+    ],
+    "status": "Ongoing discussions in urban transport planning."
+  },
+  "practice": {
+    "patterns": [
+      "Analyze arrival patterns.",
+      "Use simulations to predict wait times.",
+      "Educate users on statistical concepts.",
+      "Implement feedback loops for service adjustments.",
+      "Monitor user satisfaction regularly.",
+      "Utilize technology for real-time updates.",
+      "Encourage community engagement in transport planning.",
+      "Explore alternative transport solutions.",
+      "Assess impact of changes on different demographics.",
+      "Review historical data for insights."
+    ],
+    "prompts": [
+      "How do you perceive wait times?",
+      "What factors influence your waiting experience?",
+      "Can you think of a time you felt you waited longer than expected?",
+      "How would real-time data change your waiting behavior?",
+      "What improvements would you suggest for bus services?",
+      "How do you think arrival patterns affect your daily routine?",
+      "What statistical concepts are you familiar with?",
+      "How can we better communicate average wait times?",
+      "What role does community feedback play in transport planning?",
+      "How can technology enhance public transport experiences?",
+      "What are the potential downsides of increased bus frequency?",
+      "How can we ensure equitable access to transport services?"
+    ],
+    "warnings": [
+      "Avoid over-reliance on averages.",
+      "Be cautious of confirmation bias in personal experiences.",
+      "Recognize the limitations of statistical models.",
+      "Understand that perceptions can vary widely.",
+      "Don't ignore the impact of external factors."
+    ]
+  },
+  "context": {
+    "history": "The Inspection Paradox has been discussed in statistical literature for decades, highlighting the discrepancies between individual experiences and statistical averages.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

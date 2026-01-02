@@ -1,0 +1,16 @@
+{
+  "id": "p_bertrand_ray",
+  "title": "Bertrand's Ray Paradox",
+  "hook": "Different ray selection methods from sphere center yield different probabilities.",
+  "domains": [
+    "probability"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Selection methods can drastically affect outcomes.",
+  "tags": [
+    "geometric",
+    "rays"
+  ],
+  "related": []
+}

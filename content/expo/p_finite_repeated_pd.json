@@ -1,0 +1,76 @@
+{
+  "id": "p_finite_repeated_pd",
+  "narrative": {
+    "story": "In the finite repeated prisoner's dilemma, two players face a choice to cooperate or defect over a known number of rounds. Initially, cooperation seems beneficial, but as the final round approaches, players anticipate the end and may choose to defect, unraveling cooperation. This backward induction leads to a paradox where rational players end up defecting, despite the potential for mutual benefit.",
+    "wrong_reasoning": "Many believe that players will cooperate throughout the game due to the repeated nature of the dilemma. However, the finite aspect means that players will eventually reach a point where cooperation is no longer rational, leading them to defect in the last rounds. This misjudgment overlooks the impact of the finite horizon on decision-making.",
+    "paradox": "The paradox arises from the expectation that players will cooperate in a repeated game. However, the finite nature of the game leads to a breakdown of cooperation as players anticipate the end, resulting in a non-cooperative equilibrium contrary to initial expectations."
+  },
+  "mechanism": {
+    "assumptions": "Players are rational and aim to maximize their payoffs; they know the game will end after a fixed number of rounds.",
+    "steps": "1. Players decide whether to cooperate or defect in each round. 2. As the last round approaches, players anticipate the end and adjust their strategies. 3. Defection becomes the rational choice in the final rounds, leading to a breakdown of cooperation. 4. The outcome is a non-cooperative equilibrium.",
+    "math": "Payoff matrix shows that mutual cooperation yields higher payoffs than mutual defection, yet the finite nature leads to defection in the last rounds.",
+    "truth": "Rational players will defect in the last round."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage communication",
+      "Establish trust",
+      "Introduce uncertainty in the game length",
+      "Use repeated interactions with unknown endpoints"
+    ],
+    "tradeoffs": [
+      "Short-term gain vs long-term cooperation",
+      "Trust vs betrayal",
+      "Predictability vs unpredictability",
+      "Individual rationality vs collective benefit",
+      "Risk of defection vs potential rewards",
+      "Game length certainty vs uncertainty",
+      "Immediate payoff vs future cooperation",
+      "Personal gain vs group outcome"
+    ],
+    "status": "Ongoing research into mechanisms that promote cooperation."
+  },
+  "practice": {
+    "patterns": [
+      "Backward induction",
+      "Trust-building exercises",
+      "Iterated games",
+      "Negotiation techniques",
+      "Game theory simulations",
+      "Role-playing scenarios",
+      "Cooperative strategies",
+      "Risk assessment",
+      "Payoff analysis",
+      "Decision-making frameworks"
+    ],
+    "prompts": [
+      "What would you do in the last round?",
+      "How can trust be established?",
+      "What if the game length was unknown?",
+      "Discuss the implications of defection.",
+      "How does communication affect outcomes?",
+      "Explore scenarios with varying payoffs.",
+      "What strategies promote cooperation?",
+      "Analyze past games for patterns.",
+      "What assumptions are being made?",
+      "How does this apply to real-world situations?",
+      "What are the consequences of betrayal?",
+      "Reflect on personal experiences with cooperation."
+    ],
+    "warnings": [
+      "Assuming cooperation will last",
+      "Underestimating the impact of finite rounds",
+      "Ignoring the role of communication",
+      "Overlooking individual rationality",
+      "Neglecting the importance of trust"
+    ]
+  },
+  "context": {
+    "history": "The finite repeated prisoner's dilemma has been studied extensively in game theory, highlighting the complexities of cooperation and rational decision-making.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

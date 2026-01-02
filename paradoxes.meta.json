@@ -1,0 +1,4377 @@
+[
+  {
+    "id": "p_painters",
+    "title": "Painter\u2019s Paradox",
+    "hook": "Painting infinitely many stripes or regions in finite area challenges intuition about measure.",
+    "domains": [
+      "mathematics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Infinity can exist within finite bounds.",
+    "tags": [
+      "measure",
+      "infinity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_berry",
+    "title": "Berry\u2019s Paradox",
+    "hook": "A number that cannot be named creates a self-referential dilemma.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Self-reference can lead to contradictions.",
+    "tags": [
+      "selfreference",
+      "semantics"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_meno",
+    "title": "Meno\u2019s Paradox",
+    "hook": "If one knows what one is looking for inquiry is unnecessary, but without knowledge, inquiry seems impossible.",
+    "domains": [
+      "philosophy"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Knowledge is essential for inquiry, yet inquiry is needed to gain knowledge.",
+    "tags": [
+      "epistemology",
+      "knowledge"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_socratic",
+    "title": "Socratic Paradox",
+    "hook": "Claims like \u2018I know that I know nothing\u2019 appear self-undermining yet express a coherent stance on knowledge limits.",
+    "domains": [
+      "philosophy"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Understanding knowledge limits can enhance critical thinking.",
+    "tags": [
+      "epistemology",
+      "ethics"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_nonvoting",
+    "title": "Non-Voting Paradox",
+    "hook": "Abstentions or turnout changes can flip collective outcomes in counterintuitive ways.",
+    "domains": [
+      "social_choice",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Voting dynamics can lead to unexpected results.",
+    "tags": [
+      "voting",
+      "aggregation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_bertrand_chord",
+    "title": "Bertrand\u2019s Paradox (Chord)",
+    "hook": "Different \u2018natural\u2019 procedures for choosing a random chord in a circle yield different probabilities.",
+    "domains": [
+      "probability"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Randomness can lead to contradictory results.",
+    "tags": [
+      "geometric_probability",
+      "infinity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_boxes",
+    "title": "Boxes Paradox",
+    "hook": "Box and urn setups where conditioning on information reverses naive probability judgments.",
+    "domains": [
+      "probability"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Conditioning can alter perceived probabilities.",
+    "tags": [
+      "conditional_probability"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_moore",
+    "title": "Moore\u2019s Paradox",
+    "hook": "Statements like \u2018It is raining, but I don\u2019t believe it is\u2019 appear absurd though not logically contradictory.",
+    "domains": [
+      "philosophy",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Belief and assertion can diverge in surprising ways.",
+    "tags": [
+      "epistemology",
+      "language"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_npv_irr",
+    "title": "NPV vs. IRR Paradox",
+    "hook": "Projects can have conflicting rankings under net present value and internal rate of return criteria.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "NPV and IRR can lead to different project decisions.",
+    "tags": [
+      "investment",
+      "ranking"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_dividend",
+    "title": "Dividend Paradox",
+    "hook": "Dividend policy seems to influence firm value, contradicting theory.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Real-world factors can contradict theoretical models.",
+    "tags": [
+      "corporate_finance"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_thomson_lamp",
+    "title": "Thomson\u2019s Lamp",
+    "hook": "A lamp toggled infinitely many times in finite time raises the question of its final state.",
+    "domains": [
+      "philosophy"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Infinite processes can lead to paradoxical conclusions.",
+    "tags": [
+      "supertask",
+      "infinity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_double_neg",
+    "title": "Double Negatives Paradox",
+    "hook": "Phrases with double negatives can express affirmation or nuanced attitudes.",
+    "domains": [
+      "linguistics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Double negatives can affirm rather than negate.",
+    "tags": [
+      "semantics",
+      "pragmatics"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_zeno",
+    "title": "Zeno\u2019s Paradoxes",
+    "hook": "Zeno's arguments suggest motion is impossible due to infinite steps.",
+    "domains": [
+      "philosophy"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Infinity complicates our understanding of motion.",
+    "tags": [
+      "motion",
+      "infinity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_jevons",
+    "title": "Jevons Paradox",
+    "hook": "Efficiency improvements can increase total resource use when they lower effective cost and spur demand.",
+    "domains": [
+      "economics",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Efficiency can lead to increased consumption.",
+    "tags": [
+      "efficiency",
+      "rebound"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_tea_leaves",
+    "title": "Tea Leaves Paradox",
+    "hook": "Tea leaves collect in the center of a stirred cup despite naive centrifugal expectations.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Intuitive expectations can be misleading in fluid dynamics.",
+    "tags": [
+      "fluid_dynamics"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_fitch",
+    "title": "Fitch\u2019s Knowability Paradox",
+    "hook": "If all truths are knowable, it appears to follow that all truths are in fact known.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Not all knowable truths are known.",
+    "tags": [
+      "epistemic_logic",
+      "knowability"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_drinker",
+    "title": "Drinker Paradox",
+    "hook": "In any non-empty bar, there is a person such that if that person is drinking, everyone is drinking.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Existence of a drinker implies universal drinking.",
+    "tags": [
+      "classical_logic",
+      "existential"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_paper_balloon",
+    "title": "Paper Balloon Paradox",
+    "hook": "Light paper balloons can rise in air in ways that seem to contradict simple weight-based expectations.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Buoyancy can defy intuitive weight assumptions.",
+    "tags": [
+      "buoyancy",
+      "thermodynamics"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_elevator",
+    "title": "Elevator Weight Paradox",
+    "hook": "Apparent weight changes in an accelerating elevator can feel paradoxical without Newtonian analysis.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Understanding forces reveals the true nature of weight in acceleration.",
+    "tags": [
+      "acceleration",
+      "forces"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_thrift",
+    "title": "Paradox of Thrift",
+    "hook": "Saving more individually can harm the economy's overall savings.",
+    "domains": [
+      "economics",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Aggregate behavior can contradict individual intentions.",
+    "tags": [
+      "macro",
+      "aggregate_demand"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_aristotle_wheel",
+    "title": "Aristotle\u2019s Wheel Paradox",
+    "hook": "Two concentric wheels seem to trace equal path lengths despite having different circumferences.",
+    "domains": [
+      "mathematics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Perception can mislead our understanding of motion.",
+    "tags": [
+      "geometry",
+      "motion"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_false_friends",
+    "title": "False Friends Paradox",
+    "hook": "Similar-looking words across languages can mislead speakers into incorrect interpretations.",
+    "domains": [
+      "linguistics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Beware of misleading similarities in language.",
+    "tags": [
+      "translation",
+      "semantics"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_hedonist",
+    "title": "Paradox of Hedonism",
+    "hook": "Pursuing pleasure directly can lead to misery; indirect pursuit may yield happiness.",
+    "domains": [
+      "philosophy"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Indirect pursuit of happiness is often more effective.",
+    "tags": [
+      "ethics",
+      "psychology"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_immovable",
+    "title": "Irresistible Force / Immovable Object",
+    "hook": "The coexistence of an irresistible force and an immovable object appears logically impossible.",
+    "domains": [
+      "philosophy"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Some paradoxes challenge our understanding of reality.",
+    "tags": [
+      "theology",
+      "power"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_liberal",
+    "title": "Liberal Paradox",
+    "hook": "Minimal individual rights can conflict with Pareto efficiency.",
+    "domains": [
+      "social_choice",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Liberty and efficiency can be at odds.",
+    "tags": [
+      "rights",
+      "efficiency"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_ultimatum",
+    "title": "Ultimatum Game Paradox",
+    "hook": "Subgame-perfect equilibrium predicts acceptance of any positive offer, yet low offers are routinely rejected.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Rationality in decision-making can lead to unexpected outcomes.",
+    "tags": [
+      "fairness",
+      "equilibrium"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_liar",
+    "title": "Liar Paradox",
+    "hook": "The sentence \u2018This sentence is false\u2019 is true if and only if it is false.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Self-referential statements can create logical contradictions.",
+    "tags": [
+      "selfreference",
+      "truth"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_russell",
+    "title": "Russell\u2019s Paradox",
+    "hook": "The set of all sets that do not contain themselves leads to contradiction in naive set theory.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Self-reference can lead to logical contradictions.",
+    "tags": [
+      "set_theory",
+      "selfreference"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_grelling",
+    "title": "Grelling\u2013Nelson Paradox",
+    "hook": "The predicate \u2018heterological\u2019 seems to be heterological if and only if it is not.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Self-reference can lead to contradictory definitions.",
+    "tags": [
+      "selfreference",
+      "predication"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_curry",
+    "title": "Curry\u2019s Paradox",
+    "hook": "Self-referential conditionals can trivialize certain logical systems, deriving any statement.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Self-reference can lead to contradictions in logic.",
+    "tags": [
+      "implication",
+      "selfreference"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_hilbert_hotel",
+    "title": "Hilbert\u2019s Hotel",
+    "hook": "An infinite hotel can accommodate additional guests even when fully occupied by rearranging rooms.",
+    "domains": [
+      "mathematics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Infinity can lead to counterintuitive results.",
+    "tags": [
+      "actual_infinity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_banach_tarski",
+    "title": "Banach\u2013Tarski Paradox",
+    "hook": "A solid ball can be partitioned into finitely many pieces and reassembled into two balls of the original size.",
+    "domains": [
+      "mathematics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Infinity can lead to counterintuitive results.",
+    "tags": [
+      "set_theory",
+      "measure"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_gabriel_horn",
+    "title": "Gabriel\u2019s Horn",
+    "hook": "A surface of revolution can have finite volume but infinite surface area.",
+    "domains": [
+      "mathematics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Finite volume does not imply finite surface area.",
+    "tags": [
+      "calculus",
+      "infinite_surface"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_st_petersburg",
+    "title": "St. Petersburg Paradox",
+    "hook": "A game with infinite expected value elicits only modest real-world willingness to pay.",
+    "domains": [
+      "probability",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Real-world decisions often contradict theoretical expectations.",
+    "tags": [
+      "expected_value",
+      "utility"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_monty_hall",
+    "title": "Monty Hall Problem",
+    "hook": "Switching doors in a game show setup doubles the chance of winning, contrary to many intuitions.",
+    "domains": [
+      "probability",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Switching doors increases winning odds.",
+    "tags": [
+      "conditional_probability",
+      "intuition"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_simpson",
+    "title": "Simpson\u2019s Paradox",
+    "hook": "A trend present in multiple groups can reverse when the groups are combined.",
+    "domains": [
+      "statistics",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Aggregation can obscure true relationships.",
+    "tags": [
+      "aggregation",
+      "confounding"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_berkson",
+    "title": "Berkson\u2019s Paradox",
+    "hook": "Conditioning on a common effect can induce spurious negative correlations.",
+    "domains": [
+      "statistics",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Correlation does not imply causation.",
+    "tags": [
+      "selection_bias"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_prosecutor",
+    "title": "Prosecutor\u2019s Fallacy",
+    "hook": "Confusing the probability of evidence given innocence with the probability of innocence given evidence.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Probability must be interpreted correctly to avoid fallacies.",
+    "tags": [
+      "probability",
+      "conditional"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_birthday",
+    "title": "Birthday Paradox",
+    "hook": "In a group of only 23 people there is about a 50% chance that two share a birthday.",
+    "domains": [
+      "probability"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Intuition about probability can be misleading.",
+    "tags": [
+      "collision",
+      "combinatorics"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_two_envelope",
+    "title": "Two-Envelope Paradox",
+    "hook": "Naive expected-value reasoning suggests always switching envelopes, leading to apparent inconsistency.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Expected value can be misleading in decision-making.",
+    "tags": [
+      "expected_value",
+      "information"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_parrondo",
+    "title": "Parrondo\u2019s Paradox",
+    "hook": "Two losing games can be alternated or mixed to produce a winning outcome.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Combining strategies can yield unexpected results.",
+    "tags": [
+      "randomness",
+      "nonlinearity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_ellsberg",
+    "title": "Ellsberg Paradox",
+    "hook": "Preferences over ambiguous urns violate expected-utility axioms.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Ambiguity aversion contradicts expected utility theory.",
+    "tags": [
+      "ambiguity_aversion"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_allais",
+    "title": "Allais Paradox",
+    "hook": "Choice patterns over lotteries violate the independence axiom of expected utility theory.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Choices can contradict expected utility theory.",
+    "tags": [
+      "risk",
+      "expected_utility"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_insurance_gambling",
+    "title": "Insurance\u2013Gambling Paradox",
+    "hook": "People buy insurance and gamble simultaneously, showing risk-averse and risk-seeking behavior.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Risk behavior varies by context.",
+    "tags": [
+      "risk_aversion",
+      "risk_seeking"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_arrow",
+    "title": "Arrow\u2019s Impossibility Theorem",
+    "hook": "No rank-order voting system can satisfy a small set of fairness criteria when there are three or more options.",
+    "domains": [
+      "social_choice",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Fairness in voting systems is fundamentally limited.",
+    "tags": [
+      "voting",
+      "aggregation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_condorcet",
+    "title": "Condorcet Paradox",
+    "hook": "Collective majority preferences can be cyclic even when individual preferences are transitive.",
+    "domains": [
+      "social_choice",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Majority preferences can contradict individual choices.",
+    "tags": [
+      "voting",
+      "cycles"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_dalembert",
+    "title": "D\u2019Alembert\u2019s Paradox",
+    "hook": "Ideal-fluid theory predicts zero drag on certain bodies, contradicting everyday experience.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Real fluids always exhibit drag, unlike ideal models.",
+    "tags": [
+      "fluid_dynamics",
+      "drag"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_gibbs",
+    "title": "Gibbs Paradox",
+    "hook": "Entropy of mixing seems discontinuous between identical and slightly different gases.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Entropy is not always extensive in mixing scenarios.",
+    "tags": [
+      "entropy",
+      "mixing"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_loschmidt",
+    "title": "Loschmidt\u2019s Paradox",
+    "hook": "Microscopic reversibility appears to conflict with macroscopic irreversibility.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Understanding time's arrow in thermodynamics.",
+    "tags": [
+      "time_reversal",
+      "entropy"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_maxwell_demon",
+    "title": "Maxwell\u2019s Demon",
+    "hook": "A hypothetical demon seems able to violate the second law of thermodynamics by sorting molecules.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Information can influence thermodynamic processes.",
+    "tags": [
+      "thermodynamics",
+      "information"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_twin",
+    "title": "Twin Paradox",
+    "hook": "A traveling twin ages less than a stay-at-home twin in special relativity.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Time dilation leads to differing aging rates.",
+    "tags": [
+      "relativity",
+      "time_dilation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_epr",
+    "title": "EPR Paradox",
+    "hook": "Entangled particles exhibit correlations that challenge classical locality and realism.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Quantum entanglement defies classical intuitions.",
+    "tags": [
+      "quantum",
+      "nonlocality"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_olbers",
+    "title": "Olbers\u2019 Paradox",
+    "hook": "An infinite static universe of stars should produce a bright night sky, not darkness.",
+    "domains": [
+      "other",
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "The universe's structure affects our perception of the night sky.",
+    "tags": [
+      "night_sky",
+      "infinity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_bh_info",
+    "title": "Black Hole Information Paradox",
+    "hook": "Black hole evaporation seems to destroy information, conflicting with quantum unitarity.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "advanced",
+    "paradox_type": "falsidical",
+    "key_lesson": "Information cannot be destroyed, even by black holes.",
+    "tags": [
+      "quantum_gravity",
+      "unitarity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_mpemba",
+    "title": "Mpemba Effect",
+    "hook": "Under some conditions hot water appears to freeze faster than cold water.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Temperature affects freezing rates in unexpected ways.",
+    "tags": [
+      "thermodynamics",
+      "cooling"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_sorites",
+    "title": "Sorites Paradox",
+    "hook": "Small changes seem unable to transform a heap into a non-heap, yet repeated small changes do so.",
+    "domains": [
+      "philosophy"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Small changes can lead to significant transformations.",
+    "tags": [
+      "vagueness",
+      "gradual_change"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_theseus",
+    "title": "Ship of Theseus",
+    "hook": "A ship gradually replaced plank by plank raises questions about numerical identity over time.",
+    "domains": [
+      "philosophy"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Identity can be complex and context-dependent.",
+    "tags": [
+      "identity",
+      "change"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_newcomb",
+    "title": "Newcomb\u2019s Problem",
+    "hook": "One-boxing and two-boxing choices both appear rational under different principles of decision.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Rational choices can lead to conflicting outcomes.",
+    "tags": [
+      "prediction",
+      "free_will"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_prisoner",
+    "title": "Prisoner\u2019s Dilemma",
+    "hook": "Mutual defection is a dominant-strategy equilibrium but yields worse payoffs than mutual cooperation.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Cooperation can lead to better outcomes than self-interest.",
+    "tags": [
+      "cooperation",
+      "equilibrium"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_sleeping_beauty",
+    "title": "Sleeping Beauty Problem",
+    "hook": "Different updating rules yield conflicting credences for a repeated-awakening experiment.",
+    "domains": [
+      "philosophy",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Credence updates depend on the interpretation of the experiment.",
+    "tags": [
+      "selflocating_belief",
+      "probability"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_trolley",
+    "title": "Trolley Problem",
+    "hook": "Trading one life for many yields conflicting judgments across different intervention variants.",
+    "domains": [
+      "other"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Moral dilemmas reveal deep ethical conflicts.",
+    "tags": [
+      "killing_vs_letting_die",
+      "numbers"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_analysis",
+    "title": "Paradox of Analysis",
+    "hook": "Analyses must be both correct and informative, yet correctness seems to require synonymy.",
+    "domains": [
+      "philosophy"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "No analysis can satisfy both correctness and informativeness.",
+    "tags": [
+      "concepts",
+      "definitions"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_ravens",
+    "title": "Paradox of the Ravens",
+    "hook": "Observing a non-black non-raven appears to confirm \u2018All ravens are black.\u2019",
+    "domains": [
+      "other"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Evidence can mislead our understanding of generalizations.",
+    "tags": [
+      "confirmation",
+      "induction"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_gettier",
+    "title": "Gettier Paradoxes",
+    "hook": "Agents can have justified true belief without knowledge in cleverly constructed cases.",
+    "domains": [
+      "other"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Justified true belief does not guarantee knowledge.",
+    "tags": [
+      "knowledge",
+      "justified_true_belief"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_voting_general",
+    "title": "General Voting Paradoxes",
+    "hook": "Voting rules can lead to surprising and counterintuitive outcomes.",
+    "domains": [
+      "social_choice",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Voting systems can produce unexpected results.",
+    "tags": [
+      "voting",
+      "aggregation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_alabama",
+    "title": "Alabama Paradox",
+    "hook": "Increasing the total number of seats can cause a state to lose a seat under some apportionment rules.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Representation can yield counterintuitive results.",
+    "tags": [
+      "representation",
+      "rounding"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_population",
+    "title": "Population Paradox",
+    "hook": "A faster-growing state can lose a seat to a slower-growing state under certain apportionment methods.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Growth does not guarantee representation.",
+    "tags": [
+      "representation",
+      "growth"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_equity_premium",
+    "title": "Equity Premium Puzzle",
+    "hook": "Observed equity returns appear too high relative to standard risk-aversion calibrations.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "High equity returns challenge traditional risk models.",
+    "tags": [
+      "asset_pricing",
+      "risk_aversion"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_giffen",
+    "title": "Giffen Paradox",
+    "hook": "For some inferior goods, demand can rise when price rises because income effects dominate substitution effects.",
+    "domains": [
+      "economics",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Higher prices can increase demand for certain goods.",
+    "tags": [
+      "demand",
+      "income_effect"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_braess",
+    "title": "Braess\u2019s Paradox",
+    "hook": "Adding a new route to a traffic network can worsen travel times at equilibrium.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "More options can lead to worse outcomes.",
+    "tags": [
+      "traffic",
+      "equilibrium"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_free_choice",
+    "title": "Paradox of Free Choice",
+    "hook": "Disjunction introduction leads to contradictions in free choice scenarios.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Free choice can yield contradictory outcomes.",
+    "tags": [
+      "modal_logic",
+      "disjunction"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_entailment",
+    "title": "Paradox of Entailment",
+    "hook": "From a contradiction, classical logic derives every statement, making inconsistent theories trivial.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Inconsistent premises yield valid conclusions.",
+    "tags": [
+      "relevance_logic",
+      "inconsistency"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_lottery",
+    "title": "Lottery Paradox",
+    "hook": "Rationality requires believing each ticket loses but the conjunction that all lose is improbable.",
+    "domains": [
+      "other",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Probability can mislead rational belief.",
+    "tags": [
+      "belief",
+      "probability"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_yablo",
+    "title": "Yablo's Paradox",
+    "hook": "An infinite sequence of sentences leads to a contradiction without self-reference.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Infinite sequences can create paradoxes without self-reference.",
+    "tags": [
+      "selfreference",
+      "infinite"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_skolem",
+    "title": "Skolem's Paradox",
+    "hook": "Uncountable sets have countable models, challenging the absoluteness of countability.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Countability is not absolute in set theory.",
+    "tags": [
+      "model_theory",
+      "set_theory"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_richard",
+    "title": "Richard's Paradox",
+    "hook": "A real number defined in finite English words is claimed undefinable, contradicting arithmetic.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Definability can lead to contradictions in arithmetic.",
+    "tags": [
+      "definability",
+      "diagonalization"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_burali_forti",
+    "title": "Burali\u2013Forti Paradox",
+    "hook": "The set of all ordinals is an ordinal that does not contain itself.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Self-referential sets can lead to contradictions.",
+    "tags": [
+      "ordinals",
+      "set_theory"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_cantor",
+    "title": "Cantor's Paradox",
+    "hook": "The set of all sets has no cardinality because its power set is strictly larger.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "There is no greatest cardinal number.",
+    "tags": [
+      "cardinality",
+      "power_set"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_wang",
+    "title": "Wang's Paradox",
+    "hook": "Vague predicates like 'heap' lead to contradictions when considering boundary cases.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Vagueness can create logical inconsistencies.",
+    "tags": [
+      "vagueness",
+      "sorites"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_strengthened_liar",
+    "title": "Strengthened Liar Paradox",
+    "hook": "This sentence is not true challenges traditional truth definitions.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Truth can be more complex than binary definitions.",
+    "tags": [
+      "truth",
+      "selfreference"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_revenge_liar",
+    "title": "Revenge Liar Paradox",
+    "hook": "Even after assigning truth predicates to levels, a new liar sentence at the next level arises.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Truth predicates can lead to infinite regress.",
+    "tags": [
+      "truth_hierarchies"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_no_no",
+    "title": "No-No Paradox",
+    "hook": "The statement 'No one believes no one is infallible' leads to contradictions.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Ambiguities in belief statements can create paradoxes.",
+    "tags": [
+      "propositional_attitudes"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_horses",
+    "title": "All Horses are the Same Color",
+    "hook": "Flawed induction 'proves' all horses share one color by overlapping sets.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Induction can lead to incorrect conclusions.",
+    "tags": [
+      "induction",
+      "fallacy"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_knower",
+    "title": "Knower Paradox",
+    "hook": "This sentence is unknown leads to inconsistency.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Knowledge can lead to contradictions.",
+    "tags": [
+      "epistemic_logic",
+      "necessity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_hungarian",
+    "title": "Unexpected Hanging Paradox",
+    "hook": "A predicted surprise event cannot occur on any day, yet it does if unexpected.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Self-reference can create logical contradictions.",
+    "tags": [
+      "selfreference",
+      "prediction"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_preface",
+    "title": "Preface Paradox",
+    "hook": "An author believes all claims but also that errors exist.",
+    "domains": [
+      "other",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Belief can coexist with doubt about correctness.",
+    "tags": [
+      "belief_inconsistency"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_satisfaction",
+    "title": "Satisfaction Paradox",
+    "hook": "A self-referential definability issue in logic.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Self-reference can lead to definitional contradictions.",
+    "tags": [
+      "heterological",
+      "predication"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_self_absorption",
+    "title": "Self-Absorption Paradox",
+    "hook": "Expected utility calculations become circular when agent models their own deliberation.",
+    "domains": [
+      "decision_theory",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Self-awareness can lead to conflicting outcomes in decision-making.",
+    "tags": [
+      "selfreference",
+      "utility"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_rule_following",
+    "title": "Rule-Following Paradox",
+    "hook": "No fact about past behavior determines uniquely how to follow a rule like 'plus'.",
+    "domains": [
+      "philosophy",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Rules do not uniquely determine actions.",
+    "tags": [
+      "meaning",
+      "wittgenstein"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_heterological",
+    "title": "Heterological Paradox",
+    "hook": "Is 'heterological' (true of words not describing themselves) heterological?",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Self-reference can lead to contradictory conclusions.",
+    "tags": [
+      "predication",
+      "selfreference"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_kr_puzzle",
+    "title": "KR Paradox",
+    "hook": "Knowledge requires justified true belief, but justification loops create regress.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Justification can lead to infinite regress.",
+    "tags": [
+      "knowability",
+      "modal"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_two_envelope_variant",
+    "title": "Variant Two-Envelope Paradoxes",
+    "hook": "Explore the infinite descent in envelope switching with self-referential amounts.",
+    "domains": [
+      "logic",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Self-reference can lead to paradoxical reasoning.",
+    "tags": [
+      "selfreference",
+      "probability"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_omniscience",
+    "title": "Omniscience Paradox",
+    "hook": "Can an omniscient being know contingent future choices without determining them?",
+    "domains": [
+      "philosophy",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "The nature of knowledge and free will is complex.",
+    "tags": [
+      "theology",
+      "knowledge"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_validity",
+    "title": "Validity Paradox",
+    "hook": "Valid arguments preserve truth, but soundness requires checking premises.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Soundness requires more than validity.",
+    "tags": [
+      "metalogic"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_boy_girl",
+    "title": "Boy or Girl Paradox",
+    "hook": "Probability of boy given at least one boy changes based on sampling assumptions.",
+    "domains": [
+      "probability",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Conditional probabilities can be counterintuitive.",
+    "tags": [
+      "conditional",
+      "family"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_borel_kolmogorov",
+    "title": "Borel\u2013Kolmogorov Paradox",
+    "hook": "Conditional probabilities on sets of measure zero depend on the conditioning method.",
+    "domains": [
+      "probability"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Conditioning affects probability outcomes.",
+    "tags": [
+      "conditional",
+      "measure_zero"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_borel",
+    "title": "Borel's Paradox",
+    "hook": "Conditional densities on the circle depend on coordinate choice despite rotational invariance.",
+    "domains": [
+      "probability"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Coordinate choices affect probability densities.",
+    "tags": [
+      "coordinate_dependence"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_false_positive",
+    "title": "False Positive Paradox",
+    "hook": "Low-prevalence conditions make positive tests mostly false positives even with good accuracy.",
+    "domains": [
+      "statistics",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "High accuracy doesn't guarantee true positives in low-prevalence scenarios.",
+    "tags": [
+      "bayes",
+      "diagnostics"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_proebsting",
+    "title": "Proebsting's Paradox",
+    "hook": "Hedging with options can reverse risk attitudes compared to underlying bets.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Risk management strategies can backfire unexpectedly.",
+    "tags": [
+      "options",
+      "expected_value"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_will_rogers",
+    "title": "Will Rogers Phenomenon",
+    "hook": "Moving an element from one group to another can increase both group averages.",
+    "domains": [
+      "statistics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Averages can be misleading when groups are combined.",
+    "tags": [
+      "averages",
+      "transfer"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_ant_rope",
+    "title": "Ant on a Rubber Rope",
+    "hook": "Ant reaches end of stretching rope despite constant speed ratio less than 1.",
+    "domains": [
+      "mathematics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Infinity can lead to counterintuitive results.",
+    "tags": [
+      "infinity",
+      "convergence"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_hausdorff",
+    "title": "Hausdorff Paradox",
+    "hook": "Sphere can be partitioned into non-measurable sets with paradoxical properties.",
+    "domains": [
+      "mathematics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Non-measurable sets challenge our understanding of volume.",
+    "tags": [
+      "sphere",
+      "equidecomposability"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_hooper",
+    "title": "Hooper's Paradox",
+    "hook": "Rearranging pieces preserves area but creates visual volume illusion.",
+    "domains": [
+      "mathematics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Visual perception can mislead despite mathematical truths.",
+    "tags": [
+      "area_preservation",
+      "dissection"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_nikodym",
+    "title": "Nikodym Set",
+    "hook": "Set simultaneously measure-zero and measure-positive in different senses.",
+    "domains": [
+      "mathematics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Measure can be counterintuitive in certain sets.",
+    "tags": [
+      "measure_paradox"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_galileo",
+    "title": "Galileo's Paradox",
+    "hook": "Infinitely many squares but more non-squares challenges intuitive counting.",
+    "domains": [
+      "mathematics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Infinity can defy our intuitive understanding of size.",
+    "tags": [
+      "infinity",
+      "perfect_numbers"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_accuracy",
+    "title": "Accuracy Paradox",
+    "hook": "High accuracy classifier performs poorly on imbalanced data.",
+    "domains": [
+      "statistics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Accuracy can be misleading in imbalanced datasets.",
+    "tags": [
+      "classification",
+      "imbalance"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_buffon",
+    "title": "Buffon's Needle Paradox",
+    "hook": "Needle crossings estimate pi but counterintuitive for small angles.",
+    "domains": [
+      "probability"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Randomness can yield precise mathematical constants.",
+    "tags": [
+      "geometric_probability"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_sleeping_beauty_third",
+    "title": "Thirders in Sleeping Beauty",
+    "hook": "Debate between halfers and thirders on credence upon awakening.",
+    "domains": [
+      "probability",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Understanding self-locating beliefs impacts decision-making.",
+    "tags": [
+      "selflocating",
+      "anthropic"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_doomsday",
+    "title": "Doomsday Argument",
+    "hook": "Our birth rank suggests humanity nears end given uniform birth distribution.",
+    "domains": [
+      "probability",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Our position in time can skew our perception of future events.",
+    "tags": [
+      "selfsampling",
+      "anthropic"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_ross_littlewood",
+    "title": "Ross-Littlewood Paradox",
+    "hook": "Infinite ball-adding/removal leaves empty vase despite net addition.",
+    "domains": [
+      "mathematics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Infinity can lead to counterintuitive results.",
+    "tags": [
+      "supertask",
+      "infinity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_galton_board",
+    "title": "Galton Board Paradox",
+    "hook": "Local randomness produces global bell curve pattern.",
+    "domains": [
+      "probability"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Random processes can lead to predictable outcomes.",
+    "tags": [
+      "binomial",
+      "emergence"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_friendship",
+    "title": "Friendship Paradox",
+    "hook": "Average person's friends have more friends than average.",
+    "domains": [
+      "statistics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Your friends likely have more friends than you do.",
+    "tags": [
+      "networks",
+      "averages"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_inspection",
+    "title": "Inspection Paradox",
+    "hook": "Randomly arriving observers see longer intervals than average interval length.",
+    "domains": [
+      "statistics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Random sampling can distort perceived averages.",
+    "tags": [
+      "renewal",
+      "length_bias"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_google",
+    "title": "Google Interviews Paradox",
+    "hook": "Probability of being most awake in room of sleep-deprived equals 1/n.",
+    "domains": [
+      "probability"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Awareness of group dynamics can skew perceptions of performance.",
+    "tags": [
+      "sleep_deprivation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_100_prisoners",
+    "title": "100 Prisoners Problem",
+    "hook": "Optimal hat-guessing strategy saves most prisoners with high probability.",
+    "domains": [
+      "probability",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Collaboration can enhance individual chances of success.",
+    "tags": [
+      "information",
+      "strategy"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_three_prisoners",
+    "title": "Three Prisoners Problem",
+    "hook": "Warden's statement changes survival probabilities counterintuitively.",
+    "domains": [
+      "probability",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Conditional probabilities can defy intuition.",
+    "tags": [
+      "conditional",
+      "information"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_sleeping_beauty_quarterer",
+    "title": "Quarterer Position",
+    "hook": "Extreme position claiming 1/4 credence in Sleeping Beauty experiment.",
+    "domains": [
+      "probability",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Credence can be counterintuitive in self-locating beliefs.",
+    "tags": [
+      "selflocating",
+      "anthropics"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_sleeper",
+    "title": "Sleeper Paradox",
+    "hook": "Optimal betting strategy differs from credence due to repeated awakenings.",
+    "domains": [
+      "probability",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Awareness of repeated sampling impacts decision-making.",
+    "tags": [
+      "repeated_sampling"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_bertrand_ray",
+    "title": "Bertrand's Ray Paradox",
+    "hook": "Different ray selection methods from sphere center yield different probabilities.",
+    "domains": [
+      "probability"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Selection methods can drastically affect outcomes.",
+    "tags": [
+      "geometric",
+      "rays"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_margolus",
+    "title": "Margolus-Levitin Theorem Paradox",
+    "hook": "Quantum state change bounded by average energy, counterintuitive for computation.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Energy limits quantum state changes.",
+    "tags": [
+      "quantum_computation",
+      "energy"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_earman_baron",
+    "title": "Earman-Baron Supertask",
+    "hook": "Infinite process converges differently depending on time parameterization.",
+    "domains": [
+      "mathematics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Time parameterization affects convergence in infinite processes.",
+    "tags": [
+      "infinity",
+      "limits"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_pisa",
+    "title": "Leaning Tower of Pisa Paradox",
+    "hook": "Heavier objects fall faster myth debunked by simultaneous drop experiment.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intro",
+    "paradox_type": "veridical",
+    "key_lesson": "All objects fall at the same rate in a vacuum.",
+    "tags": [
+      "falling_bodies",
+      "galileo"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_achilles_arrow",
+    "title": "Achilles and Arrow Paradox",
+    "hook": "Arrow at rest at every instant appears unable to move.",
+    "domains": [
+      "philosophy"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Motion can be counterintuitive.",
+    "tags": [
+      "zeno",
+      "motion"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_stadium",
+    "title": "Stadium Paradox",
+    "hook": "Zeno's argument about bodies passing each other in stadium.",
+    "domains": [
+      "philosophy"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Motion can be counterintuitive.",
+    "tags": [
+      "zeno",
+      "relativity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_traveler",
+    "title": "Traveler's Dilemma",
+    "hook": "Rational play predicts lowest payoffs despite mutual benefit from higher choices.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Cooperation can lead to better outcomes than rational self-interest.",
+    "tags": [
+      "nash_equilibrium",
+      "cooperation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_centipede",
+    "title": "Centipede Game",
+    "hook": "Backward induction predicts early termination despite long-term mutual gain.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Rational choices can lead to suboptimal outcomes.",
+    "tags": [
+      "backward_induction",
+      "cooperation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_dollar_auction",
+    "title": "Dollar Auction",
+    "hook": "Bidders escalate beyond rational limits due to sunk costs.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Sunk costs can lead to irrational decision-making.",
+    "tags": [
+      "sunk_cost",
+      "escalation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_free_riding",
+    "title": "Free Rider Paradox",
+    "hook": "Individuals benefit from collective goods without contributing, underproviding the good.",
+    "domains": [
+      "economics",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Collective action often fails due to individual incentives.",
+    "tags": [
+      "public_goods",
+      "collective_action"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_secretary",
+    "title": "Secretary Problem Paradox",
+    "hook": "Optimal strategy rejects first 37% then takes first better candidate, counterintuitive.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Optimal stopping can yield surprising results.",
+    "tags": [
+      "search",
+      "timing"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_pascal_wager",
+    "title": "Pascal's Wager",
+    "hook": "Infinite reward for belief makes wagering on God rational regardless of probability.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Rationality can lead to belief based on potential infinite outcomes.",
+    "tags": [
+      "expected_utility",
+      "infinite_reward"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_buridan",
+    "title": "Buridan's Ass",
+    "hook": "Perfectly equal options paralyze rational choice despite clear preferences.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Indecision can arise from equally appealing choices.",
+    "tags": [
+      "indifference",
+      "inaction"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_spoiler",
+    "title": "Spoiler Effect",
+    "hook": "Third candidate splits vote causing preferred candidate to lose.",
+    "domains": [
+      "social_choice",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Vote splitting can lead to unintended outcomes.",
+    "tags": [
+      "voting",
+      "third_candidates"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_borda",
+    "title": "Borda Count Paradox",
+    "hook": "Rank-order voting vulnerable to strategic misrepresentation of preferences.",
+    "domains": [
+      "social_choice",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Voting systems can lead to unexpected outcomes.",
+    "tags": [
+      "voting",
+      "strategic"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_monotonicity",
+    "title": "Monotonicity Criterion Failure",
+    "hook": "Increasing support for candidate can cause them to lose under some systems.",
+    "domains": [
+      "social_choice",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Support can backfire in certain voting systems.",
+    "tags": [
+      "voting",
+      "nonmonotonicity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_bellman_ford",
+    "title": "Bellman-Ford Paradox",
+    "hook": "Optimal policy differs from myopic expected value maximization.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Optimal decisions can contradict short-term gains.",
+    "tags": [
+      "dynamic_programming",
+      "risk"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_rabin",
+    "title": "Rabin Paradox",
+    "hook": "Observed risk aversion for small stakes implies absurd behavior for large stakes.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Risk aversion can lead to irrational decisions.",
+    "tags": [
+      "risk_aversion",
+      "small_stakes"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_st_petersburg_resolved",
+    "title": "St. Petersburg Paradox Resolutions",
+    "hook": "Logarithmic utility or probability adjustments resolve infinite expectation.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Utility can be bounded to resolve paradoxes.",
+    "tags": [
+      "utility",
+      "bounded"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_elliptic",
+    "title": "Elliptic Envelope Paradox",
+    "hook": "Maxmin expected utility handles ambiguity but leads to over-cautiousness.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Over-cautiousness can hinder optimal decision-making.",
+    "tags": [
+      "ambiguity",
+      "multiple_priors"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_savage",
+    "title": "Savage's Paradox",
+    "hook": "Dutch book arguments force subjective probabilities matching objective frequencies.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Subjective probabilities must align with objective frequencies.",
+    "tags": [
+      "subjective_probability"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_kyburg",
+    "title": "Kyburg's Lottery Paradox Variant",
+    "hook": "High probability beliefs cannot be conjoined for acceptance.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "High probabilities can mislead acceptance.",
+    "tags": [
+      "belief",
+      "acceptance"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_hindsight",
+    "title": "Hindsight Bias Paradox",
+    "hook": "Post-event probabilities exceed pre-event despite Bayesian updating.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Our memories distort probabilities after events occur.",
+    "tags": [
+      "updating",
+      "overconfidence"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_availability_cascade",
+    "title": "Availability Cascade Paradox",
+    "hook": "Repeated low-probability warnings create false consensus.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Beware of consensus formed by repeated misinformation.",
+    "tags": [
+      "heuristics",
+      "social_amplification"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_groupthink",
+    "title": "Groupthink Paradox",
+    "hook": "Group discussion shifts toward extreme rather than moderate positions.",
+    "domains": [
+      "social_choice",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Consensus can lead to poor decision-making.",
+    "tags": [
+      "deliberation",
+      "polarization"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_abilene",
+    "title": "Abilene Paradox",
+    "hook": "Group pursues unwanted outcome because all assume others want it.",
+    "domains": [
+      "social_choice",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Assumptions about others' preferences can lead to collective misdecision.",
+    "tags": [
+      "coordination",
+      "preference_falsification"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_social_loafing",
+    "title": "Social Loafing Paradox",
+    "hook": "Individuals exert less effort in groups despite shared responsibility.",
+    "domains": [
+      "social_choice",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Group settings can reduce individual motivation.",
+    "tags": [
+      "effort",
+      "group_size"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_tragedy_commons",
+    "title": "Tragedy of the Commons",
+    "hook": "Individually rational resource use leads to collective ruin.",
+    "domains": [
+      "economics",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Collective action problems can lead to resource depletion.",
+    "tags": [
+      "externalities",
+      "overuse"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_envelope_game",
+    "title": "Envelope Game Paradox",
+    "hook": "Sealed bid auction where higher bid wins but pays own bid creates no-trade theorem.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Bidding strategies can lead to paradoxical outcomes.",
+    "tags": [
+      "information_asymmetry"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_matching_pennies",
+    "title": "Matching Pennies Paradox",
+    "hook": "Pure strategies fail; requires randomization for equilibrium.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Randomization is essential in zero-sum games.",
+    "tags": [
+      "zerosum",
+      "mixed_strategy"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_rock_paper",
+    "title": "Rock-Paper-Scissors Paradox",
+    "hook": "Cyclic dominance requires mixed strategy equilibrium.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Mixed strategies can lead to unexpected outcomes.",
+    "tags": [
+      "cyclic_preferences",
+      "nash"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_chainstore",
+    "title": "Chainstore Paradox",
+    "hook": "Backward induction unravels cooperation despite reputation concerns.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Reputation does not guarantee cooperation in repeated games.",
+    "tags": [
+      "reputation",
+      "repeated_games"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_finite_repeated_pd",
+    "title": "Finite Repeated Prisoner's Dilemma",
+    "hook": "Known finite horizon unravels cooperation backward from last round.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Finite games can lead to non-cooperative outcomes.",
+    "tags": [
+      "backward_induction",
+      "cooperation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_infinitely_repeated",
+    "title": "Infinitely Repeated Games Paradox",
+    "hook": "Discounted infinite horizon sustains cooperation as equilibria.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Cooperation can emerge in repeated interactions.",
+    "tags": [
+      "folk_theorem",
+      "cooperation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_paradoxical_bargaining",
+    "title": "Paradoxical Bargaining",
+    "hook": "Equal split emerges despite strategic incentives for unequal offers.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Fairness can lead to unexpected outcomes in negotiations.",
+    "tags": [
+      "ultimatum",
+      "fairness"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_volunteer's_dilemma",
+    "title": "Volunteer's Dilemma",
+    "hook": "Someone must act for group benefit but all prefer inaction.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Collective action often requires individual sacrifice.",
+    "tags": [
+      "threshold_public_goods"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_minority_game",
+    "title": "Minority Game Paradox",
+    "hook": "Simple coordination game produces complex market-like dynamics.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Individual choices can lead to collective unpredictability.",
+    "tags": [
+      "complexity",
+      "emergence"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_el_farquhar",
+    "title": "El Farol Bar Paradox",
+    "hook": "Predicting others' attendance creates self-defeating prophecies.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Overconfidence in predictions can lead to failure.",
+    "tags": [
+      "bounded_rationality",
+      "prediction"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_keynesian_beauty",
+    "title": "Keynesian Beauty Contest",
+    "hook": "Success requires predicting others' predictions iteratively.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Anticipating others' choices is crucial for success.",
+    "tags": [
+      "higherorder_beliefs"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_moral_maze",
+    "title": "Moral Maze Paradox",
+    "hook": "Same action judged differently based on causal description.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Judgments can vary based on framing.",
+    "tags": [
+      "trolley_variants",
+      "framing"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_omission_bias",
+    "title": "Omission Bias Paradox",
+    "hook": "Inaction preferred despite worse expected outcomes compared to action.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Inaction can lead to worse consequences than taking action.",
+    "tags": [
+      "action_vs_inaction"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_ehrenfest",
+    "title": "Ehrenfest Paradox",
+    "hook": "Rotating disk in special relativity has circumference contraction but radius dilation.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Relativity challenges our intuitive understanding of geometry.",
+    "tags": [
+      "relativity",
+      "rotation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_ladder",
+    "title": "Ladder Paradox",
+    "hook": "Ladder fits in shorter barn due to relativity of simultaneity.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intro",
+    "paradox_type": "veridical",
+    "key_lesson": "Relativity alters our perception of simultaneity.",
+    "tags": [
+      "relativity",
+      "simultaneity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_bell_spaceship",
+    "title": "Bell's Spaceship Paradox",
+    "hook": "Uniformly accelerating spaceships create string-breaking tension.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Acceleration affects the tension in a connecting string.",
+    "tags": [
+      "relativity",
+      "acceleration"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_trouton_noble",
+    "title": "Trouton\u2013Noble Paradox",
+    "hook": "Charged capacitor should experience torque when moving but doesn't.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Motion does not always produce expected forces.",
+    "tags": [
+      "relativity",
+      "torque"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_pole_barn",
+    "title": "Pole-Barn Paradox",
+    "hook": "Fast pole fits in slow barn but doors can't close simultaneously.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Relativity affects measurements of length and time.",
+    "tags": [
+      "relativity",
+      "length_contraction"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_einstein_box",
+    "title": "Einstein's Box Paradox",
+    "hook": "Relativistic energy transfer appears to violate conservation locally.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Energy conservation can seem violated in relativistic contexts.",
+    "tags": [
+      "relativity",
+      "energymomentum"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_stapp",
+    "title": "Stapp's Paradox",
+    "hook": "Quantum measurement requires conscious observer creating observer-dependence.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Observation influences quantum outcomes.",
+    "tags": [
+      "quantum",
+      "consciousness"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_schr\u00f6dinger_cat",
+    "title": "Schr\u00f6dinger's Cat",
+    "hook": "Cat in superposition of alive/dead challenges quantum-classical boundary.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Observation affects quantum states.",
+    "tags": [
+      "quantum_superposition",
+      "macroscopic"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_wigner_friend",
+    "title": "Wigner's Friend Paradox",
+    "hook": "Friend measures outcome while Wigner sees superposition of friend+system.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Measurement affects reality in quantum mechanics.",
+    "tags": [
+      "quantum",
+      "relativity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_hardest_problem",
+    "title": "Quantum Hardest Problem",
+    "hook": "Born rule probabilities unexplained in Everettian quantum mechanics.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "advanced",
+    "paradox_type": "falsidical",
+    "key_lesson": "Understanding quantum mechanics requires reconciling probabilities.",
+    "tags": [
+      "manyworlds",
+      "probability"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_black_hole_firewall",
+    "title": "Black Hole Firewall Paradox",
+    "hook": "Horizon either destroys information (firewall) or violates equivalence principle.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "advanced",
+    "paradox_type": "falsidical",
+    "key_lesson": "Information preservation challenges our understanding of black holes.",
+    "tags": [
+      "quantum_gravity",
+      "information"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_AMPS",
+    "title": "AMPS Paradox",
+    "hook": "Firewall argument from monogamy of entanglement at black hole horizons.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "advanced",
+    "paradox_type": "falsidical",
+    "key_lesson": "Entanglement challenges our understanding of black holes.",
+    "tags": [
+      "black_hole",
+      "entanglement"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_pool_table",
+    "title": "Pool Table Paradox",
+    "hook": "Ball stops due to friction despite Newton's first law intuition.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Friction can cause motion to cease contrary to expectations.",
+    "tags": [
+      "classical_mechanics",
+      "friction"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_feather_hammer",
+    "title": "Feather-Hammer Paradox",
+    "hook": "Feather and hammer fall together in vacuum, contradicting air intuition.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intro",
+    "paradox_type": "veridical",
+    "key_lesson": "Gravity affects all objects equally in a vacuum.",
+    "tags": [
+      "vacuum",
+      "equivalence_principle"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_rocket",
+    "title": "Relativistic Rocket Paradox",
+    "hook": "Constant proper acceleration yields hyperbolic motion trajectory.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Acceleration affects time perception in relativity.",
+    "tags": [
+      "proper_acceleration",
+      "time_dilation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_tachyonic",
+    "title": "Tachyonic Antitelephone",
+    "hook": "Faster-than-light signaling enables sending messages to past.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Causality can be violated with faster-than-light communication.",
+    "tags": [
+      "causality",
+      "fasterthanlight"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_superdeterminism",
+    "title": "Superdeterminism Paradox",
+    "hook": "Correlations explained by predetermined measurement choices.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Measurement choices can influence outcomes.",
+    "tags": [
+      "bell",
+      "hidden_variables"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_boiling_freezing",
+    "title": "Boiling-Freezing Paradox",
+    "hook": "Water can boil and freeze simultaneously at triple point.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "States of matter can coexist under specific conditions.",
+    "tags": [
+      "thermodynamics",
+      "triple_point"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_diamond_battery",
+    "title": "Diamond Battery Paradox",
+    "hook": "Carbon-14 diamonds generate electricity for 5700+ years.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Longevity of radioactive materials can be harnessed.",
+    "tags": [
+      "radioactivity",
+      "longevity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_levitating_water",
+    "title": "Levitating Water Paradox",
+    "hook": "Acoustic levitation suspends water droplets defying gravity.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Sound waves can manipulate fluid behavior.",
+    "tags": [
+      "fluid_dynamics",
+      "sound"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_bernoulli",
+    "title": "Bernoulli's Paradox",
+    "hook": "Faster flow implies lower pressure counterintuitive for lift.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Fluid speed and pressure are inversely related.",
+    "tags": [
+      "fluid_dynamics",
+      "paradoxical_flow"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_coanda",
+    "title": "Coand\u0103 Effect Paradox",
+    "hook": "Fluid streams follow curved surfaces defying straight-line expectation.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Curved paths can influence fluid behavior unexpectedly.",
+    "tags": [
+      "fluid_adhesion",
+      "surface"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_magnus",
+    "title": "Magnus Effect Paradox",
+    "hook": "Spinning sphere curves trajectory due to pressure differences.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Understanding how spin affects motion.",
+    "tags": [
+      "spin",
+      "lift"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_gyroscope",
+    "title": "Gyroscope Paradox",
+    "hook": "Spinning wheel resists tilt and precesses unexpectedly.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Angular momentum leads to counterintuitive behavior.",
+    "tags": [
+      "angular_momentum",
+      "precession"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_tensegrity",
+    "title": "Tensegrity Paradox",
+    "hook": "Floating compression members appear structurally impossible.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Stability can arise from seemingly contradictory structures.",
+    "tags": [
+      "structural_stability",
+      "compression"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_superfluid",
+    "title": "Superfluid Paradox",
+    "hook": "Liquid helium flows without viscosity defying classical friction.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Superfluidity challenges classical physics concepts.",
+    "tags": [
+      "quantum_fluid",
+      "zero_viscosity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_bec",
+    "title": "Bose-Einstein Condensate Paradox",
+    "hook": "Macroscopic quantum wavefunction at near-absolute zero.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Quantum effects can manifest on macroscopic scales.",
+    "tags": [
+      "quantum_degeneracy",
+      "macroscopic"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_casimir",
+    "title": "Casimir Effect Paradox",
+    "hook": "Vacuum fluctuations create measurable attractive force between plates.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Quantum fluctuations can have real physical effects.",
+    "tags": [
+      "quantum_vacuum",
+      "force"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_aharonov_bohm",
+    "title": "Aharonov-Bohm Effect",
+    "hook": "Electrons affected by magnetic field where field is zero.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Quantum effects can arise from potentials, not just fields.",
+    "tags": [
+      "quantum_phase",
+      "vector_potential"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_hawking_radiation",
+    "title": "Hawking Radiation Paradox",
+    "hook": "Virtual particles become real near horizon, causing black hole mass loss.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Black holes can emit radiation and lose mass.",
+    "tags": [
+      "black_hole_evaporation",
+      "quantum"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_time_crystal",
+    "title": "Time Crystal Paradox",
+    "hook": "Spontaneous time-translation symmetry breaking without energy input.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Time crystals challenge our understanding of energy and motion.",
+    "tags": [
+      "periodic_motion",
+      "no_energy"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_hydraulic_jump",
+    "title": "Hydraulic Jump Paradox",
+    "hook": "Slow shallow flow jumps to fast deep flow counterintuitively.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Fluid flow can behave unexpectedly under certain conditions.",
+    "tags": [
+      "fluid_dynamics",
+      "shock_wave"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_venturi",
+    "title": "Venturi Paradox",
+    "hook": "Narrowing pipe increases speed, decreases pressure unexpectedly.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Fluid behavior defies intuitive expectations.",
+    "tags": [
+      "fluid_dynamics",
+      "pressure"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_standing_wave",
+    "title": "Standing Wave Paradox",
+    "hook": "Stationary pattern emerges from moving wave superposition.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Motion can create stationary patterns.",
+    "tags": [
+      "wave_interference",
+      "energy"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_grim_reaper",
+    "title": "Grim Reaper Paradox",
+    "hook": "Infinite grim reapers prevent death yet person survives, challenging supertask convergence.",
+    "domains": [
+      "philosophy",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Infinity can lead to contradictory outcomes.",
+    "tags": [
+      "supertasks",
+      "probability"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_theseus",
+    "title": "Ship of Theseus",
+    "hook": "A ship gradually replaced plank by plank raises questions about numerical identity over time.",
+    "domains": [
+      "philosophy"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Identity can be complex and context-dependent.",
+    "tags": [
+      "identity",
+      "change"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_teletransporter",
+    "title": "Teletransporter Paradox",
+    "hook": "Body destroyed and rebuilt elsewhere: is it you or copy?",
+    "domains": [
+      "philosophy",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Identity may not survive physical duplication.",
+    "tags": [
+      "personal_identity",
+      "duplication"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_spectrum",
+    "title": "Spectrum Argument",
+    "hook": "Continuous color change creates Sorites paradox for boundaries.",
+    "domains": [
+      "philosophy",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Vagueness can lead to paradoxical conclusions.",
+    "tags": [
+      "sorites",
+      "vagueness"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_tomorrow",
+    "title": "Paradox of Tomorrow",
+    "hook": "Future events neither true nor false yet appear determinable.",
+    "domains": [
+      "philosophy",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Future events can be uncertain and yet seem predictable.",
+    "tags": [
+      "future_contingents"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_fib",
+    "title": "Fibonacci Heap Paradox",
+    "hook": "Worst-case operations amortized to logarithmic despite pathological cases.",
+    "domains": [
+      "computer_science"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Amortized analysis can yield surprising results.",
+    "tags": [
+      "amortized_analysis"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_zombie",
+    "title": "Philosophical Zombie Paradox",
+    "hook": "Conceivable beings physically identical but unconscious challenge physicalism.",
+    "domains": [
+      "philosophy",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Consciousness may not be fully explained by physical processes.",
+    "tags": [
+      "consciousness",
+      "qualia"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_mary_room",
+    "title": "Mary's Room Paradox",
+    "hook": "Neuroscientist knowing all physics of color learns new upon seeing red.",
+    "domains": [
+      "philosophy",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Knowledge isn't just physical facts.",
+    "tags": [
+      "qualia",
+      "physicalism"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_chinese_room",
+    "title": "Chinese Room Paradox",
+    "hook": "Person following Chinese rules lacks understanding despite perfect output.",
+    "domains": [
+      "philosophy",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Syntax does not imply understanding.",
+    "tags": [
+      "ai",
+      "understanding"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_swampman",
+    "title": "Swampman Paradox",
+    "hook": "Lightning-created duplicate lacks intentional states despite identical behavior.",
+    "domains": [
+      "philosophy",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Identity does not guarantee intentionality.",
+    "tags": [
+      "intentionality",
+      "teleology"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_boltzmann_brain",
+    "title": "Boltzmann Brain Paradox",
+    "hook": "Fluctuation brains more likely than ordered observers in thermal equilibrium.",
+    "domains": [
+      "other",
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Random fluctuations can lead to improbable events.",
+    "tags": [
+      "thermodynamics",
+      "probability"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_simpson_decision",
+    "title": "Simpson's Paradox in Decisions",
+    "hook": "Optimal subgroup choices aggregate to suboptimal overall.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Aggregate data can mislead decision-making.",
+    "tags": [
+      "aggregation",
+      "choice"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_utility_monster",
+    "title": "Utility Monster Paradox",
+    "hook": "Can one person's extreme happiness justify taking from others?",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Extreme utility for one can lead to unfair resource distribution.",
+    "tags": [
+      "utilitarianism",
+      "distribution"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_repugnant_conclusion",
+    "title": "Repugnant Conclusion Paradox",
+    "hook": "Total utilitarianism implies barely worth living lives preferable to quality.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Quality of life can be overshadowed by sheer quantity.",
+    "tags": [
+      "population_ethics"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_wirehead",
+    "title": "Wirehead Paradox",
+    "hook": "Direct reward stimulation preferred over goal achievement.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Pursuing direct rewards can undermine long-term goals.",
+    "tags": [
+      "reward_hacking",
+      "ai_alignment"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_pygmalion",
+    "title": "Pygmalion Paradox",
+    "hook": "Higher expectations create better performance, self-fulfilling.",
+    "domains": [
+      "psychology",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Expectations can shape outcomes significantly.",
+    "tags": [
+      "expectation",
+      "performance"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_placebo",
+    "title": "Placebo Paradox",
+    "hook": "Inactive treatment works through belief despite no mechanism.",
+    "domains": [
+      "other"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Belief can influence health outcomes.",
+    "tags": [
+      "expectation",
+      "biology"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_no_miracles",
+    "title": "No Miracles Argument Paradox",
+    "hook": "Success of science inexplicable without approximate truth.",
+    "domains": [
+      "other",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Scientific success suggests a close relationship to truth.",
+    "tags": [
+      "scientific_realism"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_pessimistic_induction",
+    "title": "Pessimistic Meta-Induction",
+    "hook": "Past successful theories false implies current theories approximate.",
+    "domains": [
+      "other",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Historical theories often fail, questioning current ones.",
+    "tags": [
+      "theory_change"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_simulacra",
+    "title": "Simulacra and Simulation Paradox",
+    "hook": "Representations replace reality until no distinction remains.",
+    "domains": [
+      "philosophy",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Reality can be obscured by its representations.",
+    "tags": [
+      "hyperreality",
+      "representation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_uncertainty_principle",
+    "title": "Uncertainty Principle Paradox",
+    "hook": "Precision in position destroys momentum knowledge.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Measurement affects the system being measured.",
+    "tags": [
+      "quantum",
+      "measurement"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_observer_effect",
+    "title": "Observer Effect Paradox",
+    "hook": "Observation alters quantum system state fundamentally.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Observation impacts quantum systems.",
+    "tags": [
+      "quantum",
+      "measurement"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_double_slit",
+    "title": "Double Slit Paradox",
+    "hook": "Particles create interference alone, behave as particles when observed.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Observation affects particle behavior.",
+    "tags": [
+      "waveparticle_duality"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_delayed_choice",
+    "title": "Delayed Choice Paradox",
+    "hook": "Future measurement choice affects past particle behavior.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Observation influences reality in quantum mechanics.",
+    "tags": [
+      "quantum",
+      "retrocausality"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_which_way",
+    "title": "Which-Way Paradox",
+    "hook": "Path information destroys interference pattern.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Observation affects quantum systems.",
+    "tags": [
+      "quantum",
+      "complementarity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_epistemic",
+    "title": "Epistemic Paradoxes General",
+    "hook": "Infinite regress, circularity, or foundationalism all problematic for knowledge.",
+    "domains": [
+      "other",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Understanding knowledge limits reveals deeper philosophical issues.",
+    "tags": [
+      "justification",
+      "regress"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_m\u00fcnchhausen",
+    "title": "M\u00fcnchhausen Trilemma",
+    "hook": "All justification faces regress, circularity, or axiomatic stopping.",
+    "domains": [
+      "other",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Justification in knowledge is inherently problematic.",
+    "tags": [
+      "justification",
+      "circularity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_pyrrhonian",
+    "title": "Pyrrhonian Skepticism Paradox",
+    "hook": "Suspension of belief justified by reasons undercuts justification.",
+    "domains": [
+      "philosophy",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Skepticism can undermine its own justification.",
+    "tags": [
+      "agrippan",
+      "modes"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_self_defeating",
+    "title": "Self-Defeating Belief Paradox",
+    "hook": "Beliefs whose content contradicts their rational holding.",
+    "domains": [
+      "other",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Not all beliefs can be rationally held.",
+    "tags": [
+      "moore",
+      "practical"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_access",
+    "title": "Access Paradox",
+    "hook": "Unconscious justification incompatible with conscious access.",
+    "domains": [
+      "other",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Conscious access can mislead our understanding of justification.",
+    "tags": [
+      "justification",
+      "consciousness"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_new_evil_demon",
+    "title": "New Evil Demon Paradox",
+    "hook": "Demon-induced true beliefs lack justification despite reliability.",
+    "domains": [
+      "other",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Reliability does not guarantee justification.",
+    "tags": [
+      "reliabilism",
+      "internalism"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_lotus_eater",
+    "title": "Lotus Eater Paradox",
+    "hook": "Pleasure without reality preferred? Challenges hedonism.",
+    "domains": [
+      "other",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Pleasure may not equate to true happiness.",
+    "tags": [
+      "experience_machine",
+      "wellbeing"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_sisyphus",
+    "title": "Sisyphus Happiness Paradox",
+    "hook": "Happiness possible despite eternal futile labor.",
+    "domains": [
+      "philosophy"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Finding joy in struggle can lead to fulfillment.",
+    "tags": [
+      "absurdity",
+      "meaning"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_existential",
+    "title": "Existential Paradox",
+    "hook": "Radical freedom creates burden of absolute responsibility.",
+    "domains": [
+      "philosophy",
+      "logic",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "antinomy",
+    "key_lesson": "Freedom entails responsibility, leading to existential dilemmas.",
+    "tags": [
+      "freedom",
+      "responsibility"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_nihilism",
+    "title": "Nihilism Paradox",
+    "hook": "No meaning implies search for meaning is absurd.",
+    "domains": [
+      "philosophy",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Searching for meaning can be inherently absurd.",
+    "tags": [
+      "meaning",
+      "absurdity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_painters",
+    "title": "Painter\u2019s Paradox",
+    "hook": "Painting infinitely many stripes or regions in finite area challenges intuition about measure.",
+    "domains": [
+      "mathematics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Infinity can exist within finite bounds.",
+    "tags": [
+      "measure",
+      "infinity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_crocodile",
+    "title": "Crocodile Dilemma",
+    "hook": "A crocodile steals a child, promising to return it if the father guesses correctly.",
+    "domains": [
+      "logic",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Understanding promises and predictions can lead to paradoxes.",
+    "tags": [
+      "promise",
+      "prediction"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_catch22_logic",
+    "title": "Catch-22 Logic Paradox",
+    "hook": "Need something only obtainable by not needing it.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Some needs create impossible situations.",
+    "tags": [
+      "selfreference",
+      "need"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_ross",
+    "title": "Ross Paradox",
+    "hook": "Disjunction introduction permits arbitrary imperatives from conditionals.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Conditionals can lead to unexpected imperatives.",
+    "tags": [
+      "imperatives",
+      "disjunction"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_temperature",
+    "title": "Temperature Paradox",
+    "hook": "Temperature is 90 and rising seems to imply 90 is rising.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Understanding predication is crucial in logic.",
+    "tags": [
+      "predication",
+      "change"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_bhartrhari",
+    "title": "Bhartrhari Paradox",
+    "hook": "Things unnameable are named by calling them unnameable.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Naming can paradoxically define the undefinable.",
+    "tags": [
+      "nameability"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_hilbert_bernays",
+    "title": "Hilbert-Bernays Paradox",
+    "hook": "A name equals the successor of the number it names.",
+    "domains": [
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Names can create misleading identities.",
+    "tags": [
+      "successor",
+      "natural_numbers"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_bonini",
+    "title": "Bonini's Paradox",
+    "hook": "More complete models of complex systems become less understandable.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Complexity can hinder understanding.",
+    "tags": [
+      "modeling",
+      "complexity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_code_talker",
+    "title": "Code-Talker Paradox",
+    "hook": "Language both enables and blocks communication.",
+    "domains": [
+      "linguistics",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Language can simultaneously facilitate and hinder understanding.",
+    "tags": [
+      "communication",
+      "secrecy"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_necktie",
+    "title": "Necktie Paradox",
+    "hook": "Wager between two seems to favor both parties.",
+    "domains": [
+      "probability",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Wagers can create misleading perceptions of fairness.",
+    "tags": [
+      "wagering",
+      "exchange"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_three_cards",
+    "title": "Three Cards Problem",
+    "hook": "Determining card underside color from random draw.",
+    "domains": [
+      "probability"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Conditional probability can lead to counterintuitive results.",
+    "tags": [
+      "conditional",
+      "color"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_pigeonhole",
+    "title": "Pigeonhole Principle Paradox",
+    "hook": "Finite pigeons guarantee collision in fewer holes.",
+    "domains": [
+      "mathematics"
+    ],
+    "difficulty": "intro",
+    "paradox_type": "veridical",
+    "key_lesson": "More items than containers ensure overlap.",
+    "tags": [
+      "combinatorics",
+      "collision"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_coin_rotation",
+    "title": "Coin Rotation Paradox",
+    "hook": "Coin rotating around identical coin makes full revolution after half circumference.",
+    "domains": [
+      "other"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Understanding motion and rotation can lead to counterintuitive results.",
+    "tags": [
+      "rotation",
+      "circumference"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_missing_square",
+    "title": "Missing Square Puzzle",
+    "hook": "Figures same pieces but different areas due to visual trick.",
+    "domains": [
+      "other"
+    ],
+    "difficulty": "intro",
+    "paradox_type": "falsidical",
+    "key_lesson": "Visual perception can deceive mathematical reasoning.",
+    "tags": [
+      "dissection",
+      "area"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_smale",
+    "title": "Smale's Paradox",
+    "hook": "Sphere turned inside out topologically without tearing.",
+    "domains": [
+      "other"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Topological properties can defy intuitive understanding.",
+    "tags": [
+      "sphere_eversion"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_abelson",
+    "title": "Abelson's Paradox",
+    "hook": "Effect size may not indicate practical meaning.",
+    "domains": [
+      "statistics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Effect size does not guarantee practical significance.",
+    "tags": [
+      "effect_size",
+      "practicality"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_grice",
+    "title": "Grice's Paradox",
+    "hook": "Conditionals and probabilities more complex than casual reading.",
+    "domains": [
+      "probability",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Understanding conditionals requires careful analysis.",
+    "tags": [
+      "conditionals",
+      "implicature"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_grandi",
+    "title": "Grandi's Series",
+    "hook": "The sum 1-1+1-1+... equals 1, 0, or 1/2.",
+    "domains": [
+      "mathematics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Infinite series can converge to multiple values.",
+    "tags": [
+      "infinite_series",
+      "convergence"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_benardete",
+    "title": "Benardete's Paradox",
+    "hook": "Infinite gods with barriers: no god stops man.",
+    "domains": [
+      "philosophy",
+      "logic"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Infinite entities can lead to contradictions.",
+    "tags": [
+      "supertasks",
+      "gods"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_albert",
+    "title": "Albert's Paradox",
+    "hook": "Supertask convergence depends on time parameterization.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Understanding time's role in infinite processes.",
+    "tags": [
+      "supertasks",
+      "limits"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_antitrust",
+    "title": "Antitrust Paradox",
+    "hook": "Antitrust enforcement protects inefficient competitors.",
+    "domains": [
+      "economics",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Competition can lead to higher prices when mismanaged.",
+    "tags": [
+      "competition",
+      "regulation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_deaton",
+    "title": "Deaton Paradox",
+    "hook": "Consumption smooth despite sharp income variations.",
+    "domains": [
+      "economics",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Income fluctuations do not always affect consumption patterns.",
+    "tags": [
+      "consumption",
+      "income"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_fredkin",
+    "title": "Fredkin's Paradox",
+    "hook": "More similar choices take more decision time.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Similarity can complicate decision-making.",
+    "tags": [
+      "similarity",
+      "deliberation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_hedgehog",
+    "title": "Hedgehog's Dilemma",
+    "hook": "Intimacy requires mutual harm despite goodwill.",
+    "domains": [
+      "social_choice",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Intimacy often involves unavoidable pain.",
+    "tags": [
+      "intimacy",
+      "harm"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_no_show",
+    "title": "No-Show Paradox",
+    "hook": "Voting for candidate can cause loss vs abstaining.",
+    "domains": [
+      "social_choice",
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Voting can lead to unintended negative outcomes.",
+    "tags": [
+      "voting",
+      "strategy"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_preparedness\tPreparedness Paradox",
+    "title": "",
+    "hook": "Being prepared can lead to unexpected outcomes.",
+    "domains": [
+      "other",
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Preparation can sometimes backfire.",
+    "tags": [
+      "veridical"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_relevance",
+    "title": "Relevance Paradox",
+    "hook": "Relevant info not sought until relevance clear.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Relevance can only be assessed post-information acquisition.",
+    "tags": [
+      "information_seeking"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_willpower",
+    "title": "Willpower Paradox",
+    "hook": "Open minds more goal-directed than self-declared objectives.",
+    "domains": [
+      "decision_theory"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Open-mindedness enhances motivation and goal achievement.",
+    "tags": [
+      "open_mindedness",
+      "motivation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_moving_rows",
+    "title": "Moving Rows Paradox",
+    "hook": "Moving rows pass stationary differently than each other.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Motion is relative and depends on the observer's frame.",
+    "tags": [
+      "relativity_of_motion"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_paradox_place",
+    "title": "Paradox of Place",
+    "hook": "Everything existing has place, which has place ad infinitum.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Understanding infinite regress in existence.",
+    "tags": [
+      "location",
+      "regression"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_millet",
+    "title": "Paradox of Millet Grain",
+    "hook": "Single grain silent, thousand make sound.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Aggregation can lead to unexpected outcomes.",
+    "tags": [
+      "sound",
+      "aggregation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_algol",
+    "title": "Algol Paradox",
+    "hook": "Binary partners different ages despite same formation.",
+    "domains": [
+      "other",
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Age discrepancies in binary stars challenge our understanding.",
+    "tags": [
+      "binary_stars",
+      "age"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_gzk",
+    "title": "GZK Paradox",
+    "hook": "High-energy rays violate Greisen-Zatsepin-Kuzmin limit.",
+    "domains": [
+      "other",
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "High-energy cosmic rays challenge our understanding of physics.",
+    "tags": [
+      "cosmic_rays",
+      "relativity"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_paradox_youth",
+    "title": "Paradox of Youth",
+    "hook": "Overabundance young stars near galactic center black hole.",
+    "domains": [
+      "other",
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Observations can challenge established theories.",
+    "tags": [
+      "black_hole",
+      "stars"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_archer",
+    "title": "Archer's Paradox",
+    "hook": "Archer aims off-target to hit due to arrow flex.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Aim slightly off to hit the target accurately.",
+    "tags": [
+      "arrow_trajectory"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_archimedes",
+    "title": "Archimedes Paradox",
+    "hook": "Battleship floats in few liters water via displacement.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Buoyancy allows heavy objects to float.",
+    "tags": [
+      "buoyancy",
+      "displacement"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_feynman_sprinkler",
+    "title": "Feynman Sprinkler",
+    "hook": "Submerged sprinkler sucking fluid rotation direction.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Fluid dynamics can defy intuitive expectations.",
+    "tags": [
+      "fluid_dynamics",
+      "rotation"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_painleve",
+    "title": "Painlev\u00e9 Paradox",
+    "hook": "Rigid dynamics with friction inconsistent.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Friction complicates rigid-body dynamics.",
+    "tags": [
+      "rigid_body",
+      "friction"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_boyles_flask",
+    "title": "Boyle's Self-Flowing Flask",
+    "hook": "Flask fills itself but violates perpetual motion ban.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Perpetual motion is impossible due to energy conservation.",
+    "tags": [
+      "perpetual_motion",
+      "fluid"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_cool_tropics",
+    "title": "Cool Tropics Paradox",
+    "hook": "Tropics cooler than models during warm periods.",
+    "domains": [
+      "other",
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "falsidical",
+    "key_lesson": "Proxies can contradict model predictions.",
+    "tags": [
+      "temperature",
+      "proxies"
+    ],
+    "related": []
+  },
+  {
+    "id": "p_holographic",
+    "title": "Holographic Principle Paradox",
+    "hook": "Info proportional to surface area not volume.",
+    "domains": [
+      "physics"
+    ],
+    "difficulty": "intermediate",
+    "paradox_type": "veridical",
+    "key_lesson": "Understanding dimensions can reshape our view of reality.",
+    "tags": [
+      "information",
+      "volume"
+    ],
+    "related": []
+  }
+]

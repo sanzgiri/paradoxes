@@ -1,0 +1,76 @@
+{
+  "id": "p_boxes",
+  "narrative": {
+    "story": "Imagine two boxes: Box A contains 1 gold and 2 silver coins, while Box B contains 2 gold and 1 silver coin. You randomly select a box and draw a coin, revealing a gold one. What are the chances that the other coin in the same box is also gold? Intuitively, one might think it's 50%, but conditioning on the information changes the probabilities.",
+    "wrong_reasoning": "Many assume that since there are two boxes, the probability of the second coin being gold is simply the ratio of gold coins in both boxes. This ignores the fact that the selection process and the revealed information significantly influence the outcome.",
+    "paradox": "The paradox arises when the naive probability judgment (50%) contradicts the conditioned probability (2/3) after revealing a gold coin. This illustrates how our intuitions about probability can lead us astray."
+  },
+  "mechanism": {
+    "assumptions": "Assumes independence of events and uniform probability distribution across choices.",
+    "steps": "1. Select a box randomly. 2. Draw a coin from the selected box. 3. Observe the color of the drawn coin. 4. Calculate the probability of the second coin's color based on the observed information.",
+    "math": "P(Gold|Gold drawn) = P(Gold in Box A) * P(Gold drawn from A) / P(Gold drawn) = (1/3) * (1/2) / (1/3) = 2/3.",
+    "truth": "Conditioning alters the probability."
+  },
+  "solutions": {
+    "paths": [
+      "Understand conditioning",
+      "Use Bayesian reasoning",
+      "Visualize with tree diagrams",
+      "Practice with similar problems"
+    ],
+    "tradeoffs": [
+      "Intuition vs. mathematical reasoning",
+      "Simplicity vs. accuracy",
+      "Speed vs. thoroughness",
+      "Generalization vs. specificity",
+      "Learning curve vs. immediate understanding",
+      "Overconfidence vs. caution",
+      "Contextual understanding vs. abstract reasoning",
+      "Practical application vs. theoretical knowledge"
+    ],
+    "status": "Explored in various probability texts."
+  },
+  "practice": {
+    "patterns": [
+      "Box setups",
+      "Coin draws",
+      "Conditional scenarios",
+      "Bayesian updates",
+      "Tree diagrams",
+      "Probability puzzles",
+      "Counterintuitive examples",
+      "Simulation exercises",
+      "Real-world applications",
+      "Statistical reasoning"
+    ],
+    "prompts": [
+      "What if there were three boxes?",
+      "How does this apply to medical testing?",
+      "Can you create a similar paradox?",
+      "What if the boxes had different numbers of coins?",
+      "How would you explain this to a child?",
+      "What assumptions are critical?",
+      "How does this relate to gambling?",
+      "What are common misconceptions?",
+      "How can you visualize this?",
+      "What real-life decisions involve similar reasoning?",
+      "How does this affect decision-making?",
+      "What are the implications for statistics?"
+    ],
+    "warnings": [
+      "Avoid overgeneralization",
+      "Be cautious with assumptions",
+      "Don't ignore prior probabilities",
+      "Watch for confirmation bias",
+      "Beware of intuitive pitfalls"
+    ]
+  },
+  "context": {
+    "history": "The Boxes Paradox has roots in early probability theory and has been discussed in various mathematical contexts.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

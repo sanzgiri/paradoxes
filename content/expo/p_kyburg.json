@@ -1,0 +1,71 @@
+{
+  "id": "p_kyburg",
+  "narrative": {
+    "story": "In a lottery, a player believes they will not win despite high odds against winning. This belief is based on the understanding that while the probability of winning is low, the player still feels compelled to buy a ticket. This creates a conflict between their belief in the high probability of losing and their action of participating in the lottery.",
+    "wrong_reasoning": "Many assume that because the odds are high against winning, one should not buy a ticket. However, this reasoning overlooks the fact that the act of buying a ticket is based on personal belief and the enjoyment of the game, not solely on the probability of winning.",
+    "paradox": "The paradox arises when one accepts the high probability of losing yet still engages in the lottery, leading to a contradiction in belief and action."
+  },
+  "mechanism": {
+    "assumptions": "Players assume high probabilities dictate rational behavior.",
+    "steps": "1. Assess the probability of winning. 2. Formulate belief based on that probability. 3. Decide whether to participate based on belief. 4. Engage in the lottery despite high odds.",
+    "math": "If P(win) = 0.01, then P(lose) = 0.99. Yet, players still buy tickets.",
+    "truth": "High probability does not negate personal choice."
+  },
+  "solutions": {
+    "paths": [
+      "Reevaluate belief systems regarding probability.",
+      "Consider emotional factors in decision-making.",
+      "Engage in discussions about rationality in gambling.",
+      "Explore alternative views on risk acceptance."
+    ],
+    "tradeoffs": [
+      "Belief vs. action consistency.",
+      "Enjoyment vs. rationality.",
+      "Short-term thrill vs. long-term understanding.",
+      "Social engagement vs. financial risk.",
+      "Personal satisfaction vs. logical reasoning.",
+      "Cognitive dissonance vs. acceptance of paradox.",
+      "Risk-taking vs. caution.",
+      "Emotional fulfillment vs. statistical reality."
+    ],
+    "status": "Ongoing exploration in decision theory."
+  },
+  "practice": {
+    "patterns": [
+      "Identify personal beliefs about risk.",
+      "Analyze decision-making processes.",
+      "Discuss lottery participation motivations.",
+      "Evaluate emotional responses to probabilities.",
+      "Reflect on past lottery experiences."
+    ],
+    "prompts": [
+      "What drives your decision to play the lottery?",
+      "How do you reconcile high odds with participation?",
+      "Discuss a time when belief conflicted with action.",
+      "What role does enjoyment play in your decisions?",
+      "How do you perceive risk in gambling?",
+      "Can you think of a situation where high probability misled you?",
+      "What assumptions do you make about winning?",
+      "How does social influence affect your choices?",
+      "What would change your approach to lotteries?",
+      "How do you define rational behavior in this context?",
+      "What alternative activities could replace lottery participation?",
+      "How do you feel about the concept of luck?"
+    ],
+    "warnings": [
+      "Beware of cognitive biases in decision-making.",
+      "Don't ignore emotional factors in rational choices.",
+      "Recognize the difference between belief and action.",
+      "Be cautious of overconfidence in high probabilities.",
+      "Understand the implications of accepting paradoxes."
+    ]
+  },
+  "context": {
+    "history": "The paradox has been discussed in decision theory, highlighting the complexities of belief and action.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

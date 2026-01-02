@@ -1,0 +1,16 @@
+{
+  "id": "p_strengthened_liar",
+  "title": "Strengthened Liar Paradox",
+  "hook": "This sentence is not true challenges traditional truth definitions.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Truth can be more complex than binary definitions.",
+  "tags": [
+    "truth",
+    "selfreference"
+  ],
+  "related": []
+}

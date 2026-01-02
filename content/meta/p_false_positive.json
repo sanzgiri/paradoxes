@@ -1,0 +1,17 @@
+{
+  "id": "p_false_positive",
+  "title": "False Positive Paradox",
+  "hook": "Low-prevalence conditions make positive tests mostly false positives even with good accuracy.",
+  "domains": [
+    "statistics",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "High accuracy doesn't guarantee true positives in low-prevalence scenarios.",
+  "tags": [
+    "bayes",
+    "diagnostics"
+  ],
+  "related": []
+}

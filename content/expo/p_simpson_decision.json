@@ -1,0 +1,76 @@
+{
+  "id": "p_simpson_decision",
+  "narrative": {
+    "story": "In a clinical trial, two treatments appear effective when analyzed separately, but when combined, the overall results suggest neither is effective. This is Simpson's Paradox, where subgroup analysis leads to different conclusions than the aggregate data.",
+    "wrong_reasoning": "Many assume that if a treatment works well in subgroups, it should work well overall. This neglects the influence of confounding variables that can skew results when data is combined.",
+    "paradox": "Simpson's Paradox illustrates how aggregating data can reverse trends observed in subgroups, leading to potentially flawed conclusions."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that subgroup trends will hold in aggregate data.",
+    "steps": "1. Analyze data in subgroups. 2. Identify trends. 3. Combine data. 4. Reassess trends in the aggregate context.",
+    "math": "Statistical aggregation can obscure relationships, e.g., A/B testing results can differ when analyzed separately versus combined.",
+    "truth": "Aggregated data can misrepresent reality."
+  },
+  "solutions": {
+    "paths": [
+      "Use subgroup analysis",
+      "Consider confounding variables",
+      "Validate with additional data",
+      "Communicate findings clearly"
+    ],
+    "tradeoffs": [
+      "Increased complexity",
+      "Potential for misinterpretation",
+      "Need for deeper analysis",
+      "Resource allocation for subgroup studies",
+      "Time-consuming",
+      "Requires statistical expertise",
+      "Risk of overfitting",
+      "May overlook broader trends"
+    ],
+    "status": "Ongoing research in decision theory."
+  },
+  "practice": {
+    "patterns": [
+      "Check for subgroup trends",
+      "Be wary of aggregation",
+      "Use visualizations",
+      "Validate assumptions",
+      "Engage in critical thinking",
+      "Discuss findings with peers",
+      "Seek expert opinions",
+      "Document methodologies",
+      "Review historical cases",
+      "Iterate on analyses"
+    ],
+    "prompts": [
+      "What do subgroup analyses reveal?",
+      "How does aggregation change the narrative?",
+      "Are there confounding variables?",
+      "What assumptions are being made?",
+      "How can results be communicated effectively?",
+      "What historical examples exist?",
+      "What are the implications of findings?",
+      "How can we validate results?",
+      "What alternative analyses can be performed?",
+      "What are the limitations of the study?",
+      "How can we improve decision-making?",
+      "What lessons can be learned?"
+    ],
+    "warnings": [
+      "Beware of misleading aggregates",
+      "Don't ignore subgroup insights",
+      "Check for biases",
+      "Validate with multiple datasets",
+      "Communicate uncertainties clearly"
+    ]
+  },
+  "context": {
+    "history": "Simpson's Paradox has been recognized since the early 20th century, influencing fields like statistics and social science.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

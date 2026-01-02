@@ -1,0 +1,17 @@
+{
+  "id": "p_cool_tropics",
+  "title": "Cool Tropics Paradox",
+  "hook": "Tropics cooler than models during warm periods.",
+  "domains": [
+    "other",
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Proxies can contradict model predictions.",
+  "tags": [
+    "temperature",
+    "proxies"
+  ],
+  "related": []
+}

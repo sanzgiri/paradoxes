@@ -1,0 +1,16 @@
+{
+  "id": "p_kyburg",
+  "title": "Kyburg's Lottery Paradox Variant",
+  "hook": "High probability beliefs cannot be conjoined for acceptance.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "High probabilities can mislead acceptance.",
+  "tags": [
+    "belief",
+    "acceptance"
+  ],
+  "related": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "p_moore",
+  "narrative": {
+    "story": "Moore\u2019s Paradox arises when someone asserts a statement while simultaneously expressing disbelief in it. For example, saying 'It is raining, but I don\u2019t believe it is' creates a contradiction in belief and assertion, leading to confusion about the nature of belief itself. This paradox challenges our understanding of how beliefs relate to the statements we make.",
+    "wrong_reasoning": "One might think that since the statement is not logically contradictory, it should be acceptable. However, the absurdity lies in the mismatch between belief and assertion, revealing deeper issues in our understanding of knowledge and belief.",
+    "paradox": "The paradox illustrates that one can hold contradictory beliefs about the same proposition, which raises questions about the nature of rationality and belief."
+  },
+  "mechanism": {
+    "assumptions": "The assumption that belief and assertion must align is challenged by this paradox.",
+    "steps": "1. Identify a statement that is asserted. 2. Note the belief expressed about that statement. 3. Analyze the contradiction between assertion and belief. 4. Reflect on the implications for understanding belief.",
+    "math": "",
+    "truth": "Truth in this context is subjective and depends on the alignment of belief and assertion."
+  },
+  "solutions": {
+    "paths": [
+      "Clarify the distinction between belief and assertion.",
+      "Explore alternative frameworks for understanding belief.",
+      "Engage with philosophical literature on epistemology.",
+      "Consider practical implications in communication."
+    ],
+    "tradeoffs": [
+      "Increased clarity vs. complexity in understanding belief.",
+      "Philosophical rigor vs. practical communication.",
+      "Abstract reasoning vs. real-world applicability.",
+      "Simplification vs. loss of nuance."
+    ],
+    "status": "Ongoing debate in philosophy."
+  },
+  "practice": {
+    "patterns": [
+      "Identify similar paradoxes in everyday language.",
+      "Discuss implications in groups.",
+      "Write reflections on personal beliefs.",
+      "Analyze media statements for belief-assertion conflicts."
+    ],
+    "prompts": [
+      "Can you think of a statement that creates a similar paradox?",
+      "How do you reconcile belief and assertion in your own life?",
+      "What implications does this paradox have for communication?",
+      "Explore a real-world example of belief vs. assertion."
+    ],
+    "warnings": [
+      "Avoid oversimplifying the paradox.",
+      "Be cautious of conflating belief with knowledge.",
+      "Recognize the limits of logical reasoning in this context."
+    ]
+  },
+  "context": {
+    "history": "Moore\u2019s Paradox has been discussed in philosophical circles since G.E. Moore introduced it in the early 20th century.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

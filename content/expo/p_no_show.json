@@ -1,0 +1,71 @@
+{
+  "id": "p_no_show",
+  "narrative": {
+    "story": "In certain voting systems, a voter may face a dilemma: if they vote for their preferred candidate, they risk contributing to that candidate's loss due to vote splitting. Conversely, abstaining might seem like a safer option, but it could lead to a less favorable outcome. This situation illustrates the No-Show Paradox, where the act of voting can paradoxically harm the voter's preferred choice.",
+    "wrong_reasoning": "Many believe that voting is always beneficial for their candidate. However, in scenarios where multiple candidates are similar, voting for one can dilute support, leading to an unexpected loss. This misjudgment stems from the assumption that every vote directly contributes positively, ignoring the complexities of vote dynamics.",
+    "paradox": "The No-Show Paradox reveals that in some voting systems, participating can lead to worse outcomes than abstaining. This contradicts the intuitive belief that voting is always the best choice for supporting a candidate."
+  },
+  "mechanism": {
+    "assumptions": "Voters assume their vote will directly influence the outcome positively.",
+    "steps": "1. Voter identifies their preferred candidate. 2. Voter considers the likelihood of other candidates winning. 3. Voter decides whether to vote or abstain based on perceived risks. 4. Outcome is determined by the aggregate votes, which may not favor the preferred candidate.",
+    "math": "If candidate A receives 30 votes, candidate B receives 30 votes, and candidate C receives 40 votes, a vote for A or B could lead to a loss for both if C wins.",
+    "truth": "Voting can sometimes lead to worse outcomes."
+  },
+  "solutions": {
+    "paths": [
+      "Educate voters on the implications of their choices.",
+      "Encourage strategic voting.",
+      "Implement ranked-choice voting systems.",
+      "Promote discussions about voting dynamics."
+    ],
+    "tradeoffs": [
+      "Strategic voting may feel insincere.",
+      "Ranked-choice systems can be complex.",
+      "Voter education requires resources.",
+      "Abstaining may lead to less representation.",
+      "Voting can still be a civic duty.",
+      "Potential for voter apathy.",
+      "Risk of misunderstanding voting systems.",
+      "Pressure to conform to majority opinions."
+    ],
+    "status": "Ongoing discussions in electoral reform."
+  },
+  "practice": {
+    "patterns": [
+      "Analyze past elections for voting outcomes.",
+      "Discuss scenarios with peers.",
+      "Role-play voting decisions.",
+      "Simulate elections with different voting systems.",
+      "Study strategic voting examples."
+    ],
+    "prompts": [
+      "What would you do if your preferred candidate is losing?",
+      "How does vote splitting affect your decision?",
+      "Discuss the impact of abstaining vs voting.",
+      "What are the risks of voting in your opinion?",
+      "How can you ensure your vote counts?",
+      "What strategies can mitigate the No-Show Paradox?",
+      "How do you feel about ranked-choice voting?",
+      "What are the benefits of educating voters?",
+      "How can social dynamics influence voting?",
+      "What historical examples illustrate this paradox?",
+      "How do you define a 'wasted' vote?",
+      "What role does media play in voter perception?"
+    ],
+    "warnings": [
+      "Don't assume your vote will always count.",
+      "Be cautious of groupthink in voting.",
+      "Understand the voting system in your area.",
+      "Recognize the potential for unintended consequences.",
+      "Avoid emotional voting without analysis."
+    ]
+  },
+  "context": {
+    "history": "The No-Show Paradox has been discussed in political theory since the 20th century, highlighting the complexities of voter behavior.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

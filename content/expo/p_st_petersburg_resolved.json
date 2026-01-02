@@ -1,0 +1,76 @@
+{
+  "id": "p_st_petersburg_resolved",
+  "narrative": {
+    "story": "The St. Petersburg Paradox presents a game where a fair coin is flipped until it lands on tails. The pot doubles with each flip, leading to an infinite expected value. However, most people would not pay a large sum to play, highlighting a disconnect between mathematical expectation and actual decision-making.",
+    "wrong_reasoning": "Many assume that the expected value should dictate their willingness to pay. They overlook the influence of diminishing returns and personal utility, leading to irrational decisions based solely on mathematical calculations.",
+    "paradox": "The paradox arises when the expected value of the game is infinite, yet individuals are unwilling to invest a significant amount to participate, revealing the limitations of traditional utility theory."
+  },
+  "mechanism": {
+    "assumptions": "Players have infinite wealth and risk neutrality.",
+    "steps": "1. Define the game structure. 2. Calculate expected value. 3. Analyze player behavior. 4. Introduce utility functions.",
+    "math": "Expected Value = \u03a3 (Probability of outcome * Value of outcome). For the St. Petersburg game, EV = 1/2 * 1 + 1/4 * 2 + 1/8 * 4 + ... = \u221e.",
+    "truth": "Utility is often not linear."
+  },
+  "solutions": {
+    "paths": [
+      "Logarithmic utility",
+      "Probability weighting",
+      "Capped payouts",
+      "Risk aversion models"
+    ],
+    "tradeoffs": [
+      "Complexity vs. accuracy",
+      "Realism vs. abstraction",
+      "Player satisfaction vs. mathematical rigor",
+      "Short-term vs. long-term gains",
+      "Risk vs. reward",
+      "Utility vs. expected value",
+      "Individual vs. collective behavior",
+      "Theoretical vs. practical applications"
+    ],
+    "status": "Various models have been proposed and tested."
+  },
+  "practice": {
+    "patterns": [
+      "Risk assessment",
+      "Utility calculation",
+      "Behavioral analysis",
+      "Game theory applications",
+      "Decision-making frameworks",
+      "Expectation management",
+      "Probability adjustments",
+      "Utility maximization",
+      "Risk aversion strategies",
+      "Cognitive biases"
+    ],
+    "prompts": [
+      "How would you approach a game with infinite expected value?",
+      "What factors influence your decision to play?",
+      "Can you think of real-life scenarios similar to this paradox?",
+      "How does utility theory apply to your financial decisions?",
+      "What adjustments would you make to the game?",
+      "Discuss the implications of bounded utility.",
+      "How do cognitive biases affect your choices?",
+      "What is your threshold for risk?",
+      "How do you define value in uncertain situations?",
+      "What role does probability play in your decisions?",
+      "How can you apply these concepts to everyday choices?",
+      "Reflect on a time you faced a similar decision."
+    ],
+    "warnings": [
+      "Avoid over-reliance on expected value.",
+      "Be cautious of cognitive biases.",
+      "Consider personal utility differences.",
+      "Recognize the limits of mathematical models.",
+      "Don't ignore emotional factors."
+    ]
+  },
+  "context": {
+    "history": "The St. Petersburg Paradox was introduced by Daniel Bernoulli in 1738, highlighting the limitations of expected value in decision-making.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

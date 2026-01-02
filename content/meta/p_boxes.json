@@ -1,0 +1,15 @@
+{
+  "id": "p_boxes",
+  "title": "Boxes Paradox",
+  "hook": "Box and urn setups where conditioning on information reverses naive probability judgments.",
+  "domains": [
+    "probability"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Conditioning can alter perceived probabilities.",
+  "tags": [
+    "conditional_probability"
+  ],
+  "related": []
+}

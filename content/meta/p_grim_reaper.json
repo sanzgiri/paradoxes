@@ -1,0 +1,17 @@
+{
+  "id": "p_grim_reaper",
+  "title": "Grim Reaper Paradox",
+  "hook": "Infinite grim reapers prevent death yet person survives, challenging supertask convergence.",
+  "domains": [
+    "philosophy",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Infinity can lead to contradictory outcomes.",
+  "tags": [
+    "supertasks",
+    "probability"
+  ],
+  "related": []
+}

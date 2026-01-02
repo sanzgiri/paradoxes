@@ -1,0 +1,76 @@
+{
+  "id": "p_feynman_sprinkler",
+  "narrative": {
+    "story": "The Feynman sprinkler presents a curious case in fluid dynamics. When submerged and made to suck in water, one might expect the sprinkler to rotate in the direction opposite to the flow. However, experiments reveal that it actually rotates in the same direction as the flow, challenging our intuitive understanding of fluid mechanics.",
+    "wrong_reasoning": "Many assume that since the sprinkler is sucking in fluid, it should rotate against the direction of the incoming flow. This reasoning overlooks the complexities of angular momentum and the behavior of fluids under suction.",
+    "paradox": "The paradox lies in the expectation that the sprinkler should behave in a straightforward manner, yet it defies this expectation, illustrating the counterintuitive nature of fluid dynamics."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that fluid behavior is linear and predictable.",
+    "steps": "1. Submerge the sprinkler in water. 2. Activate the sprinkler to suck in water. 3. Observe the direction of rotation. 4. Compare with predictions based on intuitive reasoning.",
+    "math": "The angular momentum conservation principles apply, but the fluid dynamics involved complicate the expected outcomes.",
+    "truth": "Fluid dynamics can produce unexpected results."
+  },
+  "solutions": {
+    "paths": [
+      "Conduct experiments",
+      "Use simulations",
+      "Study fluid dynamics principles",
+      "Analyze angular momentum"
+    ],
+    "tradeoffs": [
+      "Intuitive understanding vs. experimental results",
+      "Simplicity vs. complexity in fluid behavior",
+      "Predictability vs. reality",
+      "Theoretical models vs. practical observations",
+      "Learning curve vs. insight gained",
+      "Time investment vs. understanding depth",
+      "Generalization vs. specific cases",
+      "Assumptions vs. empirical evidence"
+    ],
+    "status": "Ongoing exploration in fluid dynamics."
+  },
+  "practice": {
+    "patterns": [
+      "Experiment with different fluids",
+      "Analyze similar paradoxes",
+      "Discuss with peers",
+      "Create visual models",
+      "Simulate scenarios",
+      "Review literature",
+      "Engage in hands-on experiments",
+      "Utilize computational tools",
+      "Explore related paradoxes",
+      "Reflect on outcomes"
+    ],
+    "prompts": [
+      "What do you expect to happen?",
+      "How does this challenge your understanding?",
+      "Can you think of similar examples?",
+      "What assumptions are you making?",
+      "How would you explain this to a novice?",
+      "What experiments could clarify this?",
+      "What are the implications of this paradox?",
+      "How does this relate to other concepts?",
+      "What questions remain unanswered?",
+      "What resources can help you understand better?",
+      "How can this knowledge be applied?",
+      "What are the limitations of your understanding?"
+    ],
+    "warnings": [
+      "Avoid jumping to conclusions",
+      "Be cautious of oversimplification",
+      "Consider multiple perspectives",
+      "Don't ignore empirical evidence",
+      "Stay open to counterintuitive results"
+    ]
+  },
+  "context": {
+    "history": "The Feynman sprinkler has been a topic of discussion since Richard Feynman introduced it as a thought experiment to illustrate fluid dynamics principles.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "p_analysis",
+  "narrative": {
+    "story": "The Paradox of Analysis suggests that any attempt to analyze a concept must either be correct or informative, but not both. For example, consider the analysis of 'justice'. If we define it strictly, we may miss nuances that make the definition informative. Conversely, a more informative definition may lack precision, leading to incorrect interpretations. This paradox challenges philosophers to find a balance between these two essential qualities in conceptual analysis.",
+    "wrong_reasoning": "One might argue that a definition can be both precise and informative by simply adding qualifiers. However, this often leads to convoluted definitions that lose clarity. For instance, defining 'justice' as 'fairness in accordance with the law' may seem precise but fails to capture the broader implications of justice in society.",
+    "paradox": "The paradox lies in the requirement that a definition must be both correct and informative, yet any attempt to achieve this seems to result in a failure of one or the other."
+  },
+  "mechanism": {
+    "assumptions": "The assumption that correctness and informativeness can coexist in analysis is flawed.",
+    "steps": "1. Identify a concept for analysis. 2. Attempt to create a precise definition. 3. Evaluate the definition for informativeness. 4. Adjust the definition to improve informativeness, risking correctness.",
+    "math": "",
+    "truth": "Correctness and informativeness are often at odds."
+  },
+  "solutions": {
+    "paths": [
+      "Accept that some analyses will be imperfect.",
+      "Focus on context to enhance understanding.",
+      "Use examples to illustrate concepts.",
+      "Encourage iterative refinement of definitions."
+    ],
+    "tradeoffs": [
+      "Precision vs. clarity",
+      "Brevity vs. depth",
+      "Generalization vs. specificity",
+      "Simplicity vs. complexity",
+      "Formalism vs. practical application",
+      "Theoretical vs. empirical grounding",
+      "Static vs. dynamic definitions",
+      "Universal vs. contextual definitions"
+    ],
+    "status": "Ongoing debate in philosophy."
+  },
+  "practice": {
+    "patterns": [
+      "Identify key concepts.",
+      "Draft initial definitions.",
+      "Solicit feedback on clarity.",
+      "Revise based on critiques.",
+      "Test definitions in discussions.",
+      "Explore historical definitions.",
+      "Compare with alternative analyses.",
+      "Document iterative changes.",
+      "Reflect on the analysis process.",
+      "Engage with diverse perspectives."
+    ],
+    "prompts": [
+      "What does this concept mean?",
+      "How can we define it accurately?",
+      "What nuances are important?",
+      "What examples illustrate this concept?",
+      "How does this definition hold up?",
+      "What are common misconceptions?",
+      "How does context affect meaning?",
+      "What are the implications of this definition?",
+      "Can we simplify this definition?",
+      "What are the limits of this analysis?",
+      "How does this relate to other concepts?",
+      "What feedback can improve this definition?"
+    ],
+    "warnings": [
+      "Avoid overly complex definitions.",
+      "Be cautious of circular reasoning.",
+      "Watch for ambiguity in terms.",
+      "Don't ignore context.",
+      "Be aware of biases in analysis."
+    ]
+  },
+  "context": {
+    "history": "The paradox has been discussed since ancient philosophy, notably by thinkers like Plato and Aristotle.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

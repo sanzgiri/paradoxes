@@ -1,0 +1,76 @@
+{
+  "id": "p_st_petersburg",
+  "narrative": {
+    "story": "In the St. Petersburg game, a fair coin is tossed until it lands on heads. The player receives $2 raised to the power of the number of tosses. Theoretically, this game has an infinite expected value, as the payouts can grow indefinitely. However, in practice, most players are only willing to pay a modest amount to play, often far less than the expected value. This discrepancy highlights the difference between mathematical expectation and actual human behavior.",
+    "wrong_reasoning": "Many believe that since the expected value is infinite, players should be willing to pay any amount to play the game. However, this reasoning ignores the psychological factors and risk aversion that influence real-world decisions. Players often consider their limited resources and the likelihood of winning large sums, leading to a much lower willingness to pay.",
+    "paradox": "The paradox lies in the contrast between the infinite expected value of the game and the finite amount players are willing to pay to participate. This illustrates how theoretical models can fail to predict actual behavior in uncertain situations."
+  },
+  "mechanism": {
+    "assumptions": "Players are rational and seek to maximize expected utility.",
+    "steps": "1. A fair coin is tossed repeatedly until heads appears. 2. The payout is determined by the number of tosses: $2^n for n tosses. 3. Calculate the expected value based on the probabilities of each outcome. 4. Compare the expected value to the amount players are willing to pay.",
+    "math": "Expected value = \u03a3 (Probability of outcome * Payout) = 1/2 * 2 + 1/4 * 4 + 1/8 * 8 + ... = \u221e.",
+    "truth": "The expected value does not account for individual risk preferences."
+  },
+  "solutions": {
+    "paths": [
+      "Introduce capped payouts",
+      "Use utility functions",
+      "Educate on risk assessment",
+      "Implement behavioral nudges"
+    ],
+    "tradeoffs": [
+      "Higher payouts may attract more players",
+      "Capped payouts reduce theoretical appeal",
+      "Education may not change behavior",
+      "Nudges can be seen as manipulative",
+      "Risk assessment may deter some players",
+      "Utility functions complicate decision-making",
+      "Behavioral insights may not apply universally",
+      "Market dynamics can shift perceptions"
+    ],
+    "status": "Ongoing research into behavioral economics continues to explore these solutions."
+  },
+  "practice": {
+    "patterns": [
+      "Risk aversion",
+      "Utility maximization",
+      "Behavioral biases",
+      "Decision-making under uncertainty",
+      "Value perception",
+      "Framing effects",
+      "Cognitive dissonance",
+      "Anchoring",
+      "Loss aversion",
+      "Overconfidence"
+    ],
+    "prompts": [
+      "What would you pay to play?",
+      "How do you assess risk?",
+      "Consider a real-life gamble.",
+      "Discuss your decision-making process.",
+      "Analyze a similar paradox.",
+      "Reflect on past decisions.",
+      "How does framing affect your choice?",
+      "What biases influence you?",
+      "Evaluate your utility function.",
+      "What would change your mind?",
+      "Discuss with peers.",
+      "Explore alternative scenarios."
+    ],
+    "warnings": [
+      "Beware of overconfidence.",
+      "Don't ignore psychological factors.",
+      "Be cautious of framing effects.",
+      "Recognize your biases.",
+      "Avoid simplistic reasoning."
+    ]
+  },
+  "context": {
+    "history": "The St. Petersburg paradox was first introduced by Daniel Bernoulli in 1738, highlighting the limitations of expected value in decision-making.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

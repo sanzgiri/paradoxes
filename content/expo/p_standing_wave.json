@@ -1,0 +1,76 @@
+{
+  "id": "p_standing_wave",
+  "narrative": {
+    "story": "In a classic demonstration of wave behavior, two waves traveling in opposite directions can interfere to create a standing wave. This phenomenon is observed in musical instruments, where the strings vibrate in fixed patterns while the wave energy moves through them. The standing wave appears stationary, yet it is the result of continuous wave motion.",
+    "wrong_reasoning": "One might assume that since the standing wave does not appear to move, there is no energy transfer. However, the energy is indeed present and oscillates between potential and kinetic forms, demonstrating that motion can exist without displacement.",
+    "paradox": "The standing wave paradox highlights how a dynamic system can produce a static appearance, challenging our intuition about motion and energy."
+  },
+  "mechanism": {
+    "assumptions": "Waves can interfere constructively and destructively.",
+    "steps": "1. Two waves travel in opposite directions. 2. They superpose at certain points. 3. Nodes and antinodes form. 4. The resultant wave appears stationary.",
+    "math": "The equation for a standing wave is y(x,t) = 2A sin(kx) cos(\u03c9t), where A is amplitude, k is wave number, and \u03c9 is angular frequency.",
+    "truth": "Energy is conserved in the system despite the stationary appearance."
+  },
+  "solutions": {
+    "paths": [
+      "Visualize wave interactions",
+      "Experiment with wave simulations",
+      "Analyze real-world examples",
+      "Study harmonic frequencies"
+    ],
+    "tradeoffs": [
+      "Complexity of wave equations",
+      "Misinterpretation of energy transfer",
+      "Need for advanced mathematical tools",
+      "Potential confusion with other wave phenomena",
+      "Difficulty in visualizing abstract concepts",
+      "Variability in wave mediums",
+      "Limitations in experimental setups",
+      "Dependence on boundary conditions"
+    ],
+    "status": "Understanding standing waves enhances comprehension of wave mechanics."
+  },
+  "practice": {
+    "patterns": [
+      "Identify nodes and antinodes",
+      "Explore wave interference patterns",
+      "Simulate standing waves",
+      "Analyze sound waves in instruments",
+      "Compare with traveling waves",
+      "Investigate boundary effects",
+      "Examine energy transfer in waves",
+      "Study resonance phenomena",
+      "Explore applications in technology",
+      "Connect to real-world examples"
+    ],
+    "prompts": [
+      "What creates a standing wave?",
+      "How do nodes form?",
+      "Explain energy transfer in standing waves.",
+      "Describe a real-world example.",
+      "What is the significance of resonance?",
+      "How do boundary conditions affect waves?",
+      "Compare standing and traveling waves.",
+      "What role does frequency play?",
+      "How can you visualize wave interactions?",
+      "Discuss applications in music.",
+      "What are the implications for physics?",
+      "How does this relate to other paradoxes?"
+    ],
+    "warnings": [
+      "Avoid confusing standing waves with stationary objects.",
+      "Be cautious with energy misconceptions.",
+      "Ensure clarity in wave terminology.",
+      "Watch for misinterpretation of wave behavior.",
+      "Recognize limitations in simple models."
+    ]
+  },
+  "context": {
+    "history": "The study of standing waves dates back to early physics experiments and has been crucial in understanding wave mechanics.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

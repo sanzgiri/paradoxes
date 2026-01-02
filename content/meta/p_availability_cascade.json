@@ -1,0 +1,16 @@
+{
+  "id": "p_availability_cascade",
+  "title": "Availability Cascade Paradox",
+  "hook": "Repeated low-probability warnings create false consensus.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Beware of consensus formed by repeated misinformation.",
+  "tags": [
+    "heuristics",
+    "social_amplification"
+  ],
+  "related": []
+}

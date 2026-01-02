@@ -1,0 +1,15 @@
+{
+  "id": "p_fib",
+  "title": "Fibonacci Heap Paradox",
+  "hook": "Worst-case operations amortized to logarithmic despite pathological cases.",
+  "domains": [
+    "computer_science"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Amortized analysis can yield surprising results.",
+  "tags": [
+    "amortized_analysis"
+  ],
+  "related": []
+}

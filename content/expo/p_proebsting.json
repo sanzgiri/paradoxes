@@ -1,0 +1,68 @@
+{
+  "id": "p_proebsting",
+  "narrative": {
+    "story": "Proebsting's Paradox illustrates how using the Kelly criterion, a strategy for maximizing long-term profits, can paradoxically lead to financial ruin. When individuals hedge their bets using options, they may inadvertently alter their risk preferences, leading to decisions that contradict their original intentions. This counterintuitive outcome challenges conventional wisdom about risk management.",
+    "wrong_reasoning": "Many believe that hedging always reduces risk. However, Proebsting's Paradox shows that hedging with options can create a false sense of security, leading to riskier overall behavior. This misjudgment stems from misunderstanding how hedging interacts with the underlying bets and the psychological effects of perceived safety.",
+    "paradox": "The paradox lies in the fact that while the Kelly criterion is designed to optimize betting strategies, its application in hedging scenarios can result in outcomes that are detrimental, contradicting the expectation that hedging should always mitigate risk."
+  },
+  "mechanism": {
+    "assumptions": "Assumes rational decision-making and that individuals understand the implications of the Kelly criterion.",
+    "steps": "1. Identify the underlying bet. 2. Apply the Kelly criterion to determine optimal bet size. 3. Introduce hedging options. 4. Analyze the resulting risk profile and decision-making changes.",
+    "math": "The Kelly criterion formula is: f* = (bp - q) / b, where f* is the fraction of the bankroll to wager, b is the odds received on the wager, p is the probability of winning, and q is the probability of losing.",
+    "truth": "Risk can be counterintuitive."
+  },
+  "solutions": {
+    "paths": [
+      "Educate on the implications of hedging.",
+      "Reassess risk preferences regularly.",
+      "Use simulations to understand outcomes.",
+      "Limit the use of complex hedging strategies."
+    ],
+    "tradeoffs": [
+      "Increased complexity vs. potential safety.",
+      "Short-term security vs. long-term risk.",
+      "Psychological comfort vs. actual risk exposure.",
+      "Flexibility in strategy vs. adherence to optimal betting."
+    ],
+    "status": "Ongoing research into decision-making under risk."
+  },
+  "practice": {
+    "patterns": [
+      "Evaluate risk before hedging.",
+      "Consider psychological impacts of decisions.",
+      "Use historical data to inform choices.",
+      "Simulate outcomes of different strategies.",
+      "Regularly review and adjust strategies."
+    ],
+    "prompts": [
+      "What are the potential unintended consequences of this hedge?",
+      "How does this decision align with my overall risk strategy?",
+      "What assumptions am I making about my risk tolerance?",
+      "Could this strategy lead to overconfidence?",
+      "What historical examples can inform my decision?",
+      "How might my perception of risk change over time?",
+      "What are the worst-case scenarios?",
+      "How does this fit within my long-term goals?",
+      "What feedback loops might exist in my strategy?",
+      "Am I relying too heavily on mathematical models?",
+      "What alternative strategies could I consider?",
+      "How does my emotional state influence my decisions?",
+      "What lessons can I learn from past mistakes?"
+    ],
+    "warnings": [
+      "Beware of overconfidence in hedging.",
+      "Don't ignore the psychological aspects of risk.",
+      "Avoid complex strategies without understanding them.",
+      "Regularly reassess your risk tolerance.",
+      "Be cautious of relying solely on historical data."
+    ]
+  },
+  "context": {
+    "history": "Proebsting's Paradox emerged from discussions around the Kelly criterion and its applications in gambling and investment strategies.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

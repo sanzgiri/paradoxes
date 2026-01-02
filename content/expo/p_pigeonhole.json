@@ -1,0 +1,76 @@
+{
+  "id": "p_pigeonhole",
+  "narrative": {
+    "story": "Imagine placing 10 pigeons into 9 pigeonholes. By the Pigeonhole Principle, at least one hole must contain more than one pigeon. This seemingly simple idea leads to surprising conclusions in various fields, illustrating how limited resources can lead to inevitable overlaps.",
+    "wrong_reasoning": "Some might argue that it's possible for each pigeon to occupy a unique hole, but with more pigeons than holes, this is impossible. The assumption that each can be separate ignores the basic arithmetic of distribution.",
+    "paradox": "The paradox lies in the simplicity of the principle versus the complexity of its implications. It seems trivial, yet it reveals profound truths about allocation and distribution in mathematics and beyond."
+  },
+  "mechanism": {
+    "assumptions": "Assumes finite resources and discrete categories.",
+    "steps": "1. Count the items (pigeons). 2. Count the containers (holes). 3. Compare counts. 4. Conclude overlap is necessary if items exceed containers.",
+    "math": "If n items are placed into m containers and n > m, then at least one container must hold more than one item.",
+    "truth": "Inevitably, overlap occurs."
+  },
+  "solutions": {
+    "paths": [
+      "Redistribute items",
+      "Increase containers",
+      "Limit items",
+      "Accept overlap"
+    ],
+    "tradeoffs": [
+      "Efficiency vs. redundancy",
+      "Cost vs. capacity",
+      "Complexity vs. simplicity",
+      "Flexibility vs. control",
+      "Scalability vs. manageability",
+      "Speed vs. accuracy",
+      "Risk vs. reward",
+      "Quality vs. quantity"
+    ],
+    "status": "Understanding the principle helps in optimizing resource allocation."
+  },
+  "practice": {
+    "patterns": [
+      "Resource allocation",
+      "Task distribution",
+      "Data clustering",
+      "Network design",
+      "Load balancing",
+      "Scheduling",
+      "Inventory management",
+      "Game theory",
+      "Statistical sampling",
+      "Combinatorial optimization"
+    ],
+    "prompts": [
+      "How can you apply this principle?",
+      "What are real-world examples?",
+      "Can you find a counterexample?",
+      "How does this affect decision-making?",
+      "What if resources are infinite?",
+      "How does this relate to probability?",
+      "Can you visualize this?",
+      "What assumptions are you making?",
+      "How does this apply to your field?",
+      "What are the implications of overlap?",
+      "How can you mitigate overlap?",
+      "What happens with more dimensions?"
+    ],
+    "warnings": [
+      "Avoid overcomplicating the principle.",
+      "Don't ignore edge cases.",
+      "Be cautious with assumptions.",
+      "Consider the implications of overlap.",
+      "Ensure clarity in definitions."
+    ]
+  },
+  "context": {
+    "history": "The Pigeonhole Principle has been known since ancient times, with formal recognition in combinatorial mathematics.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

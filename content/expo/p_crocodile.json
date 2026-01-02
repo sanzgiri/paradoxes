@@ -1,0 +1,57 @@
+{
+  "id": "p_crocodile",
+  "narrative": {
+    "story": "In the Crocodile Dilemma, a crocodile steals a child and offers to return the child if the father can correctly guess what the crocodile will do. If the father guesses that the child will not be returned, the crocodile faces a dilemma: if it returns the child, it contradicts the father's guess, but if it does not return the child, it breaks its promise.",
+    "wrong_reasoning": "Some might argue that the crocodile must return the child if the father guesses correctly, but this reasoning overlooks the implications of the promise and the nature of the guess. The father\u2019s guess creates a paradox where the crocodile's actions can lead to contradictory outcomes.",
+    "paradox": "The paradox arises from the conflict between the crocodile's promise and the father's guess. If the father guesses the child will not be returned, the crocodile's obligation to return the child creates a logical inconsistency."
+  },
+  "mechanism": {
+    "assumptions": "The crocodile's promise is assumed to be binding, and the father's guess is assumed to be definitive.",
+    "steps": "1. The crocodile steals the child. 2. The crocodile makes a promise based on the father's guess. 3. The father makes a guess about the outcome. 4. The crocodile must decide how to respond based on the guess.",
+    "math": "",
+    "truth": "The truth of the situation hinges on the interpretation of the promise."
+  },
+  "solutions": {
+    "paths": [
+      "The crocodile returns the child, fulfilling the promise.",
+      "The crocodile keeps the child, breaking the promise.",
+      "The father reframes the guess to avoid the paradox.",
+      "The crocodile offers a different condition for the return."
+    ],
+    "tradeoffs": [
+      "Returning the child may lead to a loss of credibility.",
+      "Not returning the child breaks the promise.",
+      "Reframing the guess may resolve the paradox but complicates the situation.",
+      "Offering a different condition may confuse the father."
+    ],
+    "status": "The dilemma remains unresolved in philosophical discussions."
+  },
+  "practice": {
+    "patterns": [
+      "Identifying paradoxes",
+      "Analyzing promises",
+      "Understanding decision-making"
+    ],
+    "prompts": [
+      "What would you do in this situation?",
+      "How can promises create paradoxes?",
+      "Discuss the implications of the father's guess.",
+      "Explore similar dilemmas in logic."
+    ],
+    "warnings": [
+      "Avoid oversimplifying the dilemma.",
+      "Be cautious of assumptions.",
+      "Consider multiple perspectives.",
+      "Recognize the limits of logical reasoning."
+    ]
+  },
+  "context": {
+    "history": "The Crocodile Dilemma has been discussed in philosophical circles for centuries, illustrating the complexities of promises and predictions.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf",
+      "wikipedia": "https://en.wikipedia.org/wiki/Crocodile_dilemma"
+    }
+  }
+}

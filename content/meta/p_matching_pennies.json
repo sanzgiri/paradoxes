@@ -1,0 +1,17 @@
+{
+  "id": "p_matching_pennies",
+  "title": "Matching Pennies Paradox",
+  "hook": "Pure strategies fail; requires randomization for equilibrium.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Randomization is essential in zero-sum games.",
+  "tags": [
+    "zerosum",
+    "mixed_strategy"
+  ],
+  "related": []
+}

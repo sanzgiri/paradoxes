@@ -1,0 +1,74 @@
+{
+  "id": "p_epr",
+  "narrative": {
+    "story": "In 1935, Einstein, Podolsky, and Rosen proposed a thought experiment involving two entangled particles. When one particle's state is measured, the other particle's state is instantly determined, regardless of the distance separating them. This phenomenon, known as quantum entanglement, suggests that information can be transmitted faster than light, challenging the principles of locality and realism in physics.",
+    "wrong_reasoning": "Many argue that if entangled particles can affect each other instantaneously, it implies a form of communication that violates the speed of light limit. However, this reasoning overlooks the fact that no usable information is transmitted in the process, as the outcomes are inherently random until measured.",
+    "paradox": "The EPR paradox highlights a conflict between quantum mechanics and classical intuitions about separability and locality, raising questions about the completeness of quantum theory."
+  },
+  "mechanism": {
+    "assumptions": "The assumptions include the completeness of quantum mechanics and the principle of locality.",
+    "steps": "1. Prepare a pair of entangled particles. 2. Measure the state of one particle. 3. Observe the instantaneous determination of the other particle's state. 4. Analyze the implications for locality and realism.",
+    "math": "The mathematical description involves wave functions and the entangled state represented as |\u03c8\u27e9 = (1/\u221a2)(|00\u27e9 + |11\u27e9).",
+    "truth": "The truth is that entanglement does not allow for faster-than-light communication."
+  },
+  "solutions": {
+    "paths": [
+      "Accept quantum nonlocality",
+      "Explore hidden variable theories",
+      "Investigate interpretations of quantum mechanics",
+      "Consider the implications for information theory"
+    ],
+    "tradeoffs": [
+      "Accepting nonlocality challenges classical views",
+      "Hidden variables may restore realism but complicate quantum mechanics",
+      "Different interpretations lead to varied philosophical implications",
+      "Experimental verification of entanglement is complex",
+      "Quantum mechanics remains probabilistic",
+      "Local realism is difficult to reconcile with experiments",
+      "Understanding entanglement requires advanced mathematics",
+      "Philosophical implications can be unsettling"
+    ],
+    "status": "Ongoing research in quantum foundations."
+  },
+  "practice": {
+    "patterns": [
+      "Entanglement experiments",
+      "Bell's theorem tests",
+      "Quantum teleportation",
+      "Quantum cryptography",
+      "Measurement theory",
+      "Nonlocal correlations",
+      "Hidden variable models",
+      "Quantum information theory",
+      "Philosophical discussions",
+      "Experimental physics"
+    ],
+    "prompts": [
+      "What is your understanding of entanglement?",
+      "How does EPR challenge classical physics?",
+      "Discuss the implications of nonlocality.",
+      "What are hidden variable theories?",
+      "Explain Bell's theorem.",
+      "How do experiments test the EPR paradox?",
+      "What is the significance of quantum measurements?",
+      "How does entanglement relate to quantum computing?",
+      "Discuss interpretations of quantum mechanics.",
+      "What are the philosophical implications of EPR?"
+    ],
+    "warnings": [
+      "Avoid conflating entanglement with communication",
+      "Be cautious of misinterpreting quantum mechanics",
+      "Recognize the limits of classical intuition",
+      "Understand the role of measurement",
+      "Beware of oversimplifying complex theories."
+    ]
+  },
+  "context": {
+    "history": "The EPR paradox was introduced in a 1935 paper by Einstein, Podolsky, and Rosen, sparking debates about the nature of reality in quantum mechanics.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

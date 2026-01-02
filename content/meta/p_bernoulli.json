@@ -1,0 +1,16 @@
+{
+  "id": "p_bernoulli",
+  "title": "Bernoulli's Paradox",
+  "hook": "Faster flow implies lower pressure counterintuitive for lift.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Fluid speed and pressure are inversely related.",
+  "tags": [
+    "fluid_dynamics",
+    "paradoxical_flow"
+  ],
+  "related": []
+}

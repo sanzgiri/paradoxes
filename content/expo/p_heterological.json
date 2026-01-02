@@ -1,0 +1,57 @@
+{
+  "id": "p_heterological",
+  "narrative": {
+    "story": "The term 'heterological' refers to words that do not apply to themselves. For example, 'long' is heterological because it does not describe the word itself. The paradox arises when we ask if 'heterological' is heterological. If it is, then it must not apply to itself, leading to a contradiction. Conversely, if it is not heterological, then it must apply to itself, which again leads to a contradiction.",
+    "wrong_reasoning": "One might argue that 'heterological' is heterological because it does not describe itself. However, this reasoning fails as it leads to the conclusion that it cannot be heterological, creating a loop of contradictions.",
+    "paradox": "The Heterological Paradox illustrates the complexities of self-reference and classification, challenging our understanding of language and meaning."
+  },
+  "mechanism": {
+    "assumptions": "The definitions of heterological and self-reference are clear and consistent.",
+    "steps": "1. Define heterological. 2. Analyze if 'heterological' fits its own definition. 3. Identify contradictions arising from both possibilities.",
+    "math": "",
+    "truth": "The truth of the statement is inherently contradictory."
+  },
+  "solutions": {
+    "paths": [
+      "Accept the paradox as a limitation of language.",
+      "Explore alternative definitions of heterological.",
+      "Use formal logic to analyze the statement.",
+      "Consider the implications of self-reference."
+    ],
+    "tradeoffs": [
+      "Clarity vs. complexity in definitions.",
+      "Rigidity vs. flexibility in language use.",
+      "Philosophical implications vs. practical applications.",
+      "Acceptance of paradox vs. rejection of self-reference."
+    ],
+    "status": "Ongoing debate in philosophy and linguistics."
+  },
+  "practice": {
+    "patterns": [
+      "Identify self-referential statements.",
+      "Analyze similar paradoxes.",
+      "Discuss implications in groups.",
+      "Create examples of heterological terms."
+    ],
+    "prompts": [
+      "What other terms might be heterological?",
+      "How does this paradox affect our understanding of language?",
+      "Can you think of a term that is both heterological and non-heterological?",
+      "Discuss the implications of this paradox in everyday language."
+    ],
+    "warnings": [
+      "Avoid circular reasoning.",
+      "Be cautious with definitions.",
+      "Recognize the limits of language.",
+      "Don't oversimplify the paradox."
+    ]
+  },
+  "context": {
+    "history": "The Heterological Paradox has roots in discussions of self-reference dating back to ancient philosophers.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

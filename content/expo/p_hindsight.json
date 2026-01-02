@@ -1,0 +1,66 @@
+{
+  "id": "p_hindsight",
+  "narrative": {
+    "story": "After a major event, people often claim they knew the outcome all along. This phenomenon, known as hindsight bias, leads individuals to believe that they could have predicted the event's result, despite lacking any prior evidence. For instance, after a sports game, fans may insist they knew the winning team would triumph, even if they had doubts before the game.",
+    "wrong_reasoning": "Many believe that their ability to recall past events accurately means they could have predicted them. This reasoning ignores the fact that memory is reconstructive and often influenced by current knowledge and beliefs, leading to an inflated sense of foresight.",
+    "paradox": "The paradox lies in the discrepancy between pre-event uncertainty and post-event certainty. Despite Bayesian principles suggesting that probabilities should adjust based on new evidence, hindsight bias causes individuals to overestimate their predictive abilities, creating a false sense of confidence."
+  },
+  "mechanism": {
+    "assumptions": "People assume their memories are accurate reflections of past beliefs.",
+    "steps": "1. An event occurs. 2. Individuals form beliefs about the event's outcome. 3. After the event, they recall their pre-event beliefs. 4. They adjust their beliefs to align with the actual outcome, leading to hindsight bias.",
+    "math": "P(A|B) > P(A) where A is the event outcome and B is the belief before the event.",
+    "truth": "Hindsight bias distorts our understanding of probability."
+  },
+  "solutions": {
+    "paths": [
+      "Awareness of bias",
+      "Critical thinking training",
+      "Encouraging documentation of beliefs",
+      "Using statistical reasoning"
+    ],
+    "tradeoffs": [
+      "Increased skepticism vs. decision-making speed",
+      "Documentation effort vs. clarity of thought",
+      "Training time vs. improved outcomes",
+      "Awareness vs. confidence"
+    ],
+    "status": "Ongoing research into mitigating bias effects."
+  },
+  "practice": {
+    "patterns": [
+      "Reflect on past decisions",
+      "Analyze outcomes critically",
+      "Discuss predictions with peers",
+      "Document pre-event beliefs"
+    ],
+    "prompts": [
+      "What did you think would happen?",
+      "How confident were you before the event?",
+      "What evidence did you have?",
+      "How does this outcome compare to your prediction?",
+      "What can you learn from this experience?",
+      "How might you approach similar situations in the future?",
+      "What biases might have influenced your thinking?",
+      "How can you verify your beliefs?",
+      "What alternative outcomes were possible?",
+      "What role did luck play in the outcome?",
+      "How would you explain this to someone else?",
+      "What steps can you take to improve your predictions?"
+    ],
+    "warnings": [
+      "Avoid overconfidence in predictions.",
+      "Be cautious of memory distortions.",
+      "Recognize the limits of hindsight.",
+      "Challenge your assumptions.",
+      "Stay open to alternative explanations."
+    ]
+  },
+  "context": {
+    "history": "Hindsight bias has been studied since the 1970s, revealing its impact on decision-making.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

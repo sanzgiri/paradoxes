@@ -1,0 +1,54 @@
+{
+  "id": "p_false_friends",
+  "narrative": {
+    "story": "In language learning, false friends are words that look similar in two languages but have different meanings. For example, the English word 'actual' means 'real', while its Spanish counterpart 'actual' means 'current'. This can lead to misunderstandings and miscommunications, especially in professional settings.",
+    "wrong_reasoning": "Many learners assume that because two words look alike, they must have the same meaning. This assumption can lead to errors in translation and interpretation, causing confusion in conversations and written texts.",
+    "paradox": "The paradox lies in the fact that familiarity with a language can lead to overconfidence, causing speakers to misinterpret or misuse words that appear similar but are fundamentally different."
+  },
+  "mechanism": {
+    "assumptions": "Learners often assume that similar spelling indicates similar meaning.",
+    "steps": "1. Identify words that look alike in different languages. 2. Research their meanings in both languages. 3. Practice using them in context to avoid confusion.",
+    "math": "",
+    "truth": "Not all similar-looking words share meanings."
+  },
+  "solutions": {
+    "paths": [
+      "Study lists of false friends.",
+      "Engage in language exchange with native speakers.",
+      "Use context clues to determine meanings.",
+      "Practice translation with caution."
+    ],
+    "tradeoffs": [
+      "Time spent learning false friends vs. overall vocabulary.",
+      "Risk of misunderstanding vs. improved language skills.",
+      "Reliance on translation tools vs. developing intuition.",
+      "Focus on grammar vs. vocabulary nuances."
+    ],
+    "status": "Ongoing research in linguistics."
+  },
+  "practice": {
+    "patterns": [
+      "Identify false friends in texts.",
+      "Create flashcards for practice.",
+      "Engage in conversations using tricky words."
+    ],
+    "prompts": [
+      "Find a false friend in your target language.",
+      "Translate a sentence using a false friend.",
+      "Discuss a misunderstanding caused by false friends."
+    ],
+    "warnings": [
+      "Don't assume meanings based on spelling.",
+      "Be cautious in professional translations.",
+      "Always verify meanings with reliable sources."
+    ]
+  },
+  "context": {
+    "history": "The concept of false friends has been studied in linguistics for decades, highlighting the complexities of language learning.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "p_self_absorption",
+  "narrative": {
+    "story": "The Self-Absorption Paradox illustrates how individuals can become trapped in their own reasoning when trying to evaluate their decisions. As they reflect on their choices, they may overanalyze their motivations and outcomes, leading to a circular reasoning trap. This paradox highlights the tension between self-awareness and effective decision-making.",
+    "wrong_reasoning": "One might assume that increased self-awareness always leads to better decision-making. However, this paradox shows that too much introspection can cloud judgment, leading to indecision or poor choices. The belief that one can always rationalize their feelings and decisions can result in a feedback loop that complicates the decision-making process.",
+    "paradox": "The paradox lies in the fact that while self-awareness is generally seen as beneficial, it can simultaneously cause greater psychological distress and hinder effective decision-making."
+  },
+  "mechanism": {
+    "assumptions": "Individuals assume that self-reflection leads to clarity in decision-making.",
+    "steps": "1. An individual reflects on a decision. 2. They analyze their motivations and potential outcomes. 3. Over-analysis leads to confusion and indecision. 4. The cycle repeats, creating a loop of self-doubt.",
+    "math": "N/A",
+    "truth": "Self-awareness can be a double-edged sword."
+  },
+  "solutions": {
+    "paths": [
+      "Limit self-reflection time.",
+      "Seek external perspectives.",
+      "Focus on actionable steps.",
+      "Practice mindfulness techniques."
+    ],
+    "tradeoffs": [
+      "Less introspection may lead to quicker decisions but less understanding.",
+      "External perspectives can provide clarity but may introduce bias.",
+      "Mindfulness can reduce anxiety but may not address underlying issues.",
+      "Focusing on actions may overlook emotional factors."
+    ],
+    "status": "Research ongoing."
+  },
+  "practice": {
+    "patterns": [
+      "Set time limits for reflection.",
+      "Engage in group discussions.",
+      "Use decision-making frameworks.",
+      "Practice mindfulness regularly.",
+      "Document decisions and outcomes."
+    ],
+    "prompts": [
+      "What is the main goal of this decision?",
+      "What are the potential outcomes?",
+      "How would I advise a friend in this situation?",
+      "What assumptions am I making?",
+      "What evidence supports my feelings?",
+      "What would I do if I weren't overthinking?",
+      "How can I simplify this decision?",
+      "What are the worst-case scenarios?",
+      "What have I learned from past decisions?",
+      "What external factors should I consider?",
+      "How does this align with my values?",
+      "What is the next small step I can take?"
+    ],
+    "warnings": [
+      "Avoid overthinking.",
+      "Be cautious of confirmation bias.",
+      "Don't ignore emotional responses.",
+      "Recognize when to seek help.",
+      "Limit the influence of negative feedback."
+    ]
+  },
+  "context": {
+    "history": "The Self-Absorption Paradox has been discussed in psychological literature, emphasizing the complexities of self-awareness in decision-making.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

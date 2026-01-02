@@ -1,0 +1,16 @@
+{
+  "id": "p_loschmidt",
+  "title": "Loschmidt\u2019s Paradox",
+  "hook": "Microscopic reversibility appears to conflict with macroscopic irreversibility.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Understanding time's arrow in thermodynamics.",
+  "tags": [
+    "time_reversal",
+    "entropy"
+  ],
+  "related": []
+}

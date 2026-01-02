@@ -1,0 +1,76 @@
+{
+  "id": "p_friendship",
+  "narrative": {
+    "story": "The Friendship Paradox reveals a surprising truth: most people find that their friends have more friends than they do. This phenomenon arises from the way social networks are structured. If you have fewer friends, you are more likely to be friends with those who are more socially active, skewing your perception of friendship.",
+    "wrong_reasoning": "Many might think that if they have a small circle of friends, their friends must also have a similar number of friends. However, this reasoning overlooks the fact that social networks are often unevenly distributed, leading to the paradox.",
+    "paradox": "The paradox lies in the observation that the average number of friends of a person's friends is greater than the average number of friends that person has. This can lead to feelings of inadequacy or loneliness, despite being surrounded by a network of friends."
+  },
+  "mechanism": {
+    "assumptions": "Social networks are not uniformly distributed; some individuals are more socially active.",
+    "steps": "1. Count the number of friends each person has. 2. Calculate the average number of friends for a group. 3. Compare the average number of friends of a person's friends to their own number of friends.",
+    "math": "If A has 3 friends and B has 10 friends, A's friends (B) have a higher average than A's own count.",
+    "truth": "The average number of friends of friends is greater than the average number of friends."
+  },
+  "solutions": {
+    "paths": [
+      "Increase social interactions",
+      "Broaden social circles",
+      "Engage in community activities",
+      "Utilize social media"
+    ],
+    "tradeoffs": [
+      "Time investment",
+      "Potential for superficial connections",
+      "Risk of social fatigue",
+      "Balancing quality vs quantity",
+      "Navigating social dynamics",
+      "Managing expectations",
+      "Understanding personal limits",
+      "Dealing with rejection"
+    ],
+    "status": "Awareness of the paradox can help individuals navigate their social lives more effectively."
+  },
+  "practice": {
+    "patterns": [
+      "Identify social circles",
+      "Assess friend dynamics",
+      "Engage in new activities",
+      "Reflect on social interactions",
+      "Seek diverse friendships",
+      "Evaluate personal expectations",
+      "Communicate openly",
+      "Be proactive in social settings",
+      "Understand network effects",
+      "Learn from social experiences"
+    ],
+    "prompts": [
+      "How many friends do you have?",
+      "How many friends do your friends have?",
+      "What activities can you join to meet new people?",
+      "Reflect on your social interactions this week.",
+      "Consider how your friendships impact your happiness.",
+      "What qualities do you value in a friend?",
+      "How can you expand your social network?",
+      "What are your social goals?",
+      "How do you feel about your current friendships?",
+      "What steps can you take to deepen existing friendships?",
+      "How do you handle social anxiety?",
+      "What lessons have you learned from past friendships?"
+    ],
+    "warnings": [
+      "Avoid comparing yourself to others",
+      "Be mindful of social media portrayals",
+      "Recognize the importance of quality over quantity",
+      "Understand that not all friendships are equal",
+      "Beware of burnout from social obligations"
+    ]
+  },
+  "context": {
+    "history": "The Friendship Paradox has been studied in social network theory and statistics, highlighting the complexities of human relationships.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

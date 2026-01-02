@@ -1,0 +1,16 @@
+{
+  "id": "p_maxwell_demon",
+  "title": "Maxwell\u2019s Demon",
+  "hook": "A hypothetical demon seems able to violate the second law of thermodynamics by sorting molecules.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Information can influence thermodynamic processes.",
+  "tags": [
+    "thermodynamics",
+    "information"
+  ],
+  "related": []
+}

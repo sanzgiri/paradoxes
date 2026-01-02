@@ -1,0 +1,76 @@
+{
+  "id": "p_hedonist",
+  "narrative": {
+    "story": "The Paradox of Hedonism suggests that when individuals chase happiness directly, they often find themselves unhappy. This counterintuitive idea posits that happiness is a byproduct of engaging in meaningful activities rather than a goal to be pursued. For instance, someone focused solely on having fun may overlook deeper connections and fulfillment that arise from relationships or achievements.",
+    "wrong_reasoning": "Many believe that if they can just achieve a certain level of pleasure or happiness, they will be satisfied. This leads to a cycle of disappointment, as the pursuit of pleasure can become obsessive, causing stress and anxiety. The flawed reasoning lies in equating happiness with pleasure, ignoring the complexity of emotional fulfillment.",
+    "paradox": "The paradox lies in the observation that the more one seeks happiness for its own sake, the more elusive it becomes. Conversely, when individuals engage in activities that are meaningful or fulfilling, happiness often follows naturally."
+  },
+  "mechanism": {
+    "assumptions": "Happiness is a direct result of pleasure; pursuing pleasure will lead to happiness.",
+    "steps": "1. Identify what brings you pleasure. 2. Pursue those activities directly. 3. Assess your happiness levels. 4. Reflect on the outcomes and adjust your approach.",
+    "math": "N/A",
+    "truth": "Happiness is often a byproduct of indirect pursuits."
+  },
+  "solutions": {
+    "paths": [
+      "Engage in meaningful relationships",
+      "Pursue hobbies and interests",
+      "Focus on personal growth",
+      "Practice mindfulness and gratitude"
+    ],
+    "tradeoffs": [
+      "Time invested in indirect pursuits may delay immediate pleasure.",
+      "Risk of neglecting direct pleasure opportunities.",
+      "Potential for frustration if indirect pursuits don't yield expected happiness.",
+      "Balancing pleasure and fulfillment can be challenging.",
+      "Social pressures may influence pursuit strategies.",
+      "Indirect pursuits may require more effort and commitment.",
+      "Expectations can lead to disappointment.",
+      "Finding the right balance is subjective."
+    ],
+    "status": "Ongoing exploration of indirect happiness strategies."
+  },
+  "practice": {
+    "patterns": [
+      "Engage in community service",
+      "Cultivate hobbies",
+      "Build strong social networks",
+      "Practice self-reflection",
+      "Set personal goals",
+      "Explore new experiences",
+      "Limit social media consumption",
+      "Prioritize mental health",
+      "Develop resilience",
+      "Embrace uncertainty"
+    ],
+    "prompts": [
+      "What activities make you lose track of time?",
+      "Reflect on a time you felt truly happy.",
+      "What are your core values?",
+      "How can you incorporate more joy into your daily routine?",
+      "List three things you are grateful for today.",
+      "What does fulfillment mean to you?",
+      "How do you define success?",
+      "What small changes can you make to your routine?",
+      "Who inspires you to pursue happiness?",
+      "What fears hold you back from pursuing joy?",
+      "How can you support others in their pursuit of happiness?",
+      "What lessons have you learned from past pursuits of happiness?"
+    ],
+    "warnings": [
+      "Avoid equating pleasure with happiness.",
+      "Be cautious of societal pressures.",
+      "Don't neglect self-care in pursuit of goals.",
+      "Recognize the limits of direct pleasure.",
+      "Beware of burnout from constant pursuit."
+    ]
+  },
+  "context": {
+    "history": "The Paradox of Hedonism has been discussed in philosophical circles for centuries, with roots in ancient Greek philosophy.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

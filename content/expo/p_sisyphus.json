@@ -1,0 +1,76 @@
+{
+  "id": "p_sisyphus",
+  "narrative": {
+    "story": "In Greek mythology, Sisyphus was condemned to roll a boulder up a hill, only for it to roll back down each time he reached the top. This eternal task symbolizes the human condition, where individuals often find themselves engaged in repetitive and seemingly pointless endeavors. Yet, Sisyphus finds a form of happiness in his struggle, suggesting that meaning can be derived from the act of striving itself.",
+    "wrong_reasoning": "Many believe that happiness can only be achieved through success or the completion of tasks. This perspective overlooks the potential for joy in the journey and the value of perseverance, even in the face of futility.",
+    "paradox": "The Sisyphus paradox illustrates that one can be happy while engaged in a futile task. It challenges the notion that happiness is solely tied to achievement, proposing instead that the process and attitude towards struggle can yield fulfillment."
+  },
+  "mechanism": {
+    "assumptions": "Happiness is linked to success; struggle is inherently negative.",
+    "steps": "1. Recognize the futility of certain tasks. 2. Shift focus from outcomes to the process. 3. Embrace the struggle as part of the human experience. 4. Find personal meaning in the effort.",
+    "math": "",
+    "truth": "Happiness can exist independently of success."
+  },
+  "solutions": {
+    "paths": [
+      "Embrace the process of work.",
+      "Cultivate a mindset of acceptance.",
+      "Find joy in small victories.",
+      "Engage in reflective practices."
+    ],
+    "tradeoffs": [
+      "Pursuing happiness vs. achieving goals.",
+      "Acceptance vs. striving for change.",
+      "Contentment vs. ambition.",
+      "Futility vs. meaning in struggle.",
+      "Short-term pleasure vs. long-term fulfillment.",
+      "Individual effort vs. collective success.",
+      "Routine vs. spontaneity.",
+      "Satisfaction vs. dissatisfaction."
+    ],
+    "status": "Ongoing exploration of meaning in struggle."
+  },
+  "practice": {
+    "patterns": [
+      "Mindfulness in daily tasks.",
+      "Journaling about struggles.",
+      "Discussing experiences with others.",
+      "Setting process-oriented goals.",
+      "Finding beauty in mundane activities.",
+      "Practicing gratitude for effort.",
+      "Engaging in creative outlets.",
+      "Exploring philosophical texts.",
+      "Participating in community discussions.",
+      "Reflecting on personal values."
+    ],
+    "prompts": [
+      "What brings you joy in your daily routine?",
+      "How can you find meaning in your struggles?",
+      "Reflect on a time you felt fulfilled despite challenges.",
+      "What small victories can you celebrate today?",
+      "How do you define success?",
+      "What does happiness mean to you?",
+      "In what ways can you embrace the process?",
+      "How can you shift your focus from outcomes?",
+      "What lessons have you learned from repetitive tasks?",
+      "How can you cultivate acceptance in your life?",
+      "What role does community play in your happiness?",
+      "How can you incorporate reflection into your routine?"
+    ],
+    "warnings": [
+      "Avoid equating happiness with success.",
+      "Be cautious of burnout from relentless striving.",
+      "Recognize the value of rest and reflection.",
+      "Don't overlook the importance of community support.",
+      "Beware of negative self-talk during struggles."
+    ]
+  },
+  "context": {
+    "history": "The Sisyphus myth has been interpreted by various philosophers, notably Albert Camus, who explored the absurdity of life and the search for meaning.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

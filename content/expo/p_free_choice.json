@@ -1,0 +1,76 @@
+{
+  "id": "p_free_choice",
+  "narrative": {
+    "story": "In a scenario where a soldier wishes to be declared insane to avoid combat, the paradox arises. The soldier's desire for a declaration of insanity contradicts the very condition for being deemed insane. Thus, the more he wishes to be seen as insane, the less likely he is to be declared so, creating a logical loop.",
+    "wrong_reasoning": "One might assume that expressing a desire for freedom of choice guarantees it. However, the paradox illustrates that such desires can lead to outcomes that negate the very freedom sought. The reasoning fails to account for the implications of modal logic.",
+    "paradox": "The paradox of free choice reveals that asserting a choice can lead to contradictions, as the act of choosing may inherently limit the options available."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that choices are independent and can be freely made without consequences.",
+    "steps": "1. Identify the choice scenario. 2. Apply disjunction introduction. 3. Analyze the implications of the choices. 4. Recognize contradictions that arise.",
+    "math": "N/A",
+    "truth": "Choices can lead to unexpected contradictions."
+  },
+  "solutions": {
+    "paths": [
+      "Reframe the choice scenario",
+      "Limit the scope of choices",
+      "Use alternative logical frameworks",
+      "Acknowledge inherent contradictions"
+    ],
+    "tradeoffs": [
+      "Increased complexity",
+      "Potential loss of freedom",
+      "Need for clearer definitions",
+      "Risk of oversimplification",
+      "Possibility of new paradoxes",
+      "Dependence on context",
+      "Need for rigorous analysis",
+      "Potential for confusion"
+    ],
+    "status": "Ongoing exploration in modal logic."
+  },
+  "practice": {
+    "patterns": [
+      "Identify paradoxes",
+      "Analyze modal statements",
+      "Explore implications of choices",
+      "Revisit assumptions",
+      "Challenge reasoning",
+      "Use counterexamples",
+      "Discuss with peers",
+      "Apply in real scenarios",
+      "Reflect on outcomes",
+      "Document findings"
+    ],
+    "prompts": [
+      "What choices lead to contradictions?",
+      "How can we reframe this scenario?",
+      "What assumptions are we making?",
+      "Can we find a clearer definition?",
+      "What if we limit the choices?",
+      "How does this apply in real life?",
+      "What are the implications of our choices?",
+      "How do modal statements affect reasoning?",
+      "What paradoxes can we identify?",
+      "How do we resolve contradictions?",
+      "What alternative frameworks exist?",
+      "How can we communicate these ideas?"
+    ],
+    "warnings": [
+      "Avoid oversimplification",
+      "Be cautious of assumptions",
+      "Recognize the limits of logic",
+      "Stay aware of context",
+      "Challenge your reasoning."
+    ]
+  },
+  "context": {
+    "history": "The paradox has been discussed in modal logic for decades, highlighting the complexities of choice and reasoning.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

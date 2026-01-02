@@ -1,0 +1,76 @@
+{
+  "id": "p_pyrrhonian",
+  "narrative": {
+    "story": "Pyrrhonian skepticism posits that one should suspend judgment on beliefs due to the existence of opposing arguments. This leads to a paradox: if all beliefs are equally valid, then the act of suspending belief itself becomes a belief, thus contradicting the initial stance of skepticism.",
+    "wrong_reasoning": "One might argue that by suspending belief, one achieves a state of neutrality. However, this neutrality is itself a position that requires justification, which is not provided by the skeptic. This creates a loop where the skeptic's position is as dogmatic as the beliefs they critique.",
+    "paradox": "The paradox lies in the fact that to justify skepticism, one must rely on reasoning that ultimately undermines the very act of justification itself."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that all beliefs can be equally challenged and that neutrality is achievable.",
+    "steps": "1. Identify conflicting beliefs. 2. Suspend judgment on all beliefs. 3. Recognize that suspension itself is a belief. 4. Conclude that skepticism is self-defeating.",
+    "math": "",
+    "truth": "Skepticism can lead to contradictory conclusions."
+  },
+  "solutions": {
+    "paths": [
+      "Embrace a moderate skepticism that allows for provisional beliefs.",
+      "Develop a framework for evaluating beliefs without total suspension.",
+      "Acknowledge the limits of skepticism in practical decision-making.",
+      "Engage in dialogue to explore beliefs rather than suspend them."
+    ],
+    "tradeoffs": [
+      "Increased open-mindedness vs. potential indecision.",
+      "Provisional beliefs vs. absolute certainty.",
+      "Engagement with beliefs vs. detachment.",
+      "Risk of dogmatism vs. risk of nihilism.",
+      "Clarity in reasoning vs. complexity of thought.",
+      "Intellectual humility vs. confidence in knowledge.",
+      "Constructive skepticism vs. paralyzing doubt.",
+      "Exploration of ideas vs. commitment to none."
+    ],
+    "status": "Ongoing philosophical debate."
+  },
+  "practice": {
+    "patterns": [
+      "Identify assumptions in arguments.",
+      "Challenge your own beliefs regularly.",
+      "Engage with opposing viewpoints.",
+      "Practice active listening in discussions.",
+      "Reflect on the reasons behind your beliefs.",
+      "Use thought experiments to test beliefs.",
+      "Document your reasoning process.",
+      "Seek feedback on your conclusions.",
+      "Participate in philosophical discussions.",
+      "Maintain a journal of skeptical inquiries."
+    ],
+    "prompts": [
+      "What beliefs do you hold without question?",
+      "How would you argue against your own position?",
+      "What evidence would change your mind?",
+      "Can you identify a belief you once held that you now question?",
+      "What assumptions underlie your strongest beliefs?",
+      "How do you define knowledge?",
+      "What role does doubt play in your thinking?",
+      "How do you balance skepticism with belief?",
+      "What is the most challenging belief you've encountered?",
+      "How do you approach conflicting evidence?",
+      "What is the value of uncertainty?",
+      "How can skepticism enhance your understanding?"
+    ],
+    "warnings": [
+      "Avoid becoming overly cynical.",
+      "Beware of paralysis by analysis.",
+      "Don't dismiss all beliefs as equally valid.",
+      "Recognize the emotional impact of skepticism.",
+      "Be cautious of using skepticism to avoid commitment."
+    ]
+  },
+  "context": {
+    "history": "Pyrrhonian skepticism originated in ancient Greece, attributed to Pyrrho of Elis, and has influenced various philosophical traditions.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

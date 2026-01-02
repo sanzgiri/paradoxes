@@ -1,0 +1,61 @@
+{
+  "id": "p_cantor",
+  "narrative": {
+    "story": "Cantor's Paradox arises when we consider the set of all sets. If such a set exists, it must have a power set, which is the set of all subsets of that set. According to Cantor's theorem, the power set of any set has a greater cardinality than the set itself. Therefore, if the set of all sets had a cardinality, its power set would imply a cardinality greater than itself, leading to a contradiction.",
+    "wrong_reasoning": "Some may argue that the set of all sets can exist without contradiction. They might believe that cardinalities can be extended indefinitely, allowing for a 'greatest' cardinal. However, this reasoning ignores the implications of Cantor's theorem, which shows that any attempt to define such a set leads to inconsistencies.",
+    "paradox": "The paradox lies in the assumption that the set of all sets can have a cardinality. If it does, then its power set must also have a cardinality, which contradicts the notion of having a 'greatest' cardinal number."
+  },
+  "mechanism": {
+    "assumptions": "The existence of the set of all sets and the validity of Cantor's theorem.",
+    "steps": "1. Define the set of all sets. 2. Determine its power set. 3. Apply Cantor's theorem to show the power set's cardinality is greater. 4. Conclude the contradiction regarding cardinalities.",
+    "math": "If |S| is the cardinality of a set S, then |P(S)| > |S|, where P(S) is the power set of S.",
+    "truth": "The set of all sets cannot exist."
+  },
+  "solutions": {
+    "paths": [
+      "Reject the existence of the set of all sets.",
+      "Accept that cardinalities can be infinite but not greatest.",
+      "Use alternative set theories like ZF or NBG.",
+      "Explore the implications of higher infinities."
+    ],
+    "tradeoffs": [
+      "Simplifies set theory by avoiding contradictions.",
+      "Allows for a clearer understanding of infinity.",
+      "May limit certain mathematical constructs.",
+      "Encourages exploration of non-standard analysis.",
+      "Requires acceptance of complex axioms.",
+      "Might challenge intuitive notions of size.",
+      "Could lead to deeper philosophical questions.",
+      "May complicate foundational mathematics."
+    ],
+    "status": "Accepted in modern set theory."
+  },
+  "practice": {
+    "patterns": [
+      "Explore different types of infinities.",
+      "Analyze other paradoxes in set theory.",
+      "Discuss implications of cardinality.",
+      "Investigate alternative set theories."
+    ],
+    "prompts": [
+      "What is the power set of a finite set?",
+      "How does Cantor's theorem apply to infinite sets?",
+      "Can you think of a set that leads to a paradox?",
+      "What are the implications of rejecting the set of all sets?"
+    ],
+    "warnings": [
+      "Avoid assuming the set of all sets exists.",
+      "Be cautious with definitions of infinity.",
+      "Recognize the limits of intuitive reasoning.",
+      "Understand the implications of paradoxes."
+    ]
+  },
+  "context": {
+    "history": "Cantor's work in the late 19th century laid the foundation for modern set theory and introduced the concept of different sizes of infinity.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

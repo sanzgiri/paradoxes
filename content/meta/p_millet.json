@@ -1,0 +1,16 @@
+{
+  "id": "p_millet",
+  "title": "Paradox of Millet Grain",
+  "hook": "Single grain silent, thousand make sound.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Aggregation can lead to unexpected outcomes.",
+  "tags": [
+    "sound",
+    "aggregation"
+  ],
+  "related": []
+}

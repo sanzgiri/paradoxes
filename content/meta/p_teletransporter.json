@@ -1,0 +1,17 @@
+{
+  "id": "p_teletransporter",
+  "title": "Teletransporter Paradox",
+  "hook": "Body destroyed and rebuilt elsewhere: is it you or copy?",
+  "domains": [
+    "philosophy",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Identity may not survive physical duplication.",
+  "tags": [
+    "personal_identity",
+    "duplication"
+  ],
+  "related": []
+}

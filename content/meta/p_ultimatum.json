@@ -1,0 +1,17 @@
+{
+  "id": "p_ultimatum",
+  "title": "Ultimatum Game Paradox",
+  "hook": "Subgame-perfect equilibrium predicts acceptance of any positive offer, yet low offers are routinely rejected.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Rationality in decision-making can lead to unexpected outcomes.",
+  "tags": [
+    "fairness",
+    "equilibrium"
+  ],
+  "related": []
+}

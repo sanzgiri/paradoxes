@@ -1,0 +1,17 @@
+{
+  "id": "p_new_evil_demon",
+  "title": "New Evil Demon Paradox",
+  "hook": "Demon-induced true beliefs lack justification despite reliability.",
+  "domains": [
+    "other",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Reliability does not guarantee justification.",
+  "tags": [
+    "reliabilism",
+    "internalism"
+  ],
+  "related": []
+}

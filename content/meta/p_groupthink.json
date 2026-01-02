@@ -1,0 +1,17 @@
+{
+  "id": "p_groupthink",
+  "title": "Groupthink Paradox",
+  "hook": "Group discussion shifts toward extreme rather than moderate positions.",
+  "domains": [
+    "social_choice",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Consensus can lead to poor decision-making.",
+  "tags": [
+    "deliberation",
+    "polarization"
+  ],
+  "related": []
+}

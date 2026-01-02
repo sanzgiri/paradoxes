@@ -1,0 +1,16 @@
+{
+  "id": "p_banach_tarski",
+  "title": "Banach\u2013Tarski Paradox",
+  "hook": "A solid ball can be partitioned into finitely many pieces and reassembled into two balls of the original size.",
+  "domains": [
+    "mathematics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Infinity can lead to counterintuitive results.",
+  "tags": [
+    "set_theory",
+    "measure"
+  ],
+  "related": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p_will_rogers",
+  "title": "Will Rogers Phenomenon",
+  "hook": "Moving an element from one group to another can increase both group averages.",
+  "domains": [
+    "statistics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Averages can be misleading when groups are combined.",
+  "tags": [
+    "averages",
+    "transfer"
+  ],
+  "related": []
+}

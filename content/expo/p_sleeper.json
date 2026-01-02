@@ -1,0 +1,76 @@
+{
+  "id": "p_sleeper",
+  "narrative": {
+    "story": "Imagine a gambler who bets on a game every time they wake up. Each time they awaken, they must decide whether to place a bet based on their current belief about winning. However, their belief may not align with the optimal betting strategy due to the nature of repeated awakenings. This creates a paradox where the gambler's strategy appears rational yet leads to unexpected outcomes.",
+    "wrong_reasoning": "Many believe that the gambler should always bet based on their current credence. However, this reasoning neglects the impact of future awakenings and the cumulative effect of repeated decisions, leading to suboptimal betting strategies.",
+    "paradox": "The Sleeper Paradox illustrates how a rational decision-making process can yield irrational outcomes when the decision context changes with repeated opportunities."
+  },
+  "mechanism": {
+    "assumptions": "The gambler's credence remains static and does not account for future awakenings.",
+    "steps": "1. The gambler wakes up and assesses their belief about winning. 2. They decide to bet based on this belief. 3. Upon waking again, they reassess and may change their bet. 4. This cycle continues, impacting overall strategy.",
+    "math": "The expected value of betting changes with each awakening, leading to a divergence between credence and optimal strategy.",
+    "truth": "Repeated decisions can alter the rationality of choices."
+  },
+  "solutions": {
+    "paths": [
+      "Adjust betting strategy based on cumulative experience.",
+      "Incorporate future awakenings into initial credence assessments.",
+      "Use simulations to better understand outcomes.",
+      "Seek external advice to mitigate personal biases."
+    ],
+    "tradeoffs": [
+      "Increased complexity in decision-making.",
+      "Potential for overthinking and analysis paralysis.",
+      "Balancing immediate gains versus long-term strategy.",
+      "Risk of deviating from initial beliefs.",
+      "Time investment in strategy adjustment.",
+      "Need for continuous learning and adaptation.",
+      "Possibility of emotional fatigue from repeated decisions.",
+      "Impact on confidence with fluctuating outcomes."
+    ],
+    "status": "Ongoing research into optimal strategies."
+  },
+  "practice": {
+    "patterns": [
+      "Identify patterns in past decisions.",
+      "Reflect on the impact of repeated choices.",
+      "Simulate different betting scenarios.",
+      "Analyze outcomes of previous bets.",
+      "Discuss strategies with peers.",
+      "Document decision-making processes.",
+      "Evaluate emotional responses to wins/losses.",
+      "Consider alternative strategies.",
+      "Review mathematical models of decision-making.",
+      "Practice mindfulness to reduce bias."
+    ],
+    "prompts": [
+      "What would you do differently next time?",
+      "How does your belief change with each awakening?",
+      "What assumptions are you making?",
+      "Can you identify a pattern in your decisions?",
+      "How do emotions influence your choices?",
+      "What external factors might affect your strategy?",
+      "How can you simplify your decision-making process?",
+      "What is the worst-case scenario?",
+      "How would a friend advise you?",
+      "What data can you collect to inform your decisions?",
+      "How do you define success in this context?",
+      "What are the long-term implications of your choices?"
+    ],
+    "warnings": [
+      "Avoid overconfidence in your credence.",
+      "Be cautious of emotional decision-making.",
+      "Don't ignore the impact of future awakenings.",
+      "Beware of confirmation bias in your assessments.",
+      "Recognize when to seek external input."
+    ]
+  },
+  "context": {
+    "history": "The Sleeper Paradox has been discussed in decision theory and probability contexts, highlighting the complexities of repeated decision-making.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

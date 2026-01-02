@@ -1,0 +1,16 @@
+{
+  "id": "p_theseus",
+  "title": "Ship of Theseus",
+  "hook": "A ship gradually replaced plank by plank raises questions about numerical identity over time.",
+  "domains": [
+    "philosophy"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "antinomy",
+  "key_lesson": "Identity can be complex and context-dependent.",
+  "tags": [
+    "identity",
+    "change"
+  ],
+  "related": []
+}

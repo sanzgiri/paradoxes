@@ -1,0 +1,66 @@
+{
+  "id": "p_zombie",
+  "narrative": {
+    "story": "Imagine a being that is physically indistinguishable from a human but lacks consciousness. This being, known as a philosophical zombie, behaves exactly like a human, yet experiences no qualia or subjective experiences. The existence of such a being raises questions about the nature of consciousness and whether it can be fully explained by physical processes alone.",
+    "wrong_reasoning": "Some argue that if we can conceive of zombies, then they must be possible. However, this reasoning overlooks the distinction between conceivability and possibility. Just because we can imagine a scenario doesn't mean it can exist in reality. This leads to confusion about the implications of physicalism.",
+    "paradox": "The paradox lies in the challenge to physicalism: if zombies are conceivable, then consciousness must involve non-physical properties. This suggests that our understanding of consciousness is incomplete, as it implies there are aspects of experience that cannot be captured by physical explanations."
+  },
+  "mechanism": {
+    "assumptions": "The assumption that consciousness is solely a product of physical processes.",
+    "steps": "1. Define a philosophical zombie. 2. Consider the implications of their existence. 3. Analyze the relationship between physicalism and consciousness. 4. Evaluate the validity of the assumptions.",
+    "math": "",
+    "truth": "Consciousness may involve more than just physical processes."
+  },
+  "solutions": {
+    "paths": [
+      "Explore alternative theories of consciousness.",
+      "Investigate the relationship between brain activity and subjective experience.",
+      "Consider the implications of dualism.",
+      "Engage with contemporary debates in philosophy of mind."
+    ],
+    "tradeoffs": [
+      "Accepting dualism may complicate scientific explanations.",
+      "Rejecting zombies may limit understanding of consciousness.",
+      "Exploring consciousness may lead to more questions than answers.",
+      "Focusing on physicalism may overlook subjective experiences."
+    ],
+    "status": "Ongoing debates in philosophy and cognitive science."
+  },
+  "practice": {
+    "patterns": [
+      "Compare physicalism and dualism.",
+      "Analyze thought experiments related to consciousness.",
+      "Discuss implications of consciousness in AI.",
+      "Evaluate different theories of mind."
+    ],
+    "prompts": [
+      "What defines consciousness?",
+      "Can consciousness be measured?",
+      "How do zombies challenge physicalism?",
+      "What are the implications of dualism?",
+      "Discuss the role of qualia in experience.",
+      "How does this paradox relate to AI?",
+      "What are the limits of physical explanations?",
+      "Explore the concept of subjective experience.",
+      "How do cultural perspectives influence views on consciousness?",
+      "What are the ethical implications of consciousness studies?",
+      "Can we ever fully understand consciousness?",
+      "How does neuroscience inform the debate?"
+    ],
+    "warnings": [
+      "Avoid conflating conceivability with possibility.",
+      "Be cautious of oversimplifying complex theories.",
+      "Recognize the limits of current scientific understanding.",
+      "Don't dismiss subjective experiences as irrelevant.",
+      "Be aware of biases in philosophical arguments."
+    ]
+  },
+  "context": {
+    "history": "The philosophical zombie concept was popularized in the late 20th century, particularly by philosophers like David Chalmers.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

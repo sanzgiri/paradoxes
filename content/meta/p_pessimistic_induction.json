@@ -1,0 +1,16 @@
+{
+  "id": "p_pessimistic_induction",
+  "title": "Pessimistic Meta-Induction",
+  "hook": "Past successful theories false implies current theories approximate.",
+  "domains": [
+    "other",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Historical theories often fail, questioning current ones.",
+  "tags": [
+    "theory_change"
+  ],
+  "related": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p_feather_hammer",
+  "title": "Feather-Hammer Paradox",
+  "hook": "Feather and hammer fall together in vacuum, contradicting air intuition.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intro",
+  "paradox_type": "veridical",
+  "key_lesson": "Gravity affects all objects equally in a vacuum.",
+  "tags": [
+    "vacuum",
+    "equivalence_principle"
+  ],
+  "related": []
+}

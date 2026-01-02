@@ -1,0 +1,16 @@
+{
+  "id": "p_gabriel_horn",
+  "title": "Gabriel\u2019s Horn",
+  "hook": "A surface of revolution can have finite volume but infinite surface area.",
+  "domains": [
+    "mathematics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Finite volume does not imply finite surface area.",
+  "tags": [
+    "calculus",
+    "infinite_surface"
+  ],
+  "related": []
+}

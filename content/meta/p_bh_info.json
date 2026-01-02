@@ -1,0 +1,16 @@
+{
+  "id": "p_bh_info",
+  "title": "Black Hole Information Paradox",
+  "hook": "Black hole evaporation seems to destroy information, conflicting with quantum unitarity.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "advanced",
+  "paradox_type": "falsidical",
+  "key_lesson": "Information cannot be destroyed, even by black holes.",
+  "tags": [
+    "quantum_gravity",
+    "unitarity"
+  ],
+  "related": []
+}

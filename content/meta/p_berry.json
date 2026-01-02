@@ -1,0 +1,16 @@
+{
+  "id": "p_berry",
+  "title": "Berry\u2019s Paradox",
+  "hook": "A number that cannot be named creates a self-referential dilemma.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Self-reference can lead to contradictions.",
+  "tags": [
+    "selfreference",
+    "semantics"
+  ],
+  "related": []
+}

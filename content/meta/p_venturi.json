@@ -1,0 +1,16 @@
+{
+  "id": "p_venturi",
+  "title": "Venturi Paradox",
+  "hook": "Narrowing pipe increases speed, decreases pressure unexpectedly.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Fluid behavior defies intuitive expectations.",
+  "tags": [
+    "fluid_dynamics",
+    "pressure"
+  ],
+  "related": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": "p_mary_room",
+  "narrative": {
+    "story": "Mary, a neuroscientist, has lived her entire life in a black-and-white room, learning everything about color from a scientific perspective. When she finally sees a red apple for the first time, she experiences the color red. This raises the question: Did she learn something new, despite knowing all the physical facts about color?",
+    "wrong_reasoning": "Some argue that if Mary knows all the physical facts about color, she should already know what red is like. They believe her experience doesn't add new knowledge, suggesting that all knowledge is reducible to physical facts.",
+    "paradox": "The paradox lies in the conflict between physicalism and the subjective experience of qualia. If Mary learns something new upon seeing red, it challenges the idea that all knowledge can be explained through physical facts alone."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that knowledge is purely physical and that subjective experiences can be fully explained by physical facts.",
+    "steps": "1. Define physicalism and qualia. 2. Present Mary's background and knowledge. 3. Describe her experience upon seeing red. 4. Analyze the implications of her new knowledge.",
+    "math": "",
+    "truth": "Knowledge includes subjective experiences."
+  },
+  "solutions": {
+    "paths": [
+      "Embrace dualism",
+      "Refine physicalism",
+      "Explore epistemology",
+      "Investigate consciousness"
+    ],
+    "tradeoffs": [
+      "Subjectivity vs. objectivity",
+      "Physicalism vs. dualism",
+      "Knowledge vs. experience",
+      "Reductionism vs. emergent properties",
+      "Scientific vs. philosophical perspectives",
+      "Intuition vs. logic",
+      "Qualitative vs. quantitative analysis",
+      "Personal experience vs. universal truths"
+    ],
+    "status": "Debated"
+  },
+  "practice": {
+    "patterns": [
+      "Analyze other thought experiments",
+      "Discuss implications of qualia",
+      "Explore consciousness theories",
+      "Debate physicalism vs. dualism",
+      "Examine case studies",
+      "Reflect on personal experiences",
+      "Engage in philosophical dialogues",
+      "Write essays on knowledge",
+      "Create visual representations",
+      "Conduct group discussions"
+    ],
+    "prompts": [
+      "What is your understanding of qualia?",
+      "How would you explain Mary's experience?",
+      "Can knowledge be purely physical?",
+      "What are the implications of this paradox?",
+      "How does this relate to consciousness?",
+      "Discuss a similar thought experiment.",
+      "What are the limits of physicalism?",
+      "How do subjective experiences shape knowledge?",
+      "What is the role of perception?",
+      "Can you think of counterexamples?",
+      "How does this affect our understanding of reality?",
+      "What philosophical stance do you take?"
+    ],
+    "warnings": [
+      "Avoid oversimplification",
+      "Be cautious of biases",
+      "Recognize the complexity of consciousness",
+      "Don't dismiss subjective experiences",
+      "Consider multiple perspectives"
+    ]
+  },
+  "context": {
+    "history": "The paradox was introduced by philosopher Frank Jackson in 1982 to challenge physicalism.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

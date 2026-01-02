@@ -1,0 +1,54 @@
+{
+  "id": "p_antitrust",
+  "narrative": {
+    "story": "The Antitrust Paradox suggests that antitrust laws, intended to promote competition, can inadvertently protect inefficient firms. This occurs when regulations shield these firms from market forces, leading to higher prices for consumers. The paradox highlights the complexities of enforcing competition without stifling market dynamics.",
+    "wrong_reasoning": "Many believe that antitrust laws always benefit consumers by lowering prices. However, this reasoning overlooks the possibility that protecting weaker competitors can lead to less innovation and higher costs overall. The assumption that all competition is beneficial fails to consider the nuances of market efficiency.",
+    "paradox": "The paradox lies in the contradiction that laws meant to foster competition can actually result in higher prices and reduced market efficiency by shielding inefficient firms from the pressures of competition."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that all competition is inherently good and that protecting firms will lead to better outcomes.",
+    "steps": "1. Identify inefficient competitors. 2. Implement antitrust laws to protect them. 3. Observe market reactions. 4. Analyze price changes and consumer welfare.",
+    "math": "Price elasticity of demand can illustrate how price changes affect consumer behavior, but the relationship is complex in the presence of protected competitors.",
+    "truth": "Not all competition leads to lower prices."
+  },
+  "solutions": {
+    "paths": [
+      "Reform antitrust laws to focus on market efficiency.",
+      "Encourage competition without protectionist measures.",
+      "Implement consumer education on market dynamics.",
+      "Promote innovation as a key to competition."
+    ],
+    "tradeoffs": [
+      "Short-term price increases vs. long-term market health.",
+      "Consumer protection vs. market efficiency.",
+      "Regulatory oversight vs. free market principles.",
+      "Support for inefficient firms vs. fostering innovation."
+    ],
+    "status": "Ongoing debates in economic policy."
+  },
+  "practice": {
+    "patterns": [
+      "Analyze case studies of antitrust enforcement.",
+      "Evaluate the impact of regulations on market prices.",
+      "Discuss the balance between competition and efficiency."
+    ],
+    "prompts": [
+      "What are the unintended consequences of antitrust laws?",
+      "How can we measure market efficiency?",
+      "Discuss examples where competition led to higher prices."
+    ],
+    "warnings": [
+      "Avoid oversimplifying the effects of competition.",
+      "Beware of the assumptions underlying antitrust policies.",
+      "Recognize the potential for regulatory capture."
+    ]
+  },
+  "context": {
+    "history": "The Antitrust Paradox was popularized by Robert Bork in the 1970s, challenging traditional views on competition and regulation.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "p_wigner_friend",
+  "narrative": {
+    "story": "In Wigner's Friend Paradox, Wigner's friend performs a measurement on a quantum system while Wigner observes from a distance. The friend sees a definite outcome, but Wigner sees the system in a superposition of states. This leads to a conflict in understanding reality: is the outcome real for Wigner's friend, or is it merely a part of Wigner's broader observation? This paradox challenges our understanding of measurement in quantum mechanics.",
+    "wrong_reasoning": "One might assume that the measurement by Wigner's friend collapses the wave function for both observers. However, this reasoning fails to account for the differing perspectives of the observers and the implications of quantum entanglement.",
+    "paradox": "The paradox arises from the clash between the definite outcome observed by Wigner's friend and the superposition seen by Wigner, questioning the nature of reality and observation in quantum mechanics."
+  },
+  "mechanism": {
+    "assumptions": "The observer's perspective influences the state of the system; measurement leads to wave function collapse.",
+    "steps": "1. Wigner's friend measures a quantum state. 2. Wigner observes the friend and the system. 3. The friend sees a definite outcome while Wigner sees a superposition. 4. The conflict arises in reconciling these observations.",
+    "math": "The mathematical representation involves wave functions and their collapse, typically expressed as |\u03c8\u27e9 \u2192 |\u03c6\u27e9 upon measurement.",
+    "truth": "Measurement alters the state of a quantum system."
+  },
+  "solutions": {
+    "paths": [
+      "Decoherence theory",
+      "Many-worlds interpretation",
+      "Relational quantum mechanics",
+      "Objective collapse models"
+    ],
+    "tradeoffs": [
+      "Complexity of interpretations",
+      "Loss of classical intuition",
+      "Challenges in experimental verification",
+      "Philosophical implications",
+      "Compatibility with relativity",
+      "Conceptual clarity vs. mathematical rigor",
+      "Subjectivity of measurement",
+      "Observer-dependent realities"
+    ],
+    "status": "Ongoing debate in quantum foundations."
+  },
+  "practice": {
+    "patterns": [
+      "Quantum measurement scenarios",
+      "Observer effects in experiments",
+      "Entanglement discussions",
+      "Interpretation comparisons"
+    ],
+    "prompts": [
+      "What does measurement mean in quantum mechanics?",
+      "How do different interpretations resolve the paradox?",
+      "Can we reconcile Wigner's perspective with his friend's?",
+      "What implications does this have for reality?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying quantum mechanics.",
+      "Be cautious of anthropocentric interpretations.",
+      "Recognize the limits of classical analogies."
+    ]
+  },
+  "context": {
+    "history": "The paradox was introduced by physicist Eugene Wigner in the 1960s as a thought experiment.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

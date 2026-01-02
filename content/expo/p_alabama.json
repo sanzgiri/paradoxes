@@ -1,0 +1,70 @@
+{
+  "id": "p_alabama",
+  "narrative": {
+    "story": "The Alabama Paradox illustrates a surprising outcome in apportionment. When the total number of congressional seats is increased, it is possible for a state to actually lose a seat. This occurs due to the way seats are allocated based on population, leading to unexpected results that challenge our intuition about representation.",
+    "wrong_reasoning": "Many assume that increasing the number of seats will benefit all states proportionally. However, the allocation process can lead to a situation where a state loses representation despite a growing population, as the distribution of seats is influenced by rounding and the total number of seats available.",
+    "paradox": "The paradox lies in the fact that more seats can lead to less representation for certain states, contradicting the expectation that growth in total seats should benefit all states equally."
+  },
+  "mechanism": {
+    "assumptions": "The assumption that more seats will always lead to better representation is flawed.",
+    "steps": "1. Determine total population. 2. Calculate seat allocation based on population ratios. 3. Apply rounding rules. 4. Observe the distribution of seats.",
+    "math": "Seat allocation often uses methods like the Hamilton method, which can lead to unexpected results due to rounding.",
+    "truth": "More seats do not guarantee more representation."
+  },
+  "solutions": {
+    "paths": [
+      "Reform apportionment methods",
+      "Implement fairer rounding techniques",
+      "Increase transparency in allocation processes",
+      "Educate the public on apportionment complexities"
+    ],
+    "tradeoffs": [
+      "Complexity vs. fairness",
+      "Transparency vs. efficiency",
+      "Stability vs. adaptability",
+      "Public understanding vs. technical accuracy",
+      "Short-term gains vs. long-term representation",
+      "Political feasibility vs. ideal solutions",
+      "Uniformity vs. local needs",
+      "Cost vs. benefit of reforms"
+    ],
+    "status": "Ongoing discussions in political and academic circles."
+  },
+  "practice": {
+    "patterns": [
+      "Analyze past apportionment outcomes",
+      "Simulate different allocation methods",
+      "Evaluate public sentiment on representation",
+      "Study historical cases of the Alabama Paradox"
+    ],
+    "prompts": [
+      "What assumptions do we make about representation?",
+      "How can we improve our apportionment methods?",
+      "What are the implications of the Alabama Paradox?",
+      "How does rounding affect seat allocation?",
+      "What lessons can we learn from historical apportionment?",
+      "In what ways can public education improve understanding?",
+      "How do different states react to changes in seat allocation?",
+      "What reforms have been proposed to address this paradox?",
+      "How can technology aid in fairer apportionment?",
+      "What role does public opinion play in apportionment reforms?",
+      "How do demographic changes impact representation?",
+      "What are the ethical considerations in seat allocation?"
+    ],
+    "warnings": [
+      "Beware of oversimplifying apportionment processes.",
+      "Avoid assuming all states will benefit equally.",
+      "Recognize the impact of rounding on outcomes.",
+      "Understand the historical context of apportionment.",
+      "Be cautious of political motivations in reform discussions."
+    ]
+  },
+  "context": {
+    "history": "The Alabama Paradox was first identified in the early 19th century and has since been a topic of discussion in political science and mathematics.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "p_lottery",
+  "narrative": {
+    "story": "In a large lottery with millions of tickets, it's rational to believe that any specific ticket will lose, given the overwhelming odds against it. However, if you consider the entire set of tickets, it's paradoxical to think that all tickets will lose, as one must win. This creates a conflict between individual rationality and collective outcomes.",
+    "wrong_reasoning": "Many believe that since each ticket has a low probability of winning, it's reasonable to conclude that no ticket will win. This reasoning fails to account for the fact that at least one ticket must win, leading to a contradiction in belief.",
+    "paradox": "The lottery paradox illustrates the conflict between rational belief in individual outcomes and the collective outcome of the lottery, challenging our understanding of probability."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that individual probabilities can be applied to collective outcomes.",
+    "steps": "1. Identify the total number of tickets. 2. Calculate the probability of any ticket winning. 3. Conclude that each ticket is likely to lose. 4. Recognize that at least one ticket must win, contradicting the previous conclusion.",
+    "math": "If there are N tickets and the probability of winning for each ticket is 1/N, then the probability of losing is (N-1)/N. However, the conjunction of all tickets losing is (N-1)/N raised to the power of N, which approaches 0 as N increases.",
+    "truth": "At least one ticket must win."
+  },
+  "solutions": {
+    "paths": [
+      "Reassess individual beliefs in the context of collective outcomes.",
+      "Use Bayesian reasoning to update beliefs based on new information.",
+      "Differentiate between individual and collective probabilities.",
+      "Accept the paradox as a limitation of classical probability."
+    ],
+    "tradeoffs": [
+      "Simplifying assumptions may lead to incorrect conclusions.",
+      "Relying on intuition can misguide rational thought.",
+      "Balancing individual and collective reasoning can be complex.",
+      "Overemphasis on probability may obscure underlying truths.",
+      "Ignoring paradoxes can lead to flawed decision-making.",
+      "Accepting uncertainty can enhance rational belief.",
+      "Adapting beliefs requires cognitive flexibility.",
+      "Engaging with paradoxes fosters deeper understanding."
+    ],
+    "status": "Ongoing exploration in philosophy and probability theory."
+  },
+  "practice": {
+    "patterns": [
+      "Identify assumptions in probability problems.",
+      "Explore paradoxes in decision-making.",
+      "Discuss implications of collective outcomes.",
+      "Analyze real-world lottery scenarios."
+    ],
+    "prompts": [
+      "What does it mean for a ticket to lose?",
+      "How do collective outcomes affect individual beliefs?",
+      "Can you think of other paradoxes in probability?",
+      "How would you explain this paradox to a friend?",
+      "What assumptions are you making about probability?",
+      "How does this paradox apply to everyday decisions?",
+      "What are the implications for rational belief?",
+      "How can you reconcile individual and collective reasoning?",
+      "What strategies can help in understanding paradoxes?",
+      "How does this relate to other logical paradoxes?",
+      "What role does intuition play in probability?",
+      "How can Bayesian reasoning clarify this paradox?"
+    ],
+    "warnings": [
+      "Avoid conflating individual and collective probabilities.",
+      "Be cautious of intuitive reasoning in complex scenarios.",
+      "Recognize the limitations of classical probability.",
+      "Don't ignore the implications of paradoxes.",
+      "Challenge your assumptions regularly."
+    ]
+  },
+  "context": {
+    "history": "The lottery paradox has been discussed in philosophical circles since the early 20th century, highlighting the complexities of probability and belief.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

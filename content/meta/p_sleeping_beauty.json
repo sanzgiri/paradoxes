@@ -1,0 +1,17 @@
+{
+  "id": "p_sleeping_beauty",
+  "title": "Sleeping Beauty Problem",
+  "hook": "Different updating rules yield conflicting credences for a repeated-awakening experiment.",
+  "domains": [
+    "philosophy",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Credence updates depend on the interpretation of the experiment.",
+  "tags": [
+    "selflocating_belief",
+    "probability"
+  ],
+  "related": []
+}

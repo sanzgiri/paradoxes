@@ -1,0 +1,57 @@
+{
+  "id": "p_theseus",
+  "narrative": {
+    "story": "The Ship of Theseus is a thought experiment that questions the nature of identity. Imagine a ship that, over time, has every single plank replaced. Is it still the same ship? Now, consider if you took all the original planks and built another ship. Which one is the true Ship of Theseus? This paradox challenges our understanding of identity and continuity.",
+    "wrong_reasoning": "One might argue that as long as the ship retains its name, it remains the same ship. However, this reasoning overlooks the significance of the physical components that constitute the ship's identity.",
+    "paradox": "The paradox arises when both the fully replaced ship and the ship made from the original planks can be claimed as the Ship of Theseus, leading to conflicting conclusions about identity."
+  },
+  "mechanism": {
+    "assumptions": "The identity of an object is tied to its physical components and continuity over time.",
+    "steps": "1. Identify the original ship. 2. Gradually replace each plank. 3. Analyze if the ship remains the same. 4. Reassemble the original planks into a new ship.",
+    "math": "",
+    "truth": "Identity is not solely based on physical continuity."
+  },
+  "solutions": {
+    "paths": [
+      "Accept both ships as the Ship of Theseus.",
+      "Define identity based on memory or function.",
+      "Argue that identity is a social construct.",
+      "Reject the notion of identity as absolute."
+    ],
+    "tradeoffs": [
+      "Complexity of identity vs. simplicity of labels.",
+      "Philosophical implications vs. practical applications.",
+      "Subjectivity vs. objectivity in defining identity.",
+      "Cultural perspectives on identity."
+    ],
+    "status": "Ongoing philosophical debate."
+  },
+  "practice": {
+    "patterns": [
+      "Explore other identity paradoxes.",
+      "Discuss implications in personal identity.",
+      "Analyze historical examples of identity change.",
+      "Debate the role of memory in identity."
+    ],
+    "prompts": [
+      "What defines your identity?",
+      "Can a person change completely and remain the same?",
+      "How do memories shape our sense of self?",
+      "Is identity fixed or fluid?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying identity.",
+      "Be cautious of cultural biases.",
+      "Recognize the emotional impact of identity discussions.",
+      "Understand the implications of labeling."
+    ]
+  },
+  "context": {
+    "history": "The Ship of Theseus has been discussed since ancient Greece, raising questions about identity in philosophy.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

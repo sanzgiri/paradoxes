@@ -1,0 +1,16 @@
+{
+  "id": "p_pigeonhole",
+  "title": "Pigeonhole Principle Paradox",
+  "hook": "Finite pigeons guarantee collision in fewer holes.",
+  "domains": [
+    "mathematics"
+  ],
+  "difficulty": "intro",
+  "paradox_type": "veridical",
+  "key_lesson": "More items than containers ensure overlap.",
+  "tags": [
+    "combinatorics",
+    "collision"
+  ],
+  "related": []
+}

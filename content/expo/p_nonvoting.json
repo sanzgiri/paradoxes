@@ -1,0 +1,76 @@
+{
+  "id": "p_nonvoting",
+  "narrative": {
+    "story": "In a local election, a candidate wins with a narrow margin. However, if a significant number of voters abstain or if turnout shifts slightly, the outcome could flip entirely. This scenario illustrates how collective decisions can be swayed by individual choices, leading to unexpected results.",
+    "wrong_reasoning": "Many believe that if they don't vote, their choice doesn't matter. However, abstaining can change the outcome just as much as voting. This misconception leads to a misunderstanding of how collective decision-making works.",
+    "paradox": "The Non-Voting Paradox reveals that in certain voting systems, the absence of votes can be as impactful as the presence of votes, leading to outcomes that seem illogical."
+  },
+  "mechanism": {
+    "assumptions": "Voter turnout is constant; each vote has equal weight.",
+    "steps": "1. Analyze voter turnout data. 2. Identify close races. 3. Simulate changes in turnout. 4. Observe outcome shifts.",
+    "math": "If candidate A has 100 votes and candidate B has 99, a 5% abstention rate could lead to a win for candidate B if the abstainers would have voted for them.",
+    "truth": "Voting can dramatically alter outcomes."
+  },
+  "solutions": {
+    "paths": [
+      "Increase voter education",
+      "Encourage turnout",
+      "Implement ranked-choice voting",
+      "Analyze voting systems"
+    ],
+    "tradeoffs": [
+      "Higher turnout may lead to less informed decisions",
+      "Ranked-choice can complicate voting process",
+      "Education requires resources",
+      "Encouragement may not guarantee participation",
+      "System changes can face resistance",
+      "Voter fatigue may increase",
+      "Abstention may still occur",
+      "Outcomes may remain unpredictable"
+    ],
+    "status": "Ongoing discussions in electoral reform."
+  },
+  "practice": {
+    "patterns": [
+      "Engagement strategies",
+      "Turnout campaigns",
+      "Voting simulations",
+      "Educational workshops",
+      "Community discussions",
+      "Social media outreach",
+      "Feedback loops",
+      "Data analysis",
+      "Voter registration drives",
+      "Poll monitoring"
+    ],
+    "prompts": [
+      "What would happen if everyone voted?",
+      "How can we increase turnout?",
+      "What misconceptions exist about voting?",
+      "How do abstentions affect outcomes?",
+      "What reforms could help?",
+      "Can we predict election outcomes?",
+      "What role does education play?",
+      "How do different systems compare?",
+      "What are the historical trends?",
+      "How can we engage non-voters?",
+      "What are the consequences of low turnout?",
+      "How does social media influence voting?"
+    ],
+    "warnings": [
+      "Avoid misinformation",
+      "Don't assume all votes are equal",
+      "Be cautious of overgeneralizing",
+      "Recognize the impact of demographics",
+      "Beware of voter fatigue"
+    ]
+  },
+  "context": {
+    "history": "The Non-Voting Paradox has been discussed in electoral theory for decades, highlighting the complexities of voter behavior.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

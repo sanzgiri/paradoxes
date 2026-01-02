@@ -1,0 +1,57 @@
+{
+  "id": "p_banach_tarski",
+  "narrative": {
+    "story": "The Banach\u2013Tarski paradox states that it is possible to take a solid ball, divide it into a finite number of non-overlapping pieces, and then reassemble those pieces into two solid balls, each the same size as the original. This result challenges our intuitive understanding of volume and measure in mathematics, particularly in the context of infinite sets.",
+    "wrong_reasoning": "Many people assume that if you can cut a ball into pieces, the total volume of the pieces must equal the volume of the original ball. However, the pieces in the Banach\u2013Tarski paradox are not conventional shapes; they are non-measurable sets that defy traditional volume calculations.",
+    "paradox": "The paradox arises from the properties of infinite sets and the Axiom of Choice in set theory, leading to results that seem impossible in the physical world."
+  },
+  "mechanism": {
+    "assumptions": "The paradox relies on the Axiom of Choice, which allows for the selection of elements from an infinite number of sets.",
+    "steps": "1. Divide the ball into a finite number of pieces using specific mathematical methods. 2. Reassemble the pieces using rotations and translations. 3. Demonstrate that the resulting two balls are identical in size to the original.",
+    "math": "The pieces are constructed using complex geometric transformations that do not conform to traditional volume measures.",
+    "truth": "The paradox is mathematically valid but cannot be realized physically."
+  },
+  "solutions": {
+    "paths": [
+      "Accept the paradox as a mathematical abstraction.",
+      "Explore the implications of the Axiom of Choice.",
+      "Investigate alternative set theories.",
+      "Understand the limitations of physical interpretations."
+    ],
+    "tradeoffs": [
+      "Increased understanding of infinity vs. intuitive confusion.",
+      "Mathematical rigor vs. physical realizability.",
+      "Acceptance of abstract concepts vs. practical applications.",
+      "Exploration of non-measurable sets vs. traditional geometry."
+    ],
+    "status": "The paradox remains a topic of discussion in mathematical circles."
+  },
+  "practice": {
+    "patterns": [
+      "Explore other paradoxes in set theory.",
+      "Analyze the implications of infinite sets.",
+      "Discuss the Axiom of Choice in various contexts.",
+      "Investigate the relationship between measure and geometry."
+    ],
+    "prompts": [
+      "What are the implications of the Banach\u2013Tarski paradox?",
+      "How does the Axiom of Choice affect set theory?",
+      "Can you think of real-world scenarios that illustrate this paradox?",
+      "What are the limitations of traditional volume calculations?"
+    ],
+    "warnings": [
+      "Do not confuse mathematical abstraction with physical reality.",
+      "Be cautious of intuitive reasoning in infinite contexts.",
+      "Understand the implications of non-measurable sets."
+    ]
+  },
+  "context": {
+    "history": "The Banach\u2013Tarski paradox was formulated in 1924 by mathematicians Stefan Banach and Alfred Tarski.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf",
+      "wikipedia": "https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox"
+    }
+  }
+}

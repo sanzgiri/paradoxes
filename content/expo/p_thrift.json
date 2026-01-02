@@ -1,0 +1,70 @@
+{
+  "id": "p_thrift",
+  "narrative": {
+    "story": "During a recession, individuals often try to save more money to secure their financial future. However, when everyone adopts this behavior, aggregate demand in the economy decreases. Businesses respond to lower demand by cutting back on production, which leads to layoffs and reduced income for everyone. Ironically, the collective effort to save results in a lower total savings rate across the economy.",
+    "wrong_reasoning": "People believe that saving more will always lead to better financial stability. They think that if everyone saves, it will lead to more resources available for investment. However, this ignores the interconnectedness of the economy, where reduced spending leads to lower income and ultimately less saving.",
+    "paradox": "The paradox lies in the fact that individual savings efforts can lead to a decrease in overall savings in the economy, contradicting the intuitive belief that saving is always beneficial."
+  },
+  "mechanism": {
+    "assumptions": "Individuals act independently and their savings do not affect others.",
+    "steps": "1. Individuals increase savings during a recession. 2. Aggregate demand decreases as spending falls. 3. Businesses reduce production and lay off workers. 4. Overall income declines, leading to lower total savings.",
+    "math": "If savings increase by 10% but demand decreases by 15%, total income can drop significantly, leading to a net loss in savings.",
+    "truth": "Saving can be detrimental to the economy when done collectively."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage spending through fiscal policies.",
+      "Promote investment in community projects.",
+      "Implement temporary tax breaks to stimulate consumption.",
+      "Educate on the importance of balanced saving and spending."
+    ],
+    "tradeoffs": [
+      "Short-term savings vs. long-term economic health.",
+      "Individual security vs. collective prosperity.",
+      "Immediate consumption vs. future investment.",
+      "Government intervention vs. market self-regulation.",
+      "Consumer confidence vs. economic stability.",
+      "Debt accumulation vs. savings growth.",
+      "Inflation control vs. economic stimulus.",
+      "Job security vs. business profitability."
+    ],
+    "status": "Ongoing discussions in economic policy."
+  },
+  "practice": {
+    "patterns": [
+      "Analyze historical economic downturns.",
+      "Study consumer behavior during recessions.",
+      "Evaluate the impact of government stimulus.",
+      "Discuss the balance between saving and spending."
+    ],
+    "prompts": [
+      "What happens when everyone saves?",
+      "How can government policies mitigate this paradox?",
+      "Discuss examples of the paradox in real life.",
+      "What are alternative strategies during a recession?",
+      "How does consumer confidence affect the economy?",
+      "Explore the relationship between savings and investment.",
+      "What lessons can be learned from past recessions?",
+      "How do different cultures approach saving?",
+      "What role does credit play in economic downturns?",
+      "How can individuals contribute to economic recovery?",
+      "What are the psychological effects of saving during a recession?",
+      "How do businesses react to changes in consumer saving behavior?"
+    ],
+    "warnings": [
+      "Avoid panic saving during economic downturns.",
+      "Be cautious of over-reliance on government support.",
+      "Understand the long-term effects of reduced spending.",
+      "Recognize the importance of community support.",
+      "Don't ignore the interconnectedness of the economy."
+    ]
+  },
+  "context": {
+    "history": "The Paradox of Thrift was popularized during the Great Depression, illustrating the unintended consequences of collective saving behavior.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

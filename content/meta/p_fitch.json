@@ -1,0 +1,16 @@
+{
+  "id": "p_fitch",
+  "title": "Fitch\u2019s Knowability Paradox",
+  "hook": "If all truths are knowable, it appears to follow that all truths are in fact known.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Not all knowable truths are known.",
+  "tags": [
+    "epistemic_logic",
+    "knowability"
+  ],
+  "related": []
+}

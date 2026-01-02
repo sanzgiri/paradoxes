@@ -1,0 +1,76 @@
+{
+  "id": "p_omniscience",
+  "narrative": {
+    "story": "Imagine a being with complete knowledge of all events, past, present, and future. This being knows every choice every person will make. However, if this being knows a future choice, does that choice remain free? If the being's knowledge determines the choice, then it is not truly free. This creates a conflict between the concepts of omniscience and free will.",
+    "wrong_reasoning": "Some argue that if an omniscient being knows a future choice, it must cause that choice to happen. This reasoning assumes that knowledge inherently influences actions, which is not necessarily true. Knowledge can exist without causing events.",
+    "paradox": "The paradox arises when considering whether an omniscient being can know future choices without infringing on the freedom of those choices. If knowledge of the future exists, does it negate the possibility of making a different choice?"
+  },
+  "mechanism": {
+    "assumptions": "1. Omniscience implies complete knowledge. 2. Free will allows for multiple possible futures. 3. Knowledge affects decision-making.",
+    "steps": "1. Define omniscience and free will. 2. Explore implications of knowing future choices. 3. Analyze if knowledge constrains freedom. 4. Discuss philosophical interpretations.",
+    "math": "",
+    "truth": "Knowledge does not necessarily dictate outcomes."
+  },
+  "solutions": {
+    "paths": [
+      "Reinterpret omniscience to allow for free will.",
+      "Argue that knowledge does not influence choices.",
+      "Propose a model of time where all choices coexist.",
+      "Accept the paradox as a limitation of human understanding."
+    ],
+    "tradeoffs": [
+      "Accepting limited omniscience may reduce paradox.",
+      "Maintaining free will may limit the scope of knowledge.",
+      "Different interpretations of time can lead to conflicting views.",
+      "Philosophical implications may challenge traditional beliefs.",
+      "Simplifying concepts may overlook deeper truths.",
+      "Complex models may confuse rather than clarify.",
+      "Rejecting the paradox may lead to oversimplification.",
+      "Embracing the paradox may foster deeper inquiry."
+    ],
+    "status": "Ongoing philosophical debate."
+  },
+  "practice": {
+    "patterns": [
+      "Identify assumptions in arguments.",
+      "Explore implications of knowledge.",
+      "Discuss free will in various contexts.",
+      "Analyze historical perspectives on omniscience.",
+      "Debate the nature of time and choice.",
+      "Consider alternative philosophical frameworks.",
+      "Evaluate real-world applications of these concepts.",
+      "Reflect on personal beliefs about knowledge.",
+      "Engage in thought experiments.",
+      "Collaborate on philosophical discussions."
+    ],
+    "prompts": [
+      "What does it mean to know something?",
+      "Can free will exist in a deterministic universe?",
+      "How do different cultures view knowledge?",
+      "What are the implications of omniscience?",
+      "Discuss a scenario involving free will and knowledge.",
+      "How does this paradox relate to modern science?",
+      "What are the limits of human understanding?",
+      "Explore the relationship between time and choice.",
+      "How do you define free will?",
+      "What philosophical questions arise from this paradox?",
+      "How can we reconcile knowledge and freedom?",
+      "What role does belief play in understanding knowledge?"
+    ],
+    "warnings": [
+      "Avoid conflating knowledge with causation.",
+      "Be cautious of oversimplifying complex ideas.",
+      "Recognize the subjective nature of philosophical debates.",
+      "Stay open to multiple interpretations.",
+      "Challenge your own assumptions."
+    ]
+  },
+  "context": {
+    "history": "The omniscience paradox has been discussed since ancient philosophical texts, with significant contributions from theologians and philosophers throughout history.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

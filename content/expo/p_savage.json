@@ -1,0 +1,76 @@
+{
+  "id": "p_savage",
+  "narrative": {
+    "story": "Savage's Paradox illustrates a conflict between subjective and objective probabilities. When individuals assign subjective probabilities to events, they may not always align with the actual frequencies of those events. This misalignment can lead to situations where individuals are vulnerable to Dutch book arguments, which exploit inconsistencies in their beliefs to guarantee a loss.",
+    "wrong_reasoning": "Some may argue that subjective probabilities are inherently valid and do not need to match objective frequencies. However, this reasoning overlooks the implications of making decisions based on inconsistent beliefs, which can lead to guaranteed losses in betting scenarios.",
+    "paradox": "The paradox arises when subjective probabilities diverge from objective frequencies, leading to a situation where rational agents can be coerced into losing bets, despite believing they are making sound decisions."
+  },
+  "mechanism": {
+    "assumptions": "Individuals have coherent beliefs that can be represented as probabilities.",
+    "steps": "1. Define subjective probabilities for events. 2. Compare these probabilities to objective frequencies. 3. Identify inconsistencies that can be exploited. 4. Analyze potential losses from Dutch book scenarios.",
+    "math": "If P(A) is the subjective probability and f(A) is the objective frequency, the condition for coherence is P(A) = f(A).",
+    "truth": "Coherent subjective probabilities are essential for rational decision-making."
+  },
+  "solutions": {
+    "paths": [
+      "Align subjective probabilities with objective frequencies.",
+      "Use Bayesian updating to refine beliefs.",
+      "Engage in thorough probability assessments.",
+      "Educate on the implications of Dutch book arguments."
+    ],
+    "tradeoffs": [
+      "Increased complexity in probability assessments.",
+      "Potential resistance to changing beliefs.",
+      "Time investment in education and training.",
+      "Risk of overconfidence in subjective judgments.",
+      "Need for continuous evaluation of beliefs.",
+      "Balancing intuition with formal methods.",
+      "Managing cognitive biases in probability estimation.",
+      "Navigating social influences on belief formation."
+    ],
+    "status": "Ongoing research in decision theory."
+  },
+  "practice": {
+    "patterns": [
+      "Regularly assess subjective beliefs.",
+      "Engage in group discussions on probability.",
+      "Utilize decision trees for complex scenarios.",
+      "Practice Bayesian reasoning.",
+      "Analyze past decisions for consistency.",
+      "Simulate betting scenarios to test beliefs.",
+      "Seek feedback on probability assessments.",
+      "Document reasoning behind probability assignments.",
+      "Review literature on decision theory.",
+      "Attend workshops on probability and decision-making."
+    ],
+    "prompts": [
+      "What are the objective frequencies of the events?",
+      "How do your beliefs compare to these frequencies?",
+      "Can you identify any inconsistencies in your probabilities?",
+      "What would a Dutch book against you look like?",
+      "How can you refine your subjective probabilities?",
+      "What assumptions are you making about your beliefs?",
+      "How do cognitive biases affect your probability assessments?",
+      "What steps can you take to improve your decision-making?",
+      "How can you apply Bayesian methods to your beliefs?",
+      "What historical examples illustrate Savage's Paradox?",
+      "How do social influences shape your probability judgments?",
+      "What resources can help you better understand decision theory?"
+    ],
+    "warnings": [
+      "Beware of overconfidence in subjective probabilities.",
+      "Avoid ignoring objective data.",
+      "Be cautious of cognitive biases.",
+      "Recognize the limitations of personal beliefs.",
+      "Don't underestimate the impact of Dutch book arguments."
+    ]
+  },
+  "context": {
+    "history": "Savage's Paradox has been a significant topic in decision theory since its introduction, highlighting the importance of coherent probability assessments.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

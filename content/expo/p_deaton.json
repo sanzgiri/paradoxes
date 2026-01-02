@@ -1,0 +1,72 @@
+{
+  "id": "p_deaton",
+  "narrative": {
+    "story": "The Deaton Paradox illustrates how individuals maintain stable consumption levels despite experiencing significant income fluctuations. This phenomenon challenges traditional economic theories that suggest consumption should directly correlate with income changes. Instead, people often smooth their consumption over time, relying on savings or credit to maintain their living standards during income dips.",
+    "wrong_reasoning": "One might assume that higher income directly leads to higher consumption, but the paradox reveals that individuals prioritize stability over immediate spending. This misinterpretation can lead to flawed economic models that fail to account for behavioral factors influencing consumption.",
+    "paradox": "The paradox lies in the observation that consumption patterns remain relatively stable even when income varies sharply, defying expectations based on classical economic theories."
+  },
+  "mechanism": {
+    "assumptions": "Individuals aim to maintain a stable consumption level regardless of income changes.",
+    "steps": "1. Individuals assess their income over time. 2. They adjust their consumption based on long-term expectations rather than short-term income changes. 3. Savings and credit are utilized to smooth consumption during income fluctuations.",
+    "math": "Consumption function models often fail to predict actual consumption behavior due to the smoothing effect.",
+    "truth": "Consumption stability is a behavioral response to income variability."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage savings to buffer against income shocks.",
+      "Promote financial literacy to understand consumption smoothing.",
+      "Develop policies that support stable income sources.",
+      "Implement social safety nets to assist during income drops."
+    ],
+    "tradeoffs": [
+      "Higher savings may reduce immediate consumption.",
+      "Financial literacy programs require investment.",
+      "Policies may limit market flexibility.",
+      "Social safety nets can create dependency."
+    ],
+    "status": "Ongoing research into behavioral economics continues to explore these dynamics."
+  },
+  "practice": {
+    "patterns": [
+      "Behavioral insights into consumption.",
+      "Income smoothing strategies.",
+      "Long-term financial planning.",
+      "Risk management in personal finance.",
+      "Understanding consumer behavior.",
+      "Impact of economic policies on consumption.",
+      "Savings behavior analysis.",
+      "Credit usage and its effects.",
+      "Economic resilience strategies.",
+      "Behavioral responses to income changes."
+    ],
+    "prompts": [
+      "How do you manage your consumption during income changes?",
+      "What strategies do you use to save?",
+      "Discuss a time when you had to smooth your consumption.",
+      "How does financial literacy impact your spending?",
+      "What role does credit play in your financial decisions?",
+      "How do economic policies affect your consumption habits?",
+      "What are the long-term effects of income variability on consumption?",
+      "How do you perceive the relationship between income and consumption?",
+      "What savings strategies do you find most effective?",
+      "How do you prepare for potential income shocks?",
+      "Discuss the importance of stable income sources.",
+      "What lessons can be learned from the Deaton Paradox?"
+    ],
+    "warnings": [
+      "Avoid over-reliance on credit.",
+      "Be cautious of short-term thinking.",
+      "Understand the risks of inadequate savings.",
+      "Recognize the impact of economic downturns.",
+      "Beware of assumptions in economic models."
+    ]
+  },
+  "context": {
+    "history": "The Deaton Paradox was named after economist Angus Deaton, who explored consumption patterns in relation to income variability.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

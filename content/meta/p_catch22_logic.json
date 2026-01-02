@@ -1,0 +1,16 @@
+{
+  "id": "p_catch22_logic",
+  "title": "Catch-22 Logic Paradox",
+  "hook": "Need something only obtainable by not needing it.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Some needs create impossible situations.",
+  "tags": [
+    "selfreference",
+    "need"
+  ],
+  "related": []
+}

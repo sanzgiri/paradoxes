@@ -1,0 +1,17 @@
+{
+  "id": "p_epistemic",
+  "title": "Epistemic Paradoxes General",
+  "hook": "Infinite regress, circularity, or foundationalism all problematic for knowledge.",
+  "domains": [
+    "other",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "antinomy",
+  "key_lesson": "Understanding knowledge limits reveals deeper philosophical issues.",
+  "tags": [
+    "justification",
+    "regress"
+  ],
+  "related": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": "p_ravens",
+  "narrative": {
+    "story": "The Paradox of the Ravens arises from the principle of confirmation theory. If all ravens are black, then observing a black raven should confirm this theory. However, according to the paradox, observing a green apple should also confirm the theory because it is not a black raven. This leads to a contradiction in how we understand evidence and confirmation.",
+    "wrong_reasoning": "Many believe that observing a non-black non-raven provides evidence for the claim that all ravens are black. This reasoning fails because it conflates the confirmation of a specific hypothesis with unrelated observations, leading to erroneous conclusions about the nature of evidence.",
+    "paradox": "The paradox challenges our intuitive understanding of confirmation. It suggests that evidence can come from unrelated instances, which seems counterintuitive and raises questions about how we validate general statements."
+  },
+  "mechanism": {
+    "assumptions": "The assumption that all instances of non-black non-ravens contribute to confirming the hypothesis.",
+    "steps": "1. Define the hypothesis: All ravens are black. 2. Identify instances that should confirm this hypothesis. 3. Analyze how observing non-black non-ravens fits into the confirmation framework. 4. Conclude that unrelated observations can misleadingly support the hypothesis.",
+    "math": "",
+    "truth": "Confirmation does not equate to evidence."
+  },
+  "solutions": {
+    "paths": [
+      "Reevaluate the criteria for confirmation.",
+      "Focus on relevant evidence.",
+      "Differentiate between types of evidence.",
+      "Adopt a more nuanced view of generalizations."
+    ],
+    "tradeoffs": [
+      "Simplistic views vs. complex understanding.",
+      "Generalization vs. specific evidence.",
+      "Intuition vs. logical reasoning.",
+      "Broad applicability vs. contextual relevance.",
+      "Certainty vs. skepticism.",
+      "Induction vs. deduction.",
+      "Qualitative vs. quantitative evidence.",
+      "Immediate conclusions vs. thorough analysis."
+    ],
+    "status": "Ongoing debate in philosophy and logic."
+  },
+  "practice": {
+    "patterns": [
+      "Identify assumptions in arguments.",
+      "Analyze examples of confirmation bias.",
+      "Explore cases of misleading evidence.",
+      "Discuss implications of the paradox.",
+      "Compare with other paradoxes.",
+      "Evaluate real-world applications.",
+      "Debate the validity of generalizations.",
+      "Examine historical perspectives.",
+      "Investigate scientific methods.",
+      "Reflect on personal biases."
+    ],
+    "prompts": [
+      "What does confirmation mean in different contexts?",
+      "How can unrelated evidence mislead us?",
+      "Discuss a time when you encountered confirmation bias.",
+      "What are the implications of the paradox for scientific inquiry?",
+      "How does this paradox relate to everyday reasoning?",
+      "Can you think of examples that support or refute the paradox?",
+      "How do different fields approach confirmation?",
+      "What role does intuition play in reasoning?",
+      "How can we improve our understanding of evidence?",
+      "Discuss the relationship between evidence and belief.",
+      "What are the limitations of induction?",
+      "How can we apply this paradox to critical thinking?"
+    ],
+    "warnings": [
+      "Avoid conflating unrelated evidence.",
+      "Be cautious of overgeneralization.",
+      "Recognize personal biases in reasoning.",
+      "Question intuitive conclusions.",
+      "Stay aware of confirmation bias."
+    ]
+  },
+  "context": {
+    "history": "The paradox has roots in philosophical discussions about induction and confirmation, notably discussed by Carl Hempel.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

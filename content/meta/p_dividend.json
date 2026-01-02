@@ -1,0 +1,16 @@
+{
+  "id": "p_dividend",
+  "title": "Dividend Paradox",
+  "hook": "Dividend policy seems to influence firm value, contradicting theory.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Real-world factors can contradict theoretical models.",
+  "tags": [
+    "corporate_finance"
+  ],
+  "related": []
+}

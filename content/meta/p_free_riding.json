@@ -1,0 +1,17 @@
+{
+  "id": "p_free_riding",
+  "title": "Free Rider Paradox",
+  "hook": "Individuals benefit from collective goods without contributing, underproviding the good.",
+  "domains": [
+    "economics",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Collective action often fails due to individual incentives.",
+  "tags": [
+    "public_goods",
+    "collective_action"
+  ],
+  "related": []
+}

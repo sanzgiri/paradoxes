@@ -1,0 +1,15 @@
+{
+  "id": "p_tea_leaves",
+  "title": "Tea Leaves Paradox",
+  "hook": "Tea leaves collect in the center of a stirred cup despite naive centrifugal expectations.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Intuitive expectations can be misleading in fluid dynamics.",
+  "tags": [
+    "fluid_dynamics"
+  ],
+  "related": []
+}

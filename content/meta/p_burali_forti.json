@@ -1,0 +1,16 @@
+{
+  "id": "p_burali_forti",
+  "title": "Burali\u2013Forti Paradox",
+  "hook": "The set of all ordinals is an ordinal that does not contain itself.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "antinomy",
+  "key_lesson": "Self-referential sets can lead to contradictions.",
+  "tags": [
+    "ordinals",
+    "set_theory"
+  ],
+  "related": []
+}

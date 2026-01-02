@@ -1,0 +1,16 @@
+{
+  "id": "p_grandi",
+  "title": "Grandi's Series",
+  "hook": "The sum 1-1+1-1+... equals 1, 0, or 1/2.",
+  "domains": [
+    "mathematics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Infinite series can converge to multiple values.",
+  "tags": [
+    "infinite_series",
+    "convergence"
+  ],
+  "related": []
+}

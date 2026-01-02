@@ -1,0 +1,16 @@
+{
+  "id": "p_meno",
+  "title": "Meno\u2019s Paradox",
+  "hook": "If one knows what one is looking for inquiry is unnecessary, but without knowledge, inquiry seems impossible.",
+  "domains": [
+    "philosophy"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Knowledge is essential for inquiry, yet inquiry is needed to gain knowledge.",
+  "tags": [
+    "epistemology",
+    "knowledge"
+  ],
+  "related": []
+}

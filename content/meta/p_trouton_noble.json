@@ -1,0 +1,16 @@
+{
+  "id": "p_trouton_noble",
+  "title": "Trouton\u2013Noble Paradox",
+  "hook": "Charged capacitor should experience torque when moving but doesn't.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Motion does not always produce expected forces.",
+  "tags": [
+    "relativity",
+    "torque"
+  ],
+  "related": []
+}

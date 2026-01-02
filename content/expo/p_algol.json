@@ -1,0 +1,56 @@
+{
+  "id": "p_algol",
+  "narrative": {
+    "story": "In binary star systems like Algol, two stars are formed together yet exhibit different ages. This phenomenon raises questions about stellar evolution and the assumptions we make about star formation. Observations show that one star can appear significantly older than its companion, despite both stars originating from the same molecular cloud. This paradox challenges our understanding of time and aging in astrophysics.",
+    "wrong_reasoning": "One might assume that if two stars form together, they must age at the same rate. However, factors such as mass, luminosity, and interactions with surrounding material can lead to differing evolutionary paths, resulting in age discrepancies.",
+    "paradox": "The Algol paradox illustrates that two stars formed simultaneously can have different ages, contradicting the expectation that they would evolve uniformly."
+  },
+  "mechanism": {
+    "assumptions": "Stars in binary systems share the same formation history and evolve similarly.",
+    "steps": "1. Two stars form from the same gas cloud. 2. They begin their life cycle together. 3. Environmental factors influence their development. 4. Observations reveal age differences.",
+    "math": "The age of a star can be estimated using its luminosity and temperature, but discrepancies arise when comparing binary partners.",
+    "truth": "Not all stars in binary systems age uniformly."
+  },
+  "solutions": {
+    "paths": [
+      "Further observational studies of binary systems.",
+      "Developing more accurate models of stellar evolution.",
+      "Investigating the role of mass and environmental factors.",
+      "Exploring the impact of interactions between binary stars."
+    ],
+    "tradeoffs": [
+      "Increased observational complexity vs. deeper understanding.",
+      "Simplified models vs. accuracy in predictions.",
+      "Focusing on individual stars vs. binary systems as a whole.",
+      "Short-term studies vs. long-term observations."
+    ],
+    "status": "Ongoing research is needed to resolve these discrepancies."
+  },
+  "practice": {
+    "patterns": [
+      "Identify binary systems with age discrepancies.",
+      "Analyze stellar evolution models.",
+      "Compare observational data with theoretical predictions.",
+      "Explore the effects of mass on stellar aging."
+    ],
+    "prompts": [
+      "What factors could lead to differing ages in binary stars?",
+      "How do we measure the age of a star?",
+      "What assumptions do we make about stellar evolution?",
+      "Can we reconcile the age differences in binary systems?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying stellar evolution.",
+      "Be cautious of observational biases.",
+      "Consider the impact of external factors on star aging."
+    ]
+  },
+  "context": {
+    "history": "The Algol paradox has been a topic of discussion since the early 20th century, challenging existing theories of stellar evolution.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

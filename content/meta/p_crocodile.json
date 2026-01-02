@@ -1,0 +1,17 @@
+{
+  "id": "p_crocodile",
+  "title": "Crocodile Dilemma",
+  "hook": "A crocodile steals a child, promising to return it if the father guesses correctly.",
+  "domains": [
+    "logic",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Understanding promises and predictions can lead to paradoxes.",
+  "tags": [
+    "promise",
+    "prediction"
+  ],
+  "related": []
+}

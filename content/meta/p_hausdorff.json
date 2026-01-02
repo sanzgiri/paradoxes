@@ -1,0 +1,16 @@
+{
+  "id": "p_hausdorff",
+  "title": "Hausdorff Paradox",
+  "hook": "Sphere can be partitioned into non-measurable sets with paradoxical properties.",
+  "domains": [
+    "mathematics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Non-measurable sets challenge our understanding of volume.",
+  "tags": [
+    "sphere",
+    "equidecomposability"
+  ],
+  "related": []
+}

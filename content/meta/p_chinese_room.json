@@ -1,0 +1,17 @@
+{
+  "id": "p_chinese_room",
+  "title": "Chinese Room Paradox",
+  "hook": "Person following Chinese rules lacks understanding despite perfect output.",
+  "domains": [
+    "philosophy",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Syntax does not imply understanding.",
+  "tags": [
+    "ai",
+    "understanding"
+  ],
+  "related": []
+}

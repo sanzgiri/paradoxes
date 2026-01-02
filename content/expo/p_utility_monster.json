@@ -1,0 +1,65 @@
+{
+  "id": "p_utility_monster",
+  "narrative": {
+    "story": "Imagine a world where one individual, the Utility Monster, derives immense happiness from resources. This person\u2019s joy is so great that it outweighs the suffering of many others. If society allocates resources to maximize overall happiness, should it prioritize the Utility Monster's needs, potentially leaving others in poverty? This paradox challenges the fairness of utilitarianism.",
+    "wrong_reasoning": "Some argue that maximizing happiness for the Utility Monster is justified because it leads to the greatest total happiness. However, this reasoning overlooks the suffering of those who are deprived of resources, leading to an unjust distribution that contradicts the principles of fairness and equality.",
+    "paradox": "The Utility Monster Paradox illustrates the conflict between utilitarian principles and equitable resource distribution. It raises the question: can extreme utility for one person justify the deprivation of many others?"
+  },
+  "mechanism": {
+    "assumptions": "Assumes happiness can be quantified and compared across individuals.",
+    "steps": "1. Identify the Utility Monster's happiness from resources. 2. Calculate total happiness if resources are allocated to the Monster. 3. Compare this with the happiness of others if resources are distributed more equitably. 4. Evaluate the ethical implications of the distribution.",
+    "math": "Total Happiness = Happiness of Utility Monster - (Sum of Happiness of Others)",
+    "truth": "Utilitarianism can lead to unjust outcomes."
+  },
+  "solutions": {
+    "paths": [
+      "Implement resource caps for extreme utility cases.",
+      "Prioritize equitable distribution over total happiness.",
+      "Develop alternative ethical frameworks.",
+      "Encourage community-based resource sharing."
+    ],
+    "tradeoffs": [
+      "Maximizing happiness vs. fairness.",
+      "Individual rights vs. collective good.",
+      "Short-term gains vs. long-term sustainability.",
+      "Resource allocation efficiency vs. equity."
+    ],
+    "status": "Debated in ethical discussions."
+  },
+  "practice": {
+    "patterns": [
+      "Evaluate scenarios with extreme utility.",
+      "Discuss implications of utilitarianism.",
+      "Analyze case studies of resource distribution."
+    ],
+    "prompts": [
+      "What if the Utility Monster was a group?",
+      "How would you allocate resources fairly?",
+      "Discuss the limits of utilitarianism.",
+      "What alternative frameworks exist?",
+      "How do cultural values affect resource distribution?",
+      "Can happiness be measured accurately?",
+      "What role does government play in distribution?",
+      "How to balance individual and collective needs?",
+      "What are the consequences of ignoring fairness?",
+      "How would you explain this paradox to a child?",
+      "What historical examples relate to this paradox?",
+      "How does this apply to modern economic policies?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying complex ethical dilemmas.",
+      "Be cautious of bias in happiness measurement.",
+      "Recognize the potential for exploitation.",
+      "Consider the long-term effects of decisions.",
+      "Challenge assumptions about happiness."
+    ]
+  },
+  "context": {
+    "history": "The Utility Monster Paradox was popularized by philosopher Robert Nozick in the 1970s as a critique of utilitarianism.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

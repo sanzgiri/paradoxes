@@ -1,0 +1,17 @@
+{
+  "id": "p_access",
+  "title": "Access Paradox",
+  "hook": "Unconscious justification incompatible with conscious access.",
+  "domains": [
+    "other",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Conscious access can mislead our understanding of justification.",
+  "tags": [
+    "justification",
+    "consciousness"
+  ],
+  "related": []
+}

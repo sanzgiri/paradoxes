@@ -1,0 +1,67 @@
+{
+  "id": "p_hawking_radiation",
+  "narrative": {
+    "story": "In the 1970s, Stephen Hawking proposed that black holes are not completely black but can emit radiation due to quantum effects near the event horizon. This radiation arises from virtual particle pairs that spontaneously form in empty space. If one particle falls into the black hole while the other escapes, the escaping particle becomes real, leading to a gradual loss of mass from the black hole.",
+    "wrong_reasoning": "Some argue that if black holes can emit radiation, they should eventually evaporate completely, contradicting the conservation of information. This reasoning overlooks the complexities of quantum mechanics and the nature of information in black hole physics.",
+    "paradox": "The Hawking radiation paradox raises questions about the fate of information that falls into a black hole. If a black hole evaporates completely, what happens to the information contained within it? This challenges our understanding of quantum mechanics and information theory."
+  },
+  "mechanism": {
+    "assumptions": "Quantum mechanics allows for virtual particles; black holes can emit radiation.",
+    "steps": "1. Virtual particle pairs form near the event horizon. 2. One particle falls into the black hole, the other escapes. 3. The escaping particle is detected as Hawking radiation. 4. The black hole loses mass over time.",
+    "math": "The temperature of Hawking radiation is inversely proportional to the mass of the black hole, given by the formula T = (\u0127c^3)/(8\u03c0GMk_B), where G is the gravitational constant.",
+    "truth": "Hawking radiation is a theoretical prediction supported by quantum field theory."
+  },
+  "solutions": {
+    "paths": [
+      "Investigate the information paradox further.",
+      "Explore quantum gravity theories.",
+      "Develop experimental tests for Hawking radiation.",
+      "Consider implications for black hole thermodynamics."
+    ],
+    "tradeoffs": [
+      "Theoretical complexity vs. experimental feasibility.",
+      "Information preservation vs. black hole evaporation.",
+      "Quantum mechanics vs. classical physics interpretations.",
+      "Understanding vs. predictive power."
+    ],
+    "status": "Ongoing research in theoretical physics."
+  },
+  "practice": {
+    "patterns": [
+      "Analyze black hole thermodynamics.",
+      "Study quantum field theory.",
+      "Explore implications of information theory.",
+      "Discuss philosophical implications of black hole evaporation.",
+      "Examine experimental evidence for Hawking radiation."
+    ],
+    "prompts": [
+      "What happens to information in a black hole?",
+      "How does Hawking radiation challenge classical physics?",
+      "Discuss the implications of black hole evaporation.",
+      "What are the potential experimental tests for Hawking radiation?",
+      "Explore the relationship between entropy and black holes.",
+      "How do virtual particles relate to Hawking radiation?",
+      "What are the implications for cosmology?",
+      "Discuss the role of quantum mechanics in black hole physics.",
+      "How might future discoveries change our understanding?",
+      "What are the philosophical implications of the information paradox?",
+      "How does this relate to the multiverse theory?",
+      "What are the implications for the fate of the universe?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying quantum mechanics.",
+      "Be cautious of speculative theories.",
+      "Do not ignore the implications of information loss.",
+      "Beware of conflating classical and quantum concepts.",
+      "Be aware of the ongoing debates in the field."
+    ]
+  },
+  "context": {
+    "history": "The concept of Hawking radiation emerged from the intersection of quantum mechanics and general relativity, reshaping our understanding of black holes.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p_dalembert",
+  "title": "D\u2019Alembert\u2019s Paradox",
+  "hook": "Ideal-fluid theory predicts zero drag on certain bodies, contradicting everyday experience.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Real fluids always exhibit drag, unlike ideal models.",
+  "tags": [
+    "fluid_dynamics",
+    "drag"
+  ],
+  "related": []
+}

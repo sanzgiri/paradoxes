@@ -1,0 +1,71 @@
+{
+  "id": "p_aharonov_bohm",
+  "narrative": {
+    "story": "The Aharonov-Bohm effect demonstrates that charged particles are influenced by electromagnetic potentials, even in regions where magnetic and electric fields are absent. This phenomenon challenges classical intuitions about fields and potentials, revealing the non-local nature of quantum mechanics. In experiments, electrons traveling through regions with different potentials exhibit a phase shift, leading to observable interference patterns.",
+    "wrong_reasoning": "One might assume that since there are no magnetic fields present in the region where the electrons travel, they should not be affected by the magnetic potential. This reasoning overlooks the fundamental role that potentials play in quantum mechanics, where the phase of the wave function is altered by the presence of a vector potential, regardless of the local field strength.",
+    "paradox": "The paradox arises from the fact that the electrons seem to be influenced by a potential that does not manifest as a classical force. This challenges the classical view that only local fields can exert influence, suggesting a deeper connection between quantum mechanics and the geometry of space."
+  },
+  "mechanism": {
+    "assumptions": "Electrons are charged particles influenced by electromagnetic potentials.",
+    "steps": "1. Set up an experimental apparatus with two paths for electrons. 2. Introduce a magnetic field in one path while keeping the other path field-free. 3. Measure the interference pattern of electrons arriving from both paths. 4. Observe a phase shift in the interference pattern due to the magnetic potential.",
+    "math": "The phase shift can be calculated using the formula \u0394\u03c6 = (q/h) \u222b A \u00b7 dl, where A is the vector potential, q is the charge of the electron, and h is Planck's constant.",
+    "truth": "The effect illustrates the significance of potentials in quantum mechanics."
+  },
+  "solutions": {
+    "paths": [
+      "Conduct further experiments to explore the effect in different setups.",
+      "Utilize advanced quantum field theories to explain the phenomenon.",
+      "Investigate implications for quantum computing and technology.",
+      "Explore connections to other quantum effects."
+    ],
+    "tradeoffs": [
+      "Complexity of experimental setups.",
+      "Potential for misinterpretation of results.",
+      "Need for advanced mathematical tools.",
+      "Challenges in visualizing quantum effects.",
+      "Dependence on precise measurements.",
+      "Variability in experimental conditions.",
+      "Interpretation of phase shifts.",
+      "Potential for technological applications."
+    ],
+    "status": "Ongoing research continues to uncover new insights."
+  },
+  "practice": {
+    "patterns": [
+      "Explore other quantum phenomena influenced by potentials.",
+      "Analyze interference patterns in various contexts.",
+      "Compare classical and quantum explanations of similar effects.",
+      "Investigate the role of gauge invariance in quantum mechanics.",
+      "Conduct thought experiments related to the Aharonov-Bohm effect."
+    ],
+    "prompts": [
+      "What implications does the Aharonov-Bohm effect have for classical physics?",
+      "How can we visualize the influence of potentials?",
+      "What are the limitations of classical reasoning in quantum contexts?",
+      "How does this effect relate to gauge theories?",
+      "Can you design an experiment to further investigate this phenomenon?",
+      "What role do potentials play in other areas of physics?",
+      "How might this effect be utilized in quantum technology?",
+      "Discuss the philosophical implications of non-locality.",
+      "What are the historical developments leading to this discovery?",
+      "How do different interpretations of quantum mechanics view this effect?",
+      "What challenges do researchers face in studying this effect?",
+      "How does the Aharonov-Bohm effect relate to other quantum paradoxes?"
+    ],
+    "warnings": [
+      "Avoid conflating potentials with classical forces.",
+      "Be cautious of oversimplifying quantum phenomena.",
+      "Ensure precise measurements to avoid misinterpretation.",
+      "Recognize the limitations of classical analogies.",
+      "Stay updated on ongoing research developments."
+    ]
+  },
+  "context": {
+    "history": "The Aharonov-Bohm effect was first predicted in 1959 by Yakir Aharonov and David Bohm, highlighting the importance of potentials in quantum mechanics.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "p_prosecutor",
+  "narrative": {
+    "story": "In a courtroom, a prosecutor presents evidence that a defendant's DNA matches that found at a crime scene. The jury hears that this match occurs in 1 in 1,000 people. They may mistakenly conclude that the defendant has a 99.9% chance of being guilty. However, this ignores the base rate of how many people are innocent, leading to a flawed judgment.",
+    "wrong_reasoning": "The jury confuses the probability of the evidence given the defendant's innocence with the probability of the defendant's innocence given the evidence. This misinterpretation can lead to wrongful convictions.",
+    "paradox": "The paradox arises when jurors believe that strong evidence directly correlates to guilt without considering the overall context, such as the prevalence of DNA matches in the general population."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that the probability of evidence is equivalent to the probability of guilt.",
+    "steps": "1. Evidence is presented. 2. Probability of evidence is calculated. 3. Jury interprets this probability as the likelihood of guilt. 4. Ignoring the base rate leads to misjudgment.",
+    "math": "P(E|G) vs P(G|E) where E is evidence and G is guilt.",
+    "truth": "Probability must be contextualized."
+  },
+  "solutions": {
+    "paths": [
+      "Educate jurors on probability.",
+      "Provide context for statistical evidence.",
+      "Use expert testimony to clarify misunderstandings.",
+      "Implement guidelines for evidence interpretation."
+    ],
+    "tradeoffs": [
+      "Increased time for jury education vs. trial efficiency.",
+      "Complexity of explanations vs. juror comprehension.",
+      "Potential for bias in expert testimony vs. accuracy.",
+      "Legal standards vs. public understanding of evidence."
+    ],
+    "status": "Ongoing discussions in legal education."
+  },
+  "practice": {
+    "patterns": [
+      "Identify base rates in evidence.",
+      "Differentiate between conditional probabilities.",
+      "Use visual aids for probability concepts.",
+      "Encourage critical thinking in jurors.",
+      "Discuss real-world examples of fallacies."
+    ],
+    "prompts": [
+      "What is the base rate of the evidence presented?",
+      "How does this evidence relate to the overall case?",
+      "Can you identify any assumptions made?",
+      "What alternative explanations exist?",
+      "How would you explain this to a layperson?",
+      "What are the implications of misinterpreting this evidence?",
+      "How can we improve jury instructions?",
+      "What role does expert testimony play?",
+      "How can we ensure jurors understand probability?",
+      "What are common misconceptions about evidence?",
+      "How does this fallacy affect public perception of justice?",
+      "What safeguards can be implemented?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying complex evidence.",
+      "Be cautious of emotional appeals in court.",
+      "Recognize the limits of statistical evidence.",
+      "Don't ignore the context of the evidence.",
+      "Beware of confirmation bias."
+    ]
+  },
+  "context": {
+    "history": "The Prosecutor's Fallacy has been discussed in legal contexts since the late 20th century, highlighting issues in jury decision-making.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

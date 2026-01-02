@@ -1,0 +1,16 @@
+{
+  "id": "p_temperature",
+  "title": "Temperature Paradox",
+  "hook": "Temperature is 90 and rising seems to imply 90 is rising.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Understanding predication is crucial in logic.",
+  "tags": [
+    "predication",
+    "change"
+  ],
+  "related": []
+}

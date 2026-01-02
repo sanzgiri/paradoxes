@@ -1,0 +1,15 @@
+{
+  "id": "p_omission_bias",
+  "title": "Omission Bias Paradox",
+  "hook": "Inaction preferred despite worse expected outcomes compared to action.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Inaction can lead to worse consequences than taking action.",
+  "tags": [
+    "action_vs_inaction"
+  ],
+  "related": []
+}

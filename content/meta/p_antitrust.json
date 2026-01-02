@@ -1,0 +1,17 @@
+{
+  "id": "p_antitrust",
+  "title": "Antitrust Paradox",
+  "hook": "Antitrust enforcement protects inefficient competitors.",
+  "domains": [
+    "economics",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Competition can lead to higher prices when mismanaged.",
+  "tags": [
+    "competition",
+    "regulation"
+  ],
+  "related": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": "p_100_prisoners",
+  "narrative": {
+    "story": "In a prison, 100 prisoners must guess the color of their hats, either red or blue, without seeing them. They can only see the hats of others. If at least 99 guess correctly, they all go free. The prisoners devise a strategy where they agree to guess the color based on the parity of the number of red hats they see. This clever collaboration significantly increases their chances of survival.",
+    "wrong_reasoning": "Some might think that each prisoner should guess randomly to maximize their individual chances. However, this approach ignores the power of collective strategy, which can lead to a higher overall success rate.",
+    "paradox": "The paradox lies in the fact that individual guessing seems futile, yet a coordinated strategy leads to a surprisingly high probability of success, challenging the notion of independent decision-making."
+  },
+  "mechanism": {
+    "assumptions": "Prisoners can see others' hats but not their own; they can communicate a strategy beforehand.",
+    "steps": "1. Agree on a strategy based on parity. 2. Each prisoner counts the number of red hats they see. 3. If the count is even, they guess blue; if odd, they guess red. 4. Execute the guesses simultaneously.",
+    "math": "The probability of at least 99 prisoners guessing correctly approaches 1 as the number of prisoners increases, given the strategy is followed.",
+    "truth": "The strategy relies on the collective information available to the prisoners."
+  },
+  "solutions": {
+    "paths": [
+      "Collaborative guessing strategy",
+      "Random guessing",
+      "Individual analysis",
+      "Information sharing"
+    ],
+    "tradeoffs": [
+      "High success probability vs. individual risk",
+      "Complexity of strategy vs. simplicity of random guessing",
+      "Dependence on others vs. independence",
+      "Time spent strategizing vs. immediate guessing"
+    ],
+    "status": "The collaborative strategy is proven effective in theory and practice."
+  },
+  "practice": {
+    "patterns": [
+      "Collaborative decision-making",
+      "Information theory applications",
+      "Game theory strategies",
+      "Probability assessments"
+    ],
+    "prompts": [
+      "How can collaboration improve outcomes?",
+      "What assumptions are you making?",
+      "Can you identify patterns in group behavior?",
+      "How does information sharing affect decision-making?",
+      "What is the role of strategy in risk management?",
+      "How would you adapt this strategy for different scenarios?",
+      "What are the implications of this problem in real life?",
+      "How can you apply this to team projects?",
+      "What other problems can be solved with similar strategies?",
+      "How does this relate to other probability puzzles?",
+      "What are the limits of this strategy?",
+      "How can you test this strategy in practice?"
+    ],
+    "warnings": [
+      "Avoid overcomplicating the strategy",
+      "Ensure all participants understand the plan",
+      "Be aware of individual biases",
+      "Consider the impact of misinformation",
+      "Don't rely solely on luck."
+    ]
+  },
+  "context": {
+    "history": "The problem has roots in probability theory and has been discussed in various mathematical contexts.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

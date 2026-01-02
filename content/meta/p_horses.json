@@ -1,0 +1,16 @@
+{
+  "id": "p_horses",
+  "title": "All Horses are the Same Color",
+  "hook": "Flawed induction 'proves' all horses share one color by overlapping sets.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Induction can lead to incorrect conclusions.",
+  "tags": [
+    "induction",
+    "fallacy"
+  ],
+  "related": []
+}

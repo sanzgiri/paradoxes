@@ -1,0 +1,17 @@
+{
+  "id": "p_population",
+  "title": "Population Paradox",
+  "hook": "A faster-growing state can lose a seat to a slower-growing state under certain apportionment methods.",
+  "domains": [
+    "other",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Growth does not guarantee representation.",
+  "tags": [
+    "representation",
+    "growth"
+  ],
+  "related": []
+}

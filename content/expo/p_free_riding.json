@@ -1,0 +1,76 @@
+{
+  "id": "p_free_riding",
+  "narrative": {
+    "story": "In a small community, residents enjoy a clean park maintained by a few volunteers. Over time, more individuals stop contributing, assuming others will do the work. Eventually, the park deteriorates, and everyone suffers from the lack of maintenance, illustrating the free rider problem.",
+    "wrong_reasoning": "Many believe that if they don't contribute, someone else will take care of the issue. This assumption leads to a collective failure, as everyone waits for others to act, resulting in no one taking responsibility.",
+    "paradox": "The paradox lies in the fact that while everyone benefits from the park, the incentive to contribute diminishes as individuals rely on others, leading to a worse outcome for all."
+  },
+  "mechanism": {
+    "assumptions": "Individuals act in their self-interest and assume others will contribute.",
+    "steps": "1. Identify a collective good. 2. Recognize individual benefits. 3. Observe declining contributions. 4. Experience the deterioration of the good.",
+    "math": "If N is the number of individuals and C is the contribution, as N increases, C tends to decrease, leading to underprovision.",
+    "truth": "Collective goods require cooperation."
+  },
+  "solutions": {
+    "paths": [
+      "Incentivize contributions",
+      "Implement mandatory fees",
+      "Raise awareness",
+      "Create community norms"
+    ],
+    "tradeoffs": [
+      "Increased participation vs. enforcement costs",
+      "Voluntary vs. mandatory contributions",
+      "Short-term gains vs. long-term sustainability",
+      "Individual freedom vs. collective responsibility",
+      "Equity vs. efficiency",
+      "Transparency vs. privacy",
+      "Short-term incentives vs. long-term commitment",
+      "Social pressure vs. personal choice"
+    ],
+    "status": "Ongoing discussions in policy-making."
+  },
+  "practice": {
+    "patterns": [
+      "Community engagement",
+      "Incentive structures",
+      "Public awareness campaigns",
+      "Collaborative projects",
+      "Feedback mechanisms",
+      "Resource sharing",
+      "Volunteer recognition",
+      "Social contracts",
+      "Peer pressure",
+      "Educational programs"
+    ],
+    "prompts": [
+      "How can we encourage participation?",
+      "What are the benefits of contributing?",
+      "What happens if no one contributes?",
+      "How can we create a sense of ownership?",
+      "What incentives work best?",
+      "How can we measure contributions?",
+      "What role does trust play?",
+      "How can we address free-riding?",
+      "What are successful case studies?",
+      "How can technology aid in contributions?",
+      "What community norms can be established?",
+      "How can we involve local businesses?"
+    ],
+    "warnings": [
+      "Avoid over-reliance on volunteers",
+      "Be cautious of free-rider assumptions",
+      "Monitor contribution levels",
+      "Ensure transparency in contributions",
+      "Address inequities in participation"
+    ]
+  },
+  "context": {
+    "history": "The free rider problem has been studied since the 19th century, particularly in economics and political science.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

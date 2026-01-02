@@ -1,0 +1,17 @@
+{
+  "id": "p_abilene",
+  "title": "Abilene Paradox",
+  "hook": "Group pursues unwanted outcome because all assume others want it.",
+  "domains": [
+    "social_choice",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Assumptions about others' preferences can lead to collective misdecision.",
+  "tags": [
+    "coordination",
+    "preference_falsification"
+  ],
+  "related": []
+}

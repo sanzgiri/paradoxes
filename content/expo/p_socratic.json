@@ -1,0 +1,76 @@
+{
+  "id": "p_socratic",
+  "narrative": {
+    "story": "The Socratic Paradox suggests that true wisdom lies in recognizing one's ignorance. Socrates famously stated, 'I know that I know nothing,' which challenges the notion of knowledge itself. This statement, while seemingly contradictory, invites deeper reflection on the nature of understanding and the limits of human knowledge. It encourages individuals to question their beliefs and assumptions, fostering a mindset of inquiry and humility.",
+    "wrong_reasoning": "Some may argue that claiming to know nothing is itself a form of knowledge, thus contradicting the paradox. However, this misinterpretation overlooks the essence of the statement, which emphasizes the importance of acknowledging one's limitations rather than asserting absolute knowledge.",
+    "paradox": "The paradox lies in the assertion that one can be wise by admitting ignorance. This challenges conventional views on knowledge, suggesting that the pursuit of wisdom involves recognizing the vastness of what we do not know."
+  },
+  "mechanism": {
+    "assumptions": "The assumption that knowledge equates to certainty is challenged by the paradox.",
+    "steps": "1. Acknowledge personal ignorance. 2. Question existing beliefs. 3. Engage in dialogue to explore different perspectives. 4. Embrace uncertainty as a path to deeper understanding.",
+    "math": "",
+    "truth": "The truth of the paradox lies in its ability to provoke thought."
+  },
+  "solutions": {
+    "paths": [
+      "Engage in philosophical discussions.",
+      "Practice self-reflection.",
+      "Study epistemology.",
+      "Explore different viewpoints."
+    ],
+    "tradeoffs": [
+      "Increased humility vs. potential indecision.",
+      "Openness to new ideas vs. challenge to established beliefs.",
+      "Depth of understanding vs. complexity of knowledge.",
+      "Critical thinking vs. comfort in certainty.",
+      "Time spent in inquiry vs. immediate answers.",
+      "Collaboration vs. individual thought.",
+      "Acceptance of ambiguity vs. desire for clarity.",
+      "Growth in wisdom vs. discomfort with uncertainty."
+    ],
+    "status": "Ongoing exploration of knowledge limits."
+  },
+  "practice": {
+    "patterns": [
+      "Socratic questioning.",
+      "Reflective journaling.",
+      "Group discussions.",
+      "Debate formats.",
+      "Philosophical readings.",
+      "Case studies.",
+      "Role-playing scenarios.",
+      "Mind mapping.",
+      "Conceptual analysis.",
+      "Thought experiments."
+    ],
+    "prompts": [
+      "What do you believe you know?",
+      "How do you know what you know?",
+      "What assumptions underlie your beliefs?",
+      "Can you identify a time when you changed your mind?",
+      "What questions remain unanswered for you?",
+      "How does uncertainty affect your decision-making?",
+      "What role does dialogue play in your understanding?",
+      "How can you apply humility in your learning?",
+      "What is the value of admitting ignorance?",
+      "How do you approach conflicting viewpoints?",
+      "What is the relationship between knowledge and power?",
+      "How can you foster a culture of inquiry?"
+    ],
+    "warnings": [
+      "Avoid dogmatism.",
+      "Be cautious of overconfidence.",
+      "Recognize the limits of your perspective.",
+      "Stay open to change.",
+      "Beware of confirmation bias."
+    ]
+  },
+  "context": {
+    "history": "The Socratic Paradox has roots in ancient Greek philosophy, particularly in the teachings of Socrates and Plato.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

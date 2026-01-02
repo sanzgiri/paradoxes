@@ -1,0 +1,17 @@
+{
+  "id": "p_sleeping_beauty_third",
+  "title": "Thirders in Sleeping Beauty",
+  "hook": "Debate between halfers and thirders on credence upon awakening.",
+  "domains": [
+    "probability",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "antinomy",
+  "key_lesson": "Understanding self-locating beliefs impacts decision-making.",
+  "tags": [
+    "selflocating",
+    "anthropic"
+  ],
+  "related": []
+}

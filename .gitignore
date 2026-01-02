@@ -1,0 +1,22 @@
+# Node / Next
+site/node_modules/
+site/.next/
+site/out/
+site/.turbo/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Logs
+*.log
+
+# Env
+.env
+
+# OS
+.DS_Store
+
+# Sources (generation-only)
+sources/

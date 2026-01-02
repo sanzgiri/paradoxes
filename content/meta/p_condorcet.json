@@ -1,0 +1,17 @@
+{
+  "id": "p_condorcet",
+  "title": "Condorcet Paradox",
+  "hook": "Collective majority preferences can be cyclic even when individual preferences are transitive.",
+  "domains": [
+    "social_choice",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Majority preferences can contradict individual choices.",
+  "tags": [
+    "voting",
+    "cycles"
+  ],
+  "related": []
+}

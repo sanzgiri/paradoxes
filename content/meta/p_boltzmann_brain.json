@@ -1,0 +1,17 @@
+{
+  "id": "p_boltzmann_brain",
+  "title": "Boltzmann Brain Paradox",
+  "hook": "Fluctuation brains more likely than ordered observers in thermal equilibrium.",
+  "domains": [
+    "other",
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Random fluctuations can lead to improbable events.",
+  "tags": [
+    "thermodynamics",
+    "probability"
+  ],
+  "related": []
+}

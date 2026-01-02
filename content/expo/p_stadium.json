@@ -1,0 +1,71 @@
+{
+  "id": "p_stadium",
+  "narrative": {
+    "story": "In the Stadium Paradox, Zeno presents a scenario where two bodies move towards each other in a stadium. As they approach, each body must traverse a distance that seems to take infinitely many steps. This leads to the conclusion that motion is impossible, as they can never actually meet despite moving towards each other.",
+    "wrong_reasoning": "The paradox arises from the assumption that time can be infinitely divided without considering the finite nature of time intervals. Critics argue that Zeno's reasoning neglects the actual mechanics of motion and the continuity of time.",
+    "paradox": "The paradox illustrates that while each body seems to have a finite distance to cover, the infinite subdivisions of that distance create a logical contradiction regarding the completion of motion."
+  },
+  "mechanism": {
+    "assumptions": "Assumes infinite divisibility of time and space.",
+    "steps": "1. Two bodies start at opposite ends of a stadium. 2. Each body moves towards the other. 3. As they approach, they must cover an infinite number of smaller distances. 4. Concludes they can never meet.",
+    "math": "If body A covers distance d/2, then body B covers d/4, and this continues ad infinitum.",
+    "truth": "Motion is continuous and can be described using calculus."
+  },
+  "solutions": {
+    "paths": [
+      "Accept the continuity of motion.",
+      "Use calculus to resolve infinite series.",
+      "Reconsider the nature of time and space.",
+      "Explore modern physics interpretations."
+    ],
+    "tradeoffs": [
+      "Simplification vs. complexity in understanding motion.",
+      "Intuitive understanding vs. mathematical rigor.",
+      "Philosophical implications vs. practical applications.",
+      "Acceptance of paradox vs. rejection of Zeno's logic.",
+      "Finite vs. infinite perspectives on distance.",
+      "Classical mechanics vs. relativistic views.",
+      "Historical context vs. modern interpretations.",
+      "Philosophical debate vs. scientific consensus."
+    ],
+    "status": "Ongoing discussions in philosophy and physics."
+  },
+  "practice": {
+    "patterns": [
+      "Analyze similar paradoxes.",
+      "Explore limits in calculus.",
+      "Discuss implications of infinity.",
+      "Apply concepts to real-world scenarios.",
+      "Debate philosophical interpretations."
+    ],
+    "prompts": [
+      "What assumptions lead to the paradox?",
+      "How does calculus resolve the issue?",
+      "Can you think of real-life examples?",
+      "What does this say about motion?",
+      "How do modern physics views differ?",
+      "Discuss the implications of infinity.",
+      "How does this relate to relativity?",
+      "What are the philosophical consequences?",
+      "Explore alternative interpretations.",
+      "How does this paradox affect our understanding of time?",
+      "What are the limits of human intuition?",
+      "How can we apply this in technology?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying the paradox.",
+      "Be cautious with assumptions about infinity.",
+      "Don't ignore the historical context.",
+      "Recognize the limits of classical mechanics.",
+      "Be aware of differing philosophical views."
+    ]
+  },
+  "context": {
+    "history": "Zeno's paradoxes date back to ancient Greece and have influenced philosophical thought for centuries.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

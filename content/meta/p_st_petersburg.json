@@ -1,0 +1,17 @@
+{
+  "id": "p_st_petersburg",
+  "title": "St. Petersburg Paradox",
+  "hook": "A game with infinite expected value elicits only modest real-world willingness to pay.",
+  "domains": [
+    "probability",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Real-world decisions often contradict theoretical expectations.",
+  "tags": [
+    "expected_value",
+    "utility"
+  ],
+  "related": []
+}

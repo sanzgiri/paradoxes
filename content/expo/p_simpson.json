@@ -1,0 +1,76 @@
+{
+  "id": "p_simpson",
+  "narrative": {
+    "story": "In a study of two treatments for a disease, treatment A appears more effective than treatment B in both male and female groups. However, when the data is combined, treatment B shows a higher overall success rate. This counterintuitive result illustrates Simpson's Paradox, where trends in subgroups can reverse when aggregated.",
+    "wrong_reasoning": "One might conclude that treatment A is superior based solely on subgroup analysis. However, this ignores the influence of confounding variables, such as the distribution of patients across treatments, which can lead to misleading conclusions.",
+    "paradox": "Simpson's Paradox reveals that aggregated data can lead to opposite conclusions than those drawn from disaggregated data, highlighting the importance of considering the context and structure of data."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that subgroup trends are reliable and that aggregation does not distort relationships.",
+    "steps": "1. Analyze data within subgroups. 2. Aggregate the data. 3. Compare results. 4. Identify discrepancies between subgroup and aggregated results.",
+    "math": "Let A1 and A2 be the success rates for treatment A in groups 1 and 2, respectively, and B1 and B2 for treatment B. If A1 > B1 and A2 > B2, but (A1 + A2)/(total A) < (B1 + B2)/(total B), then Simpson's Paradox occurs.",
+    "truth": "Aggregated data can misrepresent true relationships."
+  },
+  "solutions": {
+    "paths": [
+      "Use stratified analysis",
+      "Report subgroup results",
+      "Avoid over-reliance on aggregated data",
+      "Educate on data interpretation"
+    ],
+    "tradeoffs": [
+      "Increased complexity",
+      "Potential for information overload",
+      "Need for careful communication",
+      "Time-consuming analysis",
+      "Risk of misinterpretation",
+      "Requires robust data collection",
+      "May obscure other insights",
+      "Challenges in data presentation"
+    ],
+    "status": "Ongoing research into effective communication of statistical findings."
+  },
+  "practice": {
+    "patterns": [
+      "Check for confounding variables",
+      "Use visualizations to show subgroup trends",
+      "Provide context for aggregated data",
+      "Encourage critical thinking about data",
+      "Highlight potential biases",
+      "Discuss implications of findings",
+      "Promote transparency in data reporting",
+      "Foster collaboration among disciplines",
+      "Utilize software for data analysis",
+      "Engage in peer review"
+    ],
+    "prompts": [
+      "What do the subgroup results indicate?",
+      "How does aggregation change the narrative?",
+      "What assumptions are being made?",
+      "Can we identify confounding factors?",
+      "What additional data would clarify the situation?",
+      "How can we communicate this effectively?",
+      "What are the implications for decision-making?",
+      "How might this affect public perception?",
+      "What are the limitations of our analysis?",
+      "What alternative explanations exist?",
+      "How can we improve our data collection?",
+      "What lessons can we learn from this?"
+    ],
+    "warnings": [
+      "Beware of overgeneralization",
+      "Avoid cherry-picking data",
+      "Be cautious with causal inferences",
+      "Recognize the limits of statistical significance",
+      "Don't ignore the context of data"
+    ]
+  },
+  "context": {
+    "history": "Simpson's Paradox was first identified by Edward H. Simpson in 1951, illustrating the complexities of statistical interpretation.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

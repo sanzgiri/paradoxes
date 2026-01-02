@@ -1,0 +1,16 @@
+{
+  "id": "p_schr\u00f6dinger_cat",
+  "title": "Schr\u00f6dinger's Cat",
+  "hook": "Cat in superposition of alive/dead challenges quantum-classical boundary.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Observation affects quantum states.",
+  "tags": [
+    "quantum_superposition",
+    "macroscopic"
+  ],
+  "related": []
+}

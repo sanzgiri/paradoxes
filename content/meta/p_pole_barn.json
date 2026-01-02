@@ -1,0 +1,16 @@
+{
+  "id": "p_pole_barn",
+  "title": "Pole-Barn Paradox",
+  "hook": "Fast pole fits in slow barn but doors can't close simultaneously.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Relativity affects measurements of length and time.",
+  "tags": [
+    "relativity",
+    "length_contraction"
+  ],
+  "related": []
+}

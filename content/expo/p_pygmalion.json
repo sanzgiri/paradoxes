@@ -1,0 +1,76 @@
+{
+  "id": "p_pygmalion",
+  "narrative": {
+    "story": "The Pygmalion Paradox illustrates how higher expectations can lead to improved performance. In educational settings, teachers who believe in their students' potential often inspire those students to excel. This phenomenon is not limited to academics; it can be observed in workplaces and sports as well. When individuals are expected to succeed, they often rise to meet those expectations, creating a cycle of positive reinforcement.",
+    "wrong_reasoning": "Some may argue that performance is solely based on inherent ability, dismissing the impact of expectations. This reasoning overlooks the psychological effects of belief and motivation. If a teacher expects a student to fail, that student may internalize this belief, leading to poorer performance. Thus, the argument fails to account for the influence of social and psychological factors.",
+    "paradox": "The paradox lies in the fact that while expectations can lead to better outcomes, they can also create pressure. If expectations are too high, they may lead to anxiety and decreased performance. This duality raises questions about the balance between encouragement and pressure."
+  },
+  "mechanism": {
+    "assumptions": "Expectations influence behavior; individuals respond to perceived beliefs.",
+    "steps": "1. Set high expectations. 2. Foster a supportive environment. 3. Monitor performance. 4. Provide feedback and encouragement.",
+    "math": "N/A",
+    "truth": "Expectations can shape reality."
+  },
+  "solutions": {
+    "paths": [
+      "Set realistic expectations",
+      "Encourage open communication",
+      "Provide resources for improvement",
+      "Celebrate small successes"
+    ],
+    "tradeoffs": [
+      "High expectations may lead to stress",
+      "Balancing support and challenge",
+      "Potential for disappointment",
+      "Need for continuous feedback",
+      "Risk of over-reliance on external validation",
+      "Managing diverse abilities",
+      "Avoiding stereotype threats",
+      "Recognizing individual differences"
+    ],
+    "status": "Ongoing research in educational psychology."
+  },
+  "practice": {
+    "patterns": [
+      "Positive reinforcement",
+      "Growth mindset",
+      "Goal setting",
+      "Feedback loops",
+      "Peer support",
+      "Mentorship",
+      "Reflective practices",
+      "Collaborative learning",
+      "Self-assessment",
+      "Celebrating diversity"
+    ],
+    "prompts": [
+      "What are your expectations for yourself?",
+      "How can you support others' growth?",
+      "Reflect on a time expectations influenced your performance.",
+      "What strategies can help manage pressure?",
+      "How do you respond to feedback?",
+      "Discuss the role of belief in success.",
+      "Identify a mentor who inspires you.",
+      "How can you set realistic goals?",
+      "What does success look like for you?",
+      "How can you celebrate small wins?",
+      "What assumptions do you hold about performance?",
+      "How can you create a supportive environment?"
+    ],
+    "warnings": [
+      "Avoid setting unrealistic expectations",
+      "Be mindful of individual differences",
+      "Recognize the impact of pressure",
+      "Don't overlook mental health",
+      "Ensure feedback is constructive"
+    ]
+  },
+  "context": {
+    "history": "The Pygmalion effect was first studied in the 1960s by researchers like Rosenthal and Jacobson.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "p_dollar_auction",
+  "narrative": {
+    "story": "In a Dollar Auction, participants bid on a dollar bill, but the rules dictate that the highest bidder wins the dollar while the second-highest bidder loses their bid. As the auction progresses, bidders often escalate their bids beyond the value of the dollar due to the fear of losing their previous investments. This leads to irrational behavior as they chase losses instead of making logical decisions.",
+    "wrong_reasoning": "Bidders believe that they can recover their losses by continuing to bid higher, thinking that the dollar's value justifies the escalating costs. They ignore the fact that the auction's structure incentivizes them to keep bidding even when it becomes irrational.",
+    "paradox": "The paradox lies in the fact that participants, in an attempt to avoid loss, end up incurring greater losses. The rational choice would be to stop bidding, but the emotional pull of sunk costs leads to a cycle of escalation."
+  },
+  "mechanism": {
+    "assumptions": "Participants assume they can control their losses and that the dollar's value justifies their bids.",
+    "steps": "1. Auction begins with a starting bid of $0. 2. Bidders place increasing bids. 3. The highest bidder wins the dollar, but the second-highest loses their bid. 4. Bidders continue to escalate bids to avoid losses.",
+    "math": "The expected value of the dollar diminishes as bids exceed $1, leading to negative returns for bidders.",
+    "truth": "Sunk costs can distort rational decision-making."
+  },
+  "solutions": {
+    "paths": [
+      "Set strict bidding limits",
+      "Recognize sunk cost fallacy",
+      "Implement cooling-off periods",
+      "Educate on rational decision-making"
+    ],
+    "tradeoffs": [
+      "Emotional satisfaction vs. financial loss",
+      "Short-term gain vs. long-term strategy",
+      "Competitive spirit vs. rationality",
+      "Social pressure vs. individual decision"
+    ],
+    "status": "Awareness of the sunk cost fallacy is increasing, but many still fall prey to it."
+  },
+  "practice": {
+    "patterns": [
+      "Identify sunk costs",
+      "Pause before bidding",
+      "Reflect on decision-making processes",
+      "Discuss with peers",
+      "Set clear limits",
+      "Analyze past bidding behavior",
+      "Use decision trees",
+      "Practice rational bidding",
+      "Role-play scenarios",
+      "Review outcomes"
+    ],
+    "prompts": [
+      "What are my current costs?",
+      "Am I bidding to win or to avoid loss?",
+      "How would I advise a friend in this situation?",
+      "What is the maximum I am willing to lose?",
+      "Have I considered the long-term implications?",
+      "What would I do if I started fresh?",
+      "Am I influenced by others' bids?",
+      "What is the value of my time?",
+      "How does this decision align with my goals?",
+      "What are the potential outcomes?",
+      "Am I being rational?",
+      "What would I tell someone else in my position?"
+    ],
+    "warnings": [
+      "Avoid emotional bidding",
+      "Recognize the escalation trap",
+      "Don't ignore rational limits",
+      "Be aware of peer pressure",
+      "Reflect on past mistakes"
+    ]
+  },
+  "context": {
+    "history": "The Dollar Auction was first introduced by economist Richard Thaler in the 1980s to illustrate the sunk cost fallacy.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

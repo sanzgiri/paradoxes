@@ -1,0 +1,76 @@
+{
+  "id": "p_gettier",
+  "narrative": {
+    "story": "In a classic example, Smith has strong evidence that Jones owns a Ford. He forms the belief that 'The man who will get the job has a Ford.' Unbeknownst to Smith, Jones sold his Ford, but Smith gets the job and the new owner of the Ford is actually the one who gets hired. Smith's belief is justified and true, yet intuitively, he does not know that the man who got the job has a Ford.",
+    "wrong_reasoning": "Many assume that justified true belief equates to knowledge. However, Gettier cases show that even with justification and truth, knowledge can be absent due to luck or misleading evidence.",
+    "paradox": "The paradox arises when justified true belief fails to meet the criteria for knowledge, revealing a gap in our understanding of epistemology."
+  },
+  "mechanism": {
+    "assumptions": "Assumes that justification, truth, and belief are sufficient for knowledge.",
+    "steps": "1. Identify a belief that is justified and true. 2. Analyze the evidence supporting the belief. 3. Determine if the belief's truth is coincidental or based on reliable evidence. 4. Conclude if the belief qualifies as knowledge.",
+    "math": "",
+    "truth": "Knowledge requires more than just justified true belief."
+  },
+  "solutions": {
+    "paths": [
+      "Refine the definition of knowledge.",
+      "Introduce a fourth condition for knowledge.",
+      "Explore alternative epistemological frameworks.",
+      "Analyze Gettier cases in various contexts."
+    ],
+    "tradeoffs": [
+      "Complexity vs. simplicity in definitions.",
+      "Rigidity vs. flexibility in epistemological criteria.",
+      "Generalization vs. specificity in cases.",
+      "Philosophical rigor vs. practical applicability.",
+      "Clarity vs. nuance in understanding knowledge.",
+      "Historical context vs. contemporary relevance.",
+      "Theoretical implications vs. real-world examples.",
+      "Intuition vs. formal logic."
+    ],
+    "status": "Ongoing philosophical debate."
+  },
+  "practice": {
+    "patterns": [
+      "Identify Gettier cases in real life.",
+      "Discuss implications of justified true belief.",
+      "Analyze different epistemological theories.",
+      "Create new Gettier scenarios.",
+      "Evaluate personal beliefs against Gettier criteria.",
+      "Engage in debates on knowledge definitions.",
+      "Explore historical responses to Gettier.",
+      "Compare Gettier with other paradoxes.",
+      "Reflect on personal experiences of knowledge.",
+      "Study implications in fields like law and science."
+    ],
+    "prompts": [
+      "What constitutes knowledge?",
+      "Can you think of a Gettier case?",
+      "How does luck affect knowledge?",
+      "What are the implications of Gettier for education?",
+      "Discuss the relevance of Gettier today.",
+      "How would you define knowledge?",
+      "What are the limitations of justified true belief?",
+      "Explore the impact of Gettier on AI.",
+      "How do different cultures view knowledge?",
+      "What role does evidence play in knowledge?",
+      "Discuss the relationship between belief and truth.",
+      "How can we improve our understanding of knowledge?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying knowledge.",
+      "Be cautious of confirmation bias.",
+      "Recognize the limits of intuition.",
+      "Don't conflate belief with knowledge.",
+      "Be aware of the context in discussions."
+    ]
+  },
+  "context": {
+    "history": "The Gettier problem was introduced by Edmund Gettier in 1963, challenging the traditional tripartite definition of knowledge.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

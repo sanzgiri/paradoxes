@@ -1,0 +1,76 @@
+{
+  "id": "p_hydraulic_jump",
+  "narrative": {
+    "story": "In fluid dynamics, a hydraulic jump occurs when a fluid transitions from a high-velocity, low-depth flow to a low-velocity, high-depth flow. This phenomenon can be observed in rivers and spillways, where the water appears to 'jump' to a deeper state. The counterintuitive nature of this transition challenges our understanding of fluid behavior, as it seems to defy the principle of conservation of energy.",
+    "wrong_reasoning": "One might assume that the flow should remain consistent, with deeper water moving slower. However, the jump illustrates that energy is conserved in a different manner, leading to an increase in depth and a decrease in velocity in a surprising way.",
+    "paradox": "The hydraulic jump paradox reveals that under certain conditions, a fluid can accelerate while transitioning to a deeper state, contradicting intuitive expectations about flow behavior."
+  },
+  "mechanism": {
+    "assumptions": "Assumes uniform flow conditions and neglects external forces.",
+    "steps": "1. Water flows over a surface at a certain velocity. 2. As it encounters a change in depth, the velocity decreases. 3. The flow transitions to a deeper state, increasing pressure. 4. Energy conservation principles apply, leading to the hydraulic jump.",
+    "math": "The relationship between velocity (v), depth (h), and gravitational acceleration (g) can be expressed using the Bernoulli equation and continuity equation.",
+    "truth": "Energy is conserved in fluid systems, but can manifest in unexpected ways."
+  },
+  "solutions": {
+    "paths": [
+      "Understanding energy conservation",
+      "Analyzing flow conditions",
+      "Utilizing computational fluid dynamics",
+      "Experimenting with physical models"
+    ],
+    "tradeoffs": [
+      "Simplifying assumptions may overlook complexities",
+      "Increased accuracy requires more computational power",
+      "Physical models may not scale well",
+      "Real-world applications can be unpredictable",
+      "Neglecting turbulence can lead to errors",
+      "Ignoring boundary conditions can misrepresent flow",
+      "Assuming steady flow may not apply",
+      "Overlooking external forces can skew results"
+    ],
+    "status": "Research ongoing to better understand hydraulic jumps in various contexts."
+  },
+  "practice": {
+    "patterns": [
+      "Identify flow transitions",
+      "Analyze energy changes",
+      "Model fluid behavior",
+      "Experiment with different fluids",
+      "Observe real-world examples",
+      "Use simulations",
+      "Compare theoretical vs. experimental results",
+      "Explore applications in engineering",
+      "Study related phenomena",
+      "Discuss implications in environmental science"
+    ],
+    "prompts": [
+      "What happens to flow velocity during a jump?",
+      "How does depth affect pressure?",
+      "Can you model a hydraulic jump?",
+      "What real-world examples can you find?",
+      "How do different fluids behave?",
+      "What assumptions are critical?",
+      "How can this knowledge be applied?",
+      "What are the implications for engineering?",
+      "How does turbulence affect the jump?",
+      "What historical experiments led to this understanding?",
+      "What are the limitations of current models?",
+      "How can we visualize this phenomenon?"
+    ],
+    "warnings": [
+      "Be cautious of oversimplifying models",
+      "Consider external factors",
+      "Verify assumptions before conclusions",
+      "Account for turbulence effects",
+      "Ensure accurate measurements in experiments"
+    ]
+  },
+  "context": {
+    "history": "The hydraulic jump has been studied since the early days of fluid mechanics, with significant contributions from scientists like Bernoulli and later researchers.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p_buridan",
+  "title": "Buridan's Ass",
+  "hook": "Perfectly equal options paralyze rational choice despite clear preferences.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "antinomy",
+  "key_lesson": "Indecision can arise from equally appealing choices.",
+  "tags": [
+    "indifference",
+    "inaction"
+  ],
+  "related": []
+}

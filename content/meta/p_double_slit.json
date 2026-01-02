@@ -1,0 +1,15 @@
+{
+  "id": "p_double_slit",
+  "title": "Double Slit Paradox",
+  "hook": "Particles create interference alone, behave as particles when observed.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Observation affects particle behavior.",
+  "tags": [
+    "waveparticle_duality"
+  ],
+  "related": []
+}

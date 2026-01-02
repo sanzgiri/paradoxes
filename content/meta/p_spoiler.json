@@ -1,0 +1,17 @@
+{
+  "id": "p_spoiler",
+  "title": "Spoiler Effect",
+  "hook": "Third candidate splits vote causing preferred candidate to lose.",
+  "domains": [
+    "social_choice",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Vote splitting can lead to unintended outcomes.",
+  "tags": [
+    "voting",
+    "third_candidates"
+  ],
+  "related": []
+}

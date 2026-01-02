@@ -1,0 +1,16 @@
+{
+  "id": "p_bec",
+  "title": "Bose-Einstein Condensate Paradox",
+  "hook": "Macroscopic quantum wavefunction at near-absolute zero.",
+  "domains": [
+    "physics"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Quantum effects can manifest on macroscopic scales.",
+  "tags": [
+    "quantum_degeneracy",
+    "macroscopic"
+  ],
+  "related": []
+}

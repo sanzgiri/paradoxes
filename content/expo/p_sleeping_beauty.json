@@ -1,0 +1,76 @@
+{
+  "id": "p_sleeping_beauty",
+  "narrative": {
+    "story": "In the Sleeping Beauty problem, a subject is put to sleep on Sunday and awakened either once or twice depending on a coin flip. If heads, she is awakened once on Monday; if tails, she is awakened on Monday and again on Tuesday. After each awakening, she must assess the probability of the coin being heads or tails. The paradox arises from differing interpretations of how to update her beliefs based on her experiences.",
+    "wrong_reasoning": "Some argue that upon awakening, she should assign a probability of 1/2 to heads and 1/2 to tails, treating each awakening as an independent event. However, this reasoning neglects the fact that her situation is influenced by the coin flip and the structure of the experiment, leading to conflicting credences.",
+    "paradox": "The paradox lies in the fact that depending on how one interprets the problem, the probability of the coin being heads can be assessed as either 1/2 or 1/3, creating a conflict in belief updating."
+  },
+  "mechanism": {
+    "assumptions": "The subject's beliefs about the coin flip and the nature of her awakenings.",
+    "steps": "1. Determine the outcomes of the coin flip. 2. Assess the implications of each outcome on her awakenings. 3. Update beliefs based on the awakening experience. 4. Re-evaluate probabilities after each awakening.",
+    "math": "If heads, P(heads) = 1/2; if tails, P(tails) = 1/2. After awakening, P(heads) can be argued as 1/3 based on the total possible awakenings.",
+    "truth": "The correct probability can depend on the interpretation of the experiment."
+  },
+  "solutions": {
+    "paths": [
+      "Accept 1/3 probability for heads.",
+      "Accept 1/2 probability for heads.",
+      "Consider alternative interpretations.",
+      "Engage in further philosophical debate."
+    ],
+    "tradeoffs": [
+      "Simplicity vs. accuracy in belief updating.",
+      "Intuitive reasoning vs. formal probability.",
+      "Single awakening vs. multiple awakenings.",
+      "Personal belief vs. statistical reasoning.",
+      "Philosophical implications vs. practical applications.",
+      "Subjective experience vs. objective analysis.",
+      "Consensus vs. individual interpretation.",
+      "Clarity vs. complexity in explanations."
+    ],
+    "status": "Ongoing debate in philosophy and decision theory."
+  },
+  "practice": {
+    "patterns": [
+      "Analyzing belief updates.",
+      "Exploring paradoxes in probability.",
+      "Engaging in thought experiments.",
+      "Comparing subjective vs. objective probabilities.",
+      "Discussing implications of self-locating beliefs.",
+      "Evaluating decision-making under uncertainty.",
+      "Applying Bayesian reasoning.",
+      "Challenging intuitive responses.",
+      "Investigating the role of context.",
+      "Reflecting on personal biases."
+    ],
+    "prompts": [
+      "What would you believe after each awakening?",
+      "How does the coin flip affect your reasoning?",
+      "Can you find a third option?",
+      "What assumptions are you making?",
+      "How would you explain this to someone else?",
+      "What are the implications for decision theory?",
+      "How does this relate to other paradoxes?",
+      "What if the experiment was different?",
+      "How do you feel about your belief updates?",
+      "What is the role of memory in this scenario?",
+      "How might this affect real-life decisions?",
+      "What philosophical questions arise from this?"
+    ],
+    "warnings": [
+      "Avoid over-simplifying the problem.",
+      "Be cautious of intuitive biases.",
+      "Don't ignore the implications of each awakening.",
+      "Consider the context of the experiment.",
+      "Be aware of differing interpretations."
+    ]
+  },
+  "context": {
+    "history": "The Sleeping Beauty problem has been a topic of philosophical debate since its introduction, highlighting issues in probability and belief.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

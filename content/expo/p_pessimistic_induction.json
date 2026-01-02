@@ -1,0 +1,76 @@
+{
+  "id": "p_pessimistic_induction",
+  "narrative": {
+    "story": "The Pessimistic Meta-Induction argues that because many past scientific theories have been proven false, we should be skeptical about the truth of current theories. This line of reasoning suggests that just as previous theories were discarded, so too might our current understanding be flawed. It challenges the assumption that our current theories are closer to the truth than those of the past.",
+    "wrong_reasoning": "One might argue that current theories are based on more advanced technology and knowledge, thus they are less likely to be false. However, this reasoning overlooks the historical pattern of scientific advancement where many once-accepted theories were later disproven, suggesting that current theories may also be subject to the same fate.",
+    "paradox": "The paradox lies in the belief that the accumulation of knowledge leads to more accurate theories, yet history shows that many accepted theories were eventually rejected. This creates a tension between our confidence in current theories and the historical record of scientific failure."
+  },
+  "mechanism": {
+    "assumptions": "The assumption that current theories are inherently better than past theories.",
+    "steps": "1. Identify past successful theories. 2. Note their eventual falsification. 3. Apply this pattern to current theories. 4. Conclude skepticism about current theories' truth.",
+    "math": "",
+    "truth": "Current theories may not be more accurate than past ones."
+  },
+  "solutions": {
+    "paths": [
+      "Embrace a more tentative approach to current theories.",
+      "Encourage ongoing testing and revision of theories.",
+      "Promote interdisciplinary collaboration to challenge assumptions.",
+      "Foster a culture of skepticism in scientific inquiry."
+    ],
+    "tradeoffs": [
+      "Increased skepticism may slow scientific progress.",
+      "Tentative approaches may lead to uncertainty in applications.",
+      "Collaboration can dilute individual accountability.",
+      "Skepticism may discourage innovative ideas.",
+      "Revising theories frequently can lead to confusion.",
+      "A culture of skepticism may undermine public trust.",
+      "Ongoing testing requires more resources.",
+      "Challenging assumptions can create conflict."
+    ],
+    "status": "Ongoing discussions in philosophy of science."
+  },
+  "practice": {
+    "patterns": [
+      "Historical analysis of scientific theories.",
+      "Critical evaluation of current theories.",
+      "Interdisciplinary dialogue.",
+      "Case studies of theory change.",
+      "Workshops on scientific skepticism.",
+      "Debates on theory validity.",
+      "Peer review processes.",
+      "Public engagement in science.",
+      "Simulation of theory testing.",
+      "Ethical considerations in theory application."
+    ],
+    "prompts": [
+      "What past theories have been disproven?",
+      "How does this affect our view of current theories?",
+      "What assumptions are we making about current knowledge?",
+      "Can you identify a current theory that may be flawed?",
+      "How can we test the validity of a theory?",
+      "What role does technology play in theory acceptance?",
+      "How do we balance skepticism and innovation?",
+      "What historical patterns can inform our current theories?",
+      "How can we communicate uncertainty in science?",
+      "What are the implications of theory change for society?",
+      "How do we foster a culture of healthy skepticism?",
+      "What lessons can we learn from past scientific failures?"
+    ],
+    "warnings": [
+      "Avoid dogmatism in scientific beliefs.",
+      "Be cautious of overgeneralizing from history.",
+      "Recognize the limits of current knowledge.",
+      "Beware of confirmation bias in theory evaluation.",
+      "Don't dismiss current theories without evidence."
+    ]
+  },
+  "context": {
+    "history": "The Pessimistic Meta-Induction has roots in the philosophy of science, particularly in discussions about theory change and scientific realism.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

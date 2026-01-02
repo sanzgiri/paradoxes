@@ -1,0 +1,16 @@
+{
+  "id": "p_newcomb",
+  "title": "Newcomb\u2019s Problem",
+  "hook": "One-boxing and two-boxing choices both appear rational under different principles of decision.",
+  "domains": [
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Rational choices can lead to conflicting outcomes.",
+  "tags": [
+    "prediction",
+    "free_will"
+  ],
+  "related": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "p_bh_info",
+  "narrative": {
+    "story": "The black hole information paradox arises when considering what happens to information that falls into a black hole. According to quantum mechanics, information cannot be destroyed. However, when a black hole evaporates through Hawking radiation, it seems that the information about the matter that fell into it is lost forever. This creates a conflict between the principles of quantum mechanics and general relativity, leading to a profound question about the nature of reality and information.",
+    "wrong_reasoning": "Some argue that since black holes evaporate, the information is lost with them. This reasoning overlooks the principles of quantum mechanics, which assert that information must be preserved, leading to the paradox.",
+    "paradox": "The paradox lies in the contradiction between the loss of information in black hole evaporation and the quantum mechanical principle that information cannot be destroyed."
+  },
+  "mechanism": {
+    "assumptions": "Information is preserved in quantum mechanics; black holes emit Hawking radiation.",
+    "steps": "1. Matter falls into a black hole. 2. The black hole evaporates over time. 3. Information appears to be lost with the black hole's evaporation. 4. Quantum mechanics states that information cannot be destroyed.",
+    "math": "Hawking radiation can be described using quantum field theory in curved spacetime, leading to the conclusion that the entropy of a black hole is proportional to its surface area.",
+    "truth": "Information is fundamental and cannot be lost."
+  },
+  "solutions": {
+    "paths": [
+      "Hawking's proposal of information retrieval through radiation",
+      "Black hole complementarity theory",
+      "Firewall hypothesis",
+      "Quantum error correction codes"
+    ],
+    "tradeoffs": [
+      "Complexity of quantum gravity theories",
+      "Potential contradictions in established physics",
+      "Need for new physics to resolve paradox",
+      "Loss of intuitive understanding of black holes",
+      "Increased computational requirements for simulations",
+      "Debate over the nature of reality",
+      "Challenges in experimental verification",
+      "Philosophical implications for information theory"
+    ],
+    "status": "Ongoing research in theoretical physics."
+  },
+  "practice": {
+    "patterns": [
+      "Quantum mechanics",
+      "General relativity",
+      "Information theory"
+    ],
+    "prompts": [
+      "What happens to information in a black hole?",
+      "How does Hawking radiation relate to information loss?",
+      "Can we reconcile quantum mechanics with general relativity?",
+      "What are the implications of the firewall hypothesis?"
+    ],
+    "warnings": [
+      "Avoid oversimplifying quantum mechanics",
+      "Be cautious of speculative theories",
+      "Recognize the limits of current understanding"
+    ]
+  },
+  "context": {
+    "history": "The paradox was first articulated by Stephen Hawking in the 1970s, sparking significant debate in the physics community.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

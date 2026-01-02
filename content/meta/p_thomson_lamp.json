@@ -1,0 +1,16 @@
+{
+  "id": "p_thomson_lamp",
+  "title": "Thomson\u2019s Lamp",
+  "hook": "A lamp toggled infinitely many times in finite time raises the question of its final state.",
+  "domains": [
+    "philosophy"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Infinite processes can lead to paradoxical conclusions.",
+  "tags": [
+    "supertask",
+    "infinity"
+  ],
+  "related": []
+}

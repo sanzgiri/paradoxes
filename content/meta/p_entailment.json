@@ -1,0 +1,16 @@
+{
+  "id": "p_entailment",
+  "title": "Paradox of Entailment",
+  "hook": "From a contradiction, classical logic derives every statement, making inconsistent theories trivial.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Inconsistent premises yield valid conclusions.",
+  "tags": [
+    "relevance_logic",
+    "inconsistency"
+  ],
+  "related": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "p_envelope_game",
+  "narrative": {
+    "story": "In the Envelope Game, players submit sealed bids for an envelope containing a prize. The highest bid wins, but the winner pays their own bid amount. This creates a situation where players may hesitate to bid high, fearing they will lose money, leading to a paradox where no trade occurs despite potential gains.",
+    "wrong_reasoning": "Many players assume that bidding higher guarantees a win, but they overlook the cost of their bid. This leads to a common mistake where players underbid, thinking they can avoid losses, which ultimately results in no one winning the envelope.",
+    "paradox": "The paradox arises from the structure of the auction: players are incentivized to bid low to avoid losses, yet this behavior prevents any trade from happening, illustrating a conflict between individual rationality and collective outcomes."
+  },
+  "mechanism": {
+    "assumptions": "Players are rational and aim to maximize their utility. They have incomplete information about others' bids.",
+    "steps": "1. Players decide on their bids. 2. Bids are submitted in sealed envelopes. 3. The highest bid is revealed. 4. The winner pays their bid amount.",
+    "math": "If player A bids $10 and player B bids $15, player B wins but pays $15. If player A had bid $16, they would have won but incurred a loss if the prize value is less than $16.",
+    "truth": "Bidding strategies can lead to unexpected outcomes."
+  },
+  "solutions": {
+    "paths": [
+      "Encourage transparency in bidding",
+      "Introduce a reserve price",
+      "Use a different auction format",
+      "Educate players on bidding strategies"
+    ],
+    "tradeoffs": [
+      "Higher bids may deter participation",
+      "Transparency can reduce strategic bidding",
+      "Reserve prices may limit potential gains",
+      "Different formats may not suit all players",
+      "Education requires time and resources",
+      "Changing rules can confuse players",
+      "Incentives may lead to collusion",
+      "Complexity may reduce engagement"
+    ],
+    "status": "Ongoing discussions in auction theory."
+  },
+  "practice": {
+    "patterns": [
+      "Bidding low to avoid losses",
+      "Overestimating opponents' bids",
+      "Underbidding due to fear of loss",
+      "Rationalizing low bids as strategic"
+    ],
+    "prompts": [
+      "What would you bid if you knew others' bids?",
+      "How does risk affect your bidding strategy?",
+      "What is the value of the prize to you?",
+      "Would you change your bid if you knew the average bid?",
+      "How do you feel about losing your bid amount?",
+      "What strategies can you employ to win?",
+      "How does information asymmetry affect your decision?",
+      "What would happen if bids were public?",
+      "How would you approach a similar auction?",
+      "What lessons can be learned from this game?",
+      "How do emotions influence your bidding?",
+      "What alternative auction formats could work better?"
+    ],
+    "warnings": [
+      "Avoid emotional bidding",
+      "Don't assume others will bid high",
+      "Be aware of your own biases",
+      "Consider the value of the prize",
+      "Understand the auction rules thoroughly"
+    ]
+  },
+  "context": {
+    "history": "The Envelope Game has been discussed in economic theory and game theory literature as an example of paradoxical outcomes in auctions.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

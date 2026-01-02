@@ -1,0 +1,76 @@
+{
+  "id": "p_hungarian",
+  "narrative": {
+    "story": "A judge tells a condemned prisoner that he will be hanged at noon on one weekday in the following week, but the execution will be a surprise. The prisoner deduces that he cannot be hanged on Friday, as it would not be a surprise. He eliminates Thursday for the same reason, and continues this reasoning until he concludes he cannot be hanged at all. However, when he is unexpectedly hanged on Wednesday, he is indeed surprised.",
+    "wrong_reasoning": "The prisoner believes that if he can deduce the day of the hanging, it cannot be a surprise. This reasoning fails because it overlooks the possibility of unexpected outcomes.",
+    "paradox": "The paradox arises from the conflict between the expectation of surprise and the logical deduction that leads to the conclusion that the hanging cannot occur."
+  },
+  "mechanism": {
+    "assumptions": "The prisoner assumes that knowledge of the hanging day negates the surprise.",
+    "steps": "1. Judge announces hanging will be a surprise. 2. Prisoner eliminates days based on reasoning. 3. Prisoner concludes hanging cannot happen. 4. Hanging occurs unexpectedly.",
+    "math": "",
+    "truth": "The surprise hinges on the unpredictability of human reasoning."
+  },
+  "solutions": {
+    "paths": [
+      "Accept the paradox as a feature of self-reference.",
+      "Explore alternative interpretations of surprise.",
+      "Analyze the role of knowledge in predictions.",
+      "Consider the implications for decision theory."
+    ],
+    "tradeoffs": [
+      "Clarity vs. complexity in reasoning.",
+      "Predictability vs. surprise in outcomes.",
+      "Logical consistency vs. intuitive understanding.",
+      "Philosophical implications vs. practical applications.",
+      "Self-reference vs. external validation.",
+      "Determinism vs. free will.",
+      "Expectation vs. reality.",
+      "Knowledge vs. ignorance."
+    ],
+    "status": "The paradox remains a topic of philosophical debate."
+  },
+  "practice": {
+    "patterns": [
+      "Self-referential statements",
+      "Surprise events",
+      "Logical deductions",
+      "Paradoxical reasoning",
+      "Predictive models",
+      "Contradictory outcomes",
+      "Expectation management",
+      "Decision-making under uncertainty",
+      "Philosophical inquiry",
+      "Critical thinking"
+    ],
+    "prompts": [
+      "What is a surprise?",
+      "Can knowledge negate surprise?",
+      "How do we define a paradox?",
+      "What are the implications of self-reference?",
+      "Can you think of other paradoxes?",
+      "How does this relate to decision theory?",
+      "What assumptions are we making?",
+      "How can we resolve contradictions?",
+      "What role does context play?",
+      "How do we handle unexpected outcomes?",
+      "What is the nature of truth in paradoxes?",
+      "How does this affect our understanding of predictions?"
+    ],
+    "warnings": [
+      "Avoid overgeneralizing conclusions.",
+      "Be cautious of circular reasoning.",
+      "Recognize the limits of logic.",
+      "Understand the role of assumptions.",
+      "Question your own reasoning."
+    ]
+  },
+  "context": {
+    "history": "The unexpected hanging paradox has been discussed in philosophical circles since the early 20th century, highlighting issues of self-reference and prediction.",
+    "sources": {
+      "wikipedia_list": "https://en.wikipedia.org/wiki/List_of_paradoxes",
+      "whitcraft": "List-of-Paradoxes.pdf",
+      "szpiro": "szpiro23.pdf"
+    }
+  }
+}

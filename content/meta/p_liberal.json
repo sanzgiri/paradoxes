@@ -1,0 +1,17 @@
+{
+  "id": "p_liberal",
+  "title": "Liberal Paradox",
+  "hook": "Minimal individual rights can conflict with Pareto efficiency.",
+  "domains": [
+    "social_choice",
+    "decision_theory"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Liberty and efficiency can be at odds.",
+  "tags": [
+    "rights",
+    "efficiency"
+  ],
+  "related": []
+}

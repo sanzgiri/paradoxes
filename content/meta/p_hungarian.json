@@ -1,0 +1,16 @@
+{
+  "id": "p_hungarian",
+  "title": "Unexpected Hanging Paradox",
+  "hook": "A predicted surprise event cannot occur on any day, yet it does if unexpected.",
+  "domains": [
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "veridical",
+  "key_lesson": "Self-reference can create logical contradictions.",
+  "tags": [
+    "selfreference",
+    "prediction"
+  ],
+  "related": []
+}

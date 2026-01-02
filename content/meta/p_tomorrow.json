@@ -1,0 +1,16 @@
+{
+  "id": "p_tomorrow",
+  "title": "Paradox of Tomorrow",
+  "hook": "Future events neither true nor false yet appear determinable.",
+  "domains": [
+    "philosophy",
+    "logic"
+  ],
+  "difficulty": "intermediate",
+  "paradox_type": "falsidical",
+  "key_lesson": "Future events can be uncertain and yet seem predictable.",
+  "tags": [
+    "future_contingents"
+  ],
+  "related": []
+}
