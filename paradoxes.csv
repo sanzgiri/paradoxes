@@ -165,7 +165,7 @@ p_trouton_noble,Trouton–Noble Paradox,,physics,"relativity;torque",veridical,"
 p_pole_barn,Pole-Barn Paradox,,physics,"relativity;length contraction",veridical,"Fast pole fits in slow barn but doors can't close simultaneously.",0,1,0
 p_einstein_box,Einstein's Box Paradox,,physics,"relativity;energy-momentum",antinomy,"Relativistic energy transfer appears to violate conservation locally.",0,1,0
 p_stapp,Stapp's Paradox,,physics,"quantum;consciousness",antinomy,"Quantum measurement requires conscious observer creating observer-dependence.",0,1,0
-p_schrödinger_cat,Schrödinger's Cat,,physics,"quantum superposition;macroscopic",antinomy,"Cat in superposition of alive/dead challenges quantum-classical boundary.",0,1,0
+p_schrodinger_cat,Schrödinger's Cat,,physics,"quantum superposition;macroscopic",antinomy,"Cat in superposition of alive/dead challenges quantum-classical boundary.",0,1,0
 p_wigner_friend,Wigner's Friend Paradox,,physics,"quantum;relativity",antinomy,"Friend measures outcome while Wigner sees superposition of friend+system.",0,1,0
 p_hardest_problem,Quantum Hardest Problem,,physics,"many-worlds;probability",antinomy,"Born rule probabilities unexplained in Everettian quantum mechanics.",0,1,0
 p_black_hole_firewall,Black Hole Firewall Paradox,,physics,"quantum gravity;information",antinomy,"Horizon either destroys information (firewall) or violates equivalence principle.",0,1,0
@@ -218,7 +218,7 @@ p_double_slit,Double Slit Paradox,,physics,"wave-particle duality",veridical,"Pa
 p_delayed_choice,Delayed Choice Paradox,,physics,"quantum;retrocausality",antinomy,"Future measurement choice affects past particle behavior.",0,1,0
 p_which_way,Which-Way Paradox,,physics,"quantum;complementarity",veridical,"Path information destroys interference pattern.",0,1,0
 p_epistemic,Epistemic Paradoxes General,,epistemology,"justification;regress",antinomy,"Infinite regress, circularity, or foundationalism all problematic for knowledge.",1,0,0
-p_münchhausen,Münchhausen Trilemma,,epistemology,"justification;circularity",veridical,"All justification faces regress, circularity, or axiomatic stopping.",1,0,0
+p_munchhausen,Münchhausen Trilemma,,epistemology,"justification;circularity",veridical,"All justification faces regress, circularity, or axiomatic stopping.",1,0,0
 p_pyrrhonian,Pyrrhonian Skepticism Paradox,,philosophy,"agrippan;modes",antinomy,"Suspension of belief justified by reasons undercuts justification.",1,0,0
 p_self_defeating,Self-Defeating Belief Paradox,,epistemology,"Moore;practical",antinomy,"Beliefs whose content contradicts their rational holding.",1,0,0
 p_access,Access Paradox,,epistemology,"justification;consciousness",antinomy,"Unconscious justification incompatible with conscious access.",1,0,0
@@ -252,7 +252,7 @@ p_deaton,Deaton Paradox,,economics,"consumption;income",veridical,"Consumption s
 p_fredkin,Fredkin's Paradox,,decision theory,"similarity;deliberation",veridical,"More similar choices take more decision time.",0,0,1
 p_hedgehog,Hedgehog's Dilemma,,social choice,"intimacy;harm",veridical,"Intimacy requires mutual harm despite goodwill.",0,0,1
 p_no_show,No-Show Paradox,,social choice,"voting;strategy",veridical,"Voting for candidate can cause loss vs abstaining.",0,0,1
-p_preparedness	Preparedness Paradox,,decision theory,"risk perception",veridical,"Preparation reduces perceived catastrophe seriousness.",0,0,1
+p_preparedness,Preparedness Paradox,,decision_theory,"risk perception",veridical,"Preparation reduces perceived catastrophe seriousness.",0,0,1
 p_relevance,Relevance Paradox,,decision theory,"information seeking",veridical,"Relevant info not sought until relevance clear.",0,0,1
 p_willpower,Willpower Paradox,,decision theory,"open mindedness;motivation",veridical,"Open minds more goal-directed than self-declared objectives.",0,0,1
 p_moving_rows,Moving Rows Paradox,,physics,"relativity of motion",antinomy,"Moving rows pass stationary differently than each other.",0,1,0

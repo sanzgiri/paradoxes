@@ -1,5 +1,5 @@
 {
-  "id": "p_schr\u00f6dinger_cat",
+  "id": "p_schrodinger_cat",
   "narrative": {
     "story": "Schr\u00f6dinger's Cat is a thought experiment that illustrates the concept of superposition in quantum mechanics. Imagine a cat placed in a sealed box with a radioactive atom, a Geiger counter, and a vial of poison. If the atom decays, the Geiger counter triggers the release of the poison, killing the cat. Until the box is opened, the cat is considered to be both alive and dead simultaneously, representing a superposition of states. This paradox challenges our classical understanding of reality and observation.",
     "wrong_reasoning": "Some may argue that the cat is either alive or dead before observation, misunderstanding the quantum principle that states the cat's state is indeterminate until measured. This misinterpretation leads to confusion about the nature of reality in quantum mechanics.",
