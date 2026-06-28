@@ -6,7 +6,26 @@
   --muted: #5a6372;
   --line: rgba(16, 19, 27, 0.1);
   --card: rgba(255, 255, 255, 0.86);
+  --surface: #ffffff;
+  --border: rgba(16, 19, 27, 0.12);
   --shadow: 0 24px 60px rgba(16, 19, 27, 0.12);
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink: #eef1f6;
+    --paper: #14171f;
+    --accent: #ff7a5c;
+    --accent-2: #6ea2ff;
+    --muted: #9aa3b2;
+    --line: rgba(255, 255, 255, 0.12);
+    --card: rgba(30, 34, 44, 0.86);
+    --surface: #1b1f29;
+    --border: rgba(255, 255, 255, 0.14);
+    --shadow: 0 24px 60px rgba(0, 0, 0, 0.5);
+    color-scheme: dark;
+  }
 }
 
 * {
@@ -21,6 +40,14 @@ body {
     radial-gradient(1000px 600px at 90% 0%, #cfe4ff 0%, transparent 55%),
     linear-gradient(160deg, #fef8ef 0%, #f3efe9 55%, #eef1f6 100%);
   min-height: 100vh;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: radial-gradient(1200px 600px at 10% -10%, #5a2a1a 0%, transparent 60%),
+      radial-gradient(1000px 600px at 90% 0%, #1c3358 0%, transparent 55%),
+      linear-gradient(160deg, #11141b 0%, #14171f 55%, #181c26 100%);
+  }
 }
 
 a {
@@ -51,20 +78,30 @@ select {
   gap: 6px;
   padding: 4px 10px;
   border-radius: 999px;
-  background: rgba(16, 19, 27, 0.08);
+  background: rgba(127, 127, 127, 0.16);
+  color: var(--ink);
   font-size: 12px;
   font-weight: 600;
   letter-spacing: 0.02em;
 }
 
 .badge.accent {
-  background: rgba(232, 93, 63, 0.15);
+  background: rgba(232, 93, 63, 0.18);
   color: #b63d25;
 }
 
 .badge.cool {
-  background: rgba(45, 108, 223, 0.15);
+  background: rgba(45, 108, 223, 0.18);
   color: #21488f;
+}
+
+@media (prefers-color-scheme: dark) {
+  .badge.accent {
+    color: #ffb39e;
+  }
+  .badge.cool {
+    color: #aecbff;
+  }
 }
 
 .divider {

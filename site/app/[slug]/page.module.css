@@ -18,6 +18,56 @@
   color: var(--muted);
 }
 
+.aliasLine {
+  margin: 0 0 8px;
+  color: var(--muted);
+  font-size: 0.95rem;
+  font-style: italic;
+}
+
+.lesson {
+  margin: 12px 0 0;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  color: var(--ink);
+}
+
+.relatedGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.relatedLink {
+  display: block;
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: rgba(45, 108, 223, 0.08);
+  border: 1px solid rgba(45, 108, 223, 0.16);
+  color: var(--accent-2);
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+
+.relatedLink:hover {
+  background: rgba(45, 108, 223, 0.16);
+  transform: translateY(-2px);
+}
+
+.sourceNote {
+  margin: 12px 0 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+.panel :global(ol) {
+  margin: 12px 0 0;
+  padding-left: 18px;
+}
+
 .meta {
   display: flex;
   flex-wrap: wrap;

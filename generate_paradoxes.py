@@ -165,9 +165,12 @@ def build_prompt(base: dict, sources: dict) -> str:
         "Constraints:\n"
         "- hook <= 100 chars, key_lesson <= 80 chars.\n"
         "- narrative.story <= 600 chars; wrong_reasoning <= 400; paradox <= 300.\n"
-        "- mechanism.steps <= 600; math <= 400; truth <= 100.\n"
-        "- solutions.paths max 4 items; tradeoffs max 8 items.\n"
-        "- practice.patterns max 10; prompts max 12; warnings max 5.\n"
+        "- mechanism.assumptions MUST be a JSON array of short strings (max 6).\n"
+        "- mechanism.steps MUST be a JSON array of short strings, one per step (max 8). Do NOT number them.\n"
+        "- mechanism.math <= 400; truth <= 100.\n"
+        "- solutions.paths MUST be a JSON array of strings, max 4 items; tradeoffs max 8 items.\n"
+        "- practice.patterns max 8; prompts max 6; warnings max 5. Make prompts SPECIFIC to this paradox, "
+        "not generic (avoid 'What assumptions are you making?').\n"
         "- difficulty must be one of [intro, intermediate, advanced, technical].\n"
         "- paradox_type must be one of [veridical, falsidical, antinomy].\n"
         "- domains must be a list of domain enums.\n"
@@ -205,17 +208,107 @@ def normalize_metadata(data: dict, base: dict) -> dict:
     return data
 
 
+GENERIC_PROMPTS = {
+    "what assumptions are you making?",
+    "what assumptions are we making?",
+    "what assumptions are being made?",
+    "how does this relate to other paradoxes?",
+    "what are the implications of this paradox?",
+    "what questions remain unanswered?",
+    "what are the potential outcomes?",
+}
+
+
+def coerce_list(value, max_items=None) -> list:
+    """Coerce assorted shapes into a clean list of de-duplicated strings."""
+    items = []
+    if value is None:
+        items = []
+    elif isinstance(value, list):
+        for v in value:
+            if isinstance(v, dict):
+                items.append(str(v.get("name") or v.get("label") or v.get("title") or "").strip())
+            else:
+                items.append(str(v).strip())
+    elif isinstance(value, str):
+        text = value.strip()
+        if text:
+            if re.search(r"\n|;|\d+\.\s", text):
+                parts = re.split(r"\n|;|(?=\d+\.\s)", text)
+                items = [re.sub(r"^\s*\d+\.\s*", "", p).strip() for p in parts]
+            else:
+                items = [text]
+    else:
+        items = [str(value).strip()]
+
+    seen = set()
+    out = []
+    for item in items:
+        if not item:
+            continue
+        key = item.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(item)
+    if max_items is not None:
+        out = out[:max_items]
+    return out
+
+
+def coerce_text(value) -> str:
+    if value is None:
+        return ""
+    if isinstance(value, list):
+        parts = [
+            (v.get("name", "") if isinstance(v, dict) else str(v)).strip()
+            for v in value
+        ]
+        return " ".join(p for p in parts if p)
+    if isinstance(value, dict):
+        return str(value.get("name", "")).strip()
+    return str(value).strip()
+
+
 def normalize_expository(data: dict, base: dict) -> dict:
     data["id"] = base["id"]
-    data.setdefault("narrative", {})
-    data.setdefault("mechanism", {})
-    data.setdefault("solutions", {})
-    data.setdefault("practice", {})
-    data.setdefault("context", {})
-    if not isinstance(data["context"], dict):
-        data["context"] = {}
-    if "sources" not in data["context"] or not isinstance(data["context"]["sources"], dict):
-        data["context"]["sources"] = {}
+    narrative = data.get("narrative") or {}
+    mechanism = data.get("mechanism") or {}
+    solutions = data.get("solutions") or {}
+    practice = data.get("practice") or {}
+    context = data.get("context") or {}
+    if not isinstance(context, dict):
+        context = {}
+
+    data["narrative"] = {
+        "story": coerce_text(narrative.get("story")),
+        "wrong_reasoning": coerce_text(narrative.get("wrong_reasoning")),
+        "paradox": coerce_text(narrative.get("paradox")),
+    }
+    data["mechanism"] = {
+        "assumptions": coerce_list(mechanism.get("assumptions"), max_items=6),
+        "steps": coerce_list(mechanism.get("steps"), max_items=8),
+        "math": coerce_text(mechanism.get("math")),
+        "truth": coerce_text(mechanism.get("truth")),
+    }
+    data["solutions"] = {
+        "paths": coerce_list(solutions.get("paths"), max_items=4),
+        "tradeoffs": coerce_list(solutions.get("tradeoffs"), max_items=8),
+        "status": coerce_text(solutions.get("status")),
+    }
+    prompts = [
+        p for p in coerce_list(practice.get("prompts"))
+        if p.strip().lower() not in GENERIC_PROMPTS
+    ][:6]
+    data["practice"] = {
+        "patterns": coerce_list(practice.get("patterns"), max_items=8),
+        "prompts": prompts,
+        "warnings": coerce_list(practice.get("warnings"), max_items=5),
+    }
+    if "sources" not in context or not isinstance(context.get("sources"), dict):
+        context["sources"] = {}
+    context["history"] = coerce_text(context.get("history"))
+    data["context"] = context
     return data
 
 

@@ -11,6 +11,8 @@ __pycache__/
 
 # Logs
 *.log
+site/dev.log
+generation.log
 
 # Env
 .env
